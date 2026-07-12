@@ -1,0 +1,4934 @@
+{
+ "generated": "2026-07-12T09:15:31.111Z",
+ "sources": {
+  "islands": "onemap.mv (Maldives Land and Survey Authority) — island_20240509 FeatureServer",
+  "housesRoads": "OpenStreetMap via Overpass API (ODbL). © OpenStreetMap contributors",
+  "excluded": "Google Maps (Terms of Service prohibit bulk data extraction)"
+ },
+ "houses": {
+  "records": 979,
+  "uniqueNames": 893,
+  "topNames": [
+   {
+    "name": "Banafusaage",
+    "count": 14
+   },
+   {
+    "name": "Almaas Villa",
+    "count": 11
+   },
+   {
+    "name": "Rainbow",
+    "count": 4
+   },
+   {
+    "name": "Maathila",
+    "count": 3
+   },
+   {
+    "name": "Noovilu",
+    "count": 3
+   },
+   {
+    "name": "Riveli",
+    "count": 3
+   },
+   {
+    "name": "Vaijeheyge",
+    "count": 3
+   },
+   {
+    "name": "Aligaa",
+    "count": 2
+   },
+   {
+    "name": "Alivaage",
+    "count": 2
+   },
+   {
+    "name": "Asareege",
+    "count": 2
+   },
+   {
+    "name": "Asurumaage",
+    "count": 2
+   },
+   {
+    "name": "Athireege",
+    "count": 2
+   },
+   {
+    "name": "Bahaaruge",
+    "count": 2
+   },
+   {
+    "name": "Banafsaage",
+    "count": 2
+   },
+   {
+    "name": "Damas",
+    "count": 2
+   },
+   {
+    "name": "Dhebudhaaruge",
+    "count": 2
+   },
+   {
+    "name": "Dhoadhi",
+    "count": 2
+   },
+   {
+    "name": "Dhoores",
+    "count": 2
+   },
+   {
+    "name": "Fahi",
+    "count": 2
+   },
+   {
+    "name": "Fazaa",
+    "count": 2
+   },
+   {
+    "name": "Fehivilaage",
+    "count": 2
+   },
+   {
+    "name": "Fehivina",
+    "count": 2
+   },
+   {
+    "name": "Fenfiyaazuge",
+    "count": 2
+   },
+   {
+    "name": "Finifenmaage",
+    "count": 2
+   },
+   {
+    "name": "Finivaage",
+    "count": 2
+   },
+   {
+    "name": "Foreign Villa",
+    "count": 2
+   },
+   {
+    "name": "Futtaru",
+    "count": 2
+   },
+   {
+    "name": "Good Luck",
+    "count": 2
+   },
+   {
+    "name": "Green Villa",
+    "count": 2
+   },
+   {
+    "name": "Gulbakaage",
+    "count": 2
+   }
+  ],
+  "shortest": [
+   {
+    "name": "HDC",
+    "length": 3,
+    "count": 1
+   },
+   {
+    "name": "Ila",
+    "length": 3,
+    "count": 1
+   },
+   {
+    "name": "Rio",
+    "length": 3,
+    "count": 1
+   },
+   {
+    "name": "STO",
+    "length": 3,
+    "count": 1
+   },
+   {
+    "name": "Aage",
+    "length": 4,
+    "count": 1
+   },
+   {
+    "name": "Aaru",
+    "length": 4,
+    "count": 1
+   },
+   {
+    "name": "Aiku",
+    "length": 4,
+    "count": 1
+   },
+   {
+    "name": "Aman",
+    "length": 4,
+    "count": 1
+   },
+   {
+    "name": "Aris",
+    "length": 4,
+    "count": 1
+   },
+   {
+    "name": "Asia",
+    "length": 4,
+    "count": 1
+   },
+   {
+    "name": "Azua",
+    "length": 4,
+    "count": 1
+   },
+   {
+    "name": "Azum",
+    "length": 4,
+    "count": 1
+   },
+   {
+    "name": "Fahi",
+    "length": 4,
+    "count": 2
+   },
+   {
+    "name": "Faza",
+    "length": 4,
+    "count": 1
+   },
+   {
+    "name": "Fena",
+    "length": 4,
+    "count": 1
+   }
+  ],
+  "longest": [
+   {
+    "name": "Hithigasdhoshuge Sofiyyaa Hassan",
+    "length": 32,
+    "count": 1
+   },
+   {
+    "name": "Athagasdhoshuge Mohamed Waheed",
+    "length": 30,
+    "count": 1
+   },
+   {
+    "name": "Rainbow Ocean Front Residence",
+    "length": 29,
+    "count": 1
+   },
+   {
+    "name": "Hithigasdhoshuge Ahmed Hameed",
+    "length": 29,
+    "count": 1
+   },
+   {
+    "name": "Dhiraagu Kulhudhuffushi City",
+    "length": 28,
+    "count": 1
+   },
+   {
+    "name": "ކިބިދޫ ކައުންސިލްގެ އިދާރާ",
+    "length": 26,
+    "count": 1
+   },
+   {
+    "name": "Hussain Shaheed (Sadyrest)",
+    "length": 26,
+    "count": 1
+   },
+   {
+    "name": "Atoll Residence Dhangethi",
+    "length": 25,
+    "count": 1
+   },
+   {
+    "name": "Dhaftharu Junaid (Kevin)",
+    "length": 24,
+    "count": 1
+   },
+   {
+    "name": "IBM TaZa Kulhudhuffushi",
+    "length": 23,
+    "count": 1
+   },
+   {
+    "name": "FW Residences Hulhumale",
+    "length": 23,
+    "count": 1
+   },
+   {
+    "name": "Fire Staff Accomodation",
+    "length": 23,
+    "count": 1
+   },
+   {
+    "name": "ހަވާސާގެއް  Havaasaage",
+    "length": 22,
+    "count": 1
+   },
+   {
+    "name": "Second Home Restaurent",
+    "length": 22,
+    "count": 1
+   },
+   {
+    "name": "Vaikaradhoo Hinavaage",
+    "length": 21,
+    "count": 1
+   }
+  ],
+  "avgLength": 9.19,
+  "lengthDist": [
+   {
+    "length": 3,
+    "count": 4
+   },
+   {
+    "length": 4,
+    "count": 42
+   },
+   {
+    "length": 5,
+    "count": 65
+   },
+   {
+    "length": 6,
+    "count": 88
+   },
+   {
+    "length": 7,
+    "count": 151
+   },
+   {
+    "length": 8,
+    "count": 137
+   },
+   {
+    "length": 9,
+    "count": 72
+   },
+   {
+    "length": 10,
+    "count": 84
+   },
+   {
+    "length": 11,
+    "count": 68
+   },
+   {
+    "length": 12,
+    "count": 48
+   },
+   {
+    "length": 13,
+    "count": 35
+   },
+   {
+    "length": 14,
+    "count": 18
+   },
+   {
+    "length": 15,
+    "count": 15
+   },
+   {
+    "length": 16,
+    "count": 25
+   },
+   {
+    "length": 17,
+    "count": 5
+   },
+   {
+    "length": 18,
+    "count": 5
+   },
+   {
+    "length": 19,
+    "count": 6
+   },
+   {
+    "length": 20,
+    "count": 7
+   },
+   {
+    "length": 21,
+    "count": 4
+   },
+   {
+    "length": 22,
+    "count": 2
+   },
+   {
+    "length": 23,
+    "count": 3
+   },
+   {
+    "length": 24,
+    "count": 1
+   },
+   {
+    "length": 25,
+    "count": 1
+   },
+   {
+    "length": 26,
+    "count": 2
+   },
+   {
+    "length": 28,
+    "count": 1
+   },
+   {
+    "length": 29,
+    "count": 2
+   },
+   {
+    "length": 30,
+    "count": 2
+   }
+  ],
+  "topWords": [
+   {
+    "name": "Flat",
+    "count": 153
+   },
+   {
+    "name": "Villa",
+    "count": 27
+   },
+   {
+    "name": "LOT",
+    "count": 15
+   },
+   {
+    "name": "Banafusaage",
+    "count": 14
+   },
+   {
+    "name": "Tower",
+    "count": 12
+   },
+   {
+    "name": "Almaas",
+    "count": 11
+   },
+   {
+    "name": "House",
+    "count": 10
+   },
+   {
+    "name": "villa",
+    "count": 10
+   },
+   {
+    "name": "Sunset",
+    "count": 9
+   },
+   {
+    "name": "1",
+    "count": 8
+   },
+   {
+    "name": "2",
+    "count": 7
+   },
+   {
+    "name": "Blue",
+    "count": 7
+   },
+   {
+    "name": "Manzil",
+    "count": 7
+   },
+   {
+    "name": "Dhoadhi",
+    "count": 6
+   },
+   {
+    "name": "3",
+    "count": 5
+   },
+   {
+    "name": "Aman",
+    "count": 5
+   },
+   {
+    "name": "New",
+    "count": 5
+   },
+   {
+    "name": "Rainbow",
+    "count": 5
+   },
+   {
+    "name": "Staff",
+    "count": 5
+   },
+   {
+    "name": "Vila",
+    "count": 5
+   },
+   {
+    "name": "Dhiraagu",
+    "count": 4
+   },
+   {
+    "name": "Muraka",
+    "count": 4
+   },
+   {
+    "name": "Rehendhi",
+    "count": 4
+   },
+   {
+    "name": "Residence",
+    "count": 4
+   },
+   {
+    "name": "Rose",
+    "count": 4
+   }
+  ],
+  "topLastWords": [
+   {
+    "name": "Villa",
+    "count": 25
+   },
+   {
+    "name": "House",
+    "count": 9
+   },
+   {
+    "name": "1",
+    "count": 8
+   },
+   {
+    "name": "2",
+    "count": 7
+   },
+   {
+    "name": "Manzil",
+    "count": 6
+   },
+   {
+    "name": "3",
+    "count": 5
+   },
+   {
+    "name": "View",
+    "count": 4
+   },
+   {
+    "name": "4",
+    "count": 3
+   },
+   {
+    "name": "6",
+    "count": 3
+   },
+   {
+    "name": "b",
+    "count": 3
+   },
+   {
+    "name": "Post",
+    "count": 3
+   },
+   {
+    "name": "Residence",
+    "count": 3
+   },
+   {
+    "name": "Rose",
+    "count": 3
+   },
+   {
+    "name": "Vila",
+    "count": 3
+   },
+   {
+    "name": "x",
+    "count": 3
+   }
+  ],
+  "singletons": 834,
+  "allNamedBuildings": 3765,
+  "suffixes": [
+   {
+    "suffix": "ge",
+    "count": 241,
+    "pct": 24.6,
+    "examples": [
+     "Theemuge",
+     "Maabageechaage",
+     "Kandeege",
+     "Seeniyaage"
+    ]
+   },
+   {
+    "suffix": "aage",
+    "count": 123,
+    "pct": 12.6,
+    "examples": [
+     "Maabageechaage",
+     "Seeniyaage",
+     "Banafusaage",
+     "Finifenmaage"
+    ]
+   },
+   {
+    "suffix": "maage",
+    "count": 54,
+    "pct": 5.5,
+    "examples": [
+     "Finifenmaage",
+     "Kinbimaage",
+     "Irudheymaage",
+     "Foolhumaage"
+    ]
+   },
+   {
+    "suffix": "villa",
+    "count": 36,
+    "pct": 3.7,
+    "examples": [
+     "Beachvilla",
+     "Naseemeevilla",
+     "Narugisvilla",
+     "Foreign Villa"
+    ]
+   },
+   {
+    "suffix": "house",
+    "count": 10,
+    "pct": 1,
+    "examples": [
+     "Hdh.Atoll State House",
+     "Ivory House",
+     "Morning House",
+     "Goldern House"
+    ]
+   },
+   {
+    "suffix": "manzil",
+    "count": 8,
+    "pct": 0.8,
+    "examples": [
+     "New Manzil",
+     "Zeena Manzil",
+     "Manzil",
+     "Amaanath Manzil"
+    ]
+   },
+   {
+    "suffix": "view",
+    "count": 6,
+    "pct": 0.6,
+    "examples": [
+     "Palm View",
+     "Boegas View",
+     "Sunny Breeze View",
+     "Meadow view"
+    ]
+   },
+   {
+    "suffix": "hiya",
+    "count": 3,
+    "pct": 0.3,
+    "examples": [
+     "Dheyhiya",
+     "Rasheedhee Hiya",
+     "Aahiya"
+    ]
+   },
+   {
+    "suffix": "light",
+    "count": 2,
+    "pct": 0.2,
+    "examples": [
+     "Dim Light",
+     "Day light"
+    ]
+   },
+   {
+    "suffix": "side",
+    "count": 1,
+    "pct": 0.1,
+    "examples": [
+     "Sun Side"
+    ]
+   }
+  ],
+  "perIsland": [
+   {
+    "island": "Vaikaradhoo",
+    "atoll": "Haa Dhaalu",
+    "count": 329,
+    "unique": 328
+   },
+   {
+    "island": "Hulhumalé",
+    "atoll": "MLE",
+    "count": 208,
+    "unique": 204
+   },
+   {
+    "island": "Maafaru",
+    "atoll": "Noonu",
+    "count": 200,
+    "unique": 198
+   },
+   {
+    "island": "Kaashidhoo",
+    "atoll": "Kaafu",
+    "count": 59,
+    "unique": 59
+   },
+   {
+    "island": "Mathiveri",
+    "atoll": "Alifu Alifu",
+    "count": 31,
+    "unique": 8
+   },
+   {
+    "island": "Fuvahmulah",
+    "atoll": "Gnaviyani",
+    "count": 21,
+    "unique": 21
+   },
+   {
+    "island": "Malé",
+    "atoll": "MLE",
+    "count": 19,
+    "unique": 19
+   },
+   {
+    "island": "Kudahuvadhoo",
+    "atoll": "Dhaalu",
+    "count": 17,
+    "unique": 17
+   },
+   {
+    "island": "Feydhoo",
+    "atoll": "Seenu",
+    "count": 10,
+    "unique": 10
+   },
+   {
+    "island": "Fushifaru",
+    "atoll": "Lhaviyani",
+    "count": 9,
+    "unique": 9
+   },
+   {
+    "island": "Fainu",
+    "atoll": "Raa",
+    "count": 9,
+    "unique": 9
+   },
+   {
+    "island": "Kulhudhuffushi",
+    "atoll": "Haa Dhaalu",
+    "count": 6,
+    "unique": 6
+   },
+   {
+    "island": "Thoddoo",
+    "atoll": "Alifu Alifu",
+    "count": 6,
+    "unique": 6
+   },
+   {
+    "island": "Maaun'goodhoo",
+    "atoll": "Shaviyani",
+    "count": 4,
+    "unique": 4
+   },
+   {
+    "island": "Velidhoo",
+    "atoll": "Noonu",
+    "count": 4,
+    "unique": 4
+   },
+   {
+    "island": "Hulhule",
+    "atoll": "Kaafu",
+    "count": 3,
+    "unique": 3
+   },
+   {
+    "island": "Nellaidhoo",
+    "atoll": "Haa Dhaalu",
+    "count": 3,
+    "unique": 3
+   },
+   {
+    "island": "Maafushi",
+    "atoll": "Kaafu",
+    "count": 2,
+    "unique": 2
+   },
+   {
+    "island": "Fonadhoo",
+    "atoll": "Laamu",
+    "count": 2,
+    "unique": 2
+   },
+   {
+    "island": "Hithadhoo",
+    "atoll": "Seenu",
+    "count": 2,
+    "unique": 2
+   },
+   {
+    "island": "Maamendhoo",
+    "atoll": "Gaafu Alifu",
+    "count": 2,
+    "unique": 2
+   },
+   {
+    "island": "Ukulhas",
+    "atoll": "Alifu Alifu",
+    "count": 2,
+    "unique": 2
+   },
+   {
+    "island": "Hangnaameedhoo",
+    "atoll": "Alifu Dhaalu",
+    "count": 2,
+    "unique": 2
+   },
+   {
+    "island": "Milandhoo",
+    "atoll": "Shaviyani",
+    "count": 1,
+    "unique": 1
+   },
+   {
+    "island": "Kadhdhoo",
+    "atoll": "Laamu",
+    "count": 1,
+    "unique": 1
+   }
+  ],
+  "islandsCovered": 52,
+  "spread": {
+   "oneIsland": 830,
+   "multiIsland": 57,
+   "mostWidespread": [
+    {
+     "name": "riveli",
+     "islands": 3
+    },
+    {
+     "name": "maakoani",
+     "islands": 3
+    },
+    {
+     "name": "noovilu",
+     "islands": 3
+    },
+    {
+     "name": "vaijeheyge",
+     "islands": 3
+    },
+    {
+     "name": "maathila",
+     "islands": 3
+    },
+    {
+     "name": "athireege",
+     "islands": 2
+    },
+    {
+     "name": "mars",
+     "islands": 2
+    },
+    {
+     "name": "finifenmaage",
+     "islands": 2
+    },
+    {
+     "name": "rainbow",
+     "islands": 2
+    },
+    {
+     "name": "mohoreege",
+     "islands": 2
+    },
+    {
+     "name": "tower",
+     "islands": 2
+    },
+    {
+     "name": "aligaa",
+     "islands": 2
+    },
+    {
+     "name": "nooraaneege",
+     "islands": 2
+    },
+    {
+     "name": "naares",
+     "islands": 2
+    },
+    {
+     "name": "fahi",
+     "islands": 2
+    },
+    {
+     "name": "meezaan",
+     "islands": 2
+    },
+    {
+     "name": "finivaage",
+     "islands": 2
+    },
+    {
+     "name": "bahaaruge",
+     "islands": 2
+    },
+    {
+     "name": "handhaan",
+     "islands": 2
+    },
+    {
+     "name": "paris",
+     "islands": 2
+    }
+   ]
+  }
+ },
+ "roads": {
+  "records": 1521,
+  "uniqueNames": 1309,
+  "topNames": [
+   {
+    "name": "Orchid Magu",
+    "count": 10
+   },
+   {
+    "name": "Ameenee Magu",
+    "count": 9
+   },
+   {
+    "name": "Nikagas Magu",
+    "count": 9
+   },
+   {
+    "name": "Roashanee Magu",
+    "count": 8
+   },
+   {
+    "name": "Shamsudheen Bodu Fandiyaaru Thakurufaanu Magu",
+    "count": 7
+   },
+   {
+    "name": "Sosun Magu",
+    "count": 7
+   },
+   {
+    "name": "Violet Magu",
+    "count": 7
+   },
+   {
+    "name": "Haveeree Hingun",
+    "count": 6
+   },
+   {
+    "name": "Marine Drive",
+    "count": 6
+   },
+   {
+    "name": "Mirihi Magu",
+    "count": 6
+   },
+   {
+    "name": "Chaandhanee Magu",
+    "count": 5
+   },
+   {
+    "name": "Karankaa Magu",
+    "count": 5
+   },
+   {
+    "name": "Lily Magu",
+    "count": 5
+   },
+   {
+    "name": "Nirolhu Magu",
+    "count": 5
+   },
+   {
+    "name": "Bodu Magu",
+    "count": 4
+   },
+   {
+    "name": "Daisy Magu",
+    "count": 4
+   },
+   {
+    "name": "Ghaazee Magu",
+    "count": 4
+   },
+   {
+    "name": "Hithigas Magu",
+    "count": 4
+   },
+   {
+    "name": "Nooraanee Magu",
+    "count": 4
+   },
+   {
+    "name": "Vashaa Magu",
+    "count": 4
+   },
+   {
+    "name": "Aabaadhee Hingun",
+    "count": 3
+   },
+   {
+    "name": "Asaree Hingun",
+    "count": 3
+   },
+   {
+    "name": "Asurumaa Goalhi",
+    "count": 3
+   },
+   {
+    "name": "Bandharu Magu",
+    "count": 3
+   },
+   {
+    "name": "Beach Road",
+    "count": 3
+   },
+   {
+    "name": "Boduthakurufaanu Magu",
+    "count": 3
+   },
+   {
+    "name": "Carnation Magu",
+    "count": 3
+   },
+   {
+    "name": "Chanbeylee Magu",
+    "count": 3
+   },
+   {
+    "name": "Dhunburi Magu",
+    "count": 3
+   },
+   {
+    "name": "Elhe Didi Magu",
+    "count": 3
+   }
+  ],
+  "shortest": [
+   {
+    "name": "Side",
+    "length": 4,
+    "count": 1
+   },
+   {
+    "name": "Libey",
+    "length": 5,
+    "count": 1
+   },
+   {
+    "name": "Track",
+    "length": 5,
+    "count": 1
+   },
+   {
+    "name": "Aamagu",
+    "length": 6,
+    "count": 1
+   },
+   {
+    "name": "Immagu",
+    "length": 6,
+    "count": 1
+   },
+   {
+    "name": "Aa Magu",
+    "length": 7,
+    "count": 1
+   },
+   {
+    "name": "Jetty 2",
+    "length": 7,
+    "count": 1
+   },
+   {
+    "name": "Jetty 3",
+    "length": 7,
+    "count": 1
+   },
+   {
+    "name": "Street1",
+    "length": 7,
+    "count": 1
+   },
+   {
+    "name": "Aarimagu",
+    "length": 8,
+    "count": 1
+   },
+   {
+    "name": "Bodumagu",
+    "length": 8,
+    "count": 2
+   },
+   {
+    "name": "Causeway",
+    "length": 8,
+    "count": 2
+   },
+   {
+    "name": "Mas Magu",
+    "length": 8,
+    "count": 1
+   },
+   {
+    "name": "Naa Magu",
+    "length": 8,
+    "count": 1
+   },
+   {
+    "name": "New Road",
+    "length": 8,
+    "count": 1
+   }
+  ],
+  "longest": [
+   {
+    "name": "Shamsudheen Bodu Fandiyaaru Thakurufaanu Magu",
+    "length": 45,
+    "count": 7
+   },
+   {
+    "name": "ޝަހީދު ކުޑަ އާދަމުގެ ކުޑަތުއްތު ހިނގުން",
+    "length": 39,
+    "count": 1
+   },
+   {
+    "name": "Shaheedhu Kudanevi Thutthu Manik Hingun",
+    "length": 39,
+    "count": 1
+   },
+   {
+    "name": "Falhumaafushi Sunrise Water Villa Jetty",
+    "length": 39,
+    "count": 1
+   },
+   {
+    "name": "Falhumaafushi - Dhigurah Linking Bridge",
+    "length": 39,
+    "count": 1
+   },
+   {
+    "name": "Falhumaafushi Sunset Water Villa Jetty",
+    "length": 38,
+    "count": 1
+   },
+   {
+    "name": "Mohamed Jamaluddin Naibu Thuthu Magu",
+    "length": 36,
+    "count": 1
+   },
+   {
+    "name": "Bodu Han'dheygiri Thakurufaanu Magu",
+    "length": 35,
+    "count": 1
+   },
+   {
+    "name": "ޝަހީދު ހުސައިން މުހައްމަދު ހިނގުން",
+    "length": 34,
+    "count": 1
+   },
+   {
+    "name": "Dhigurah Sunrise Water Villa Jetty",
+    "length": 34,
+    "count": 1
+   },
+   {
+    "name": "Dhigurah Sunset Water villa Jetty",
+    "length": 33,
+    "count": 1
+   },
+   {
+    "name": "Boduthakurufaanu Magu (Causeway)",
+    "length": 32,
+    "count": 2
+   },
+   {
+    "name": "Airport Eastern Parking Entrance",
+    "length": 32,
+    "count": 1
+   },
+   {
+    "name": "Service Road to Labour Quarters",
+    "length": 31,
+    "count": 1
+   },
+   {
+    "name": "Shaheed Mohamed Ibrahim Hingun",
+    "length": 30,
+    "count": 1
+   }
+  ],
+  "avgLength": 15.24,
+  "lengthDist": [
+   {
+    "length": 4,
+    "count": 1
+   },
+   {
+    "length": 5,
+    "count": 2
+   },
+   {
+    "length": 6,
+    "count": 2
+   },
+   {
+    "length": 7,
+    "count": 4
+   },
+   {
+    "length": 8,
+    "count": 8
+   },
+   {
+    "length": 9,
+    "count": 19
+   },
+   {
+    "length": 10,
+    "count": 31
+   },
+   {
+    "length": 11,
+    "count": 95
+   },
+   {
+    "length": 12,
+    "count": 144
+   },
+   {
+    "length": 13,
+    "count": 172
+   },
+   {
+    "length": 14,
+    "count": 184
+   },
+   {
+    "length": 15,
+    "count": 193
+   },
+   {
+    "length": 16,
+    "count": 141
+   },
+   {
+    "length": 17,
+    "count": 84
+   },
+   {
+    "length": 18,
+    "count": 54
+   },
+   {
+    "length": 19,
+    "count": 29
+   },
+   {
+    "length": 20,
+    "count": 22
+   },
+   {
+    "length": 21,
+    "count": 10
+   },
+   {
+    "length": 22,
+    "count": 6
+   },
+   {
+    "length": 23,
+    "count": 21
+   },
+   {
+    "length": 24,
+    "count": 23
+   },
+   {
+    "length": 25,
+    "count": 11
+   },
+   {
+    "length": 26,
+    "count": 15
+   },
+   {
+    "length": 27,
+    "count": 9
+   },
+   {
+    "length": 28,
+    "count": 8
+   },
+   {
+    "length": 29,
+    "count": 4
+   },
+   {
+    "length": 30,
+    "count": 17
+   }
+  ],
+  "topWords": [
+   {
+    "name": "Magu",
+    "count": 555
+   },
+   {
+    "name": "Goalhi",
+    "count": 302
+   },
+   {
+    "name": "Hingun",
+    "count": 158
+   },
+   {
+    "name": "magu",
+    "count": 107
+   },
+   {
+    "name": "-",
+    "count": 59
+   },
+   {
+    "name": "Villa",
+    "count": 55
+   },
+   {
+    "name": "Access",
+    "count": 46
+   },
+   {
+    "name": "goalhi",
+    "count": 34
+   },
+   {
+    "name": "Higun",
+    "count": 30
+   },
+   {
+    "name": "hin'gun",
+    "count": 30
+   },
+   {
+    "name": "Hin'gun",
+    "count": 26
+   },
+   {
+    "name": "މަގު",
+    "count": 26
+   },
+   {
+    "name": "ހިނގުން",
+    "count": 19
+   },
+   {
+    "name": "Jetty",
+    "count": 18
+   },
+   {
+    "name": "Nirolhu",
+    "count": 18
+   },
+   {
+    "name": "Mago",
+    "count": 16
+   },
+   {
+    "name": "Chanbeylee",
+    "count": 15
+   },
+   {
+    "name": "Bodu",
+    "count": 14
+   },
+   {
+    "name": "Acess",
+    "count": 13
+   },
+   {
+    "name": "Road",
+    "count": 13
+   },
+   {
+    "name": "Violet",
+    "count": 13
+   },
+   {
+    "name": "1",
+    "count": 12
+   },
+   {
+    "name": "Nikagas",
+    "count": 12
+   },
+   {
+    "name": "2",
+    "count": 11
+   },
+   {
+    "name": "Ameenee",
+    "count": 11
+   }
+  ],
+  "topLastWords": [
+   {
+    "name": "Magu",
+    "count": 501
+   },
+   {
+    "name": "Goalhi",
+    "count": 244
+   },
+   {
+    "name": "Hingun",
+    "count": 154
+   },
+   {
+    "name": "magu",
+    "count": 106
+   },
+   {
+    "name": "goalhi",
+    "count": 34
+   },
+   {
+    "name": "hin'gun",
+    "count": 30
+   },
+   {
+    "name": "Hin'gun",
+    "count": 26
+   },
+   {
+    "name": "މަގު",
+    "count": 26
+   },
+   {
+    "name": "Higun",
+    "count": 24
+   },
+   {
+    "name": "ހިނގުން",
+    "count": 19
+   },
+   {
+    "name": "Jetty",
+    "count": 16
+   },
+   {
+    "name": "Mago",
+    "count": 16
+   },
+   {
+    "name": "1",
+    "count": 12
+   },
+   {
+    "name": "Road",
+    "count": 12
+   },
+   {
+    "name": "2",
+    "count": 11
+   }
+  ],
+  "singletons": 1198,
+  "suffixes": [
+   {
+    "suffix": "magu",
+    "count": 653,
+    "pct": 42.9,
+    "examples": [
+     "Shamsudheen Bodu Fandiyaaru Thakurufaanu Magu",
+     "Izzuddeen Magu",
+     "Bodu Magu",
+     "Valumiskiy magu magu"
+    ]
+   },
+   {
+    "suffix": "goalhi",
+    "count": 306,
+    "pct": 20.1,
+    "examples": [
+     "Goadhi Goalhi",
+     "Valumiskiy goalhi",
+     "Madhoshi Goalhi",
+     "Heena Goalhi"
+    ]
+   },
+   {
+    "suffix": "hingun",
+    "count": 182,
+    "pct": 12,
+    "examples": [
+     "Kanbaa Aisa Rani Hingun",
+     "Haveeree Hingun",
+     "Gulbahaaru Hingun",
+     "Faithumaary Hingun"
+    ]
+   },
+   {
+    "suffix": "higun",
+    "count": 27,
+    "pct": 1.8,
+    "examples": [
+     "Fareedhee Higun",
+     "Thabureyzee Higun",
+     "Reethigas Higun",
+     "Kashimaa Higun"
+    ]
+   },
+   {
+    "suffix": "road",
+    "count": 15,
+    "pct": 1,
+    "examples": [
+     "Airport Main Road",
+     "East-West Road",
+     "Main Road",
+     "Main road"
+    ]
+   },
+   {
+    "suffix": "street",
+    "count": 2,
+    "pct": 0.1,
+    "examples": [
+     "Miriyaas Magu street",
+     "Main Street"
+    ]
+   },
+   {
+    "suffix": "path",
+    "count": 2,
+    "pct": 0.1,
+    "examples": [
+     "Vilamendhoo outer path",
+     "Ziyaaraiy Foot path"
+    ]
+   }
+  ],
+  "perIsland": [
+   {
+    "island": "Malé",
+    "atoll": "MLE",
+    "count": 252,
+    "unique": 252
+   },
+   {
+    "island": "Fuvahmulah",
+    "atoll": "Gnaviyani",
+    "count": 123,
+    "unique": 123
+   },
+   {
+    "island": "Hulhumalé",
+    "atoll": "MLE",
+    "count": 103,
+    "unique": 103
+   },
+   {
+    "island": "Kudahuvadhoo",
+    "atoll": "Dhaalu",
+    "count": 92,
+    "unique": 92
+   },
+   {
+    "island": "Hithadhoo",
+    "atoll": "Seenu",
+    "count": 90,
+    "unique": 90
+   },
+   {
+    "island": "Fonadhoo",
+    "atoll": "Laamu",
+    "count": 73,
+    "unique": 73
+   },
+   {
+    "island": "Vaikaradhoo",
+    "atoll": "Haa Dhaalu",
+    "count": 70,
+    "unique": 70
+   },
+   {
+    "island": "Kudafunafaru",
+    "atoll": "Noonu",
+    "count": 64,
+    "unique": 64
+   },
+   {
+    "island": "Mathiveri",
+    "atoll": "Alifu Alifu",
+    "count": 41,
+    "unique": 41
+   },
+   {
+    "island": "Dheeron'di",
+    "atoll": "Seenu",
+    "count": 39,
+    "unique": 39
+   },
+   {
+    "island": "Maradhoo",
+    "atoll": "Seenu",
+    "count": 38,
+    "unique": 38
+   },
+   {
+    "island": "Goidhoo",
+    "atoll": "Baa",
+    "count": 34,
+    "unique": 34
+   },
+   {
+    "island": "Maafaru",
+    "atoll": "Noonu",
+    "count": 34,
+    "unique": 34
+   },
+   {
+    "island": "Nellaidhoo",
+    "atoll": "Haa Dhaalu",
+    "count": 29,
+    "unique": 29
+   },
+   {
+    "island": "Kudamaahera",
+    "atoll": "Seenu",
+    "count": 28,
+    "unique": 28
+   },
+   {
+    "island": "Veymandoo",
+    "atoll": "Thaa",
+    "count": 28,
+    "unique": 28
+   },
+   {
+    "island": "Eydhafushi",
+    "atoll": "Baa",
+    "count": 27,
+    "unique": 27
+   },
+   {
+    "island": "Velidhoo",
+    "atoll": "Noonu",
+    "count": 27,
+    "unique": 27
+   },
+   {
+    "island": "Fainu",
+    "atoll": "Raa",
+    "count": 26,
+    "unique": 26
+   },
+   {
+    "island": "Thinadhoo",
+    "atoll": "Gaafu Dhaalu",
+    "count": 24,
+    "unique": 24
+   },
+   {
+    "island": "Thoddoo",
+    "atoll": "Alifu Alifu",
+    "count": 22,
+    "unique": 22
+   },
+   {
+    "island": "Ukulhas",
+    "atoll": "Alifu Alifu",
+    "count": 20,
+    "unique": 20
+   },
+   {
+    "island": "Kulhudhuffushi",
+    "atoll": "Haa Dhaalu",
+    "count": 19,
+    "unique": 19
+   },
+   {
+    "island": "Bedhey Aurah",
+    "atoll": "Seenu",
+    "count": 17,
+    "unique": 17
+   },
+   {
+    "island": "Funadhoo",
+    "atoll": "Kaafu",
+    "count": 16,
+    "unique": 16
+   }
+  ],
+  "islandsCovered": 94,
+  "spread": {
+   "oneIsland": 1146,
+   "multiIsland": 124,
+   "mostWidespread": [
+    {
+     "name": "orchid magu",
+     "islands": 12
+    },
+    {
+     "name": "nikagas magu",
+     "islands": 10
+    },
+    {
+     "name": "ameenee magu",
+     "islands": 10
+    },
+    {
+     "name": "violet magu",
+     "islands": 8
+    },
+    {
+     "name": "roashanee magu",
+     "islands": 8
+    },
+    {
+     "name": "shamsudheen bodu fandiyaaru thakurufaanu magu",
+     "islands": 7
+    },
+    {
+     "name": "mirihi magu",
+     "islands": 7
+    },
+    {
+     "name": "sosun magu",
+     "islands": 7
+    },
+    {
+     "name": "haveeree hingun",
+     "islands": 6
+    },
+    {
+     "name": "karankaa magu",
+     "islands": 6
+    },
+    {
+     "name": "marine drive",
+     "islands": 6
+    },
+    {
+     "name": "chaandhanee magu",
+     "islands": 6
+    },
+    {
+     "name": "rahdhebai magu",
+     "islands": 5
+    },
+    {
+     "name": "lily magu",
+     "islands": 5
+    },
+    {
+     "name": "nirolhu magu",
+     "islands": 5
+    },
+    {
+     "name": "kaneeru magu",
+     "islands": 5
+    },
+    {
+     "name": "hithigas magu",
+     "islands": 5
+    },
+    {
+     "name": "bodu magu",
+     "islands": 4
+    },
+    {
+     "name": "daisy magu",
+     "islands": 4
+    },
+    {
+     "name": "carnation magu",
+     "islands": 4
+    }
+   ]
+  },
+  "byHighwayType": [
+   {
+    "name": "residential",
+    "count": 1279
+   },
+   {
+    "name": "footway",
+    "count": 49
+   },
+   {
+    "name": "path",
+    "count": 48
+   },
+   {
+    "name": "tertiary",
+    "count": 45
+   },
+   {
+    "name": "unclassified",
+    "count": 28
+   },
+   {
+    "name": "secondary",
+    "count": 23
+   },
+   {
+    "name": "service",
+    "count": 23
+   },
+   {
+    "name": "pedestrian",
+    "count": 10
+   },
+   {
+    "name": "living_street",
+    "count": 8
+   },
+   {
+    "name": "primary",
+    "count": 4
+   },
+   {
+    "name": "cycleway",
+    "count": 1
+   },
+   {
+    "name": "rest_area",
+    "count": 1
+   }
+  ]
+ },
+ "islands": {
+  "registryTotal": 1561,
+  "unnamed": 429,
+  "total": 1132,
+  "inhabited": 189,
+  "categories": [
+   {
+    "name": "Uninhabited Island",
+    "count": 538
+   },
+   {
+    "name": "Tourism Island",
+    "count": 334
+   },
+   {
+    "name": "Residential Island",
+    "count": 189
+   },
+   {
+    "name": "Industrial Island",
+    "count": 61
+   },
+   {
+    "name": "Institutional Island",
+    "count": 5
+   },
+   {
+    "name": "Unspecified",
+    "count": 5
+   }
+  ],
+  "all": {
+   "records": 1132,
+   "uniqueNames": 998,
+   "topNames": [
+    {
+     "name": "Bodufinolhu",
+     "count": 7
+    },
+    {
+     "name": "Boduhuraa",
+     "count": 5
+    },
+    {
+     "name": "Kudadhoo",
+     "count": 5
+    },
+    {
+     "name": "Bodehuttaa",
+     "count": 4
+    },
+    {
+     "name": "Dhiffushi",
+     "count": 4
+    },
+    {
+     "name": "Dhigurah",
+     "count": 4
+    },
+    {
+     "name": "Fenfushi",
+     "count": 4
+    },
+    {
+     "name": "Funadhoo",
+     "count": 4
+    },
+    {
+     "name": "Lhohi",
+     "count": 4
+    },
+    {
+     "name": "Maafushi",
+     "count": 4
+    },
+    {
+     "name": "Medhafushi",
+     "count": 4
+    },
+    {
+     "name": "Vilin'gili",
+     "count": 4
+    },
+    {
+     "name": "Aarah",
+     "count": 3
+    },
+    {
+     "name": "Bodufushi",
+     "count": 3
+    },
+    {
+     "name": "Dhoonirehaa",
+     "count": 3
+    },
+    {
+     "name": "En'boodhoo",
+     "count": 3
+    },
+    {
+     "name": "Fushi",
+     "count": 3
+    },
+    {
+     "name": "Gan",
+     "count": 3
+    },
+    {
+     "name": "Guraidhoo",
+     "count": 3
+    },
+    {
+     "name": "Innafushi",
+     "count": 3
+    },
+    {
+     "name": "Kudafushi",
+     "count": 3
+    },
+    {
+     "name": "Kurehdhoo",
+     "count": 3
+    },
+    {
+     "name": "Maarehaa",
+     "count": 3
+    },
+    {
+     "name": "Madivaru",
+     "count": 3
+    },
+    {
+     "name": "Maduvvari",
+     "count": 3
+    },
+    {
+     "name": "Olhuveli",
+     "count": 3
+    },
+    {
+     "name": "Vaadhoo",
+     "count": 3
+    },
+    {
+     "name": "Veligan'du",
+     "count": 3
+    },
+    {
+     "name": "Veyvah",
+     "count": 3
+    },
+    {
+     "name": "Aakirahuttaa",
+     "count": 2
+    }
+   ],
+   "shortest": [
+    {
+     "name": "Gan",
+     "length": 3,
+     "count": 3
+    },
+    {
+     "name": "Elaa",
+     "length": 4,
+     "count": 1
+    },
+    {
+     "name": "Kagi",
+     "length": 4,
+     "count": 1
+    },
+    {
+     "name": "Kani",
+     "length": 4,
+     "count": 1
+    },
+    {
+     "name": "Malé",
+     "length": 4,
+     "count": 1
+    },
+    {
+     "name": "Matu",
+     "length": 4,
+     "count": 1
+    },
+    {
+     "name": "Muli",
+     "length": 4,
+     "count": 1
+    },
+    {
+     "name": "Neyo",
+     "length": 4,
+     "count": 2
+    },
+    {
+     "name": "Aarah",
+     "length": 5,
+     "count": 3
+    },
+    {
+     "name": "Baros",
+     "length": 5,
+     "count": 1
+    },
+    {
+     "name": "Fainu",
+     "length": 5,
+     "count": 1
+    },
+    {
+     "name": "Fares",
+     "length": 5,
+     "count": 2
+    },
+    {
+     "name": "Finey",
+     "length": 5,
+     "count": 1
+    },
+    {
+     "name": "Fushi",
+     "length": 5,
+     "count": 3
+    },
+    {
+     "name": "Goshi",
+     "length": 5,
+     "count": 1
+    }
+   ],
+   "longest": [
+    {
+     "name": "Thulusdhoo Irumathee Huraagan'du",
+     "length": 32,
+     "count": 1
+    },
+    {
+     "name": "Kandhoomeehunge Lhaan'bugali",
+     "length": 28,
+     "count": 1
+    },
+    {
+     "name": "Boamandhipparu Huraagan'du",
+     "length": 26,
+     "count": 1
+    },
+    {
+     "name": "Medhufinolhugaathufinolhu",
+     "length": 25,
+     "count": 1
+    },
+    {
+     "name": "Dheburidheythereyvaadhoo",
+     "length": 24,
+     "count": 1
+    },
+    {
+     "name": "Vilin'gilimathidhahuraa",
+     "length": 23,
+     "count": 1
+    },
+    {
+     "name": "Kanufusheegaathufinolhu",
+     "length": 23,
+     "count": 1
+    },
+    {
+     "name": "Seedheehuraaveligan'du",
+     "length": 22,
+     "count": 1
+    },
+    {
+     "name": "Kon'deymatheelaabadhoo",
+     "length": 22,
+     "count": 1
+    },
+    {
+     "name": "Vilin'gilivarufinolhu",
+     "length": 21,
+     "count": 1
+    },
+    {
+     "name": "Vandhuhmaafarufinolhu",
+     "length": 21,
+     "count": 1
+    },
+    {
+     "name": "Maarandhoofarufinolhu",
+     "length": 21,
+     "count": 1
+    },
+    {
+     "name": "Dhekunumaafarufinolhu",
+     "length": 21,
+     "count": 1
+    },
+    {
+     "name": "Meehinethiyenehuttaa",
+     "length": 20,
+     "count": 1
+    },
+    {
+     "name": "Magoodhoobodufinolhu",
+     "length": 20,
+     "count": 1
+    }
+   ],
+   "avgLength": 10.87,
+   "lengthDist": [
+    {
+     "length": 3,
+     "count": 1
+    },
+    {
+     "length": 4,
+     "count": 7
+    },
+    {
+     "length": 5,
+     "count": 17
+    },
+    {
+     "length": 6,
+     "count": 26
+    },
+    {
+     "length": 7,
+     "count": 68
+    },
+    {
+     "length": 8,
+     "count": 113
+    },
+    {
+     "length": 9,
+     "count": 151
+    },
+    {
+     "length": 10,
+     "count": 138
+    },
+    {
+     "length": 11,
+     "count": 132
+    },
+    {
+     "length": 12,
+     "count": 85
+    },
+    {
+     "length": 13,
+     "count": 72
+    },
+    {
+     "length": 14,
+     "count": 57
+    },
+    {
+     "length": 15,
+     "count": 45
+    },
+    {
+     "length": 16,
+     "count": 26
+    },
+    {
+     "length": 17,
+     "count": 20
+    },
+    {
+     "length": 18,
+     "count": 11
+    },
+    {
+     "length": 19,
+     "count": 11
+    },
+    {
+     "length": 20,
+     "count": 5
+    },
+    {
+     "length": 21,
+     "count": 4
+    },
+    {
+     "length": 22,
+     "count": 2
+    },
+    {
+     "length": 23,
+     "count": 2
+    },
+    {
+     "length": 24,
+     "count": 1
+    },
+    {
+     "length": 25,
+     "count": 1
+    },
+    {
+     "length": 26,
+     "count": 1
+    },
+    {
+     "length": 28,
+     "count": 1
+    },
+    {
+     "length": 30,
+     "count": 1
+    }
+   ],
+   "topWords": [
+    {
+     "name": "Bodufinolhu",
+     "count": 7
+    },
+    {
+     "name": "Boduhuraa",
+     "count": 5
+    },
+    {
+     "name": "Kudadhoo",
+     "count": 5
+    },
+    {
+     "name": "Bodehuttaa",
+     "count": 4
+    },
+    {
+     "name": "Dhiffushi",
+     "count": 4
+    },
+    {
+     "name": "Dhigurah",
+     "count": 4
+    },
+    {
+     "name": "Fenfushi",
+     "count": 4
+    },
+    {
+     "name": "Funadhoo",
+     "count": 4
+    },
+    {
+     "name": "Lhohi",
+     "count": 4
+    },
+    {
+     "name": "Maafushi",
+     "count": 4
+    },
+    {
+     "name": "Medhafushi",
+     "count": 4
+    },
+    {
+     "name": "Vilin'gili",
+     "count": 4
+    },
+    {
+     "name": "Aarah",
+     "count": 3
+    },
+    {
+     "name": "Bodufushi",
+     "count": 3
+    },
+    {
+     "name": "Dhoonirehaa",
+     "count": 3
+    },
+    {
+     "name": "En'boodhoo",
+     "count": 3
+    },
+    {
+     "name": "Fushi",
+     "count": 3
+    },
+    {
+     "name": "Gan",
+     "count": 3
+    },
+    {
+     "name": "Guraidhoo",
+     "count": 3
+    },
+    {
+     "name": "Hulhudhoo",
+     "count": 3
+    },
+    {
+     "name": "Innafushi",
+     "count": 3
+    },
+    {
+     "name": "Kudafushi",
+     "count": 3
+    },
+    {
+     "name": "Kurehdhoo",
+     "count": 3
+    },
+    {
+     "name": "Maarehaa",
+     "count": 3
+    },
+    {
+     "name": "Madivaru",
+     "count": 3
+    }
+   ],
+   "topLastWords": [
+    {
+     "name": "Huraagan'du",
+     "count": 2
+    },
+    {
+     "name": "Adihuraa",
+     "count": 1
+    },
+    {
+     "name": "Alhaahuraa",
+     "count": 1
+    },
+    {
+     "name": "Anbaraa",
+     "count": 1
+    },
+    {
+     "name": "Aurah",
+     "count": 1
+    },
+    {
+     "name": "Evvihuraa",
+     "count": 1
+    },
+    {
+     "name": "Hulhudhoo",
+     "count": 1
+    },
+    {
+     "name": "Lhaan'bugali",
+     "count": 1
+    },
+    {
+     "name": "Meedhoo",
+     "count": 1
+    },
+    {
+     "name": "Uthuruhuraa",
+     "count": 1
+    }
+   ],
+   "singletons": 910
+  },
+  "inhabitedStats": {
+   "records": 189,
+   "uniqueNames": 174,
+   "topNames": [
+    {
+     "name": "Dhidhdhoo",
+     "count": 2
+    },
+    {
+     "name": "Feydhoo",
+     "count": 2
+    },
+    {
+     "name": "Goidhoo",
+     "count": 2
+    },
+    {
+     "name": "Guraidhoo",
+     "count": 2
+    },
+    {
+     "name": "Hithadhoo",
+     "count": 2
+    },
+    {
+     "name": "Maalhos",
+     "count": 2
+    },
+    {
+     "name": "Maamendhoo",
+     "count": 2
+    },
+    {
+     "name": "Maduvvari",
+     "count": 2
+    },
+    {
+     "name": "Magoodhoo",
+     "count": 2
+    },
+    {
+     "name": "Meedhoo",
+     "count": 2
+    },
+    {
+     "name": "Nilandhoo",
+     "count": 2
+    },
+    {
+     "name": "Omadhoo",
+     "count": 2
+    },
+    {
+     "name": "Thinadhoo",
+     "count": 2
+    },
+    {
+     "name": "Vaadhoo",
+     "count": 2
+    },
+    {
+     "name": "Vilin'gili",
+     "count": 2
+    },
+    {
+     "name": "Addu Hulhudhoo",
+     "count": 1
+    },
+    {
+     "name": "Addu Meedhoo",
+     "count": 1
+    },
+    {
+     "name": "Alifushi",
+     "count": 1
+    },
+    {
+     "name": "An'golhitheemu",
+     "count": 1
+    },
+    {
+     "name": "Baarah",
+     "count": 1
+    },
+    {
+     "name": "Ban'didhoo",
+     "count": 1
+    },
+    {
+     "name": "Bileiydhoo",
+     "count": 1
+    },
+    {
+     "name": "Bileiyfahi",
+     "count": 1
+    },
+    {
+     "name": "Bodufolhudhoo",
+     "count": 1
+    },
+    {
+     "name": "Buruni",
+     "count": 1
+    },
+    {
+     "name": "Dhaandhoo",
+     "count": 1
+    },
+    {
+     "name": "Dhan'bidhoo",
+     "count": 1
+    },
+    {
+     "name": "Dhan'gethi",
+     "count": 1
+    },
+    {
+     "name": "Dharan'boodhoo",
+     "count": 1
+    },
+    {
+     "name": "Dharavandhoo",
+     "count": 1
+    }
+   ],
+   "shortest": [
+    {
+     "name": "Gan",
+     "length": 3,
+     "count": 1
+    },
+    {
+     "name": "Malé",
+     "length": 4,
+     "count": 1
+    },
+    {
+     "name": "Muli",
+     "length": 4,
+     "count": 1
+    },
+    {
+     "name": "Fainu",
+     "length": 5,
+     "count": 1
+    },
+    {
+     "name": "Finey",
+     "length": 5,
+     "count": 1
+    },
+    {
+     "name": "Gulhi",
+     "length": 5,
+     "count": 1
+    },
+    {
+     "name": "Huraa",
+     "length": 5,
+     "count": 1
+    },
+    {
+     "name": "Kelaa",
+     "length": 5,
+     "count": 1
+    },
+    {
+     "name": "Lhohi",
+     "length": 5,
+     "count": 1
+    },
+    {
+     "name": "Mulah",
+     "length": 5,
+     "count": 1
+    },
+    {
+     "name": "Baarah",
+     "length": 6,
+     "count": 1
+    },
+    {
+     "name": "Buruni",
+     "length": 6,
+     "count": 1
+    },
+    {
+     "name": "Feeali",
+     "length": 6,
+     "count": 1
+    },
+    {
+     "name": "Feevah",
+     "length": 6,
+     "count": 1
+    },
+    {
+     "name": "Isdhoo",
+     "length": 6,
+     "count": 1
+    }
+   ],
+   "longest": [
+    {
+     "name": "Ken'dhikulhudhoo",
+     "length": 16,
+     "count": 1
+    },
+    {
+     "name": "Maradhoofeydhoo",
+     "length": 15,
+     "count": 1
+    },
+    {
+     "name": "Kan'duhulhudhoo",
+     "length": 15,
+     "count": 1
+    },
+    {
+     "name": "Nolhivaranfaru",
+     "length": 14,
+     "count": 1
+    },
+    {
+     "name": "Kulhudhuffushi",
+     "length": 14,
+     "count": 1
+    },
+    {
+     "name": "Hulhudhuffaaru",
+     "length": 14,
+     "count": 1
+    },
+    {
+     "name": "Hangnaameedhoo",
+     "length": 14,
+     "count": 1
+    },
+    {
+     "name": "Faresmaathodaa",
+     "length": 14,
+     "count": 1
+    },
+    {
+     "name": "Dharan'boodhoo",
+     "length": 14,
+     "count": 1
+    },
+    {
+     "name": "An'golhitheemu",
+     "length": 14,
+     "count": 1
+    },
+    {
+     "name": "Addu Hulhudhoo",
+     "length": 14,
+     "count": 1
+    },
+    {
+     "name": "Olhuvelifushi",
+     "length": 13,
+     "count": 1
+    },
+    {
+     "name": "Maaun'goodhoo",
+     "length": 13,
+     "count": 1
+    },
+    {
+     "name": "Maaen'boodhoo",
+     "length": 13,
+     "count": 1
+    },
+    {
+     "name": "Bodufolhudhoo",
+     "length": 13,
+     "count": 1
+    }
+   ],
+   "avgLength": 9.22,
+   "lengthDist": [
+    {
+     "length": 3,
+     "count": 1
+    },
+    {
+     "length": 4,
+     "count": 2
+    },
+    {
+     "length": 5,
+     "count": 7
+    },
+    {
+     "length": 6,
+     "count": 9
+    },
+    {
+     "length": 7,
+     "count": 20
+    },
+    {
+     "length": 8,
+     "count": 28
+    },
+    {
+     "length": 9,
+     "count": 30
+    },
+    {
+     "length": 10,
+     "count": 34
+    },
+    {
+     "length": 11,
+     "count": 15
+    },
+    {
+     "length": 12,
+     "count": 13
+    },
+    {
+     "length": 13,
+     "count": 4
+    },
+    {
+     "length": 14,
+     "count": 8
+    },
+    {
+     "length": 15,
+     "count": 2
+    },
+    {
+     "length": 16,
+     "count": 1
+    }
+   ],
+   "topWords": [
+    {
+     "name": "Meedhoo",
+     "count": 3
+    },
+    {
+     "name": "Addu",
+     "count": 2
+    },
+    {
+     "name": "Dhidhdhoo",
+     "count": 2
+    },
+    {
+     "name": "Feydhoo",
+     "count": 2
+    },
+    {
+     "name": "Goidhoo",
+     "count": 2
+    },
+    {
+     "name": "Guraidhoo",
+     "count": 2
+    },
+    {
+     "name": "Hithadhoo",
+     "count": 2
+    },
+    {
+     "name": "Maalhos",
+     "count": 2
+    },
+    {
+     "name": "Maamendhoo",
+     "count": 2
+    },
+    {
+     "name": "Maduvvari",
+     "count": 2
+    },
+    {
+     "name": "Magoodhoo",
+     "count": 2
+    },
+    {
+     "name": "Nilandhoo",
+     "count": 2
+    },
+    {
+     "name": "Omadhoo",
+     "count": 2
+    },
+    {
+     "name": "Thinadhoo",
+     "count": 2
+    },
+    {
+     "name": "Vaadhoo",
+     "count": 2
+    },
+    {
+     "name": "Vilin'gili",
+     "count": 2
+    },
+    {
+     "name": "Alifushi",
+     "count": 1
+    },
+    {
+     "name": "An'golhitheemu",
+     "count": 1
+    },
+    {
+     "name": "Baarah",
+     "count": 1
+    },
+    {
+     "name": "Ban'didhoo",
+     "count": 1
+    },
+    {
+     "name": "Bileiydhoo",
+     "count": 1
+    },
+    {
+     "name": "Bileiyfahi",
+     "count": 1
+    },
+    {
+     "name": "Bodufolhudhoo",
+     "count": 1
+    },
+    {
+     "name": "Buruni",
+     "count": 1
+    },
+    {
+     "name": "Dhaandhoo",
+     "count": 1
+    }
+   ],
+   "topLastWords": [
+    {
+     "name": "Hulhudhoo",
+     "count": 1
+    },
+    {
+     "name": "Meedhoo",
+     "count": 1
+    }
+   ],
+   "singletons": 159
+  },
+  "suffixes": [
+   {
+    "suffix": "dhoo",
+    "count": 295,
+    "pct": 26.1,
+    "examples": [
+     "Kan'dholhudhoo",
+     "Ellaidhoo",
+     "Rasdhoo",
+     "Feridhoo"
+    ]
+   },
+   {
+    "suffix": "fushi",
+    "count": 144,
+    "pct": 12.7,
+    "examples": [
+     "Maayafushi",
+     "Fushi",
+     "Gaathafushi",
+     "Dhiffushi"
+    ]
+   },
+   {
+    "suffix": "huraa",
+    "count": 71,
+    "pct": 6.3,
+    "examples": [
+     "Bodukaashihuraa",
+     "Kalhahan'dhihuraa",
+     "Gaagan'dufaruhuraa",
+     "Bathalaahuraa"
+    ]
+   },
+   {
+    "suffix": "finolhu",
+    "count": 63,
+    "pct": 5.6,
+    "examples": [
+     "Madivarufinolhu",
+     "Velifinolhu",
+     "Fusfinolhu",
+     "Dhinnolhufinolhu"
+    ]
+   },
+   {
+    "suffix": "faru",
+    "count": 38,
+    "pct": 3.4,
+    "examples": [
+     "Vihamaafaru",
+     "Heenfaru",
+     "Finolhufaru",
+     "An'gaafaru"
+    ]
+   },
+   {
+    "suffix": "rah",
+    "count": 19,
+    "pct": 1.7,
+    "examples": [
+     "Alikoirah",
+     "Kudarah",
+     "Dhigurah",
+     "Dhigurah"
+    ]
+   },
+   {
+    "suffix": "giri",
+    "count": 14,
+    "pct": 1.2,
+    "examples": [
+     "Dhiggiri",
+     "Olhugiri",
+     "Ufuligiri",
+     "Kuroshigiri"
+    ]
+   },
+   {
+    "suffix": "madivaru",
+    "count": 4,
+    "pct": 0.4,
+    "examples": [
+     "Etheremadivaru",
+     "Madivaru",
+     "Madivaru",
+     "Madivaru"
+    ]
+   },
+   {
+    "suffix": "maa",
+    "count": 3,
+    "pct": 0.3,
+    "examples": [
+     "Kan'dinmaa",
+     "Melaimaa",
+     "Idhimaa"
+    ]
+   },
+   {
+    "suffix": "gaa",
+    "count": 2,
+    "pct": 0.2,
+    "examples": [
+     "Theluveligaa",
+     "Nibiligaa"
+    ]
+   }
+  ],
+  "inhabitedSuffixes": [
+   {
+    "suffix": "dhoo",
+    "count": 105,
+    "pct": 55.6,
+    "examples": [
+     "Rasdhoo",
+     "Feridhoo",
+     "Bodufolhudhoo",
+     "Himandhoo"
+    ]
+   },
+   {
+    "suffix": "fushi",
+    "count": 17,
+    "pct": 9,
+    "examples": [
+     "Fenfushi",
+     "Eydhafushi",
+     "Kolamaafushi",
+     "Gemanafushi"
+    ]
+   },
+   {
+    "suffix": "faru",
+    "count": 6,
+    "pct": 3.2,
+    "examples": [
+     "Vashafaru",
+     "Nolhivaranfaru",
+     "Naifaru",
+     "Maafaru"
+    ]
+   },
+   {
+    "suffix": "gili",
+    "count": 4,
+    "pct": 2.1,
+    "examples": [
+     "Vilin'gili",
+     "Dhiyamigili",
+     "Vilin'gili",
+     "Maamigili"
+    ]
+   },
+   {
+    "suffix": "rah",
+    "count": 2,
+    "pct": 1.1,
+    "examples": [
+     "Dhigurah",
+     "Baarah"
+    ]
+   },
+   {
+    "suffix": "huraa",
+    "count": 1,
+    "pct": 0.5,
+    "examples": [
+     "Huraa"
+    ]
+   }
+  ],
+  "duplicateNames": [
+   {
+    "name": "Bodufinolhu",
+    "count": 7
+   },
+   {
+    "name": "Boduhuraa",
+    "count": 5
+   },
+   {
+    "name": "Kudadhoo",
+    "count": 5
+   },
+   {
+    "name": "Bodehuttaa",
+    "count": 4
+   },
+   {
+    "name": "Dhiffushi",
+    "count": 4
+   },
+   {
+    "name": "Dhigurah",
+    "count": 4
+   },
+   {
+    "name": "Fenfushi",
+    "count": 4
+   },
+   {
+    "name": "Funadhoo",
+    "count": 4
+   },
+   {
+    "name": "Lhohi",
+    "count": 4
+   },
+   {
+    "name": "Maafushi",
+    "count": 4
+   },
+   {
+    "name": "Medhafushi",
+    "count": 4
+   },
+   {
+    "name": "Vilin'gili",
+    "count": 4
+   },
+   {
+    "name": "Aarah",
+    "count": 3
+   },
+   {
+    "name": "Bodufushi",
+    "count": 3
+   },
+   {
+    "name": "Dhoonirehaa",
+    "count": 3
+   },
+   {
+    "name": "En'boodhoo",
+    "count": 3
+   },
+   {
+    "name": "Fushi",
+    "count": 3
+   },
+   {
+    "name": "Gan",
+    "count": 3
+   },
+   {
+    "name": "Guraidhoo",
+    "count": 3
+   },
+   {
+    "name": "Innafushi",
+    "count": 3
+   },
+   {
+    "name": "Kudafushi",
+    "count": 3
+   },
+   {
+    "name": "Kurehdhoo",
+    "count": 3
+   },
+   {
+    "name": "Maarehaa",
+    "count": 3
+   },
+   {
+    "name": "Madivaru",
+    "count": 3
+   },
+   {
+    "name": "Maduvvari",
+    "count": 3
+   }
+  ],
+  "atolls": [
+   {
+    "atoll": "Gaafu Dhaalu",
+    "total": 155,
+    "inhabited": 9
+   },
+   {
+    "atoll": "Kaafu",
+    "total": 109,
+    "inhabited": 9
+   },
+   {
+    "atoll": "Raa",
+    "total": 92,
+    "inhabited": 15
+   },
+   {
+    "atoll": "Baa",
+    "total": 80,
+    "inhabited": 13
+   },
+   {
+    "atoll": "Gaafu Alifu",
+    "total": 78,
+    "inhabited": 9
+   },
+   {
+    "atoll": "Laamu",
+    "total": 74,
+    "inhabited": 11
+   },
+   {
+    "atoll": "Noonu",
+    "total": 66,
+    "inhabited": 13
+   },
+   {
+    "atoll": "Thaa",
+    "total": 62,
+    "inhabited": 13
+   },
+   {
+    "atoll": "Lhaviyani",
+    "total": 54,
+    "inhabited": 4
+   },
+   {
+    "atoll": "Shaviyani",
+    "total": 51,
+    "inhabited": 14
+   },
+   {
+    "atoll": "Alifu Dhaalu",
+    "total": 47,
+    "inhabited": 10
+   },
+   {
+    "atoll": "Dhaalu",
+    "total": 46,
+    "inhabited": 6
+   },
+   {
+    "atoll": "Haa Alifu",
+    "total": 42,
+    "inhabited": 14
+   },
+   {
+    "atoll": "Meemu",
+    "total": 38,
+    "inhabited": 8
+   },
+   {
+    "atoll": "Alifu Alifu",
+    "total": 34,
+    "inhabited": 8
+   },
+   {
+    "atoll": "Haa Dhaalu",
+    "total": 34,
+    "inhabited": 13
+   },
+   {
+    "atoll": "Seenu",
+    "total": 29,
+    "inhabited": 6
+   },
+   {
+    "atoll": "Faafu",
+    "total": 19,
+    "inhabited": 5
+   },
+   {
+    "atoll": "Vaavu",
+    "total": 18,
+    "inhabited": 5
+   },
+   {
+    "atoll": "MLE",
+    "total": 3,
+    "inhabited": 3
+   },
+   {
+    "atoll": "Gnaviyani",
+    "total": 1,
+    "inhabited": 1
+   }
+  ],
+  "inhabitedList": [
+   {
+    "name": "Bodufolhudhoo",
+    "nameDv": "ބޮޑުފޮޅުދޫ",
+    "atoll": "Alifu Alifu",
+    "capital": false,
+    "areaHa": 12.5,
+    "lat": 4.18563,
+    "lon": 72.77339
+   },
+   {
+    "name": "Feridhoo",
+    "nameDv": "ފެރިދޫ",
+    "atoll": "Alifu Alifu",
+    "capital": false,
+    "areaHa": 45.1,
+    "lat": 4.05106,
+    "lon": 72.72563
+   },
+   {
+    "name": "Himandhoo",
+    "nameDv": "ހިމަންދޫ",
+    "atoll": "Alifu Alifu",
+    "capital": false,
+    "areaHa": 21,
+    "lat": 3.9209,
+    "lon": 72.74405
+   },
+   {
+    "name": "Maalhos",
+    "nameDv": "މާޅޮސް",
+    "atoll": "Alifu Alifu",
+    "capital": false,
+    "areaHa": 32.5,
+    "lat": 3.98634,
+    "lon": 72.71944
+   },
+   {
+    "name": "Mathiveri",
+    "nameDv": "މަތިވެރި",
+    "atoll": "Alifu Alifu",
+    "capital": false,
+    "areaHa": 23.1,
+    "lat": 4.19186,
+    "lon": 72.74626
+   },
+   {
+    "name": "Rasdhoo",
+    "nameDv": "ރަސްދޫ",
+    "atoll": "Alifu Alifu",
+    "capital": true,
+    "areaHa": 21.8,
+    "lat": 4.26306,
+    "lon": 72.99185
+   },
+   {
+    "name": "Thoddoo",
+    "nameDv": "ތޮއްޑޫ",
+    "atoll": "Alifu Alifu",
+    "capital": false,
+    "areaHa": 162.8,
+    "lat": 4.43722,
+    "lon": 72.95963
+   },
+   {
+    "name": "Ukulhas",
+    "nameDv": "އުކުޅަސް",
+    "atoll": "Alifu Alifu",
+    "capital": false,
+    "areaHa": 23.7,
+    "lat": 4.21506,
+    "lon": 72.86425
+   },
+   {
+    "name": "Dhan'gethi",
+    "nameDv": "ދަނގެތި",
+    "atoll": "Alifu Dhaalu",
+    "capital": false,
+    "areaHa": 30.2,
+    "lat": 3.60766,
+    "lon": 72.95585
+   },
+   {
+    "name": "Dhidhdhoo",
+    "nameDv": "ދިއްދޫ",
+    "atoll": "Alifu Dhaalu",
+    "capital": false,
+    "areaHa": 20.3,
+    "lat": 3.48413,
+    "lon": 72.87785
+   },
+   {
+    "name": "Dhigurah",
+    "nameDv": "ދިގުރަށް",
+    "atoll": "Alifu Dhaalu",
+    "capital": false,
+    "areaHa": 55,
+    "lat": 3.5303,
+    "lon": 72.9258
+   },
+   {
+    "name": "Fenfushi",
+    "nameDv": "ފެންފުށި",
+    "atoll": "Alifu Dhaalu",
+    "capital": false,
+    "areaHa": 25.6,
+    "lat": 3.48941,
+    "lon": 72.78373
+   },
+   {
+    "name": "Hangnaameedhoo",
+    "nameDv": "ހަންޏާމީދޫ",
+    "atoll": "Alifu Dhaalu",
+    "capital": false,
+    "areaHa": 20.3,
+    "lat": 3.84924,
+    "lon": 72.95526
+   },
+   {
+    "name": "Kun'burudhoo",
+    "nameDv": "ކުނބުރުދޫ",
+    "atoll": "Alifu Dhaalu",
+    "capital": false,
+    "areaHa": 6.5,
+    "lat": 3.77558,
+    "lon": 72.92522
+   },
+   {
+    "name": "Maamigili",
+    "nameDv": "މާމިގިލި",
+    "atoll": "Alifu Dhaalu",
+    "capital": false,
+    "areaHa": 220.8,
+    "lat": 3.474,
+    "lon": 72.83491
+   },
+   {
+    "name": "Mahibadhoo",
+    "nameDv": "މަހިބަދޫ",
+    "atoll": "Alifu Dhaalu",
+    "capital": true,
+    "areaHa": 23.6,
+    "lat": 3.75722,
+    "lon": 72.96904
+   },
+   {
+    "name": "Mandhoo",
+    "nameDv": "މަންދޫ",
+    "atoll": "Alifu Dhaalu",
+    "capital": false,
+    "areaHa": 38.5,
+    "lat": 3.69779,
+    "lon": 72.70956
+   },
+   {
+    "name": "Omadhoo",
+    "nameDv": "އޮމަދޫ",
+    "atoll": "Alifu Dhaalu",
+    "capital": false,
+    "areaHa": 22.8,
+    "lat": 3.79159,
+    "lon": 72.96249
+   },
+   {
+    "name": "Dharavandhoo",
+    "nameDv": "ދަރަވަންދޫ",
+    "atoll": "Baa",
+    "capital": false,
+    "areaHa": 67.4,
+    "lat": 5.15729,
+    "lon": 73.13103
+   },
+   {
+    "name": "Dhonfan",
+    "nameDv": "ދޮންފަން",
+    "atoll": "Baa",
+    "capital": false,
+    "areaHa": 17.3,
+    "lat": 5.18785,
+    "lon": 73.12285
+   },
+   {
+    "name": "Eydhafushi",
+    "nameDv": "އޭދަފުށި",
+    "atoll": "Baa",
+    "capital": true,
+    "areaHa": 56.3,
+    "lat": 5.1026,
+    "lon": 73.07064
+   },
+   {
+    "name": "Fehendhoo",
+    "nameDv": "ފެހެންދޫ",
+    "atoll": "Baa",
+    "capital": false,
+    "areaHa": 25.2,
+    "lat": 4.88157,
+    "lon": 72.9696
+   },
+   {
+    "name": "Fulhadhoo",
+    "nameDv": "ފުޅަދޫ",
+    "atoll": "Baa",
+    "capital": false,
+    "areaHa": 29.3,
+    "lat": 4.88488,
+    "lon": 72.93298
+   },
+   {
+    "name": "Goidhoo",
+    "nameDv": "ގޮއިދޫ",
+    "atoll": "Baa",
+    "capital": false,
+    "areaHa": 162.9,
+    "lat": 4.87308,
+    "lon": 72.9989
+   },
+   {
+    "name": "Hithaadhoo",
+    "nameDv": "ހިތާދޫ",
+    "atoll": "Baa",
+    "capital": false,
+    "areaHa": 31.7,
+    "lat": 5.0072,
+    "lon": 72.92297
+   },
+   {
+    "name": "Kamadhoo",
+    "nameDv": "ކަމަދޫ",
+    "atoll": "Baa",
+    "capital": false,
+    "areaHa": 21.3,
+    "lat": 5.28193,
+    "lon": 73.13691
+   },
+   {
+    "name": "Kendhoo",
+    "nameDv": "ކެންދޫ",
+    "atoll": "Baa",
+    "capital": false,
+    "areaHa": 19,
+    "lat": 5.27538,
+    "lon": 73.01017
+   },
+   {
+    "name": "Kihaadhoo",
+    "nameDv": "ކިހާދޫ",
+    "atoll": "Baa",
+    "capital": false,
+    "areaHa": 30.8,
+    "lat": 5.21506,
+    "lon": 73.12505
+   },
+   {
+    "name": "Kudarikilu",
+    "nameDv": "ކުޑަރިކިލު",
+    "atoll": "Baa",
+    "capital": false,
+    "areaHa": 18.9,
+    "lat": 5.30039,
+    "lon": 73.07088
+   },
+   {
+    "name": "Maalhos",
+    "nameDv": "މާޅޮސް",
+    "atoll": "Baa",
+    "capital": false,
+    "areaHa": 25.7,
+    "lat": 5.13461,
+    "lon": 73.10789
+   },
+   {
+    "name": "Thulhaadhoo",
+    "nameDv": "ތުޅާދޫ",
+    "atoll": "Baa",
+    "capital": false,
+    "areaHa": 45.8,
+    "lat": 5.02179,
+    "lon": 72.84118
+   },
+   {
+    "name": "Ban'didhoo",
+    "nameDv": "ބަނޑިދޫ",
+    "atoll": "Dhaalu",
+    "capital": false,
+    "areaHa": 25,
+    "lat": 2.9366,
+    "lon": 72.99037
+   },
+   {
+    "name": "Hulhudheli",
+    "nameDv": "ހުޅުދެލި",
+    "atoll": "Dhaalu",
+    "capital": false,
+    "areaHa": 21.5,
+    "lat": 2.85847,
+    "lon": 72.84634
+   },
+   {
+    "name": "Kudahuvadhoo",
+    "nameDv": "ކުޑަހުވަދޫ",
+    "atoll": "Dhaalu",
+    "capital": true,
+    "areaHa": 165.6,
+    "lat": 2.66963,
+    "lon": 72.89025
+   },
+   {
+    "name": "Maaen'boodhoo",
+    "nameDv": "މާއެނބޫދޫ",
+    "atoll": "Dhaalu",
+    "capital": false,
+    "areaHa": 24,
+    "lat": 2.69576,
+    "lon": 72.96354
+   },
+   {
+    "name": "Meedhoo",
+    "nameDv": "މީދޫ",
+    "atoll": "Dhaalu",
+    "capital": false,
+    "areaHa": 32.6,
+    "lat": 2.99811,
+    "lon": 73.00741
+   },
+   {
+    "name": "Rin'budhoo",
+    "nameDv": "ރިނބުދޫ",
+    "atoll": "Dhaalu",
+    "capital": false,
+    "areaHa": 17.3,
+    "lat": 2.92448,
+    "lon": 72.89541
+   },
+   {
+    "name": "Bileiydhoo",
+    "nameDv": "ބިލެތްދޫ",
+    "atoll": "Faafu",
+    "capital": false,
+    "areaHa": 31.6,
+    "lat": 3.11835,
+    "lon": 72.98413
+   },
+   {
+    "name": "Dharan'boodhoo",
+    "nameDv": "ދަރަނބޫދޫ",
+    "atoll": "Faafu",
+    "capital": false,
+    "areaHa": 40.1,
+    "lat": 3.06287,
+    "lon": 72.92599
+   },
+   {
+    "name": "Feeali",
+    "nameDv": "ފީއަލި",
+    "atoll": "Faafu",
+    "capital": false,
+    "areaHa": 17.7,
+    "lat": 3.26998,
+    "lon": 73.00199
+   },
+   {
+    "name": "Magoodhoo",
+    "nameDv": "މަގޫދޫ",
+    "atoll": "Faafu",
+    "capital": false,
+    "areaHa": 24.6,
+    "lat": 3.0789,
+    "lon": 72.96388
+   },
+   {
+    "name": "Nilandhoo",
+    "nameDv": "ނިލަންދޫ",
+    "atoll": "Faafu",
+    "capital": true,
+    "areaHa": 74.8,
+    "lat": 3.05693,
+    "lon": 72.88899
+   },
+   {
+    "name": "Dhaandhoo",
+    "nameDv": "ދާންދޫ",
+    "atoll": "Gaafu Alifu",
+    "capital": false,
+    "areaHa": 31.6,
+    "lat": 0.62092,
+    "lon": 73.46125
+   },
+   {
+    "name": "Dhevvadhoo",
+    "nameDv": "ދެއްވަދޫ",
+    "atoll": "Gaafu Alifu",
+    "capital": false,
+    "areaHa": 23.2,
+    "lat": 0.55707,
+    "lon": 73.24216
+   },
+   {
+    "name": "Gemanafushi",
+    "nameDv": "ގެމަނަފުށި",
+    "atoll": "Gaafu Alifu",
+    "capital": false,
+    "areaHa": 56.8,
+    "lat": 0.44266,
+    "lon": 73.56829
+   },
+   {
+    "name": "Kan'duhulhudhoo",
+    "nameDv": "ކަނޑުހުޅުދޫ",
+    "atoll": "Gaafu Alifu",
+    "capital": false,
+    "areaHa": 32.3,
+    "lat": 0.35115,
+    "lon": 73.53964
+   },
+   {
+    "name": "Kolamaafushi",
+    "nameDv": "ކޮލަމާފުށި",
+    "atoll": "Gaafu Alifu",
+    "capital": false,
+    "areaHa": 35.3,
+    "lat": 0.83779,
+    "lon": 73.18438
+   },
+   {
+    "name": "Kon'dey",
+    "nameDv": "ކޮނޑޭ",
+    "atoll": "Gaafu Alifu",
+    "capital": false,
+    "areaHa": 119.3,
+    "lat": 0.49875,
+    "lon": 73.54879
+   },
+   {
+    "name": "Maamendhoo",
+    "nameDv": "މާމެންދޫ",
+    "atoll": "Gaafu Alifu",
+    "capital": false,
+    "areaHa": 51.9,
+    "lat": 0.71421,
+    "lon": 73.43917
+   },
+   {
+    "name": "Nilandhoo",
+    "nameDv": "ނިލަންދޫ",
+    "atoll": "Gaafu Alifu",
+    "capital": false,
+    "areaHa": 61.3,
+    "lat": 0.63625,
+    "lon": 73.44646
+   },
+   {
+    "name": "Vilin'gili",
+    "nameDv": "ވިލިނގިލި",
+    "atoll": "Gaafu Alifu",
+    "capital": true,
+    "areaHa": 111.2,
+    "lat": 0.75651,
+    "lon": 73.43537
+   },
+   {
+    "name": "Faresmaathodaa",
+    "nameDv": "ފަރެސްމާތޮޑާ",
+    "atoll": "Gaafu Dhaalu",
+    "capital": false,
+    "areaHa": 48.7,
+    "lat": 0.19984,
+    "lon": 73.18709
+   },
+   {
+    "name": "Fiyoaree",
+    "nameDv": "ފިޔޯރީ",
+    "atoll": "Gaafu Dhaalu",
+    "capital": false,
+    "areaHa": 80.8,
+    "lat": 0.22162,
+    "lon": 73.1365
+   },
+   {
+    "name": "Gadhdhoo",
+    "nameDv": "ގައްދޫ",
+    "atoll": "Gaafu Dhaalu",
+    "capital": false,
+    "areaHa": 58.7,
+    "lat": 0.29006,
+    "lon": 73.45762
+   },
+   {
+    "name": "Hoan'dehdhoo",
+    "nameDv": "ހޯނޑެއްދޫ",
+    "atoll": "Gaafu Dhaalu",
+    "capital": false,
+    "areaHa": 110.9,
+    "lat": 0.44476,
+    "lon": 73.00361
+   },
+   {
+    "name": "Madaveli",
+    "nameDv": "މަޑަވެލި",
+    "atoll": "Gaafu Dhaalu",
+    "capital": false,
+    "areaHa": 46.9,
+    "lat": 0.45859,
+    "lon": 72.99865
+   },
+   {
+    "name": "Nadellaa",
+    "nameDv": "ނަޑެއްލާ",
+    "atoll": "Gaafu Dhaalu",
+    "capital": false,
+    "areaHa": 45.6,
+    "lat": 0.29339,
+    "lon": 73.04065
+   },
+   {
+    "name": "Rathafandhoo",
+    "nameDv": "ރަތަފަންދޫ",
+    "atoll": "Gaafu Dhaalu",
+    "capital": false,
+    "areaHa": 41,
+    "lat": 0.25265,
+    "lon": 73.10459
+   },
+   {
+    "name": "Thinadhoo",
+    "nameDv": "ތިނަދޫ",
+    "atoll": "Gaafu Dhaalu",
+    "capital": true,
+    "areaHa": 184.8,
+    "lat": 0.53249,
+    "lon": 72.99739
+   },
+   {
+    "name": "Vaadhoo",
+    "nameDv": "ވާދޫ",
+    "atoll": "Gaafu Dhaalu",
+    "capital": false,
+    "areaHa": 193.7,
+    "lat": 0.22737,
+    "lon": 73.27363
+   },
+   {
+    "name": "Fuvahmulah",
+    "nameDv": "ފުވައްމުލައް",
+    "atoll": "Gnaviyani",
+    "capital": true,
+    "areaHa": 495,
+    "lat": -0.2957,
+    "lon": 73.42474
+   },
+   {
+    "name": "Baarah",
+    "nameDv": "ބާރަށް",
+    "atoll": "Haa Alifu",
+    "capital": false,
+    "areaHa": 250,
+    "lat": 6.8164,
+    "lon": 73.20908
+   },
+   {
+    "name": "Dhidhdhoo",
+    "nameDv": "ދިއްދޫ",
+    "atoll": "Haa Alifu",
+    "capital": true,
+    "areaHa": 96.5,
+    "lat": 6.8888,
+    "lon": 73.11116
+   },
+   {
+    "name": "Filladhoo",
+    "nameDv": "ފިއްލަދޫ",
+    "atoll": "Haa Alifu",
+    "capital": false,
+    "areaHa": 266,
+    "lat": 6.88919,
+    "lon": 73.23015
+   },
+   {
+    "name": "Hoarafushi",
+    "nameDv": "ހޯރަފުށި",
+    "atoll": "Haa Alifu",
+    "capital": false,
+    "areaHa": 69,
+    "lat": 6.98305,
+    "lon": 72.89492
+   },
+   {
+    "name": "Ihavandhoo",
+    "nameDv": "އިހަވަންދޫ",
+    "atoll": "Haa Alifu",
+    "capital": false,
+    "areaHa": 62.6,
+    "lat": 6.95305,
+    "lon": 72.92621
+   },
+   {
+    "name": "Kelaa",
+    "nameDv": "ކެލާ",
+    "atoll": "Haa Alifu",
+    "capital": false,
+    "areaHa": 203.4,
+    "lat": 6.95477,
+    "lon": 73.21615
+   },
+   {
+    "name": "Maarandhoo",
+    "nameDv": "މާރަންދޫ",
+    "atoll": "Haa Alifu",
+    "capital": false,
+    "areaHa": 44.6,
+    "lat": 6.85263,
+    "lon": 72.9842
+   },
+   {
+    "name": "Molhadhoo",
+    "nameDv": "މޮޅަދޫ",
+    "atoll": "Haa Alifu",
+    "capital": false,
+    "areaHa": 119.1,
+    "lat": 7.0123,
+    "lon": 72.99809
+   },
+   {
+    "name": "Muraidhoo",
+    "nameDv": "މުރައިދޫ",
+    "atoll": "Haa Alifu",
+    "capital": false,
+    "areaHa": 47.5,
+    "lat": 6.83796,
+    "lon": 73.16727
+   },
+   {
+    "name": "Thakandhoo",
+    "nameDv": "ތަކަންދޫ",
+    "atoll": "Haa Alifu",
+    "capital": false,
+    "areaHa": 41.3,
+    "lat": 6.84401,
+    "lon": 72.99553
+   },
+   {
+    "name": "Thuraakunu",
+    "nameDv": "ތުރާކުނު",
+    "atoll": "Haa Alifu",
+    "capital": false,
+    "areaHa": 26.2,
+    "lat": 7.10431,
+    "lon": 72.89931
+   },
+   {
+    "name": "Uligan",
+    "nameDv": "އުލިގަން",
+    "atoll": "Haa Alifu",
+    "capital": false,
+    "areaHa": 106.7,
+    "lat": 7.08188,
+    "lon": 72.92747
+   },
+   {
+    "name": "Utheemu",
+    "nameDv": "އުތީމު",
+    "atoll": "Haa Alifu",
+    "capital": false,
+    "areaHa": 50,
+    "lat": 6.83483,
+    "lon": 73.1127
+   },
+   {
+    "name": "Vashafaru",
+    "nameDv": "ވަށަފަރު",
+    "atoll": "Haa Alifu",
+    "capital": false,
+    "areaHa": 35.6,
+    "lat": 6.89746,
+    "lon": 73.16081
+   },
+   {
+    "name": "Finey",
+    "nameDv": "ފިނޭ",
+    "atoll": "Haa Dhaalu",
+    "capital": false,
+    "areaHa": 117.5,
+    "lat": 6.7459,
+    "lon": 73.05328
+   },
+   {
+    "name": "Hanimaadhoo",
+    "nameDv": "ހަނިމާދޫ",
+    "atoll": "Haa Dhaalu",
+    "capital": false,
+    "areaHa": 304.4,
+    "lat": 6.75643,
+    "lon": 73.17324
+   },
+   {
+    "name": "Hirimaradhoo",
+    "nameDv": "ހިރިމަރަދޫ",
+    "atoll": "Haa Dhaalu",
+    "capital": false,
+    "areaHa": 46.6,
+    "lat": 6.72479,
+    "lon": 73.02413
+   },
+   {
+    "name": "Kulhudhuffushi",
+    "nameDv": "ކުޅުދުއްފުށި",
+    "atoll": "Haa Dhaalu",
+    "capital": true,
+    "areaHa": 252.1,
+    "lat": 6.62326,
+    "lon": 73.06912
+   },
+   {
+    "name": "Kumundhoo",
+    "nameDv": "ކުމުންދޫ",
+    "atoll": "Haa Dhaalu",
+    "capital": false,
+    "areaHa": 190.5,
+    "lat": 6.57209,
+    "lon": 73.05233
+   },
+   {
+    "name": "Kurin'bi",
+    "nameDv": "ކުރިނބި",
+    "atoll": "Haa Dhaalu",
+    "capital": false,
+    "areaHa": 41,
+    "lat": 6.66557,
+    "lon": 72.99669
+   },
+   {
+    "name": "Makunudhoo",
+    "nameDv": "މަކުނުދޫ",
+    "atoll": "Haa Dhaalu",
+    "capital": false,
+    "areaHa": 80.7,
+    "lat": 6.40958,
+    "lon": 72.70509
+   },
+   {
+    "name": "Naivaadhoo",
+    "nameDv": "ނައިވާދޫ",
+    "atoll": "Haa Dhaalu",
+    "capital": false,
+    "areaHa": 30.9,
+    "lat": 6.74686,
+    "lon": 72.93499
+   },
+   {
+    "name": "Nellaidhoo",
+    "nameDv": "ނެއްލައިދޫ",
+    "atoll": "Haa Dhaalu",
+    "capital": false,
+    "areaHa": 32.4,
+    "lat": 6.71491,
+    "lon": 72.9469
+   },
+   {
+    "name": "Neykurendhoo",
+    "nameDv": "ނޭކުރެންދޫ",
+    "atoll": "Haa Dhaalu",
+    "capital": false,
+    "areaHa": 171.7,
+    "lat": 6.54297,
+    "lon": 72.97972
+   },
+   {
+    "name": "Nolhivaran",
+    "nameDv": "ނޮޅިވަރަން",
+    "atoll": "Haa Dhaalu",
+    "capital": false,
+    "areaHa": 206.3,
+    "lat": 6.66233,
+    "lon": 73.08226
+   },
+   {
+    "name": "Nolhivaranfaru",
+    "nameDv": "ނޮޅިވަރަންފަރު",
+    "atoll": "Haa Dhaalu",
+    "capital": false,
+    "areaHa": 173.7,
+    "lat": 6.69732,
+    "lon": 73.12005
+   },
+   {
+    "name": "Vaikaradhoo",
+    "nameDv": "ވައިކަރަދޫ",
+    "atoll": "Haa Dhaalu",
+    "capital": false,
+    "areaHa": 107.5,
+    "lat": 6.5497,
+    "lon": 72.95322
+   },
+   {
+    "name": "Dhiffushi",
+    "nameDv": "ދިއްފުށި",
+    "atoll": "Kaafu",
+    "capital": false,
+    "areaHa": 27.1,
+    "lat": 4.44172,
+    "lon": 73.71419
+   },
+   {
+    "name": "Gaafaru",
+    "nameDv": "ގާފަރު",
+    "atoll": "Kaafu",
+    "capital": false,
+    "areaHa": 19.5,
+    "lat": 4.73606,
+    "lon": 73.49974
+   },
+   {
+    "name": "Gulhi",
+    "nameDv": "ގުޅި",
+    "atoll": "Kaafu",
+    "capital": false,
+    "areaHa": 11.3,
+    "lat": 3.99068,
+    "lon": 73.50904
+   },
+   {
+    "name": "Guraidhoo",
+    "nameDv": "ގުރައިދޫ",
+    "atoll": "Kaafu",
+    "capital": false,
+    "areaHa": 22.5,
+    "lat": 3.9008,
+    "lon": 73.46806
+   },
+   {
+    "name": "Hinmafushi",
+    "nameDv": "ހިންމަފުށި",
+    "atoll": "Kaafu",
+    "capital": false,
+    "areaHa": 66.2,
+    "lat": 4.30802,
+    "lon": 73.57112
+   },
+   {
+    "name": "Huraa",
+    "nameDv": "ހުރާ",
+    "atoll": "Kaafu",
+    "capital": false,
+    "areaHa": 52.6,
+    "lat": 4.33341,
+    "lon": 73.60175
+   },
+   {
+    "name": "Kaashidhoo",
+    "nameDv": "ކާށިދޫ",
+    "atoll": "Kaafu",
+    "capital": false,
+    "areaHa": 282.7,
+    "lat": 4.95572,
+    "lon": 73.46119
+   },
+   {
+    "name": "Maafushi",
+    "nameDv": "މާފުށި",
+    "atoll": "Kaafu",
+    "capital": false,
+    "areaHa": 41.6,
+    "lat": 3.94099,
+    "lon": 73.48967
+   },
+   {
+    "name": "Thulusdhoo",
+    "nameDv": "ތުލުސްދޫ",
+    "atoll": "Kaafu",
+    "capital": true,
+    "areaHa": 77.1,
+    "lat": 4.37297,
+    "lon": 73.64804
+   },
+   {
+    "name": "Dhan'bidhoo",
+    "nameDv": "ދަނބިދޫ",
+    "atoll": "Laamu",
+    "capital": false,
+    "areaHa": 53.9,
+    "lat": 2.09465,
+    "lon": 73.54504
+   },
+   {
+    "name": "Fonadhoo",
+    "nameDv": "ފޮނަދޫ",
+    "atoll": "Laamu",
+    "capital": true,
+    "areaHa": 171.6,
+    "lat": 1.83306,
+    "lon": 73.50051
+   },
+   {
+    "name": "Gan",
+    "nameDv": "ގަން",
+    "atoll": "Laamu",
+    "capital": false,
+    "areaHa": 608.7,
+    "lat": 1.91839,
+    "lon": 73.54217
+   },
+   {
+    "name": "Hithadhoo",
+    "nameDv": "ހިތަދޫ",
+    "atoll": "Laamu",
+    "capital": false,
+    "areaHa": 105.3,
+    "lat": 1.79707,
+    "lon": 73.38849
+   },
+   {
+    "name": "Isdhoo",
+    "nameDv": "އިސްދޫ",
+    "atoll": "Laamu",
+    "capital": false,
+    "areaHa": 147.1,
+    "lat": 2.1238,
+    "lon": 73.57786
+   },
+   {
+    "name": "Kalaidhoo",
+    "nameDv": "ކަލައިދޫ",
+    "atoll": "Laamu",
+    "capital": false,
+    "areaHa": 213.4,
+    "lat": 2.11493,
+    "lon": 73.56015
+   },
+   {
+    "name": "Kunahandhoo",
+    "nameDv": "ކުނަހަންދޫ",
+    "atoll": "Laamu",
+    "capital": false,
+    "areaHa": 92.3,
+    "lat": 1.78292,
+    "lon": 73.36817
+   },
+   {
+    "name": "Maabaidhoo",
+    "nameDv": "މާބައިދޫ",
+    "atoll": "Laamu",
+    "capital": false,
+    "areaHa": 52.8,
+    "lat": 2.02905,
+    "lon": 73.53252
+   },
+   {
+    "name": "Maamendhoo",
+    "nameDv": "މާމެންދޫ",
+    "atoll": "Laamu",
+    "capital": false,
+    "areaHa": 22.4,
+    "lat": 1.81745,
+    "lon": 73.38948
+   },
+   {
+    "name": "Maavah",
+    "nameDv": "މާވަށް",
+    "atoll": "Laamu",
+    "capital": false,
+    "areaHa": 39.9,
+    "lat": 1.88565,
+    "lon": 73.24349
+   },
+   {
+    "name": "Mundoo",
+    "nameDv": "މުންޑޫ",
+    "atoll": "Laamu",
+    "capital": false,
+    "areaHa": 24.2,
+    "lat": 2.0125,
+    "lon": 73.53417
+   },
+   {
+    "name": "Hinnavaru",
+    "nameDv": "ހިންނަވަރު",
+    "atoll": "Lhaviyani",
+    "capital": false,
+    "areaHa": 54.1,
+    "lat": 5.49258,
+    "lon": 73.41135
+   },
+   {
+    "name": "Kurendhoo",
+    "nameDv": "ކުރެންދޫ",
+    "atoll": "Lhaviyani",
+    "capital": false,
+    "areaHa": 22.8,
+    "lat": 5.33385,
+    "lon": 73.46368
+   },
+   {
+    "name": "Naifaru",
+    "nameDv": "ނައިފަރު",
+    "atoll": "Lhaviyani",
+    "capital": true,
+    "areaHa": 58.3,
+    "lat": 5.44446,
+    "lon": 73.36522
+   },
+   {
+    "name": "Olhuvelifushi",
+    "nameDv": "އޮޅުވެލިފުށި",
+    "atoll": "Lhaviyani",
+    "capital": false,
+    "areaHa": 28.8,
+    "lat": 5.27851,
+    "lon": 73.60676
+   },
+   {
+    "name": "Dhiggaru",
+    "nameDv": "ދިއްގަރު",
+    "atoll": "Meemu",
+    "capital": false,
+    "areaHa": 14.5,
+    "lat": 3.112,
+    "lon": 73.56531
+   },
+   {
+    "name": "Kolhufushi",
+    "nameDv": "ކޮޅުފުށި",
+    "atoll": "Meemu",
+    "capital": false,
+    "areaHa": 64.6,
+    "lat": 2.77688,
+    "lon": 73.42455
+   },
+   {
+    "name": "Maduvvari",
+    "nameDv": "މަޑުއްވަރި",
+    "atoll": "Meemu",
+    "capital": false,
+    "areaHa": 12.1,
+    "lat": 3.10504,
+    "lon": 73.57311
+   },
+   {
+    "name": "Mulah",
+    "nameDv": "މުލައް",
+    "atoll": "Meemu",
+    "capital": false,
+    "areaHa": 68.3,
+    "lat": 2.94665,
+    "lon": 73.58462
+   },
+   {
+    "name": "Muli",
+    "nameDv": "މުލި",
+    "atoll": "Meemu",
+    "capital": true,
+    "areaHa": 77.3,
+    "lat": 2.91796,
+    "lon": 73.58121
+   },
+   {
+    "name": "Naalaafushi",
+    "nameDv": "ނާލާފުށި",
+    "atoll": "Meemu",
+    "capital": false,
+    "areaHa": 12.9,
+    "lat": 2.89512,
+    "lon": 73.57739
+   },
+   {
+    "name": "Raiymandhoo",
+    "nameDv": "ރަތްމަންދޫ",
+    "atoll": "Meemu",
+    "capital": false,
+    "areaHa": 28.4,
+    "lat": 3.08976,
+    "lon": 73.63908
+   },
+   {
+    "name": "Veyvah",
+    "nameDv": "ވޭވަށް",
+    "atoll": "Meemu",
+    "capital": false,
+    "areaHa": 42.1,
+    "lat": 2.95622,
+    "lon": 73.59998
+   },
+   {
+    "name": "Hulhumalé",
+    "nameDv": "ހުޅުމާލެ",
+    "atoll": "MLE",
+    "capital": false,
+    "areaHa": 418.7,
+    "lat": 4.22311,
+    "lon": 73.54292
+   },
+   {
+    "name": "Malé",
+    "nameDv": "މާލެ",
+    "atoll": "MLE",
+    "capital": true,
+    "areaHa": 208,
+    "lat": 4.17422,
+    "lon": 73.50949
+   },
+   {
+    "name": "Vilin'gili",
+    "nameDv": "ވިލިނގިލި",
+    "atoll": "MLE",
+    "capital": false,
+    "areaHa": 32.9,
+    "lat": 4.17325,
+    "lon": 73.48523
+   },
+   {
+    "name": "Fodhdhoo",
+    "nameDv": "ފޮއްދޫ",
+    "atoll": "Noonu",
+    "capital": false,
+    "areaHa": 26.2,
+    "lat": 5.74376,
+    "lon": 73.216
+   },
+   {
+    "name": "Hen'badhoo",
+    "nameDv": "ހެނބަދޫ",
+    "atoll": "Noonu",
+    "capital": false,
+    "areaHa": 13.8,
+    "lat": 5.96755,
+    "lon": 73.39298
+   },
+   {
+    "name": "Holhudhoo",
+    "nameDv": "ހޮޅުދޫ",
+    "atoll": "Noonu",
+    "capital": false,
+    "areaHa": 50.5,
+    "lat": 5.75274,
+    "lon": 73.2552
+   },
+   {
+    "name": "Ken'dhikulhudhoo",
+    "nameDv": "ކެނދިކުޅުދޫ",
+    "atoll": "Noonu",
+    "capital": false,
+    "areaHa": 209.1,
+    "lat": 5.95264,
+    "lon": 73.41586
+   },
+   {
+    "name": "Kudafari",
+    "nameDv": "ކުޑަފަރި",
+    "atoll": "Noonu",
+    "capital": false,
+    "areaHa": 29.2,
+    "lat": 5.88289,
+    "lon": 73.40021
+   },
+   {
+    "name": "Landhoo",
+    "nameDv": "ލަންދޫ",
+    "atoll": "Noonu",
+    "capital": false,
+    "areaHa": 87.2,
+    "lat": 5.88176,
+    "lon": 73.46618
+   },
+   {
+    "name": "Lhohi",
+    "nameDv": "ޅޮހި",
+    "atoll": "Noonu",
+    "capital": false,
+    "areaHa": 40.6,
+    "lat": 5.81618,
+    "lon": 73.37767
+   },
+   {
+    "name": "Maafaru",
+    "nameDv": "މާފަރު",
+    "atoll": "Noonu",
+    "capital": false,
+    "areaHa": 133.9,
+    "lat": 5.82521,
+    "lon": 73.47433
+   },
+   {
+    "name": "Maalhendhoo",
+    "nameDv": "މާޅެންދޫ",
+    "atoll": "Noonu",
+    "capital": false,
+    "areaHa": 47,
+    "lat": 5.9022,
+    "lon": 73.45612
+   },
+   {
+    "name": "Magoodhoo",
+    "nameDv": "މަގޫދޫ",
+    "atoll": "Noonu",
+    "capital": false,
+    "areaHa": 37,
+    "lat": 5.77647,
+    "lon": 73.36248
+   },
+   {
+    "name": "Manadhoo",
+    "nameDv": "މަނަދޫ",
+    "atoll": "Noonu",
+    "capital": true,
+    "areaHa": 110.9,
+    "lat": 5.76572,
+    "lon": 73.41078
+   },
+   {
+    "name": "Miladhoo",
+    "nameDv": "މިލަދޫ",
+    "atoll": "Noonu",
+    "capital": false,
+    "areaHa": 22.4,
+    "lat": 5.79047,
+    "lon": 73.36259
+   },
+   {
+    "name": "Velidhoo",
+    "nameDv": "ވެލިދޫ",
+    "atoll": "Noonu",
+    "capital": false,
+    "areaHa": 62.2,
+    "lat": 5.66464,
+    "lon": 73.27338
+   },
+   {
+    "name": "Alifushi",
+    "nameDv": "އަލިފުށި",
+    "atoll": "Raa",
+    "capital": false,
+    "areaHa": 60.6,
+    "lat": 5.96732,
+    "lon": 72.95338
+   },
+   {
+    "name": "An'golhitheemu",
+    "nameDv": "އަނގޮޅިތީމު",
+    "atoll": "Raa",
+    "capital": false,
+    "areaHa": 39.8,
+    "lat": 5.79273,
+    "lon": 73.00664
+   },
+   {
+    "name": "Dhuvaafaru",
+    "nameDv": "ދުވާފަރު",
+    "atoll": "Raa",
+    "capital": false,
+    "areaHa": 54.7,
+    "lat": 5.62872,
+    "lon": 73.04159
+   },
+   {
+    "name": "Fainu",
+    "nameDv": "ފައިނު",
+    "atoll": "Raa",
+    "capital": false,
+    "areaHa": 61.8,
+    "lat": 5.46345,
+    "lon": 73.03458
+   },
+   {
+    "name": "Hulhudhuffaaru",
+    "nameDv": "ހުޅުދުއްފާރު",
+    "atoll": "Raa",
+    "capital": false,
+    "areaHa": 60.8,
+    "lat": 5.765,
+    "lon": 73.01236
+   },
+   {
+    "name": "In'guraidhoo",
+    "nameDv": "އިނގުރައިދޫ",
+    "atoll": "Raa",
+    "capital": false,
+    "areaHa": 47.1,
+    "lat": 5.47706,
+    "lon": 73.0368
+   },
+   {
+    "name": "Innamaadhoo",
+    "nameDv": "އިންނަމާދޫ",
+    "atoll": "Raa",
+    "capital": false,
+    "areaHa": 37.2,
+    "lat": 5.54945,
+    "lon": 73.04454
+   },
+   {
+    "name": "Kinolhas",
+    "nameDv": "ކިނޮޅަސް",
+    "atoll": "Raa",
+    "capital": false,
+    "areaHa": 56.2,
+    "lat": 5.44848,
+    "lon": 73.02931
+   },
+   {
+    "name": "Maakurathu",
+    "nameDv": "މާކުރަތު",
+    "atoll": "Raa",
+    "capital": false,
+    "areaHa": 53.1,
+    "lat": 5.60625,
+    "lon": 73.04403
+   },
+   {
+    "name": "Maduvvari",
+    "nameDv": "މަޑުއްވަރި",
+    "atoll": "Raa",
+    "capital": false,
+    "areaHa": 22.7,
+    "lat": 5.48619,
+    "lon": 72.89591
+   },
+   {
+    "name": "Meedhoo",
+    "nameDv": "މީދޫ",
+    "atoll": "Raa",
+    "capital": false,
+    "areaHa": 36.2,
+    "lat": 5.45818,
+    "lon": 72.95503
+   },
+   {
+    "name": "Rasgetheemu",
+    "nameDv": "ރަސްގެތީމު",
+    "atoll": "Raa",
+    "capital": false,
+    "areaHa": 39.2,
+    "lat": 5.80768,
+    "lon": 73.00296
+   },
+   {
+    "name": "Rasmaadhoo",
+    "nameDv": "ރަސްމާދޫ",
+    "atoll": "Raa",
+    "capital": false,
+    "areaHa": 26.7,
+    "lat": 5.56309,
+    "lon": 73.04387
+   },
+   {
+    "name": "Un'goofaaru",
+    "nameDv": "އުނގޫފާރު",
+    "atoll": "Raa",
+    "capital": true,
+    "areaHa": 36.1,
+    "lat": 5.66822,
+    "lon": 73.0301
+   },
+   {
+    "name": "Vaadhoo",
+    "nameDv": "ވާދޫ",
+    "atoll": "Raa",
+    "capital": false,
+    "areaHa": 38.2,
+    "lat": 5.85671,
+    "lon": 72.99145
+   },
+   {
+    "name": "Addu Hulhudhoo",
+    "nameDv": "އައްޑޫ ހުޅުދޫ",
+    "atoll": "Seenu",
+    "capital": false,
+    "areaHa": 147,
+    "lat": -0.59564,
+    "lon": 73.22725
+   },
+   {
+    "name": "Addu Meedhoo",
+    "nameDv": "އައްޑޫ މީދޫ",
+    "atoll": "Seenu",
+    "capital": false,
+    "areaHa": 189.6,
+    "lat": -0.5844,
+    "lon": 73.23082
+   },
+   {
+    "name": "Feydhoo",
+    "nameDv": "ފޭދޫ",
+    "atoll": "Seenu",
+    "capital": false,
+    "areaHa": 122.3,
+    "lat": -0.68314,
+    "lon": 73.13442
+   },
+   {
+    "name": "Hithadhoo",
+    "nameDv": "ހިތަދޫ",
+    "atoll": "Seenu",
+    "capital": true,
+    "areaHa": 551.3,
+    "lat": -0.60851,
+    "lon": 73.09001
+   },
+   {
+    "name": "Maradhoo",
+    "nameDv": "މަރަދޫ",
+    "atoll": "Seenu",
+    "capital": false,
+    "areaHa": 60.1,
+    "lat": -0.66555,
+    "lon": 73.11884
+   },
+   {
+    "name": "Maradhoofeydhoo",
+    "nameDv": "މަރަދޫފޭދޫ",
+    "atoll": "Seenu",
+    "capital": false,
+    "areaHa": 34.3,
+    "lat": -0.67366,
+    "lon": 73.12586
+   },
+   {
+    "name": "Bileiyfahi",
+    "nameDv": "ބިލެތްފަހި",
+    "atoll": "Shaviyani",
+    "capital": false,
+    "areaHa": 66.5,
+    "lat": 6.33779,
+    "lon": 72.97486
+   },
+   {
+    "name": "Feevah",
+    "nameDv": "ފީވައް",
+    "atoll": "Shaviyani",
+    "capital": false,
+    "areaHa": 87.6,
+    "lat": 6.34893,
+    "lon": 73.20924
+   },
+   {
+    "name": "Feydhoo",
+    "nameDv": "ފޭދޫ",
+    "atoll": "Shaviyani",
+    "capital": false,
+    "areaHa": 90.3,
+    "lat": 6.36065,
+    "lon": 73.0488
+   },
+   {
+    "name": "Foakaidhoo",
+    "nameDv": "ފޯކައިދޫ",
+    "atoll": "Shaviyani",
+    "capital": false,
+    "areaHa": 67.8,
+    "lat": 6.32665,
+    "lon": 73.14933
+   },
+   {
+    "name": "Funadhoo",
+    "nameDv": "ފުނަދޫ",
+    "atoll": "Shaviyani",
+    "capital": true,
+    "areaHa": 122.5,
+    "lat": 6.15245,
+    "lon": 73.28967
+   },
+   {
+    "name": "Goidhoo",
+    "nameDv": "ގޮއިދޫ",
+    "atoll": "Shaviyani",
+    "capital": false,
+    "areaHa": 100.6,
+    "lat": 6.43008,
+    "lon": 72.92995
+   },
+   {
+    "name": "Kan'ditheemu",
+    "nameDv": "ކަނޑިތީމު",
+    "atoll": "Shaviyani",
+    "capital": false,
+    "areaHa": 89.3,
+    "lat": 6.44035,
+    "lon": 72.91646
+   },
+   {
+    "name": "Komandoo",
+    "nameDv": "ކޮމަންޑޫ",
+    "atoll": "Shaviyani",
+    "capital": false,
+    "areaHa": 22.2,
+    "lat": 6.05415,
+    "lon": 73.0543
+   },
+   {
+    "name": "Lhaimagu",
+    "nameDv": "ޅައިމަގު",
+    "atoll": "Shaviyani",
+    "capital": false,
+    "areaHa": 44.2,
+    "lat": 6.16407,
+    "lon": 73.2514
+   },
+   {
+    "name": "Maaun'goodhoo",
+    "nameDv": "މާއުނގޫދޫ",
+    "atoll": "Shaviyani",
+    "capital": false,
+    "areaHa": 29.4,
+    "lat": 6.03674,
+    "lon": 73.28384
+   },
+   {
+    "name": "Maroshi",
+    "nameDv": "މަރޮށި",
+    "atoll": "Shaviyani",
+    "capital": false,
+    "areaHa": 30.9,
+    "lat": 6.20958,
+    "lon": 73.06126
+   },
+   {
+    "name": "Milandhoo",
+    "nameDv": "މިލަންދޫ",
+    "atoll": "Shaviyani",
+    "capital": false,
+    "areaHa": 133.5,
+    "lat": 6.28605,
+    "lon": 73.24454
+   },
+   {
+    "name": "Narudhoo",
+    "nameDv": "ނަރުދޫ",
+    "atoll": "Shaviyani",
+    "capital": false,
+    "areaHa": 42.7,
+    "lat": 6.26433,
+    "lon": 73.21812
+   },
+   {
+    "name": "Noomaraa",
+    "nameDv": "ނޫމަރާ",
+    "atoll": "Shaviyani",
+    "capital": false,
+    "areaHa": 39.2,
+    "lat": 6.43422,
+    "lon": 73.0691
+   },
+   {
+    "name": "Buruni",
+    "nameDv": "ބުރުނި",
+    "atoll": "Thaa",
+    "capital": false,
+    "areaHa": 34.1,
+    "lat": 2.55897,
+    "lon": 73.10703
+   },
+   {
+    "name": "Dhiyamigili",
+    "nameDv": "ދިޔަމިގިލި",
+    "atoll": "Thaa",
+    "capital": false,
+    "areaHa": 29.3,
+    "lat": 2.33968,
+    "lon": 73.33684
+   },
+   {
+    "name": "Gaadhiffushi",
+    "nameDv": "ގާދިއްފުށި",
+    "atoll": "Thaa",
+    "capital": false,
+    "areaHa": 14.1,
+    "lat": 2.25253,
+    "lon": 73.21276
+   },
+   {
+    "name": "Guraidhoo",
+    "nameDv": "ގުރައިދޫ",
+    "atoll": "Thaa",
+    "capital": false,
+    "areaHa": 76.5,
+    "lat": 2.32284,
+    "lon": 73.31756
+   },
+   {
+    "name": "Hirilandhoo",
+    "nameDv": "ހިރިލަންދޫ",
+    "atoll": "Thaa",
+    "capital": false,
+    "areaHa": 30.1,
+    "lat": 2.2711,
+    "lon": 72.9317
+   },
+   {
+    "name": "Kan'doodhoo",
+    "nameDv": "ކަނޑޫދޫ",
+    "atoll": "Thaa",
+    "capital": false,
+    "areaHa": 81.8,
+    "lat": 2.32094,
+    "lon": 72.91665
+   },
+   {
+    "name": "Kin'bidhoo",
+    "nameDv": "ކިނބިދޫ",
+    "atoll": "Thaa",
+    "capital": false,
+    "areaHa": 38.2,
+    "lat": 2.16844,
+    "lon": 73.06613
+   },
+   {
+    "name": "Madifushi",
+    "nameDv": "މަޑިފުށި",
+    "atoll": "Thaa",
+    "capital": false,
+    "areaHa": 53.6,
+    "lat": 2.35634,
+    "lon": 73.355
+   },
+   {
+    "name": "Omadhoo",
+    "nameDv": "އޮމަދޫ",
+    "atoll": "Thaa",
+    "capital": false,
+    "areaHa": 37,
+    "lat": 2.1677,
+    "lon": 73.02356
+   },
+   {
+    "name": "Thimarafushi",
+    "nameDv": "ތިމަރަފުށި",
+    "atoll": "Thaa",
+    "capital": false,
+    "areaHa": 100,
+    "lat": 2.20891,
+    "lon": 73.14825
+   },
+   {
+    "name": "Vandhoo",
+    "nameDv": "ވަންދޫ",
+    "atoll": "Thaa",
+    "capital": false,
+    "areaHa": 25.9,
+    "lat": 2.29168,
+    "lon": 72.94193
+   },
+   {
+    "name": "Veymandoo",
+    "nameDv": "ވޭމަންޑޫ",
+    "atoll": "Thaa",
+    "capital": true,
+    "areaHa": 44.6,
+    "lat": 2.18692,
+    "lon": 73.0951
+   },
+   {
+    "name": "Vilufushi",
+    "nameDv": "ވިލުފުށި",
+    "atoll": "Thaa",
+    "capital": false,
+    "areaHa": 60.2,
+    "lat": 2.50326,
+    "lon": 73.30855
+   },
+   {
+    "name": "Felidhoo",
+    "nameDv": "ފެލިދޫ",
+    "atoll": "Vaavu",
+    "capital": true,
+    "areaHa": 15.8,
+    "lat": 3.47193,
+    "lon": 73.54725
+   },
+   {
+    "name": "Fulidhoo",
+    "nameDv": "ފުލިދޫ",
+    "atoll": "Vaavu",
+    "capital": false,
+    "areaHa": 11.9,
+    "lat": 3.68053,
+    "lon": 73.41568
+   },
+   {
+    "name": "Keyodhoo",
+    "nameDv": "ކެޔޮދޫ",
+    "atoll": "Vaavu",
+    "capital": false,
+    "areaHa": 11.8,
+    "lat": 3.46211,
+    "lon": 73.54999
+   },
+   {
+    "name": "Rakeedhoo",
+    "nameDv": "ރަކީދޫ",
+    "atoll": "Vaavu",
+    "capital": false,
+    "areaHa": 6.4,
+    "lat": 3.31489,
+    "lon": 73.46984
+   },
+   {
+    "name": "Thinadhoo",
+    "nameDv": "ތިނަދޫ",
+    "atoll": "Vaavu",
+    "capital": false,
+    "areaHa": 12.5,
+    "lat": 3.48766,
+    "lon": 73.53842
+   }
+  ],
+  "osmCrossCheck": {
+   "osmIslandFeatures": 685,
+   "note": "OSM island/islet features with a name inside the Maldives boundary, for comparison with the official onemap.mv registry."
+  }
+ }
+}

@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "maldives-names",
+      "runtimeExecutable": "node",
+      "runtimeArgs": ["scripts/serve.mjs"],
+      "port": 4173
+    }
+  ]
+}

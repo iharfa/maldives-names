@@ -1,0 +1,13 @@
+{
+  "name": "maldives-names",
+  "version": "1.0.0",
+  "description": "Collection and analysis of Maldivian house names, road names, and island names from OpenStreetMap and onemap.mv",
+  "type": "module",
+  "scripts": {
+    "collect": "node scripts/collect.mjs",
+    "build-data": "node scripts/build-data.mjs",
+    "analyze": "node scripts/analyze.mjs",
+    "pipeline": "npm run collect && npm run build-data && npm run analyze"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,1562 @@
+﻿FCODE,atoll,islandName,capital,islandNa_1,longitude,latitude,Area_ha,category,Sector,Usage,PrimAgency
+LD0002,Noonu,Maavelavaru,N,މާވެލަވަރު,"73° 10' 17.008"" E","5° 48' 20.517"" N",47.063446,Tourism Island,Tourism,Resort,MoT
+LD0003,Gaafu Dhaalu,Keraminthaa,N,ކެރަމިންތާ,"73° 0' 45.217"" E","0° 23' 27.856"" N",38.924603,Uninhabited Island, , ,MoFMRA
+LD0004,Alifu Alifu,Maalhos,N,މާޅޮސް,"72° 43' 9.216"" E","3° 59' 11.059"" N",32.453251,Residential Island, , , 
+LD0005,Thaa, ,N, ,"73° 0' 49.575"" E","2° 10' 11.943"" N",0.671358,Uninhabited Island, , ,Council
+LD0006,Gaafu Dhaalu,Dhigelaabadhuvaa,N,ދިގެލާބަދުވާ,"73° 9' 31.593"" E","0° 12' 48.471"" N",35.852393, , , ,MoECCT
+LD0007,Kaafu,Thulusdhoo Irumathee Huraagan'du,N,ތުލުސްދޫ އިރުމަތީ ހުރާގަނޑ,"73° 39' 16.794"" E","4° 22' 18.068"" N",1.022881,Uninhabited Island, , ,Council
+LD0008,Faafu,Feeali,N,ފީއަލި,"73° 0' 6.282"" E","3° 16' 11.887"" N",17.678783,Residential Island, , , 
+LD0009,Alifu Dhaalu,Omadhoo,N,އޮމަދޫ,"72° 57' 43.434"" E","3° 47' 29.825"" N",22.822959,Residential Island, , , 
+LD0010,Gaafu Dhaalu,Farehulhehdhoo,N,ފަރެހުޅެއްދޫ,"73° 29' 50.148"" E","0° 19' 42.144"" N",14.481167,Uninhabited Island, ,Varuva,MoFMRA
+LD0012,Dhaalu,Vommuli,N,ވޮއްމުލި,"72° 51' 57.865"" E","2° 54' 40.790"" N",8.950373,Tourism Island,Tourism,Resort,MoT
+LD0013,Faafu,Adhangau,N,އަދަންގައު,"73° 0' 29.869"" E","3° 8' 19.293"" N",1.425317,Uninhabited Island, , ,MoFMRA
+LD0014,Haa Alifu,Kudafinolhu,N,ކުޑަފިނޮޅު,"72° 53' 4.416"" E","6° 59' 20.487"" N",4.41564,Uninhabited Island, , ,Council
+LD0015,Lhaviyani,Lhohi,N,ޅޮހި,"73° 28' 22.205"" E","5° 19' 17.664"" N",10.719078,Industrial Island,Agriculture, ,MoFMRA
+LD0016,Shaviyani,Maaun'goodhoo,N,މާއުނގޫދޫ,"73° 17' 1.655"" E","6° 2' 12.140"" N",29.4141,Residential Island, , , 
+LD0017,Haa Dhaalu,Veligan'du,N,ވެލިގަނޑު,"72° 56' 17.660"" E","6° 45' 15.333"" N",0.286867,Uninhabited Island, , ,Council
+LD0018,Raa,Kurehdhoo,N,ކުރެއްދޫ,"72° 53' 40.422"" E","5° 38' 25.744"" N",3.531039,Uninhabited Island, , ,MoFMRA
+LD0019,Dhaalu,Vaanee,N,ވާނީ,"73° 0' 9.991"" E","2° 43' 31.691"" N",11.011173,Uninhabited Island, , ,MoFMRA
+LD0020,Lhaviyani,Naifaru,Y,ނައިފަރު,"73° 21' 55.091"" E","5° 26' 41.434"" N",58.292494,Residential Island, , , 
+LD0021,Alifu Dhaalu,Ariyadhoo,N,އަރިޔަދޫ,"72° 51' 18.320"" E","3° 28' 30.606"" N",27.723512,Industrial Island,Agriculture,Agriculture,MoFMRA
+LD0022,Baa,Kanufushi,N,ކަނުފުށި,"72° 57' 11.895"" E","5° 0' 42.135"" N",12.101343,Tourism Island,Tourism,Resort,MoT
+LD0023,Gaafu Dhaalu,Hulhuvaarulaa,N,ހުޅުވާރުލާ,"73° 29' 12.586"" E","0° 19' 36.929"" N",26.698648,Uninhabited Island, , ,MoFMRA
+LD0024,Gaafu Alifu,Maamutaa,N,މާމުޓާ,"73° 24' 27.019"" E","0° 50' 47.142"" N",20.88964,Tourism Island,Tourism,Resort,MoT
+LD0025,Raa,Kudalhosgiri,N,ކުޑަޅޮސްގިރި,"72° 54' 50.206"" E","5° 36' 7.836"" N",1.007703,Uninhabited Island, , ,MoFMRA
+LD0026,Kaafu,Boduban'dos,N,ބޮޑުބަނޑޮސް,"73° 29' 29.260"" E","4° 16' 9.866"" N",19.943726,Tourism Island,Tourism,Resort,MoT
+LD0027,Alifu Alifu,Kan'dholhudhoo,N,ކަނދޮޅުދޫ,"72° 52' 54.427"" E","4° 0' 9.368"" N",2.991456,Tourism Island,Tourism,Resort,MoT
+LD0028,Gaafu Alifu,Keredhdhoo,N,ކެރެއްދޫ,"73° 26' 17.733"" E","0° 39' 33.634"" N",13.168785,Tourism Island,Tourism,Resort,MoT
+LD0029,Thaa,Lhavaddoo,N,ޅަވައްޑޫ,"73° 17' 28.362"" E","2° 18' 20.770"" N",3.177465,Tourism Island,Tourism, ,MoT
+LD0030,Faafu, ,N, ,"72° 53' 24.977"" E","3° 3' 43.014"" N",0.578235, , , , 
+LD0031,Laamu,Kalhaidhoo,N,ކަޅައިދޫ,"73° 32' 11.820"" E","1° 59' 18.114"" N",28.002191,Uninhabited Island, , ,MoFMRA
+LD0032,Gaafu Dhaalu,Gahevelegalaa,N,ގަހެވެލެގަލާ,"73° 19' 11.004"" E","0° 21' 27.641"" N",4.053144,Uninhabited Island, ,Varuva,MoFMRA
+LD0033,Meemu,Gongalihuraa,N,ގޮންގަލިހުރާ,"73° 33' 3.269"" E","2° 51' 14.291"" N",0.438134,Uninhabited Island, ,Varuva,MoFMRA
+LD0034,Thaa,Kalhufahalafushi,N,ކަޅުފަހަލަފުށި,"73° 21' 27.900"" E","2° 24' 32.977"" N",92.424378,Uninhabited Island, , ,MoFMRA
+LD0035,Seenu,Vilin'gili,N,ވިލިނގިލި,"73° 11' 33.440"" E","0° 40' 46.693"" S",53.054801,Tourism Island,Tourism,Resort,MoT
+LD0036,Kaafu,Helen'geli,N,ހެލެނގެލި,"73° 33' 48.459"" E","4° 38' 3.689"" N",8.105054,Tourism Island,Tourism,Resort,MoT
+LD0038,Gaafu Dhaalu,Bolimathaidhua,N,ބޮލިމަތައިދުއާ,"73° 1' 30.570"" E","0° 18' 36.331"" N",2.834144,Uninhabited Island, , ,MoFMRA
+LD0039,Gaafu Dhaalu,Hakandoo,N,ހަކަންޑޫ,"73° 1' 57.523"" E","0° 17' 58.550"" N",8.059392,Uninhabited Island, , ,Council
+LD0040,Thaa,Hikan'dhilhohi,N,ހިކަނދިޅޮހި,"73° 13' 35.450"" E","2° 31' 13.548"" N",2.775247,Uninhabited Island, ,Varuva,MoFMRA
+LD0041,Thaa,Kafidhoo,N,ކަފިދޫ,"72° 57' 43.561"" E","2° 19' 35.897"" N",2.335346,Uninhabited Island, , ,Atoll Council
+LD0042,Gaafu Dhaalu,Dhekaamba,N,ދެކާންބަ,"73° 0' 55.242"" E","0° 23' 1.555"" N",5.171876,Uninhabited Island, , ,MoT
+LD0043,Raa,Filaidhoo,N,ފިލައިދޫ,"72° 56' 18.292"" E","5° 29' 30.544"" N",19.205267,Tourism Island,Tourism, ,MoFMRA
+LD0044,Baa,Fulhadhoo,N,ފުޅަދޫ,"72° 55' 56.873"" E","4° 53' 4.968"" N",29.271955,Residential Island, , , 
+LD0045,Meemu,Gasveli,N,ގަސްވެލި,"73° 26' 37.664"" E","2° 49' 7.320"" N",7.189246,Tourism Island,Tourism, ,MoT
+LD0046,Lhaviyani,Felivaru,N,ފެލިވަރު,"73° 23' 10.422"" E","5° 28' 37.169"" N",46.705251,Industrial Island,Fisheries,Fish Processing,MoFMRA
+LD0047,Haa Dhaalu,Innafushi,N,އިންނަފުށި,"72° 38' 43.437"" E","6° 24' 32.420"" N",2.282403,Uninhabited Island, , ,MoECCT
+LD0048,Haa Dhaalu,Kulhudhuffushi,Y,ކުޅުދުއްފުށި,"73° 4' 8.002"" E","6° 37' 23.613"" N",252.112262,Residential Island, , , 
+LD0049,Shaviyani,Firun'baidhoo,N,ފިރުނބައިދޫ,"73° 13' 39.556"" E","6° 6' 51.503"" N",16.3335,Industrial Island,Agriculture,Poultry,MoFMRA
+LD0051,Vaavu,Aarah,N,އާރަށް,"73° 31' 48.396"" E","3° 29' 57.506"" N",2.993424,Tourism Island,Tourism,Resort,MoT
+LD0052,Laamu,Dhekunuvinagan'du,N,ދެކުނުވިނަގަނޑު,"73° 16' 46.338"" E","1° 49' 1.677"" N",2.481463,Uninhabited Island, , ,MoFMRA
+LD0053,Laamu,Kudamaabulhali,N,ކުޑަމާބުޅަލި,"73° 15' 9.898"" E","1° 50' 49.988"" N",0.460417,Uninhabited Island, , ,MoFMRA
+LD0054,Gaafu Alifu,Maafehelaa,N,މާފެހެލާ,"73° 33' 11.216"" E","0° 22' 48.871"" N",44.264444,Uninhabited Island, , ,MoFMRA
+LD0055,Baa,Bathalaa,N,ބަތަލާ,"73° 4' 5.429"" E","5° 21' 11.939"" N",1.762063,Uninhabited Island, , ,MoECCT
+LD0056,Gaafu Alifu,Fulan'gi,N,ފުލަނގި,"73° 12' 7.265"" E","0° 41' 2.597"" N",3.347506,Uninhabited Island, , , 
+LD0057,Seenu,Bedhey Aurah,N,ބެދޭއައުރަށް,"73° 5' 14.499"" E","0° 35' 21.470"" S",0.638475,Uninhabited Island, , ,Council
+LD0058,Raa,Furaveri,N,ފުރަވެރި,"72° 54' 29.913"" E","5° 26' 24.899"" N",23.969044,Tourism Island,Tourism,Resort,MoT
+LD0059,Baa,Kudarikilu,N,ކުޑަރިކިލު,"73° 4' 14.997"" E","5° 18' 1.510"" N",18.92569,Residential Island, , , 
+LD0060,Laamu,Burrahaa,N,ބުއްރަހާ,"73° 16' 41.104"" E","1° 49' 36.617"" N",2.58442,Uninhabited Island, , ,MoFMRA
+LD0061,Meemu,Kolhufushi,N,ކޮޅުފުށި,"73° 25' 27.531"" E","2° 46' 37.106"" N",64.590007,Residential Island, , , 
+LD0062,Kaafu, ,N, ,"73° 36' 35.587"" E","4° 20' 55.037"" N",0.086947,Uninhabited Island, , , 
+LD0063,Gaafu Dhaalu, ,N, ,"73° 11' 9.219"" E","0° 11' 54.693"" N",0.37401,Uninhabited Island, , , 
+LD0064,Meemu,Kakaahuraa,N,ކަކާހުރާ,"73° 32' 6.389"" E","2° 51' 9.763"" N",3.540362,Uninhabited Island, , ,Atoll Council
+LD0065,Laamu,Bodufenrahaa,N,ބޮޑުފެންރަހާ,"73° 16' 16.539"" E","1° 49' 37.678"" N",3.413851,Uninhabited Island, , ,Atoll Council
+LD0066,Dhaalu,Ban'didhoo,N,ބަނޑިދޫ,"72° 59' 24.866"" E","2° 56' 12.216"" N",24.99915,Residential Island, , , 
+LD0067,Laamu,Aarahaa,N,އާރަހާ,"73° 16' 28.933"" E","1° 49' 42.807"" N",0.213044,Uninhabited Island, , ,Atoll Council
+LD0068,Dhaalu, ,N, ,"72° 50' 15.580"" E","2° 43' 43.497"" N",0.057787,Uninhabited Island, , , 
+LD0069,Kaafu,Maafushi,N,މާފުށި,"73° 29' 22.633"" E","3° 56' 27.921"" N",41.598098,Residential Island, , , 
+LD0070,Raa,Un'gulu,N,އުނގުލު,"73° 1' 34.949"" E","5° 41' 27.308"" N",13.780703,Industrial Island,Agriculture, ,MoFMRA
+LD0071,Gaafu Alifu,Beyrumauddoo,N,ބޭރުމައުއްޑޫ,"73° 13' 29.371"" E","0° 47' 43.089"" N",3.078778,Uninhabited Island, , ,MoFMRA
+LD0073,Kaafu,Maniyafushi,N,މަނިޔަފުށި,"73° 24' 39.700"" E","4° 3' 20.357"" N",1.352952,Uninhabited Island, , ,MoFMRA
+LD0074,Shaviyani,Medhukun'burudhoo,N,މެދުކުނބުރުދޫ,"73° 1' 48.252"" E","6° 11' 49.285"" N",46.935419,Industrial Island,Agriculture,Poultry,MoFMRA
+LD0075,Vaavu,Felidhoo,Y,ފެލިދޫ,"73° 32' 49.472"" E","3° 28' 19.080"" N",15.75044,Residential Island, , , 
+LD0076,Baa,Dhigudhefaru,N,ދިގުދެފަރު,"73° 8' 20.907"" E","5° 14' 6.402"" N",3.70482,Tourism Island,Tourism,Resort,MoT
+LD0078,Kaafu,Vabboahuraa,N,ވައްބޯހުރާ,"73° 35' 46.779"" E","4° 19' 10.383"" N",1.119304,Uninhabited Island, , ,MoFMRA
+LD0079,Vaavu,Thun'duhuraa,N,ތުނޑުހުރާ,"73° 30' 22.322"" E","3° 20' 33.574"" N",0.087086,Uninhabited Island, , ,MoFMRA
+LD0080,Alifu Dhaalu,Dhiffushi,N,ދިއްފުށި,"72° 49' 29.500"" E","3° 28' 31.095"" N",16.468478,Tourism Island,Tourism,Resort,MoT
+LD0081,Seenu,Maradhoofeydhoo,N,މަރަދޫފޭދޫ,"73° 7' 32.861"" E","0° 40' 24.696"" S",34.273361,Residential Island, , , 
+LD0082,Thaa,Thimarafushi,N,ތިމަރަފުށި,"73° 8' 54.768"" E","2° 12' 33.430"" N",99.989305,Residential Island, , , 
+LD0083,Gaafu Alifu,Kodeyvilin'gili,N,ކޮޑޭވިލިނގިލި,"73° 32' 31.290"" E","0° 30' 49.276"" N",5.285048,Uninhabited Island, , ,Council
+LD0084,Dhaalu,Fenfushi,N,ފެންފުށި,"73° 1' 33.327"" E","2° 48' 4.294"" N",3.515438,Uninhabited Island, , ,MoFMRA
+LD0085,Faafu,Magoodhoo,N,މަގޫދޫ,"72° 57' 49.149"" E","3° 4' 45.046"" N",24.594867,Residential Island, , , 
+LD0086,Raa,Boduhaiykodi,N,ބޮޑުހަތްކޮޑި,"72° 58' 11.109"" E","5° 36' 41.169"" N",4.151579,Industrial Island,Fisheries,Aquaculture,MoFMRA
+LD0088,Noonu,Medhufaru,N,މެދުފަރު,"73° 24' 51.873"" E","5° 42' 48.709"" N",51.573257,Tourism Island,Tourism,Resort,MoT
+LD0089,Alifu Dhaalu,Innafushi,N,އިންނަފުށި,"72° 43' 56.766"" E","3° 47' 51.978"" N",3.415437,Tourism Island,Tourism,Resort,MoT
+LD0090,Shaviyani,Narurin'budhoo,N,ނަރުރިނބުދޫ,"73° 11' 44.766"" E","6° 16' 45.368"" N",27.588036,Uninhabited Island,Agriculture, ,MoFMRA
+LD0091,Noonu,Goan'bilivaadhoo,N,ގޯނބިލިވާދޫ,"73° 23' 14.781"" E","5° 49' 21.872"" N",13.91391,Uninhabited Island,Agriculture, ,MoFMRA
+LD0092,Noonu,Orivarukudarah,N,އޮރިވަރުކުޑަރަށް,"73° 17' 37.109"" E","5° 48' 3.631"" N",0.028763,Uninhabited Island, , ,Atoll Council
+LD0093,Gaafu Alifu,Innarehaa,N,އިންނަރެހާ,"73° 33' 23.439"" E","0° 22' 46.840"" N",23.256673,Uninhabited Island, , , 
+LD0094,Laamu,Olhutholhu,N,އޮޅުތޮޅު,"73° 21' 7.404"" E","1° 47' 16.975"" N",7.829763,Uninhabited Island, , ,Council
+LD0095,Raa,Meedhupparu,N,މީދުއްޕަރު,"72° 58' 47.705"" E","5° 27' 21.404"" N",18.762371,Tourism Island,Tourism,Resort,MoT
+LD0096,Lhaviyani,Fainuaadhanuhuraa,N,ފައިނުއާދަނުހުރާ,"73° 39' 27.967"" E","5° 21' 30.688"" N",0.092492,Uninhabited Island, ,Varuva,MoFMRA
+LD0097,Raa,Bodufushi,N,ބޮޑުފުށި,"72° 58' 8.028"" E","5° 30' 27.657"" N",12.419845,Tourism Island,Tourism,Resort,MoFMRA
+LD0098,Kaafu,Vaagali,N,ވާގަލި,"73° 21' 21.341"" E","3° 56' 55.020"" N",0.836701,Tourism Island,Tourism,Resort,MoT
+LD0099,Alifu Alifu,Vihamaafaru,N,ވިހަމާފަރު,"72° 44' 45.331"" E","4° 7' 20.007"" N",3.158646,Uninhabited Island, , ,MoFMRA
+LD0100,Gaafu Dhaalu,Beeraahuttaa,N,ބީރާހުއްޓާ,"73° 3' 38.552"" E","0° 16' 49.384"" N",1.07244,Uninhabited Island, , ,MoFMRA
+LD0101,Gaafu Alifu,Kodahuttaa,N,ކޮޑަހުއްޓާ,"73° 26' 21.907"" E","0° 40' 43.046"" N",0.938036,Uninhabited Island, , ,MoFMRA
+LD0102,Laamu,Mundoo,N,މުންޑޫ,"73° 32' 2.030"" E","2° 0' 42.652"" N",24.176301,Residential Island, , , 
+LD0103,Haa Alifu,Matheerah,N,މަތީރަށް,"72° 49' 8.455"" E","7° 1' 39.239"" N",5.011408,Uninhabited Island, ,Varuva,MoFMRA
+LD0104,Dhaalu,Kedhigan'du,N,ކެދިގަނޑު,"72° 51' 4.069"" E","2° 41' 47.029"" N",5.376423,Tourism Island,Tourism,Resort,MoT
+LD0105,Raa,Gaaun'doodhoo,N,ގާއުނޑޫދޫ,"73° 0' 56.575"" E","5° 44' 58.098"" N",16.415565,Industrial Island,Fisheries and Agriculture,Mixed Usage,MoFMRA
+LD0106,Raa,Hiboodhoo,N,ހިބޫދޫ,"72° 55' 8.638"" E","5° 36' 45.493"" N",2.484019,Uninhabited Island, , ,MoFMRA
+LD0107,Dhaalu,Ayyakaloahuraa,N,އައްޔަކަލޯހުރާ,"73° 1' 32.791"" E","2° 47' 26.323"" N",1.864155,Uninhabited Island, , ,Atoll Council
+LD0108,Thaa,Fenfushi,N,ފެންފުށި,"73° 16' 11.070"" E","2° 17' 29.827"" N",0.346075,Uninhabited Island, ,Varuva,MoFMRA
+LD0109,Alifu Alifu,Maagau,N,މާގައު,"72° 57' 25.313"" E","3° 59' 21.062"" N",2.030068,Tourism Island,Tourism,Resort,MoT
+LD0110,Raa,Kudakurathu,N,ކުޑަކުރަތު,"73° 2' 39.977"" E","5° 35' 1.463"" N",38.7849,Tourism Island,Tourism,Resort,MoT
+LD0111,Gaafu Dhaalu,Raabodaafeheerataa,N,ރާބޮޑާފެހީރަޓާ,"73° 7' 25.646"" E","0° 14' 9.148"" N",1.200257,Uninhabited Island, , ,MoFMRA
+LD0112,Gaafu Dhaalu,Gan,N,ގަން,"73° 26' 3.378"" E","0° 16' 34.251"" N",245.644808,Uninhabited Island, , ,Council
+LD0113,Raa,Vaffushihuraa,N,ވައްފުށިހުރާ,"72° 50' 23.751"" E","5° 38' 34.164"" N",0.985231,Uninhabited Island, , ,MoFMRA
+LD0115,Gaafu Dhaalu,Kafena,N,ކަފެނަ,"72° 59' 35.162"" E","0° 31' 1.709"" N",11.234532,Uninhabited Island, , ,Council
+LD0116,Lhaviyani,Kalhumanjehuraa,N,ކަޅުމަންޖެހުރާ,"73° 28' 58.712"" E","5° 33' 13.166"" N",0.75553,Uninhabited Island, , ,MoFMRA
+LD0117,Vaavu,Hulhidhoo,N,ހުޅިދޫ,"73° 31' 58.037"" E","3° 29' 36.109"" N",2.607093,Industrial Island,Agriculture, ,MoFMRA
+LD0118,Thaa,Kan'dufushi,N,ކަނޑުފުށި,"72° 59' 15.069"" E","2° 31' 52.417"" N",2.220639,Uninhabited Island, , ,Atoll Council
+LD0119,Lhaviyani,Fehigili,N,ފެހިގިލި,"73° 28' 52.835"" E","5° 33' 26.464"" N",0.676979,Uninhabited Island, , ,Atoll Council
+LD0120,Alifu Dhaalu,Dhiggiri,N,ދިއްގިރި,"72° 54' 53.215"" E","3° 51' 30.184"" N",0.632499,Uninhabited Island, ,Varuva,MoFMRA
+LD0121,Noonu,Kafakomandoo,N,ކަފަކޮމަންޑޫ,"73° 23' 10.563"" E","5° 57' 44.166"" N",7.824414,Uninhabited Island, , ,Council
+LD0122,Raa,Giraavaru,N,ގިރާވަރު,"72° 51' 40.194"" E","5° 35' 18.004"" N",1.111444,Uninhabited Island, , ,MoFMRA
+LD0123,Noonu,Fohdhipparu,N,ފޮއްދިއްޕަރު,"73° 12' 30.154"" E","5° 45' 13.040"" N",1.575476,Uninhabited Island, , ,MoECCT
+LD0124,Lhaviyani,Vavvaru,N,ވައްވަރު,"73° 21' 15.839"" E","5° 25' 2.441"" N",3.088752,Uninhabited Island, , ,MoECCT
+LD0125,Raa,Faarufushi,N,ފާރުފުށި,"72° 57' 55.036"" E","5° 46' 4.878"" N",6.814026,Tourism Island,Tourism,Resort,MoT
+LD0126,Alifu Dhaalu,Bodukaashihuraa,N,ބޮޑުކާށިހުރާ,"72° 57' 16.678"" E","3° 52' 34.252"" N",2.2305,Uninhabited Island, , ,MoT
+LD0127,Kaafu, ,N, ,"73° 34' 57.449"" E","4° 19' 14.299"" N",0.502089,Uninhabited Island, , , 
+LD0128,Kaafu,Maadhoo,N,މާދޫ,"73° 27' 34.285"" E","3° 52' 17.655"" N",10.825868,Tourism Island,Tourism,Resort,MoT
+LD0129,Haa Alifu,Dhonakulhi,N,ދޮނަކުޅި,"73° 3' 6.397"" E","6° 50' 37.885"" N",33.833024,Uninhabited Island, , , 
+LD0130,Haa Dhaalu,Ruffushi,N,ރުއްފުށި,"72° 56' 20.274"" E","6° 45' 32.432"" N",0.59169,Uninhabited Island, , ,Council
+LD0131,Shaviyani,Naalaahuraa,N,ނާލާހުރާ,"73° 2' 9.785"" E","6° 7' 40.280"" N",0.630057,Uninhabited Island, , ,MoECCT
+LD0132,Alifu Alifu,Mathiveri,N,މަތިވެރި,"72° 44' 45.987"" E","4° 11' 31.055"" N",23.064295,Residential Island, , , 
+LD0133,Noonu,Karinma,N,ކަރިންމަ,"73° 22' 21.469"" E","5° 39' 31.280"" N",0.204729,Uninhabited Island, ,Varuva,MoFMRA
+LD0134,Raa,Boduhuraa,N,ބޮޑުހުރާ,"73° 1' 21.109"" E","5° 25' 4.665"" N",0.616468,Uninhabited Island, , ,MoFMRA
+LD0135,Baa,Medhufinolhugaathufinolhu,N,މެދުފިނޮޅުގާތުފިނޮޅު,"72° 58' 0.807"" E","5° 0' 56.986"" N",3.356469,Uninhabited Island, , ,Atoll Council
+LD0136,Gaafu Alifu,Minimessaa,N,މިނިމެއްސާ,"73° 7' 26.468"" E","0° 32' 28.640"" N",3.64391,Uninhabited Island, , ,MoFMRA
+LD0137,Kaafu,Boduhuraa,N,ބޮޑުހުރާ,"73° 30' 18.735"" E","3° 58' 2.781"" N",4.662243,Tourism Island,Tourism,Resort,Atoll Council
+LD0138,Thaa,Kuredhifushi,N,ކުރެދިފުށި,"73° 2' 3.744"" E","2° 10' 4.729"" N",9.099428,Uninhabited Island, , ,Council
+LD0140,Noonu,Kunnamalei,N,ކުންނަމަލެއި,"73° 8' 0.600"" E","5° 57' 10.684"" N",9.117739,Tourism Island,Tourism,Resort,MoT
+LD0141,Shaviyani,Maakan'doodhoo,N,މާކަނޑޫދޫ,"73° 16' 2.664"" E","6° 14' 5.360"" N",89.270221,Uninhabited Island, , ,MoFMRA
+LD0142,Kaafu,Baros,N,ބަރޮސް,"73° 25' 37.578"" E","4° 17' 5.102"" N",4.890151,Tourism Island,Tourism,Resort,MoT
+LD0143,Thaa,Fondhoo,N,ފޮންދޫ,"72° 58' 57.935"" E","2° 18' 53.856"" N",0.64393,Uninhabited Island, , ,Atoll Council
+LD0144,Raa,Goyyafaru,N,ގޮއްޔަފަރު,"72° 55' 41.848"" E","5° 33' 53.800"" N",3.389197,Uninhabited Island, ,Varuva,MoFMRA
+LD0145,Laamu,Dhonberahaa,N,ދޮންބެރަހާ,"73° 32' 9.741"" E","2° 4' 17.209"" N",1.877551,Uninhabited Island, , ,MoT
+LD0146,Gaafu Dhaalu,Veraaviligillaa,N,ވެރާވިލިގިއްލާ,"73° 26' 55.718"" E","0° 18' 46.025"" N",1.545516,Uninhabited Island, , ,MoFMRA
+LD0147,Baa,Miriandhoo,N,މިރިއަންދޫ,"73° 1' 52.582"" E","5° 3' 47.570"" N",6.568658,Tourism Island,Tourism,Resort,MoT
+LD0148,Vaavu,Alimathaa,N,އަލިމަތާ,"73° 29' 52.929"" E","3° 35' 37.413"" N",7.879027,Tourism Island,Tourism,Resort,MoT
+LD0149,Kaafu,Vammaafushi,N,ވައްމާފުށި,"73° 29' 45.797"" E","3° 56' 54.754"" N",0.029667,Uninhabited Island, , ,Council
+LD0150,Kaafu,Feydhoofinolhu,N,ފޭދޫފިނޮޅު,"73° 29' 3.971"" E","4° 12' 46.406"" N",11.106689,Tourism Island,Tourism,Resort,MoT
+LD0151,Gaafu Alifu,Hirihuttaa,N,ހިރިހުއްޓާ,"73° 20' 46.505"" E","0° 32' 26.115"" N",4.247586,Tourism Island,Tourism,Resort, 
+LD0152,Laamu,Gan,N,ގަން,"73° 32' 27.303"" E","1° 54' 51.322"" N",608.668247,Residential Island, , , 
+LD0153,Gaafu Alifu,Mahahdhoo,N,މަހައްދޫ,"73° 30' 47.033"" E","0° 35' 2.906"" N",16.559542,Tourism Island,Tourism,Resort,MoT
+LD0154,Kaafu,Ihuru,N,އިހުރު,"73° 24' 57.721"" E","4° 18' 24.372"" N",3.165592,Tourism Island,Tourism,Resort,MoT
+LD0155,Shaviyani,Ekasdhoo,N,އެކަސްދޫ,"73° 17' 4.053"" E","6° 4' 14.818"" N",91.994569,Industrial Island,Agriculture, ,MoFMRA
+LD0156,Gaafu Alifu,Maarandhoo,N,މާރަންދޫ,"73° 12' 33.015"" E","0° 51' 13.417"" N",4.646395,Tourism Island,Tourism,Resort,MoT
+LD0157,Kaafu,Kanuoiyhuraa,N,ކަނުއޮތްހުރާ,"73° 35' 30.895"" E","4° 19' 8.469"" N",7.928768,Tourism Island,Tourism,Resort,MoT
+LD0158,Alifu Dhaalu,Maamigili,N,މާމިގިލި,"72° 49' 59.019"" E","3° 28' 29.444"" N",220.80777,Residential Island, , , 
+LD0159,Kaafu,Than'burudhoo,N,ތަނބުރުދޫ,"73° 35' 3.211"" E","4° 18' 56.456"" N",3.729999,Uninhabited Island, , ,MoECCT
+LD0160,Kaafu,Biyaadhoo,N,ބިޔާދޫ,"73° 27' 22.810"" E","3° 55' 20.039"" N",10.070374,Tourism Island,Tourism,Resort,MoT
+LD0161,Thaa,Dhururehaa,N,ދުރުރެހާ,"73° 0' 43.399"" E","2° 10' 8.303"" N",10.497391,Industrial Island,Agriculture, ,MoFMRA
+LD0162,Baa,Velavaru,N,ވެލަވަރު,"72° 55' 14.690"" E","5° 12' 24.038"" N",0.208053,Uninhabited Island, , , 
+LD0163,Raa,Ufulandhoo,N,އުފުލަންދޫ,"72° 54' 48.203"" E","5° 27' 51.785"" N",29.470477,Tourism Island, , ,MoT
+LD0164,Baa,Aidhoo,N,އައިދޫ,"73° 9' 48.844"" E","5° 11' 14.250"" N",3.390635,Industrial Island,Agriculture, ,MoFMRA
+LD0165,Alifu Dhaalu,Hurasdhoo,N,ހުރަސްދޫ,"72° 46' 29.162"" E","3° 40' 0.991"" N",2.846073,Uninhabited Island, , ,MoECCT
+LD0166,Kaafu,Thilafushi,N,ތިލަފުށި,"73° 26' 24.805"" E","4° 10' 56.962"" N",118.869851,Uninhabited Island, ,Mixed Usage,HDC
+LD0167,Laamu,Athahendhu,N,އަތަހެންދު,"73° 16' 25.941"" E","1° 49' 40.860"" N",0.286647,Uninhabited Island, , ,Atoll Council
+LD0168,Alifu Dhaalu,Mandhoo,N,މަންދޫ,"72° 42' 35.230"" E","3° 41' 52.296"" N",38.501574,Residential Island, , , 
+LD0169,Noonu,Fushivelavaru,N,ފުށިވެލަވަރު,"73° 12' 33.679"" E","5° 49' 51.867"" N",20.606847,Tourism Island,Tourism,Resort,MoT
+LD0170,Alifu Dhaalu,Rangaleefinolhu,N,ރަންގަލީފިނޮޅު,"72° 42' 56.624"" E","3° 36' 59.182"" N",9.018633,Tourism Island,Tourism,Resort,MoT
+LD0171,Dhaalu,Issari,N,އިއްސަރި,"72° 58' 57.177"" E","2° 42' 23.574"" N",1.769114,Uninhabited Island, ,Varuva,MoFMRA
+LD0172,Gaafu Dhaalu,Dhinmanaa,N,ދިންމަނާ,"72° 59' 52.377"" E","0° 27' 0.376"" N",0.84208,Uninhabited Island, , ,Council
+LD0173,Gaafu Dhaalu,Kalhehigillaa,N,ކަޅެހިގިއްލާ,"73° 2' 2.777"" E","0° 17' 48.671"" N",20.492234,Uninhabited Island, , ,Council
+LD0174,Gaafu Alifu,Dhigudhoo,N,ދިގުދޫ,"73° 32' 3.997"" E","0° 32' 32.857"" N",12.256278,Uninhabited Island, , ,MoFMRA
+LD0175,Alifu Dhaalu,Theluveligaa,N,ތެލުވެލިގާ,"72° 54' 9.402"" E","3° 40' 11.421"" N",1.408792,Tourism Island,Tourism,Resort,MoT
+LD0176,Meemu, ,N, ,"73° 22' 46.863"" E","3° 1' 8.421"" N",0.057791,Uninhabited Island, , , 
+LD0177,Noonu,Farumuli,N,ފަރުމުލި,"73° 28' 31.188"" E","5° 51' 52.953"" N",0.405758,Uninhabited Island, , ,Atoll Council
+LD0178,Raa,Rasgetheemu,N,ރަސްގެތީމު,"73° 0' 10.633"" E","5° 48' 27.716"" N",39.207399,Residential Island, , , 
+LD0179,Meemu,Dhiggaru,N,ދިއްގަރު,"73° 33' 54.835"" E","3° 6' 42.793"" N",14.454305,Residential Island, , , 
+LD0180,Raa,Maakurathu,N,މާކުރަތު,"73° 2' 37.388"" E","5° 36' 22.209"" N",53.137713,Residential Island, , , 
+LD0181,Gaafu Dhaalu,Nadellaa,N,ނަޑެއްލާ,"73° 2' 26.868"" E","0° 17' 36.760"" N",45.587479,Residential Island, , , 
+LD0182,Vaavu,Fulidhoo,N,ފުލިދޫ,"73° 24' 56.412"" E","3° 40' 49.559"" N",11.910502,Residential Island, , , 
+LD0183,Lhaviyani,Maakoa,N,މާކޯ,"73° 25' 49.222"" E","5° 21' 26.872"" N",24.591665,Uninhabited Island,National Security, ,MoD
+LD0184,Thaa,Maagulhi,N,މާގުޅި,"73° 10' 46.438"" E","2° 32' 18.117"" N",3.499382,Uninhabited Island, ,Varuva,MoFMRA
+LD0185,Baa,Horubadhoo,N,ހޮރުބަދޫ,"73° 3' 9.866"" E","5° 9' 45.657"" N",16.490933,Tourism Island,Tourism,Resort,MoT
+LD0186,Meemu,Maalhaveli,N,މާޅަވެލި,"73° 34' 44.246"" E","2° 54' 16.397"" N",0.530223,Uninhabited Island, , ,MoFMRA
+LD0187,Lhaviyani,Maabinhuraa,N,މާބިންހުރާ,"73° 39' 4.613"" E","5° 20' 13.752"" N",40.172489,Tourism Island,Tourism,Resort,MoT
+LD0188,Gaafu Alifu,Medhuburiyaa,N,މެދުބުރިޔާ,"73° 33' 11.972"" E","0° 22' 21.723"" N",1.19291,Uninhabited Island, , , 
+LD0189,Dhaalu, ,N, ,"72° 50' 21.906"" E","2° 43' 33.295"" N",0.165314,Uninhabited Island, , , 
+LD0190,Thaa,Hathifushi,N,ހަތިފުށި,"73° 15' 46.428"" E","2° 17' 14.328"" N",1.196037,Uninhabited Island, , ,Atoll Council
+LD0191,Noonu,Landhoo,N,ލަންދޫ,"73° 27' 58.154"" E","5° 52' 54.493"" N",87.209419,Residential Island, , , 
+LD0192,Laamu,Gasgan'dufinolhu,N,ގަސްގަނޑުފިނޮޅު,"73° 32' 24.458"" E","1° 57' 8.556"" N",3.992951,Tourism Island, , ,MoT
+LD0193,Shaviyani,Bolissafaru,N,ބޮލިއްސަފަރު,"73° 6' 38.708"" E","5° 58' 52.146"" N",3.068737,Uninhabited Island, , ,MoECCT
+LD0194,Raa,Kinolhas,N,ކިނޮޅަސް,"73° 1' 48.180"" E","5° 26' 54.415"" N",56.228136,Residential Island, , , 
+LD0195,Gaafu Dhaalu,Vaadhoo,N,ވާދޫ,"73° 16' 25.311"" E","0° 13' 38.372"" N",193.73424,Residential Island, , , 
+LD0196,Kaafu,Rannaalhi,N,ރަންނާޅި,"73° 21' 28.507"" E","3° 54' 11.727"" N",4.900216,Tourism Island,Tourism,Resort,MoT
+LD0197,Baa,Kanufusheegaathufinolhu,N,ކަނުފުށީގާތުފިނޮޅު,"72° 57' 43.133"" E","5° 0' 49.152"" N",2.966335,Tourism Island, , ,MoT
+LD0198,Gaafu Dhaalu,Kan'dahalagalaa,N,ކަނޑަހަލަގަލާ,"73° 12' 59.650"" E","0° 13' 30.921"" N",6.444506,Tourism Island, , ,MoT
+LD0199,Haa Dhaalu,Hirimaradhoo,N,ހިރިމަރަދޫ,"73° 1' 27.181"" E","6° 43' 29.384"" N",46.602385,Residential Island, , , 
+LD0200,Thaa,Dhiyamigili,N,ދިޔަމިގިލި,"73° 20' 12.481"" E","2° 20' 23.784"" N",29.337474,Residential Island, , , 
+LD0201,Alifu Alifu,Ellaidhoo,N,އެއްލައިދޫ,"72° 56' 57.047"" E","4° 0' 22.347"" N",5.747898,Tourism Island,Tourism,Resort,MoT
+LD0202,Kaafu,Makunufushi,N,މަކުނުފުށި,"73° 28' 12.347"" E","3° 55' 4.263"" N",5.103761,Tourism Island,Tourism,Resort,MoT
+LD0203,Noonu,Maalhendhoo,N,މާޅެންދޫ,"73° 27' 21.930"" E","5° 54' 8.493"" N",46.960848,Residential Island, , , 
+LD0204,Baa,Eydhafushi,Y,އޭދަފުށި,"73° 4' 14.785"" E","5° 6' 9.563"" N",56.347201,Residential Island, , , 
+LD0205,Thaa,Vilufushi,N,ވިލުފުށި,"73° 18' 29.692"" E","2° 30' 11.398"" N",60.201656,Residential Island, , , 
+LD0206,Meemu,Medhufushi,N,މެދުފުށި,"73° 34' 31.970"" E","2° 53' 10.728"" N",10.024737,Tourism Island,Tourism,Resort,MoT
+LD0207,Gaafu Dhaalu,Filaarataa,N,ފިލާރަޓާ,"73° 2' 20.005"" E","0° 18' 0.749"" N",0.992786,Uninhabited Island, , , 
+LD0209,Dhaalu,Maaen'boodhoo,N,މާއެނބޫދޫ,"72° 57' 48.304"" E","2° 41' 44.745"" N",24.033801,Residential Island, , , 
+LD0210,Shaviyani,Madikuredhdhoo,N,މަޑިކުރެއްދޫ,"73° 9' 3.673"" E","6° 17' 3.831"" N",46.236508,Industrial Island,Fisheries and Agriculture,Mixed Usage,MoFMRA
+LD0211,Lhaviyani,Maduvvari,N,މަޑުއްވަރި,"73° 30' 8.190"" E","5° 17' 5.743"" N",24.04919,Uninhabited Island, , ,MoFMRA
+LD0212,Gaafu Alifu,Vodamulaa,N,ވޮޑަމުލާ,"73° 29' 9.185"" E","0° 36' 15.068"" N",23.110928,Tourism Island,Tourism,Resort,MoT
+LD0213,Noonu,Dheefuram,N,ދީފުރަމް,"73° 19' 7.526"" E","5° 53' 15.882"" N",2.377818,Uninhabited Island, ,Varuva,MoFMRA
+LD0214,Alifu Dhaalu,Rangali,N,ރަންގަލި,"72° 43' 24.106"" E","3° 37' 5.624"" N",11.262342,Tourism Island, , ,MoT
+LD0215,Kaafu,Vilin'gilimathidhahuraa,N,ވިލިނގިލިމަތިދަހުރާ,"73° 39' 48.856"" E","4° 22' 39.010"" N",17.784115,Tourism Island,Tourism,Resort,MoT
+LD0216,Gaafu Dhaalu,Kadelerataa,N,ކަޑެލެރަޓާ,"73° 1' 29.650"" E","0° 18' 48.052"" N",3.10007,Uninhabited Island, ,Varuva,MoFMRA
+LD0217,Baa,Kunfunadhoo,N,ކުންފުނަދޫ,"73° 4' 39.636"" E","5° 6' 44.883"" N",44.969801,Tourism Island,Tourism,Resort,MoT
+LD0218,Raa,Dhoragali,N,ދޮރަގަލި,"72° 59' 51.348"" E","5° 29' 38.721"" N",6.667862,Tourism Island, , ,MoT
+LD0219,Seenu,Hankede,N,ހަންކެޑެ,"73° 6' 41.432"" E","0° 39' 21.001"" S",7.057356,Tourism Island,Tourism,Resort, 
+LD0220,Alifu Dhaalu,Bodufinolhu,N,ބޮޑުފިނޮޅު,"72° 45' 38.121"" E","3° 29' 42.832"" N",8.255198,Tourism Island,Tourism,Resort,MoT
+LD0221,Gaafu Dhaalu,Faahuttaa,N,ފާހުއްޓާ,"73° 6' 35.415"" E","0° 14' 49.441"" N",4.224986,Uninhabited Island, , ,Council
+LD0222,Gaafu Alifu,Araigahthaa,N,އަރައިގައްތާ,"73° 32' 6.093"" E","0° 27' 7.635"" N",4.659626,Uninhabited Island, , ,MoFMRA
+LD0223,Laamu,Bodumungnafushi,N,ބޮޑުމުންޏަފުށި,"73° 18' 31.445"" E","1° 59' 19.896"" N",3.136495,Tourism Island, , ,MoT
+LD0225,Alifu Alifu,Alikoirah,N,އަލިކޮއިރަށް,"72° 52' 47.981"" E","3° 56' 36.160"" N",1.465362,Tourism Island, , ,MoT
+LD0226,Baa,Hulhudhoo,N,ހުޅުދޫ,"73° 1' 30.571"" E","5° 16' 29.684"" N",4.179721,Uninhabited Island, , ,MoFMRA
+LD0227,Haa Alifu,Mulidhoo,N,މުލިދޫ,"73° 0' 40.078"" E","6° 50' 9.919"" N",67.881746,Uninhabited Island,Agriculture, ,MoFMRA
+LD0228,Gaafu Alifu,Kan'duvilin'gili,N,ކަނޑުވިލިނގިލި,"73° 11' 24.879"" E","0° 51' 58.572"" N",3.702649,Uninhabited Island, , ,MoFMRA
+LD0229,Gaafu Alifu,Medharehaa,N,މެދަރެހާ,"73° 32' 42.401"" E","0° 21' 48.306"" N",5.723033,Uninhabited Island, , ,Council
+LD0230,Kaafu,Kudaban'dos,N,ކުޑަބަނޑޮސް,"73° 29' 58.974"" E","4° 15' 49.851"" N",4.469166,Tourism Island,Tourism,Resort,MoT
+LD0231,Raa,Vaffushi,N,ވައްފުށި,"72° 51' 45.716"" E","5° 37' 45.402"" N",1.030809,Uninhabited Island, ,Varuva,MoFMRA
+LD0232,Haa Alifu,Vashafaru,N,ވަށަފަރު,"73° 9' 35.105"" E","6° 53' 51.374"" N",35.611409,Residential Island, , , 
+LD0233,Faafu,Dhiguvarufinolhu,N,ދިގުވަރުފިނޮޅު,"73° 1' 30.669"" E","3° 14' 47.738"" N",0.700645,Uninhabited Island, , ,Atoll Council
+LD0234,Lhaviyani,Dheruffinolhu,N,ދެރުއްފިނޮޅު,"73° 38' 50.765"" E","5° 19' 27.957"" N",5.734422,Tourism Island,Tourism,Resort,MoT
+LD0235,Haa Dhaalu,Hanimaadhoo,N,ހަނިމާދޫ,"73° 10' 10.768"" E","6° 45' 14.115"" N",304.395856,Residential Island, , , 
+LD0236,Raa,Fuggiri,N,ފުއްގިރި,"72° 51' 14.607"" E","5° 43' 28.086"" N",8.188846,Tourism Island,Tourism,Resort,MoT
+LD0237,Gaafu Alifu,Maagihuttaa,N,މާގިހުއްޓާ,"73° 10' 46.666"" E","0° 50' 44.137"" N",3.419209,Uninhabited Island, , ,Council
+LD0238,Noonu, ,N, ,"73° 22' 39.298"" E","5° 39' 39.207"" N",0.766869,Uninhabited Island, , , 
+LD0239,Laamu,Boduhuraa,N,ބޮޑުހުރާ,"73° 30' 56.613"" E","1° 50' 40.388"" N",0.720924,Uninhabited Island, , ,Council
+LD0240,Thaa,Olhugiri,N,އޮޅުގިރި,"73° 15' 20.951"" E","2° 30' 20.613"" N",9.756504,Tourism Island,Tourism,Resort,MoT
+LD0241,Raa,Lun'dhufushi,N,ލުނދުފުށި,"72° 59' 13.433"" E","5° 38' 37.035"" N",7.084493,Tourism Island,Tourism,Resort,MoT
+LD0242,Gaafu Alifu,Mahthurehaa,N,މައްތުރެހާ,"73° 33' 8.848"" E","0° 22' 6.610"" N",11.614295,Uninhabited Island, , , 
+LD0243,Gaafu Dhaalu,Hiyanigilihuttaa,N,ހިޔަނިގިލިހުއްޓާ,"73° 5' 40.269"" E","0° 15' 44.190"" N",4.846434,Uninhabited Island, , ,MoFMRA
+LD0244,Laamu,Holhurahaa,N,ހޮޅުރަހާ,"73° 32' 20.476"" E","2° 4' 6.654"" N",2.497239,Tourism Island, , ,MoT
+LD0245,Gaafu Dhaalu,Boderehaa,N,ބޮޑެރެހާ,"73° 0' 45.639"" E","0° 23' 11.345"" N",7.279672,Uninhabited Island, , ,MoFMRA
+LD0246,Haa Alifu,Hoarafushi,N,ހޯރަފުށި,"72° 53' 38.900"" E","6° 58' 57.593"" N",69.022371,Residential Island, , , 
+LD0247,Gaafu Alifu,Vilin'gili,Y,ވިލިނގިލި,"73° 26' 5.467"" E","0° 45' 22.839"" N",111.188844,Residential Island, , , 
+LD0248,Shaviyani,Madidhoo,N,މަޑިދޫ,"73° 6' 32.366"" E","6° 18' 8.624"" N",104.596835,Industrial Island,Agriculture,Poultry,MoFMRA
+LD0249,Noonu,Orivaru,N,އޮރިވަރު,"73° 17' 51.781"" E","5° 48' 7.635"" N",14.735512,Tourism Island,Tourism,Resort,MoT
+LD0251,Gaafu Dhaalu,Meehinethiyenehuttaa,N,މީހިނެތިޔެނެހުއްޓާ,"73° 5' 23.106"" E","0° 15' 56.197"" N",6.869628,Uninhabited Island, , , 
+LD0252,Baa,Fares,N,ފަރެސް,"72° 52' 38.174"" E","5° 13' 55.699"" N",13.158615,Tourism Island,Tourism,Resort,MoT
+LD0254,Thaa,Buruni,N,ބުރުނި,"73° 6' 23.471"" E","2° 33' 31.855"" N",34.08479,Residential Island, , , 
+LD0255,Gaafu Dhaalu,Havoddaa,N,ހަވޮއްޑާ,"73° 5' 42.813"" E","0° 32' 25.208"" N",10.84207,Tourism Island,Tourism,Resort,MoT
+LD0256,Baa,Lan'daagiraavaru,N,ލަނޑާގިރާވަރު,"73° 6' 42.776"" E","5° 17' 9.812"" N",21.612439,Tourism Island,Tourism,Resort,MoT
+LD0257,Alifu Alifu,Rasdhoo,Y,ރަސްދޫ,"72° 59' 30.053"" E","4° 15' 47.251"" N",21.825808,Residential Island, , , 
+LD0258,Noonu,Burehifasdhoo,N,ބުރެހިފަސްދޫ,"73° 22' 5.119"" E","5° 57' 55.949"" N",37.257277,Uninhabited Island, , ,MoFMRA
+LD0259,Kaafu,Thun'bafushi,N,ތުނބަފުށި,"73° 35' 24.192"" E","4° 35' 23.446"" N",7.366329,Industrial Island,Fisheries, ,MoFMRA
+LD0260,Vaavu,Keyodhoo,N,ކެޔޮދޫ,"73° 33' 0.332"" E","3° 27' 43.593"" N",11.821327,Residential Island, , , 
+LD0261,Laamu,Gaadhoo,N,ގާދޫ,"73° 27' 6.193"" E","1° 49' 16.012"" N",72.209414,Industrial Island,Agriculture, ,MoFMRA
+LD0262,Lhaviyani,Meedhaahuraa,N,މީދާހުރާ,"73° 24' 27.870"" E","5° 22' 9.578"" N",2.384277,Uninhabited Island,National Security, ,MoD
+LD0263,Alifu Dhaalu,Vilamendhoo,N,ވިލަމެންދޫ,"72° 57' 31.109"" E","3° 38' 1.562"" N",11.413981,Tourism Island,Tourism,Resort,MoT
+LD0264,Baa,Un'doodhoo,N,އުނޑޫދޫ,"73° 2' 32.784"" E","5° 16' 28.757"" N",12.904623,Industrial Island,Agriculture, ,MoFMRA
+LD0265,Laamu,Hithadhoo,N,ހިތަދޫ,"73° 23' 17.732"" E","1° 47' 48.584"" N",105.289815,Residential Island, , , 
+LD0266,Shaviyani,Kakaaeriyadhoo,N,ކަކާއެރިޔަދޫ,"72° 54' 8.352"" E","6° 28' 41.259"" N",14.934822,Industrial Island,Agriculture, ,MoFMRA
+LD0267,Vaavu,Dhiggiri,N,ދިއްގިރި,"73° 29' 13.804"" E","3° 38' 42.019"" N",2.632389,Uninhabited Island, , ,MoFMRA
+LD0268,MLE,Vilin'gili,N,ވިލިނގިލި,"73° 29' 7.006"" E","4° 10' 24.221"" N",32.913695,Residential Island, , , 
+LD0269,Raa,Mahidhoo,N,މަހިދޫ,"72° 56' 39.422"" E","5° 32' 15.163"" N",1.050065,Uninhabited Island, , ,MoFMRA
+LD0270,Gaafu Alifu,Hithaadhoogalaa,N,ހިތާދޫގަލާ,"73° 15' 8.214"" E","0° 49' 36.072"" N",0.885797,Institutional Island,National Security, ,MoHA
+LD0271,Noonu,Vavathi,N,ވަވަތި,"73° 13' 38.715"" E","5° 47' 47.021"" N",19.416668,Industrial Island,Agriculture, ,MoFMRA
+LD0272,Seenu,Addu Meedhoo,N,އައްޑޫ މީދޫ,"73° 13' 48.407"" E","0° 35' 4.400"" S",189.618982,Residential Island, , , 
+LD0273,Alifu Dhaalu,Dhan'gethi,N,ދަނގެތި,"72° 57' 21.735"" E","3° 36' 27.529"" N",30.166662,Residential Island, , , 
+LD0274,Meemu,Gaakurali,N,ގާކުރަލި,"73° 22' 20.350"" E","2° 46' 49.463"" N",13.490571,Industrial Island,Agriculture, ,MoFMRA
+LD0276,Laamu,Uthuruvinagan'du,N,އުތުރުވިނަގަނޑު,"73° 16' 41.939"" E","1° 49' 3.119"" N",1.493596,Uninhabited Island, ,Varuva,MoFMRA
+LD0277,Gaafu Dhaalu,Neimaahutta,N,ނެއިމާހުއްޓަ,"73° 1' 33.161"" E","0° 19' 30.148"" N",3.979416,Uninhabited Island, , ,MoFMRA
+LD0278,Gaafu Dhaalu,Meyragillaa,N,މޭރަގިއްލާ,"73° 6' 43.246"" E","0° 14' 45.573"" N",8.233058,Uninhabited Island, , ,Council
+LD0279,Shaviyani,Dhonvelihuraa,N,ދޮންވެލިހުރާ,"73° 17' 53.384"" E","6° 11' 4.531"" N",8.834094,Uninhabited Island, , , 
+LD0280,Dhaalu, ,N, ,"72° 50' 23.493"" E","2° 43' 17.303"" N",0.099936,Uninhabited Island, , , 
+LD0281,Raa,An'golhitheemu,N,އަނގޮޅިތީމު,"73° 0' 23.937"" E","5° 47' 34.429"" N",39.839134,Residential Island, , , 
+LD0282,Lhaviyani,Aligau,N,އަލިގައު,"73° 30' 59.617"" E","5° 14' 38.887"" N",1.983244,Industrial Island, , ,MoFMRA
+LD0283,Kaafu,Kohdhipparu,N,ކޮއްދިއްޕަރު,"73° 22' 48.450"" E","4° 15' 34.946"" N",2.710645,Tourism Island,Tourism,Resort,MoT
+LD0284,Noonu,Kudafushi,N,ކުޑަފުށި,"73° 24' 47.065"" E","5° 42' 9.941"" N",0.346564,Industrial Island,Agriculture, ,MoFMRA
+LD0285,Shaviyani,Bis Alhaahuraa,N,ބިސްއަޅާހުރާ,"73° 17' 33.026"" E","6° 9' 18.415"" N",0.189342,Uninhabited Island, , ,Council
+LD0286,Gaafu Dhaalu,Haveyyerataa,N,ހަވެއްޔެރަޓާ,"73° 2' 11.121"" E","0° 17' 52.489"" N",1.349868,Uninhabited Island, , ,Council
+LD0287,Alifu Alifu,Feridhoo,N,ފެރިދޫ,"72° 43' 32.047"" E","4° 3' 3.836"" N",45.079816,Residential Island, , , 
+LD0288,Seenu,Maradhoo,N,މަރަދޫ,"73° 7' 8.163"" E","0° 39' 54.778"" S",60.138127,Residential Island, , , 
+LD0289,Meemu,Maahuraa,N,މާހުރާ,"73° 25' 42.062"" E","2° 47' 36.873"" N",4.847474,Uninhabited Island,Agriculture, ,MoFMRA
+LD0290,Gaafu Dhaalu,Kaalhehuttaa,N,ކާޅެހުއްޓާ,"73° 7' 52.215"" E","0° 13' 37.634"" N",12.264912,Uninhabited Island, , ,Council
+LD0291,Gaafu Dhaalu,Kudhehulhehdhoo,N,ކުދެހުޅެއްދޫ,"72° 59' 50.460"" E","0° 27' 15.393"" N",1.037651,Uninhabited Island, , , 
+LD0292,Gaafu Dhaalu,Han'dhebalanerehaa,N,ހަނދެބަލަނެރެހާ,"73° 0' 41.950"" E","0° 23' 32.649"" N",0.349681,Uninhabited Island, , , 
+LD0293,Thaa,Funaddu,N,ފުނައްޑު,"73° 7' 43.976"" E","2° 11' 53.698"" N",26.781552,Industrial Island,Fisheries, ,MoFMRA
+LD0294,Meemu, ,N, ,"73° 22' 9.898"" E","2° 47' 5.719"" N",0.075365,Uninhabited Island, , , 
+LD0295,Raa,Kuroshigiri,N,ކުރޮށިގިރި,"72° 51' 1.154"" E","5° 30' 50.311"" N",1.012,Tourism Island,Tourism,Resort,Atoll Council
+LD0296,Gaafu Dhaalu,Laihaa,N,ލައިހާ,"73° 20' 28.703"" E","0° 15' 5.840"" N",1.683465,Uninhabited Island, , ,MoFMRA
+LD0297,Raa,Orimasfushi,N,އޮރިމަސްފުށި,"72° 54' 24.696"" E","5° 34' 52.317"" N",1.474316,Uninhabited Island, , ,MoFMRA
+LD0298,Raa,Ifuru,N,އިފުރު,"73° 1' 26.809"" E","5° 42' 28.904"" N",57.471278,Industrial Island, , ,MoTCA
+LD0299,Seenu,Addu Hulhudhoo,N,އައްޑޫ ހުޅުދޫ,"73° 13' 40.418"" E","0° 35' 50.624"" S",146.973945,Residential Island, , , 
+LD0300,Alifu Alifu,Maayafushi,N,މާޔަފުށި,"72° 53' 15.269"" E","4° 4' 25.006"" N",3.993157,Tourism Island,Tourism,Resort,MoT
+LD0301,Gaafu Alifu,Maakanaarataa,N,މާކަނާރަޓާ,"73° 12' 25.654"" E","0° 48' 43.061"" N",1.761895,Uninhabited Island, , ,MoFMRA
+LD0302,Gaafu Dhaalu,Bodehuttaa,N,ބޮޑެހުއްޓާ,"73° 20' 39.856"" E","0° 15' 40.137"" N",9.01065,Uninhabited Island, , ,MoFMRA
+LD0303,Haa Dhaalu,Theefaridhoo,N,ތީފަރިދޫ,"73° 2' 0.174"" E","6° 44' 24.677"" N",56.359366,Industrial Island, ,Longterm Leased,MoFMRA
+LD0304,Shaviyani,Kudalhaimendhoo,N,ކުޑަޅައިމެންދޫ,"73° 17' 42.486"" E","6° 0' 53.822"" N",13.112491,Tourism Island,Tourism,Resort,MoT
+LD0305,Kaafu,Boduhithi,N,ބޮޑުހިތި,"73° 23' 4.812"" E","4° 25' 50.766"" N",7.648971,Tourism Island,Tourism,Resort,MoT
+LD0306,Shaviyani,Keekimini,N,ކީކިމިނި,"73° 6' 43.305"" E","6° 0' 26.335"" N",32.317659,Industrial Island,Fisheries, ,MoFMRA
+LD0307,Lhaviyani,Hudhufushi,N,ހުދުފުށި,"73° 39' 13.267"" E","5° 21' 43.689"" N",64.412519,Tourism Island,Tourism,Resort,MoT
+LD0308,Laamu,Thun'buri,N,ތުނބުރި,"73° 32' 24.972"" E","2° 4' 29.534"" N",18.632685, , , ,MoFMRA
+LD0309,Laamu,Kadhdhoo,N,ކައްދޫ,"73° 31' 16.580"" E","1° 51' 41.331"" N",115.336941,Institutional Island,National Security, ,MoD
+LD0310,Lhaviyani,Kurehdhoo,N,ކުރެއްދޫ,"73° 27' 51.218"" E","5° 32' 58.089"" N",43.230988,Tourism Island,Tourism,Resort,MoT
+LD0311,Kaafu,Vabbinfaru,N,ވައްބިންފަރު,"73° 25' 26.060"" E","4° 18' 35.069"" N",5.145572,Tourism Island,Tourism,Resort,MoT
+LD0312,Dhaalu,Kiraidhoo,N,ކިރައިދޫ,"73° 1' 30.330"" E","2° 46' 49.561"" N",8.192559,Uninhabited Island, , ,MoFMRA
+LD0313,Gaafu Dhaalu,Hoothodeyaa,N,ހޫތޮޑެޔާ,"73° 10' 53.994"" E","0° 12' 9.936"" N",0.963729,Uninhabited Island, , ,MoECCT
+LD0314,Gaafu Alifu,Mahthidhoo,N,މައްތިދޫ,"73° 22' 5.249"" E","0° 40' 9.866"" N",1.519066,Uninhabited Island, ,Varuva,MoFMRA
+LD0315,Raa,Dhekunumaafarufinolhu,N,ދެކުނުމާފަރުފިނޮޅު,"72° 53' 47.510"" E","5° 25' 56.147"" N",0.113414,Uninhabited Island, , , 
+LD0316,Alifu Dhaalu,Angaagau,N,އަންގާގައު,"72° 49' 19.125"" E","3° 39' 7.795"" N",4.638032,Tourism Island,Tourism,Resort,MoT
+LD0317,Shaviyani,Dhigurah,N,ދިގުރަށް,"73° 4' 5.018"" E","6° 1' 46.667"" N",3.206806,Uninhabited Island, , ,Atoll Council
+LD0319,Raa,Madivaafaru,N,މަޑިވާފަރު,"72° 59' 22.313"" E","5° 36' 29.796"" N",0.898328,Uninhabited Island, , ,MoFMRA
+LD0320,Raa,Ban'daveri,N,ބަނޑަވެރި,"72° 51' 8.107"" E","5° 37' 21.789"" N",2.423216,Uninhabited Island, , ,MoFMRA
+LD0321,Kaafu,Dhigufinolhu,N,ދިގުފިނޮޅު,"73° 30' 8.260"" E","3° 58' 20.593"" N",8.092473,Tourism Island,Tourism,Resort,MoT
+LD0322,Meemu,Hakuraahuraa,N,ހަކުރާހުރާ,"73° 32' 18.314"" E","2° 51' 17.496"" N",7.259585,Tourism Island,Tourism,Resort,MoT
+LD0323,Laamu,Kunahandhoo,N,ކުނަހަންދޫ,"73° 22' 5.546"" E","1° 47' 0.241"" N",92.2612,Residential Island, , , 
+LD0324,Kaafu,Kudafinolhu,N,ކުޑަފިނޮޅު,"73° 27' 30.771"" E","3° 51' 54.458"" N",1.76936,Tourism Island,Tourism, ,MoT
+LD0325,Gaafu Dhaalu,Kandahdhoo,N,ކަނޑައްދޫ,"73° 11' 27.541"" E","0° 11' 40.634"" N",1.097482,Uninhabited Island, , ,MoFMRA
+LD0326,Haa Alifu,Innafinolhu,N,އިންނަފިނޮޅު,"72° 48' 39.883"" E","7° 4' 26.002"" N",14.128302,Uninhabited Island, , ,MoECCT
+LD0327,Noonu,Karinmavattaru,N,ކަރިންމަވައްޓަރު,"73° 23' 12.772"" E","5° 40' 11.282"" N",43.832388,Uninhabited Island, , ,MoFMRA
+LD0328,Haa Alifu,Gallandhoo,N,ގައްލަންދޫ,"72° 58' 59.713"" E","6° 56' 48.518"" N",11.062963,Uninhabited Island, , ,MoECCT
+LD0329,Gaafu Dhaalu,Athihuttaa,N,އަތިހުއްޓާ,"73° 3' 45.902"" E","0° 16' 47.804"" N",11.12492,Uninhabited Island, , ,MoFMRA
+LD0330,Lhaviyani,Medhafushi,N,މެދަފުށި,"73° 25' 36.862"" E","5° 21' 20.101"" N",1.613066,Uninhabited Island,National Security, ,MoD
+LD0331,Kaafu,Hen'badhoo,N,ހެނބަދޫ,"73° 23' 36.018"" E","4° 28' 54.114"" N",3.399931,Tourism Island,Tourism,Resort,MoT
+LD0332,Noonu,Fodhdhoo,N,ފޮއްދޫ,"73° 12' 57.425"" E","5° 44' 37.684"" N",26.177042,Residential Island, , , 
+LD0333,Lhaviyani,Kanuhuraa,N,ކަނުހުރާ,"73° 30' 21.589"" E","5° 31' 57.803"" N",18.707484,Tourism Island,Tourism,Resort,MoT
+LD0334,Dhaalu,Rin'budhoo,N,ރިނބުދޫ,"72° 53' 43.473"" E","2° 55' 28.260"" N",17.29024,Residential Island, , , 
+LD0335,Noonu,Ekulhivaru,N,އެކުޅިވަރު,"73° 18' 24.776"" E","5° 56' 59.798"" N",20.295588,Tourism Island,Tourism,Resort,MoT
+LD0336,Gaafu Dhaalu,Maanaidhoo,N,މާނައިދޫ,"73° 7' 4.540"" E","0° 14' 31.589"" N",16.159927,Uninhabited Island, , ,MoFMRA
+LD0337,Dhaalu,Meedhuffushi,N,މީދުއްފުށި,"73° 0' 1.389"" E","3° 0' 11.572"" N",6.936056,Tourism Island,Tourism,Resort,MoT
+LD0338,Dhaalu,Maafushi,N,މާފުށި,"72° 51' 33.002"" E","2° 41' 17.338"" N",12.671496,Tourism Island,Tourism,Resort,MoT
+LD0339,Gaafu Dhaalu,Badefodiyaa,N,ބަޑެފޮޑިޔާ,"73° 3' 37.695"" E","0° 16' 52.821"" N",2.657242,Uninhabited Island, , , 
+LD0340,Lhaviyani,Hinnavaru,N,ހިންނަވަރު,"73° 24' 41.126"" E","5° 29' 32.938"" N",54.066987,Residential Island, , , 
+LD0341,Laamu,Veligan'dufinolhu,N,ވެލިގަނޑުފިނޮޅު,"73° 24' 31.278"" E","1° 49' 44.371"" N",1.18829,Uninhabited Island, , ,MoFMRA
+LD0342,Gaafu Dhaalu,Faredhoo,N,ފަރެދޫ,"73° 0' 17.648"" E","0° 24' 5.085"" N",1.296294,Uninhabited Island, , ,MoFMRA
+LD0343,Alifu Alifu,Gangehi,N,ގަންގެހި,"72° 45' 15.132"" E","4° 13' 11.997"" N",3.339659,Tourism Island,Tourism,Resort,MoT
+LD0346,Haa Dhaalu,Kudamuraidhoo,N,ކުޑަމުރައިދޫ,"72° 55' 11.554"" E","6° 38' 33.974"" N",30.593021,Tourism Island,Tourism, ,MoT
+LD0347,Gaafu Alifu, ,N, ,"73° 26' 26.446"" E","0° 39' 17.173"" N",0.192344,Uninhabited Island, , , 
+LD0348,Baa,Dhonfan,N,ދޮންފަން,"73° 7' 22.550"" E","5° 11' 16.726"" N",17.30447,Residential Island, , , 
+LD0349,Faafu,Magoodhoobodufinolhu,N,މަގޫދޫބޮޑުފިނޮޅު,"72° 57' 21.979"" E","3° 4' 30.999"" N",0.237145,Uninhabited Island, , ,Council
+LD0350,Thaa,Hirilandhoo,N,ހިރިލަންދޫ,"72° 55' 55.737"" E","2° 16' 13.421"" N",30.088315,Residential Island, , , 
+LD0351,Thaa,Fenmeerufushi,N,ފެންމީރުފުށި,"73° 13' 59.867"" E","2° 16' 14.198"" N",1.703457,Uninhabited Island, , ,Atoll Council
+LD0352,Dhaalu,Hulhuvahi,N,ހުޅުވަހި,"73° 1' 29.520"" E","2° 51' 23.216"" N",3.919947,Uninhabited Island, , ,Atoll Council
+LD0354,Lhaviyani,Madivaru,N,މަޑިވަރު,"73° 22' 12.942"" E","5° 27' 31.521"" N",36.361705,Uninhabited Island, , ,MoD
+LD0355,Raa,Goboshi,N,ގޮބޮށި,"72° 53' 3.056"" E","5° 33' 5.942"" N",1.796438,Uninhabited Island, ,Varuva,MoFMRA
+LD0356,Alifu Alifu,Mathivereefinolhu,N,މަތިވެރީފިނޮޅު,"72° 45' 0.011"" E","4° 11' 9.211"" N",2.86149,Tourism Island,Tourism,Resort,MoT
+LD0357,Gaafu Dhaalu,Maavaaruloo,N,މާވާރުލޫ,"73° 30' 37.737"" E","0° 20' 9.303"" N",90.943344,Industrial Island,Aviation,Airport,MoTCA
+LD0359,Kaafu,Girifushi,N,ގިރިފުށި,"73° 34' 41.910"" E","4° 19' 6.038"" N",5.87487,Institutional Island,National Security, ,MoD
+LD0360,Gaafu Dhaalu,Mudhimaahutta,N,މުދިމާހުއްޓާ,"73° 20' 47.747"" E","0° 15' 16.995"" N",18.395474,Uninhabited Island, , ,MoFMRA
+LD0361,Lhaviyani,Veyvah,N,ވޭވަށް,"73° 21' 40.286"" E","5° 25' 30.761"" N",2.910564,Tourism Island,Tourism, ,MoT
+LD0362,Kaafu, ,N, ,"73° 26' 35.722"" E","4° 57' 22.454"" N",0.063477,Uninhabited Island, , , 
+LD0363,Baa,Kihaadhoo,N,ކިހާދޫ,"73° 7' 30.358"" E","5° 12' 54.677"" N",30.772466,Residential Island, , , 
+LD0364,Alifu Dhaalu, ,N, ,"72° 58' 16.450"" E","3° 46' 5.260"" N",0.310977,Uninhabited Island, , , 
+LD0365,Gaafu Dhaalu,Haveyyerataa,N,ހަވެއްޔެރަޓާ,"73° 3' 31.026"" E","0° 17' 3.253"" N",0.670133,Uninhabited Island, , , 
+LD0366,Laamu,Fenboarahaa,N,ފެންބޯރަހާ,"73° 17' 8.643"" E","1° 48' 37.854"" N",2.661034,Uninhabited Island, , ,MoFMRA
+LD0367,Gaafu Dhaalu,Maagoderehaa,N,މާގޮޑެރެހާ,"72° 59' 26.612"" E","0° 30' 22.894"" N",7.274784,Uninhabited Island, , ,MoTCA
+LD0368,Laamu, ,N, ,"73° 19' 32.344"" E","1° 47' 29.235"" N",0.050463,Uninhabited Island, , , 
+LD0369,Haa Dhaalu,Naagoashi,N,ނާގޯށި,"72° 54' 11.632"" E","6° 40' 12.316"" N",73.666643,Tourism Island,Tourism,Resort,MoT
+LD0370,Haa Dhaalu,Kattalafushi,N,ކައްޓަލަފުށި,"72° 58' 58.871"" E","6° 33' 59.344"" N",3.310857,Uninhabited Island, , ,MoFMRA
+LD0371,Laamu,Kashidhoo,N,ކަށިދޫ,"73° 15' 13.235"" E","1° 55' 9.909"" N",3.107012,Tourism Island, , ,MoT
+LD0373,Gaafu Alifu,Funadhooviligillaa,N,ފުނަދޫވިލިގިއްލާ,"73° 31' 11.432"" E","0° 34' 11.232"" N",6.458415,Tourism Island, , ,MoT
+LD0374,Shaviyani,Farukolhu,N,ފަރުކޮޅު,"73° 17' 48.091"" E","6° 11' 27.000"" N",75.465983,Uninhabited Island, , ,MoECCT
+LD0375,Alifu Alifu,Halaveli,N,ހަލަވެލި,"72° 55' 9.119"" E","4° 2' 18.573"" N",7.655918,Tourism Island,Tourism,Resort,MoT
+LD0376,Gaafu Alifu,Medhehuttaa,N,މެދެހުއްޓާ,"73° 33' 42.900"" E","0° 28' 1.188"" N",2.454049,Uninhabited Island, , ,MoFMRA
+LD0377,Kaafu,Kan'doomaafushi,N,ކަނޑޫމާފުށި,"73° 28' 25.018"" E","3° 54' 11.526"" N",14.929873,Tourism Island,Tourism,Resort,MoT
+LD0378,Seenu,Dheeron'di,N,ދީރޮނޑި,"73° 5' 13.899"" E","0° 35' 41.471"" S",0.825441,Uninhabited Island, , ,MoECCT
+LD0380,Gaafu Alifu,Dhevvalaabadhoo,N,ދެއްވަލާބަދޫ,"73° 18' 33.860"" E","0° 36' 16.984"" N",5.300372,Tourism Island,Tourism,Resort,MoFMRA
+LD0381,Gaafu Dhaalu,Lonudhoo,N,ލޮނުދޫ,"73° 24' 48.618"" E","0° 18' 31.648"" N",5.969901,Uninhabited Island, , ,MoFMRA
+LD0382,Gaafu Dhaalu,Uhehootirataa,N,އުހެހޫޓިރަޓާ,"73° 10' 15.741"" E","0° 12' 32.959"" N",5.328448,Uninhabited Island, , ,MoFMRA
+LD0383,Gaafu Alifu,Raaverrehaa,N,ރާވެއްރެހާ,"73° 25' 44.738"" E","0° 46' 3.785"" N",5.0062,Industrial Island,Fisheries, ,MoFMRA
+LD0384,Seenu,Mulikede,N,މުލިކެޑެ,"73° 12' 58.251"" E","0° 39' 32.283"" S",6.23206,Tourism Island,Tourism,Resort,MoT
+LD0385,Raa,Hiraveri,N,ހިރަވެރި,"72° 52' 9.968"" E","5° 34' 17.896"" N",0.484165,Uninhabited Island, ,Varuva,MoFMRA
+LD0386,Thaa,Hon'delifushi,N,ހޮނޑެލިފުށި,"73° 18' 45.556"" E","2° 29' 42.120"" N",1.466279,Uninhabited Island, , ,Council
+LD0387,Noonu,Kedhivaru,N,ކެދިވަރު,"73° 20' 10.811"" E","5° 51' 7.737"" N",17.030559,Uninhabited Island, , ,MoFMRA
+LD0388,Alifu Dhaalu,Huruelhi,N,ހުރުއެޅި,"72° 43' 10.538"" E","3° 32' 39.086"" N",7.205173,Tourism Island,Tourism,Resort,MoT
+LD0389,Kaafu,Dhoonidhoo,N,ދޫނިދޫ,"73° 30' 50.153"" E","4° 11' 49.627"" N",4.116428,Institutional Island, ,National Security,MoD
+LD0390,Kaafu,Farukolhufushi,N,ފަރުކޮޅުފުށި,"73° 32' 38.957"" E","4° 13' 52.642"" N",10.808736,Tourism Island,Tourism, ,MoT
+LD0391,Noonu,Kudafari,N,ކުޑަފަރި,"73° 24' 1.504"" E","5° 52' 58.184"" N",29.192882,Residential Island, , , 
+LD0392,Noonu,Manadhoo,Y,މަނަދޫ,"73° 24' 39.103"" E","5° 45' 57.570"" N",110.901565,Residential Island, , , 
+LD0393,Gaafu Dhaalu,Dherukerehaa,N,ދެރުކެރެހާ,"73° 6' 29.550"" E","0° 14' 57.315"" N",1.50793,Uninhabited Island, , , 
+LD0394,Lhaviyani,Bodufinolhu,N,ބޮޑުފިނޮޅު,"73° 34' 16.751"" E","5° 16' 14.256"" N",3.4637,Tourism Island,Tourism,Resort,MoT
+LD0395,Gaafu Dhaalu,Farukolhuhuttaa,N,ފަރުކޮޅުހުއްޓާ,"73° 13' 34.647"" E","0° 11' 44.974"" N",1.390936,Tourism Island,Tourism, ,MoT
+LD0396,Gaafu Alifu,Viligalaa,N,ވިލިގަލާ,"73° 12' 59.422"" E","0° 31' 7.526"" N",3.251712,Uninhabited Island, , ,Atoll Council
+LD0397,Gaafu Dhaalu,Maarehaa,N,މާރެހާ,"73° 11' 50.442"" E","0° 11' 28.780"" N",10.666358,Uninhabited Island, , ,MoFMRA
+LD0399,Kaafu,Ziyaaraiyfushi,N,ޒިޔާރަތްފުށި,"73° 22' 20.923"" E","4° 31' 58.603"" N",6.081308,Tourism Island,Tourism,Resort,MoT
+LD0400,Dhaalu,Kan'dinmaa,N,ކަނޑިންމާ,"73° 0' 55.462"" E","2° 44' 25.361"" N",43.750083,Tourism Island,Tourism,Resort,MoT
+LD0401,Raa,Muravandhoo,N,މުރަވަންދޫ,"72° 57' 6.596"" E","5° 36' 28.495"" N",10.846716,Tourism Island,Tourism,Resort,MoT
+LD0402,Shaviyani,Mathikomandoo,N,މަތިކޮމަންޑޫ,"73° 2' 45.924"" E","6° 3' 25.635"" N",8.48867,Uninhabited Island, , ,Council
+LD0404,Raa,Dhikkurehdhoo,N,ދިއްކުރެއްދޫ,"72° 57' 25.945"" E","5° 34' 36.745"" N",4.833281,Uninhabited Island, , ,MoFMRA
+LD0405,Alifu Alifu,Etheremadivaru,N,އެތެރެމަޑިވަރު,"72° 56' 15.120"" E","4° 7' 7.839"" N",2.432228,Tourism Island,Tourism,Resort,MoT
+LD0406,Haa Dhaalu,Vaikaradhoo,N,ވައިކަރަދޫ,"72° 57' 11.234"" E","6° 32' 59.279"" N",107.450662,Residential Island, , , 
+LD0407,Gaafu Dhaalu,Kurehdhoo,N,ކުރެއްދޫ,"73° 5' 58.538"" E","0° 15' 30.034"" N",14.164559,Uninhabited Island, ,Varuva,MoFMRA
+LD0408,Haa Alifu,Beenaafushi,N,ބީނާފުށި,"73° 8' 11.182"" E","6° 55' 42.012"" N",2.213989,Uninhabited Island, ,Varuva,MoFMRA
+LD0409,Noonu,Ehdhuffarumairah,N,އެއްދުއްފަރުމައިރަށް,"73° 24' 31.199"" E","5° 41' 44.216"" N",15.274665,Tourism Island,Tourism, ,MoT
+LD0410,Baa,Gaavilin'gili,N,ގާވިލިނގިލި,"72° 50' 15.037"" E","5° 3' 43.547"" N",1.994262,Uninhabited Island, ,Varuva,MoFMRA
+LD0411,Alifu Alifu,Velidhoo,N,ވެލިދޫ,"72° 49' 8.518"" E","4° 11' 40.645"" N",9.692194,Tourism Island,Tourism,Resort,MoT
+LD0412,Gaafu Alifu,Dhevvadhoo,N,ދެއްވަދޫ,"73° 14' 31.675"" E","0° 33' 25.012"" N",23.213563,Residential Island, , , 
+LD0414,Laamu,Kudarah,N,ކުޑަރަށް,"73° 32' 11.252"" E","2° 3' 54.390"" N",2.299716,Uninhabited Island, , ,MoFMRA
+LD0415,Kaafu,Olhigan'dufinolhu,N,އޮޅިގަނޑުފިނޮޅު,"73° 25' 3.454"" E","3° 48' 42.979"" N",0.618737,Tourism Island,Tourism, ,MoT
+LD0416,Haa Dhaalu,Nolhivaranfaru,N,ނޮޅިވަރަންފަރު,"73° 7' 6.716"" E","6° 41' 43.036"" N",173.732704,Residential Island, , , 
+LD0417,Faafu,Minimasgali,N,މިނިމަސްގަލި,"72° 50' 8.224"" E","3° 14' 33.678"" N",3.850819,Tourism Island,Tourism, ,MoT
+LD0418,Baa,Bodufinolhu,N,ބޮޑުފިނޮޅު,"72° 51' 27.875"" E","5° 0' 32.027"" N",11.071244,Tourism Island,Tourism,Resort,MoT
+LD0419,Alifu Dhaalu,Huvahendhoo,N,ހުވަހެންދޫ,"72° 57' 13.804"" E","3° 39' 13.399"" N",6.041932,Tourism Island,Tourism,Resort,MoT
+LD0420,Vaavu,Rakeedhoo,N,ރަކީދޫ,"73° 28' 11.018"" E","3° 18' 53.652"" N",6.417948,Residential Island, , , 
+LD0421,Noonu,Kuramaadhoo,N,ކުރަމާދޫ,"73° 8' 37.708"" E","5° 52' 23.633"" N",17.3007,Uninhabited Island, , ,MoFMRA
+LD0422,Thaa,Kin'bidhoo,N,ކިނބިދޫ,"73° 3' 57.847"" E","2° 10' 5.747"" N",38.175104,Residential Island, , , 
+LD0423,Raa,Rasmaadhoo,N,ރަސްމާދޫ,"73° 2' 37.318"" E","5° 33' 47.049"" N",26.684992,Residential Island, , , 
+LD0424,Shaviyani,Kan'baalifaru,N,ކަނބާލިފަރު,"73° 15' 12.362"" E","6° 7' 27.134"" N",21.988548,Tourism Island,Tourism,Resort,MoT
+LD0425,Gaafu Dhaalu,Havodigalaa,N,ހަވޮޑިގަލާ,"73° 4' 27.793"" E","0° 31' 23.444"" N",7.486751,Uninhabited Island, , ,Atoll Council
+LD0427,Thaa,Gaadhiffushi,N,ގާދިއްފުށި,"73° 12' 45.089"" E","2° 15' 9.639"" N",14.144367,Residential Island, , , 
+LD0428,Raa,Uthurumaafaru,N,އުތުރުމާފަރު,"72° 50' 44.836"" E","5° 40' 11.830"" N",3.069357,Tourism Island,Tourism,Resort,MoT
+LD0430,Gaafu Dhaalu,Gazeeraa,N,ގަޒީރާ,"73° 22' 36.578"" E","0° 16' 0.867"" N",5.310266,Tourism Island,Tourism, ,MoT
+LD0431,Gaafu Dhaalu,Baulhegalla,N,ބައުޅެގައްލާ,"73° 10' 20.949"" E","0° 29' 41.743"" N",3.788828,Uninhabited Island, , ,MoFMRA
+LD0432,Laamu,Kalhurahaa,N,ކަޅުރަހާ,"73° 15' 23.919"" E","1° 50' 39.880"" N",2.265889,Uninhabited Island, , ,Atoll Council
+LD0433,Haa Alifu,Gaamathikulhudhoo,N,ގާމަތިކުޅުދޫ,"72° 59' 4.096"" E","7° 2' 20.302"" N",11.787789,Tourism Island,Tourism, ,MoT
+LD0434,Raa,Thaavathaa,N,ތާވަތާ,"72° 58' 32.913"" E","5° 29' 7.067"" N",8.220484,Uninhabited Island, , ,MoFMRA
+LD0435,Gaafu Alifu,Kon'dey,N,ކޮނޑޭ,"73° 32' 55.597"" E","0° 29' 57.317"" N",119.261418,Residential Island, , , 
+LD0436,Kaafu,Madivaru,N,މަޑިވަރު,"73° 22' 7.286"" E","4° 30' 2.691"" N",9.662652,Tourism Island,Tourism,Resort,MoT
+LD0437,Meemu,Seedheehuraaveligan'du,N,ސީދީހުރާވެލިގަނޑު,"73° 33' 16.375"" E","2° 51' 37.201"" N",2.081387,Tourism Island,Tourism, ,MoT
+LD0438,Baa,Hibalhidhoo,N,ހިބަޅިދޫ,"73° 6' 53.085"" E","5° 8' 28.921"" N",20.05163,Tourism Island,Tourism, ,MoT
+LD0439,Gaafu Dhaalu,Faathiyehuttaa,N,ފާތިޔެހުއްޓާ,"73° 12' 50.267"" E","0° 11' 36.528"" N",0.716363,Uninhabited Island, , ,MoFMRA
+LD0440,Baa,Dhigufaruvinagan'du,N,ދިގުފަރުވިނަގަނޑު,"72° 59' 23.100"" E","5° 21' 8.399"" N",5.842201,Tourism Island,Tourism,Resort,MoT
+LD0441,Haa Dhaalu,Finey,N,ފިނޭ,"73° 3' 12.202"" E","6° 44' 45.389"" N",117.528869,Residential Island, , , 
+LD0442,MLE,Malé,Y,މާލެ,"73° 30' 34.920"" E","4° 10' 28.006"" N",208.033729,Residential Island, , , 
+LD0443,Gaafu Alifu,Kooddoo,N,ކުއްޑޫ,"73° 26' 1.302"" E","0° 44' 0.885"" N",83.300832,Industrial Island,Fisheries, ,MoFMRA
+LD0444,Raa,Aarah,N,އާރަށް,"72° 56' 28.861"" E","5° 26' 51.598"" N",12.982632,Tourism Island,Tourism,Resort,MoT
+LD0445,Meemu,Erruhhuraa,N,އެއްރުއްހުރާ,"73° 38' 31.413"" E","3° 4' 12.109"" N",1.010406,Uninhabited Island, , ,MoFMRA
+LD0446,Meemu,Muli,Y,މުލި,"73° 34' 51.911"" E","2° 55' 4.969"" N",77.26488,Residential Island, , , 
+LD0447,Gaafu Dhaalu,Dhoonirehaa,N,ދޫނިރެހާ,"73° 12' 4.476"" E","0° 11' 29.293"" N",17.588955,Uninhabited Island, , ,MoFMRA
+LD0448,Dhaalu,Dhoores,N,ދޫރެސް,"72° 53' 2.940"" E","2° 55' 3.729"" N",7.943607,Tourism Island,Tourism,Resort,MoT
+LD0449,Thaa,Kudakin'bidhoo,N,ކުޑަކިނބިދޫ,"73° 3' 46.981"" E","2° 9' 52.383"" N",1.654083,Uninhabited Island, , ,Council
+LD0450,Gaafu Dhaalu,Isdhuhuttaa,N,އިސްދުހުއްޓާ,"73° 13' 6.960"" E","0° 11' 39.695"" N",0.237663,Uninhabited Island, , ,MoFMRA
+LD0451,Baa,Fonimagoodhoo,N,ފޮނިމަގޫދޫ,"73° 9' 48.701"" E","5° 15' 18.586"" N",11.213478,Tourism Island,Tourism,Resort,MoT
+LD0452,Alifu Dhaalu,Heenfaru,N,ހީންފަރު,"72° 49' 44.618"" E","3° 49' 9.346"" N",0.832499,Tourism Island,Tourism,Resort,MoT
+LD0453,Noonu,Maafunafaru,N,މާފުނަފަރު,"73° 21' 58.453"" E","5° 51' 40.273"" N",23.545818,Uninhabited Island, , ,MoFMRA
+LD0454,Baa,Anhenunfushi,N,އަންހެނުންފުށި,"72° 58' 7.296"" E","5° 20' 31.693"" N",20.526428,Uninhabited Island, , ,MoFMRA
+LD0455,Noonu,Holhudhoo,N,ހޮޅުދޫ,"73° 15' 19.796"" E","5° 45' 11.115"" N",50.492919,Residential Island, , , 
+LD0456,Gaafu Alifu,Kisserahaa,N,ކިއްސެރަހާ,"73° 8' 9.177"" E","0° 38' 57.097"" N",0.280871,Uninhabited Island, , ,MoFMRA
+LD0457,Gaafu Alifu,Bakehthaa,N,ބަކެއްތާ,"73° 29' 51.399"" E","0° 22' 52.095"" N",2.050239,Tourism Island,Tourism,Resort,MoT
+LD0458,Haa Alifu,Alidhuffarufinolhu,N,އަލިދުއްފަރުފިނޮޅު,"73° 6' 14.438"" E","6° 51' 40.837"" N",2.442713,Tourism Island,Tourism,Resort,MoT
+LD0459,Alifu Dhaalu,Dhidhdhoo,N,ދިއްދޫ,"72° 52' 42.997"" E","3° 29' 4.457"" N",20.305146,Residential Island, , , 
+LD0460,Thaa,Vanbadhi,N,ވަންބަދި,"72° 58' 33.489"" E","2° 11' 14.351"" N",5.103917,Uninhabited Island, , ,MoFMRA
+LD0461,Alifu Dhaalu,Mirihi,N,މިރިހި,"72° 46' 50.019"" E","3° 37' 10.549"" N",3.640979,Tourism Island,Tourism,Resort,MoT
+LD0462,Gaafu Alifu,Meradhoo,N,މެރަދޫ,"73° 5' 36.601"" E","0° 35' 12.403"" N",5.770439,Tourism Island,Tourism,Resort,MoT
+LD0463,Shaviyani,Raggan'duhuraa,N,ރައްގަނޑުހުރާ,"73° 2' 17.842"" E","6° 6' 43.021"" N",0.022541,Uninhabited Island, , ,MoFMRA
+LD0464,Lhaviyani,Vihafarufinolhu,N,ވިހަފަރުފިނޮޅު,"73° 34' 55.358"" E","5° 27' 20.922"" N",0.279296,Uninhabited Island, , , 
+LD0465,Shaviyani,Migoodhoo,N,މިގޫދޫ,"73° 14' 28.582"" E","6° 13' 43.490"" N",8.669644,Uninhabited Island, , ,MoFMRA
+LD0466,Baa,Nelivarufinolhu,N,ނެލިވަރުފިނޮޅު,"73° 5' 8.833"" E","5° 7' 33.523"" N",0.99465,Uninhabited Island, , ,MoFMRA
+LD0467,Gaafu Alifu,Kaludirehaa,N,ކަލުޑިރެހާ,"73° 34' 9.687"" E","0° 26' 3.378"" N",4.694855,Uninhabited Island, , , 
+LD0468,Kaafu, ,N, ,"73° 36' 40.750"" E","4° 20' 35.915"" N",1.323745,Uninhabited Island, , , 
+LD0469,Lhaviyani,Meyyafushi,N,މެއްޔަފުށި,"73° 36' 27.785"" E","5° 26' 30.634"" N",7.33954,Uninhabited Island, , ,MoFMRA
+LD0470,Gaafu Dhaalu,Fiyoaree,N,ފިޔޯރީ,"73° 8' 11.609"" E","0° 13' 17.018"" N",80.7816,Residential Island, , , 
+LD0471,Thaa,Fushi,N,ފުށި,"72° 58' 8.416"" E","2° 11' 35.201"" N",5.904114,Uninhabited Island, , ,MoFMRA
+LD0472,Laamu,Bokaiyfushi,N,ބޮކަތްފުށި,"73° 32' 5.086"" E","1° 59' 56.455"" N",8.864107,Uninhabited Island, , ,Council
+LD0473,Kaafu,Lhohifushi,N,ޅޮހިފުށި,"73° 37' 3.222"" E","4° 21' 2.995"" N",20.1946,Tourism Island,Tourism, ,MoT
+LD0474,Alifu Alifu,Bodufolhudhoo,N,ބޮޑުފޮޅުދޫ,"72° 46' 24.490"" E","4° 11' 8.667"" N",12.492676,Residential Island, , , 
+LD0475,Gaafu Alifu, ,N, ,"73° 34' 16.561"" E","0° 24' 58.635"" N",0.156404,Uninhabited Island, , , 
+LD0477,Raa,Fasmendhoo,N,ފަސްމެންދޫ,"72° 52' 53.769"" E","5° 29' 39.179"" N",19.63171,Tourism Island,Tourism,Resort,MoT
+LD0478,Raa,Kudafenmaaen'boodhoo,N,ކުޑަފެންމާއެނބޫދޫ,"72° 56' 8.995"" E","5° 37' 30.597"" N",1.338788,Uninhabited Island, , ,MoFMRA
+LD0479,Gaafu Dhaalu,Maadhoo,N,މާދޫ,"73° 4' 31.937"" E","0° 16' 12.754"" N",17.716716,Uninhabited Island, , ,MoFMRA
+LD0480,Shaviyani,Hirubadhoo,N,ހިރުބަދޫ,"73° 14' 43.363"" E","6° 11' 16.328"" N",13.053076,Uninhabited Island, , ,MoFMRA
+LD0481,Gaafu Dhaalu,Dhigurehaa,N,ދިގުރެހާ,"73° 0' 17.219"" E","0° 25' 17.091"" N",2.804223,Tourism Island,Tourism, ,MoT
+LD0482,Kaafu,Olhuhali,N,އޮޅުހަލި,"73° 27' 2.940"" E","4° 41' 24.067"" N",6.132802,Tourism Island,Tourism,Resort,MoT
+LD0483,Kaafu,Funadhoo,N,ފުނަދޫ,"73° 31' 4.366"" E","4° 11' 1.617"" N",5.57893,Uninhabited Island, , , 
+LD0484,Laamu,Maamendhoo,N,މާމެންދޫ,"73° 23' 22.984"" E","1° 49' 4.383"" N",22.36208,Residential Island, , , 
+LD0485,Shaviyani,Dhiguvelidhoomairah,N,ދިގުވެލިދޫމައިރަށް,"73° 5' 15.371"" E","6° 1' 10.111"" N",6.891593,Uninhabited Island, , ,Atoll Council
+LD0486,Gaafu Dhaalu, ,N, ,"73° 0' 20.256"" E","0° 23' 48.127"" N",1.320512,Uninhabited Island, , , 
+LD0487,Haa Dhaalu,Kuredhigan'du,N,ކުރެދިގަނޑު,"73° 6' 18.382"" E","6° 40' 42.666"" N",0.039778,Uninhabited Island, , ,Council
+LD0488,Haa Alifu,Uligan,N,އުލިގަން,"72° 55' 35.002"" E","7° 4' 58.525"" N",106.727102,Residential Island, , , 
+LD0489,Haa Dhaalu,Kudafarufasgandu,N,ކުޑަފަރުފަސްގަނޑު,"72° 55' 30.141"" E","6° 42' 42.795"" N",0.033,Tourism Island,Tourism,Resort,MoT
+LD0490,Lhaviyani,Maafilaafushi,N,މާފިލާފުށި,"73° 25' 2.208"" E","5° 21' 46.167"" N",57.20191,Uninhabited Island,National Security, ,MoD
+LD0491,Shaviyani,Eriadhoo,N,އެރިއަދޫ,"73° 17' 12.262"" E","6° 6' 13.208"" N",62.834566,Industrial Island,Agriculture, ,MoFMRA
+LD0492,Kaafu,Kudahithi,N,ކުޑަހިތި,"73° 22' 49.122"" E","4° 25' 2.474"" N",1.438786,Uninhabited Island, , , 
+LD0493,Raa,Dheburidheythereyvaadhoo,N,ދެބުރިދޭތެރޭވާދޫ,"72° 59' 28.919"" E","5° 24' 2.512"" N",10.055359,Industrial Island,Agriculture, ,MoFMRA
+LD0494,Haa Alifu,Un'gulifinolhu,N,އުނގުލިފިނޮޅު,"72° 54' 3.945"" E","6° 58' 13.926"" N",3.169843,Uninhabited Island, , ,Council
+LD0495,Kaafu,Gaagan'du,N,ގާގަނޑު,"73° 32' 13.295"" E","4° 14' 57.990"" N",1.113038,Uninhabited Island, , , 
+LD0496,Raa,Kudathulhaadhoo,N,ކުޑަތުޅާދޫ,"72° 53' 56.365"" E","5° 24' 27.480"" N",1.801702,Uninhabited Island, ,Varuva,MoFMRA
+LD0497,Noonu,Velidhoo,N,ވެލިދޫ,"73° 16' 24.372"" E","5° 39' 51.935"" N",62.235479,Residential Island, , , 
+LD0498,Meemu, ,N, ,"73° 22' 41.327"" E","3° 3' 21.574"" N",0.220431,Uninhabited Island, , , 
+LD0499,Dhaalu,Kudahuvadhoo,Y,ކުޑަހުވަދޫ,"72° 53' 19.882"" E","2° 40' 12.493"" N",165.579649,Residential Island, , , 
+LD0500,Noonu,Lhohi,N,ޅޮހި,"73° 22' 39.470"" E","5° 48' 57.734"" N",40.562579,Residential Island, , , 
+LD0501,Alifu Alifu,Thoddoo,N,ތޮއްޑޫ,"72° 57' 33.697"" E","4° 26' 13.430"" N",162.847076,Residential Island, , , 
+LD0502,Baa,Gemendhoo,N,ގެމެންދޫ,"73° 1' 11.255"" E","5° 16' 32.157"" N",1.895214,Uninhabited Island, , ,Council
+LD0503,Dhaalu,Thilabolhufushi,N,ތިލަބޮޅުފުށި,"73° 1' 19.406"" E","2° 45' 20.574"" N",4.526959,Uninhabited Island, ,Varuva,MoFMRA
+LD0504,Thaa,Kan'doodhoo,N,ކަނޑޫދޫ,"72° 54' 59.964"" E","2° 19' 16.546"" N",81.829777,Residential Island, , , 
+LD0505,Gaafu Dhaalu,Uherehaa,N,އުހެރެހާ,"73° 0' 18.878"" E","0° 24' 47.823"" N",0.923625,Uninhabited Island, , ,MoFMRA
+LD0506,Seenu,Kan'diheragan'du,N,ކަނޑިހެރަގަނޑު,"73° 8' 31.163"" E","0° 36' 54.351"" S",0.258128,Uninhabited Island, , ,MoECCT
+LD0507,Haa Alifu,Utheemu,N,އުތީމު,"73° 6' 45.393"" E","6° 50' 4.759"" N",49.983419,Residential Island, , , 
+LD0508,Haa Alifu,Kan'daalifinolhu,N,ކަނޑާލިފިނޮޅު,"73° 7' 49.877"" E","6° 55' 32.515"" N",5.047389,Uninhabited Island, ,Varuva,MoFMRA
+LD0509,Raa,Kandhoomeehunge Lhaan'bugali,N,ކަނދޫމީހުންގެ ޅާނބުގަލި,"72° 55' 11.625"" E","5° 43' 51.906"" N",0.555247,Uninhabited Island, , ,MoFMRA
+LD0510,Lhaviyani,Kurendhoo,N,ކުރެންދޫ,"73° 27' 48.474"" E","5° 20' 2.513"" N",22.788812,Residential Island, , , 
+LD0511,Gaafu Dhaalu,Vaareyadhuvaa,N,ވާރެޔަދުވާ,"73° 20' 14.170"" E","0° 17' 18.866"" N",3.443213,Uninhabited Island, , ,MoFMRA
+LD0512,Noonu,Raalhulaakolhu,N,ރާޅުލާކޮޅު,"73° 24' 16.633"" E","5° 41' 12.574"" N",1.616139,Tourism Island,Tourism, ,MoT
+LD0513,Alifu Dhaalu,Fenfushi,N,ފެންފުށި,"72° 46' 58.750"" E","3° 29' 21.020"" N",25.640855,Residential Island, , , 
+LD0514,Gaafu Alifu,Dhiyadhoo,N,ދިޔަދޫ,"73° 33' 22.434"" E","0° 28' 39.734"" N",45.101917,Uninhabited Island,Agriculture, ,MoFMRA
+LD0515,Seenu,Kudamaahera,N,ކުޑަމާހެރަ,"73° 5' 20.645"" E","0° 35' 52.676"" S",0.599357,Uninhabited Island, , ,MoECCT
+LD0516,Kaafu,Fihaalhohi,N,ފިހާޅޮހި,"73° 22' 1.457"" E","3° 52' 38.169"" N",8.999348,Tourism Island,Tourism,Resort,MoT
+LD0517,Lhaviyani,Olhuvelifushi,N,އޮޅުވެލިފުށި,"73° 36' 24.539"" E","5° 16' 42.466"" N",28.801563,Residential Island, , , 
+LD0518,Baa,Kamadhoo,N,ކަމަދޫ,"73° 8' 13.131"" E","5° 16' 55.323"" N",21.348633,Residential Island, , , 
+LD0519,Gaafu Dhaalu,Kureikeymaahuttaa,N,ކުރެއިކޭމާހުއްޓާ,"73° 3' 1.048"" E","0° 17' 21.409"" N",5.398028,Uninhabited Island, , ,Council
+LD0520,Baa,Fehendhoo,N,ފެހެންދޫ,"72° 58' 7.515"" E","4° 52' 54.386"" N",25.167163,Residential Island, , , 
+LD0521,Dhaalu,Gemendhoo,N,ގެމެންދޫ,"73° 1' 31.590"" E","2° 47' 52.225"" N",5.47541,Uninhabited Island, , , 
+LD0522,Gaafu Dhaalu,Femunaidhoo,N,ފެމުނައިދޫ,"73° 6' 49.562"" E","0° 14' 39.139"" N",7.977176,Uninhabited Island, , , 
+LD0523,Meemu,Seedheehuraa,N,ސީދީހުރާ,"73° 33' 23.460"" E","2° 51' 30.170"" N",1.609742,Tourism Island,Tourism, ,MoT
+LD0524,Kaafu,En'boodhoofinolhu,N,އެނބޫދޫފިނޮޅު,"73° 31' 31.178"" E","4° 6' 11.009"" N",5.563548,Tourism Island,Tourism, ,MoT
+LD0525,Shaviyani,Milandhoo,N,މިލަންދޫ,"73° 14' 40.226"" E","6° 17' 11.383"" N",133.488627,Residential Island, , , 
+LD0526,Seenu, ,N, ,"73° 12' 32.603"" E","0° 34' 35.549"" S",0.013884,Uninhabited Island, , , 
+LD0527,Kaafu,Medhufinolhu,N,މެދުފިނޮޅު,"73° 22' 9.835"" E","4° 30' 52.386"" N",54.210596,Tourism Island,Tourism,Resort,MoT
+LD0528,Haa Alifu,Berinmadhoo,N,ބެރިންމަދޫ,"72° 58' 17.088"" E","7° 2' 50.136"" N",14.002944,Tourism Island,Tourism,Resort,MoT
+LD0529,Alifu Dhaalu,Tholhifushi,N,ތޮޅިފުށި,"72° 47' 23.710"" E","3° 29' 6.145"" N",2.667914,Tourism Island,Tourism, ,MoT
+LD0530,Dhaalu,Uhdhoo,N,އުއްދޫ,"72° 59' 26.647"" E","2° 58' 14.119"" N",8.535616,Industrial Island,Agriculture, ,MoFMRA
+LD0531,Meemu,Mulah,N,މުލައް,"73° 35' 3.824"" E","2° 56' 47.765"" N",68.333346,Residential Island, , , 
+LD0532,Gaafu Dhaalu,Dhiyanigillaa,N,ދިޔަނިގިއްލާ,"73° 6' 3.530"" E","0° 15' 22.234"" N",3.64411,Uninhabited Island, , , 
+LD0533,Thaa,Kaaddoo,N,ކާއްޑޫ,"73° 15' 15.619"" E","2° 16' 54.659"" N",3.329038,Tourism Island,Tourism, ,MoT
+LD0535,Baa,Maaddoo,N,މާއްޑޫ,"73° 3' 45.650"" E","5° 5' 34.019"" N",25.930895,Uninhabited Island,Agriculture, ,MoFMRA
+LD0536,Kaafu,Asdhoo,N,އަސްދޫ,"73° 39' 40.681"" E","4° 27' 58.776"" N",3.244543,Tourism Island,Tourism, ,MoT
+LD0537,Gaafu Dhaalu,Kodurataa,N,ކޮޑުރަޓާ,"73° 1' 22.106"" E","0° 22' 25.526"" N",1.957715,Tourism Island,Tourism, ,MoT
+LD0538,Laamu,Hulhimendhoo,N,ހުޅިމެންދޫ,"73° 23' 39.398"" E","1° 49' 22.847"" N",8.568873,Uninhabited Island, ,under STO,MoFMRA
+LD0539,Thaa,Dhonanfushi,N,ދޮނަންފުށި,"73° 18' 53.929"" E","2° 29' 24.437"" N",1.719052,Uninhabited Island, , ,Council
+LD0540,Gaafu Alifu,Hinaamaagalaa,N,ހިނާމާގަލާ,"73° 20' 39.077"" E","0° 37' 48.489"" N",3.581947,Tourism Island,Tourism,Resort,MoT
+LD0541,Haa Dhaalu,Kumundhoo,N,ކުމުންދޫ,"73° 3' 7.279"" E","6° 34' 17.939"" N",190.453373,Residential Island, , , 
+LD0542,Gaafu Alifu,Galamedhuvaa,N,ގަލަމެދުވާ,"73° 32' 13.690"" E","0° 31' 46.116"" N",4.152455,Uninhabited Island, ,Varuva,MoFMRA
+LD0543,Gaafu Alifu,Boduhuttaa,N,ބޮޑުހުއްޓާ,"73° 34' 17.268"" E","0° 24' 45.023"" N",6.341791,Uninhabited Island, , , 
+LD0544,Baa,Kudadhoo,N,ކުޑަދޫ,"72° 59' 30.365"" E","5° 1' 43.515"" N",0.646773,Uninhabited Island, , ,MoFMRA
+LD0545,Alifu Dhaalu,Mahibadhoo,Y,މަހިބަދޫ,"72° 58' 8.106"" E","3° 45' 25.769"" N",23.598404,Residential Island, , , 
+LD0547,Lhaviyani,Dhiffushi,N,ދިއްފުށި,"73° 38' 57.840"" E","5° 23' 12.163"" N",15.171667,Uninhabited Island, , ,MoFMRA
+LD0548,Haa Alifu,Manafaru,N,މަނަފަރު,"72° 56' 23.797"" E","6° 59' 49.402"" N",14.576557,Tourism Island,Tourism,Resort,MoT
+LD0549,Kaafu, ,N, ,"73° 30' 26.343"" E","3° 59' 33.982"" N",0.545536,Uninhabited Island, , , 
+LD0550,Dhaalu, ,N, ,"72° 50' 31.712"" E","2° 42' 58.659"" N",0.12391,Uninhabited Island, , , 
+LD0551,Shaviyani,Narudhoo,N,ނަރުދޫ,"73° 13' 5.362"" E","6° 15' 51.578"" N",42.745624,Residential Island, , , 
+LD0552,Gaafu Dhaalu,Farehalehuttaa,N,ފަރެހަލެހުއްޓާ,"73° 1' 35.052"" E","0° 20' 26.277"" N",1.798292,Uninhabited Island, , ,MoFMRA
+LD0554,Meemu,Boahuraa,N,ބޯހުރާ,"73° 35' 7.846"" E","2° 55' 33.245"" N",1.999513,Tourism Island,Tourism, ,MoT
+LD0555,Laamu,Hendha,N,ހެންދަ,"73° 16' 27.695"" E","1° 49' 17.858"" N",3.356467,Uninhabited Island, , ,Atoll Council
+LD0556,Thaa,Maalefushi,N,މާލެފުށި,"73° 17' 54.003"" E","2° 18' 39.593"" N",10.85582,Tourism Island,Tourism,Resort,MoT
+LD0557,Gaafu Dhaalu,Madaveli,N,މަޑަވެލި,"72° 59' 56.136"" E","0° 27' 31.746"" N",46.891993,Residential Island, , , 
+LD0558,Kaafu,Gulhigaathuhuraa,N,ގުޅިގާތުހުރާ,"73° 30' 23.682"" E","3° 58' 36.344"" N",2.470659,Tourism Island,Tourism, ,MoT
+LD0559,Noonu,Maavahdhoo,N,މާވައްދޫ,"73° 19' 34.883"" E","5° 48' 53.787"" N",12.690601,Uninhabited Island, , ,MoFMRA
+LD0560,Noonu,Maafaru,N,މާފަރު,"73° 28' 17.499"" E","5° 49' 28.648"" N",133.869772,Residential Island, , , 
+LD0561,Gaafu Dhaalu,Bodeinsa,N,ބޮޑެއިންސަ,"73° 7' 11.137"" E","0° 14' 20.001"" N",3.53726,Uninhabited Island, , ,MoFMRA
+LD0562,Shaviyani,Dholhiyadhoo,N,ދޮޅިޔަދޫ,"73° 12' 54.592"" E","5° 59' 37.753"" N",21.850392,Tourism Island,Tourism,Resort,MoT
+LD0563,Haa Alifu,Kelaa,N,ކެލާ,"73° 12' 56.971"" E","6° 57' 11.848"" N",203.365844,Residential Island, , , 
+LD0564,Raa,Innamaadhoo,N,އިންނަމާދޫ,"73° 2' 39.298"" E","5° 32' 57.795"" N",37.175115,Residential Island, , , 
+LD0565,Meemu,Uthurugaseveli,N,އުތުރުގަސެވެލި,"73° 37' 7.607"" E","3° 1' 50.858"" N",1.532966,Tourism Island, , ,MoT
+LD0566,Laamu,Uvadhevifushi,N,އުވަދެވިފުށި,"73° 32' 13.718"" E","1° 58' 45.184"" N",5.680337,Uninhabited Island, , ,MoFMRA
+LD0567,Noonu,In'guraidhoo,N,އިނގުރައިދޫ,"73° 20' 40.953"" E","5° 47' 49.738"" N",13.122934,Uninhabited Island, , ,MoFMRA
+LD0568,Haa Alifu,Dhidhdhoo,Y,ދިއްދޫ,"73° 6' 39.342"" E","6° 53' 17.194"" N",96.542888,Residential Island, , , 
+LD0569,Seenu,Boduhajaraa,N,ބޮޑުހަޖަރާ,"73° 7' 24.595"" E","0° 40' 38.773"" S",1.353168,Uninhabited Island, , ,Council
+LD0570,Gaafu Dhaalu,Kalhehamalaa,N,ކަޅެހަމަލާ,"73° 28' 56.155"" E","0° 19' 3.600"" N",1.635659,Uninhabited Island, , ,MoFMRA
+LD0571,Dhaalu,Hinaidhoo,N,ހިނައިދޫ,"73° 1' 34.234"" E","2° 48' 13.332"" N",2.796903,Uninhabited Island, , ,Atoll Council
+LD0572,Gaafu Dhaalu,Faresmaathodaa,N,ފަރެސްމާތޮޑާ,"73° 11' 13.887"" E","0° 11' 58.229"" N",48.711192,Residential Island, , , 
+LD0573,Raa,Maduvvari,N,މަޑުއްވަރި,"72° 53' 45.560"" E","5° 29' 10.780"" N",22.728042,Residential Island, , , 
+LD0574,Alifu Alifu,Madivaru,N,މަޑިވަރު,"73° 0' 0.858"" E","4° 15' 56.089"" N",0.571713,Uninhabited Island, , ,MoECCT
+LD0575,Gaafu Dhaalu,Kadevaarehaa,N,ކަޑެވާރެހާ,"73° 0' 13.611"" E","0° 25' 41.668"" N",5.063827,Tourism Island,Tourism, ,MoT
+LD0576,Lhaviyani,Govvaafushi,N,ގޮއްވާފުށި,"73° 39' 30.591"" E","5° 21' 25.766"" N",0.0077,Uninhabited Island, , , 
+LD0577,Kaafu,Gulhi,N,ގުޅި,"73° 30' 32.107"" E","3° 59' 27.216"" N",11.283389,Residential Island, , , 
+LD0578,Gaafu Dhaalu,Maallaarehaa,N,މާއްލާރެހާ,"72° 59' 16.938"" E","0° 29' 34.049"" N",1.272601,Industrial Island, , ,MoTCA
+LD0579,Alifu Dhaalu, ,N, ,"72° 57' 52.112"" E","3° 45' 23.381"" N",0.033584,Uninhabited Island, , , 
+LD0580,Raa,Lin'boakandhoo,N,ލިނބޯކަންދޫ,"72° 56' 3.562"" E","5° 43' 50.288"" N",18.353503,Industrial Island,Agriculture, ,MoFMRA
+LD0581,Alifu Dhaalu,Kudarah,N,ކުޑަރަށް,"72° 54' 38.744"" E","3° 34' 26.162"" N",4.267973,Tourism Island,Tourism,Resort,MoT
+LD0583,Alifu Dhaalu,Bulhalhohi,N,ބުޅަޅޮހި,"72° 43' 54.674"" E","3° 44' 20.125"" N",3.026797,Uninhabited Island, , ,MoFMRA
+LD0584,Kaafu, ,N, ,"73° 35' 38.553"" E","4° 19' 20.289"" N",0.061755,Uninhabited Island, , , 
+LD0585,Raa,Huruvalhi,N,ހުރުވަޅި,"72° 58' 44.576"" E","5° 23' 31.329"" N",6.689659,Tourism Island,Tourism,Resort,MoT
+LD0586,Gaafu Dhaalu,Vatavarrehaa,N,ވަޓަވައްރެހާ,"73° 17' 46.225"" E","0° 15' 21.836"" N",15.668226,Tourism Island,Tourism,Resort,MoT
+LD0587,Meemu, ,N, ,"73° 22' 4.671"" E","2° 48' 35.040"" N",0.045508,Uninhabited Island, , , 
+LD0588,Raa,Alifushi,N,އަލިފުށި,"72° 57' 11.523"" E","5° 58' 2.165"" N",60.57001,Residential Island, , , 
+LD0589,Baa,Ufuligiri,N,އުފުލިގިރި,"72° 58' 12.335"" E","5° 1' 1.210"" N",0.419469,Tourism Island,Tourism, ,MoT
+LD0590,Gaafu Alifu,Baaberehutta,N,ބާބެރެހުއްޓާ,"73° 10' 51.537"" E","0° 50' 27.425"" N",1.370954,Uninhabited Island, , ,Council
+LD0591,MLE,Hulhumalé,N,ހުޅުމާލެ,"73° 32' 32.867"" E","4° 13' 19.457"" N",418.670605,Residential Island, , , 
+LD0592,Laamu,Kanuhuraa,N,ކަނުހުރާ,"73° 31' 56.511"" E","2° 2' 45.659"" N",1.461142,Uninhabited Island, , ,Council
+LD0593,Haa Alifu,Van'gaaru,N,ވަނގާރު,"72° 52' 41.747"" E","7° 5' 35.638"" N",20.608302,Tourism Island,Tourism, ,MoT
+LD0594,Baa,Gaagan'dufaruhuraa,N,ގާގަނޑުފަރުހުރާ,"73° 3' 39.036"" E","5° 22' 9.174"" N",0.108856,Uninhabited Island, , ,MoECCT
+LD0595,Gaafu Alifu,Kalhehuttaa,N,ކަޅެހުއްޓާ,"73° 10' 43.150"" E","0° 50' 54.326"" N",1.422158,Uninhabited Island, , ,Council
+LD0596,Thaa,Bodufinolhu,N,ބޮޑުފިނޮޅު,"73° 18' 19.188"" E","2° 18' 57.033"" N",2.415766,Uninhabited Island, , ,Council
+LD0597,Kaafu,Bolifushi,N,ބޮލިފުށި,"73° 23' 59.265"" E","4° 5' 50.269"" N",10.668236,Tourism Island,Tourism,Resort,MoT
+LD0598,Gaafu Dhaalu,Kannigilla,N,ކަންނިގިއްލާ,"72° 59' 58.029"" E","0° 27' 7.827"" N",5.27051,Uninhabited Island, , ,MoFMRA
+LD0599,Laamu,Bodumahigulhi,N,ބޮޑުމަހިގުޅި,"73° 19' 34.636"" E","1° 47' 13.089"" N",1.111787,Uninhabited Island, , ,Atoll Council
+LD0600,Raa,Hulhudhuffaaru,N,ހުޅުދުއްފާރު,"73° 0' 43.667"" E","5° 45' 55.787"" N",60.816466,Residential Island, , , 
+LD0601,Baa,Hanifaru,N,ހަނިފަރު,"73° 7' 58.989"" E","5° 10' 59.152"" N",2.648272,Uninhabited Island, , ,Council
+LD0603,Raa,Mullaafushi,N,މުއްލާފުށި,"72° 54' 26.916"" E","5° 31' 11.593"" N",0.641965,Uninhabited Island, , ,MoFMRA
+LD0604,Vaavu,Kuda Anbaraa,N,ކުޑައަންބަރާ,"73° 25' 29.006"" E","3° 25' 37.314"" N",0.406302,Uninhabited Island, , , 
+LD0605,Raa,Meedhoo,N,މީދޫ,"72° 57' 18.976"" E","5° 27' 29.340"" N",36.243457,Residential Island, , , 
+LD0606,Faafu,Bileiydhoo,N,ބިލެތްދޫ,"72° 59' 2.396"" E","3° 7' 6.139"" N",31.589802,Residential Island, , , 
+LD0607,Gaafu Dhaalu,Kaashidhoo,N,ކާށިދޫ,"73° 26' 11.703"" E","0° 20' 7.053"" N",9.031042,Tourism Island,Tourism,Resort,MoT
+LD0608,Baa,Thiladhoo,N,ތިލަދޫ,"73° 9' 18.917"" E","5° 15' 43.933"" N",4.697213,Tourism Island,Tourism,Resort,MoT
+LD0609,Raa,Vaadhoo,N,ވާދޫ,"72° 59' 27.853"" E","5° 51' 22.408"" N",38.165617,Residential Island, , , 
+LD0610,Alifu Dhaalu,Vakarufalhi,N,ވަކަރުފަޅި,"72° 54' 7.867"" E","3° 34' 43.385"" N",5.506369,Tourism Island,Tourism,Resort,MoT
+LD0611,Haa Alifu,Maafahi,N,މާފަހި,"73° 9' 24.528"" E","6° 49' 44.087"" N",100.130198,Uninhabited Island, ,Longterm Leased,MoFMRA
+LD0612,Raa,Hulhudhoo,N,ހުޅުދޫ,"73° 1' 8.337"" E","5° 44' 18.813"" N",1.633271,Uninhabited Island, ,Varuva,MoFMRA
+LD0613,Gaafu Alifu,Funadhoo,N,ފުނަދޫ,"73° 31' 34.422"" E","0° 33' 44.974"" N",23.937022,Industrial Island,Agriculture, ,MoFMRA
+LD0614,Thaa,Gaathurehaa,N,ގާތުރެހާ,"73° 0' 56.085"" E","2° 10' 13.191"" N",5.890458,Uninhabited Island, , ,Council
+LD0615,Gaafu Dhaalu,Maahutigalaa,N,މާހުޓިގަލާ,"73° 11' 30.506"" E","0° 17' 38.798"" N",0.27519,Uninhabited Island, ,Longterm Leased,MoFMRA
+LD0616,Noonu,Kalaidhoo,N,ކަލައިދޫ,"73° 19' 25.076"" E","5° 59' 0.440"" N",31.721804,Uninhabited Island, , ,MoFMRA
+LD0617,Baa,Maamaduvvari,N,މާމަޑުއްވަރި,"72° 56' 31.614"" E","5° 0' 33.918"" N",38.492475,Tourism Island,Tourism,Resort,MoT
+LD0618,Gaafu Alifu,Han'dahaa,N,ހަނޑަހާ,"73° 27' 14.125"" E","0° 30' 20.520"" N",9.238845,Tourism Island,Tourism,Resort,MoT
+LD0619,Noonu,Dhonaerikan'doodhoo,N,ދޮނައެރިކަނޑޫދޫ,"73° 19' 46.484"" E","5° 38' 46.967"" N",21.346884,Uninhabited Island, , ,Council
+LD0620,Noonu,Huivani,N,ހުއިވަނި,"73° 18' 56.264"" E","5° 54' 46.978"" N",19.070207,Tourism Island,Tourism, ,MoT
+LD0622,Thaa,Kudakaaddoo,N,ކުޑަކާއްޑޫ,"73° 15' 32.730"" E","2° 17' 7.397"" N",0.132291,Uninhabited Island, , ,Atoll Council
+LD0623,Dhaalu,Aluvifushi,N,އަލުވިފުށި,"72° 57' 35.416"" E","2° 55' 58.683"" N",8.73717,Tourism Island,Tourism,Resort,MoT
+LD0624,Kaafu,Erruhhuraa,N,އެއްރުއްހުރާ,"73° 24' 58.592"" E","3° 48' 54.126"" N",0.71316,Tourism Island,Tourism, ,MoT
+LD0625,Meemu, ,N, ,"73° 22' 11.033"" E","2° 49' 53.441"" N",0.029252,Uninhabited Island, , , 
+LD0626,Lhaviyani,Sehlhifushi,N,ސެއްޅިފުށި,"73° 38' 28.597"" E","5° 25' 17.707"" N",15.607421,Uninhabited Island, , ,MoECCT
+LD0627,Thaa,Madifushi,N,މަޑިފުށި,"73° 21' 16.909"" E","2° 21' 24.484"" N",53.581209,Residential Island, , , 
+LD0628,Laamu,Vadinolhu,N,ވަޑިނޮޅު,"73° 21' 31.899"" E","2° 1' 3.416"" N",7.698024,Tourism Island,Tourism, ,MoT
+LD0629,Shaviyani,Fushifaru,N,ފުށިފަރު,"72° 55' 33.022"" E","6° 23' 44.351"" N",4.336269,Tourism Island,Tourism,Resort,MoT
+LD0630,Gaafu Dhaalu,Rathafandhoo,N,ރަތަފަންދޫ,"73° 6' 17.050"" E","0° 15' 9.878"" N",40.968734,Residential Island, , , 
+LD0631,Gaafu Alifu,Kudalafari,N,ކުޑަލަފަރި,"73° 20' 58.543"" E","0° 53' 47.456"" N",2.84871,Uninhabited Island, , ,Atoll Council
+LD0632,Raa,Bodufenmaaen'boodhoo,N,ބޮޑުފެންމާއެނބޫދޫ,"72° 55' 26.878"" E","5° 37' 46.987"" N",3.149007,Uninhabited Island, , ,MoFMRA
+LD0633,Kaafu,Mahaanaelhihuraa,N,މަހާނައެޅިހުރާ,"73° 24' 40.604"" E","3° 48' 44.171"" N",5.792193,Tourism Island,Tourism,Resort,MoT
+LD0634,Laamu,Thathunrahaa,N,ތަތުންރަހާ,"73° 16' 6.678"" E","1° 49' 50.444"" N",0.426201,Uninhabited Island, ,Varuva,MoFMRA
+LD0635,Gaafu Dhaalu,Maguhdhuvaa,N,މަގުއްދުވާ,"73° 21' 24.251"" E","0° 16' 39.686"" N",15.066187,Tourism Island,Tourism,Resort,MoT
+LD0636,Dhaalu,Lhohi,N,ޅޮހި,"72° 59' 7.480"" E","2° 57' 25.220"" N",6.14947,Industrial Island,Agriculture, ,MoFMRA
+LD0637,Baa,Maalhos,N,މާޅޮސް,"73° 6' 29.361"" E","5° 8' 4.877"" N",25.737584,Residential Island, , , 
+LD0638,Gaafu Dhaalu,Mathihuttaa,N,މަތިހުއްޓާ,"73° 20' 27.061"" E","0° 15' 20.727"" N",5.664432,Uninhabited Island, , ,MoFMRA
+LD0639,Noonu,Huvan'dhumaavattaru,N,ހުވަނދުމާވައްޓަރު,"73° 26' 41.618"" E","5° 50' 42.915"" N",12.176247,Tourism Island,Tourism,Resort,MoT
+LD0640,Seenu,Dhigiheraa,N,ދިގިހެރާ,"73° 7' 52.515"" E","0° 41' 11.039"" S",3.003191,Uninhabited Island, , , 
+LD0641,Alifu Dhaalu,Kudadhoo,N,ކުޑަދޫ,"72° 52' 18.818"" E","3° 28' 45.125"" N",0.224522,Uninhabited Island, , ,Council
+LD0642,Kaafu,Kalhuhuraa,N,ކަޅުހުރާ,"73° 22' 19.074"" E","4° 0' 34.555"" N",0.052215,Uninhabited Island, , ,MoFMRA
+LD0643,Raa,Ehthigili,N,އެއްތިގިލި,"72° 56' 18.049"" E","5° 58' 43.859"" N",11.294274,Tourism Island,Tourism, ,MoT
+LD0644,Thaa,Kakolhas,N,ކަކޮޅަސް,"72° 56' 39.207"" E","2° 18' 56.037"" N",16.19661,Uninhabited Island, , ,MoFMRA
+LD0645,Alifu Alifu,Madivarufinolhu,N,މަޑިވަރުފިނޮޅު,"73° 0' 4.162"" E","4° 16' 10.666"" N",0.858133,Uninhabited Island, , ,MoECCT
+LD0646,Shaviyani,Foakaidhoo,N,ފޯކައިދޫ,"73° 8' 57.625"" E","6° 19' 36.116"" N",67.814448,Residential Island, , , 
+LD0647,Shaviyani,Boduhuraa,N,ބޮޑުހުރާ,"73° 2' 37.094"" E","6° 4' 18.194"" N",0.617121,Uninhabited Island, , ,Atoll Council
+LD0648,Kaafu,Eriadhoo,N,އެރިއަދޫ,"73° 24' 51.817"" E","4° 35' 23.775"" N",3.016569,Tourism Island,Tourism,Resort,MoT
+LD0649,Dhaalu,En'boodhoofushi,N,އެނބޫދޫފުށި,"72° 55' 41.822"" E","2° 40' 38.720"" N",16.255436,Tourism Island,Tourism,Resort,MoT
+LD0650,Noonu,Minaavaru,N,މިނާވަރު,"73° 20' 37.237"" E","5° 46' 7.033"" N",42.011806,Industrial Island,Agriculure, ,MoFMRA
+LD0651,Gaafu Dhaalu,Ekelondaa,N,އެކެލޮންޑާ,"73° 10' 31.874"" E","0° 12' 27.811"" N",5.158459,Uninhabited Island, ,Varuva,MoFMRA
+LD0652,Gaafu Dhaalu,Thinehuttaa,N,ތިނެހުއްޓާ,"73° 1' 28.776"" E","0° 22' 12.767"" N",3.358155,Uninhabited Island, , , 
+LD0654,Baa,Voavah,N,ވޯވައް,"73° 4' 39.448"" E","5° 18' 58.853"" N",3.082601,Tourism Island,Tourism,Resort,MoT
+LD0655,Shaviyani,Medhurah,N,މެދުރަށް,"73° 4' 38.399"" E","6° 1' 26.720"" N",6.686338,Uninhabited Island, , ,Atoll Council
+LD0656,Kaafu,Kan'duoiygiri,N,ކަނޑުއޮތްގިރި,"73° 32' 25.826"" E","4° 15' 28.570"" N",3.896978,Industrial Island,Fisheries, ,MoFMRA
+LD0657,Gaafu Alifu, ,N, ,"73° 34' 18.580"" E","0° 24' 52.370"" N",0.268526,Uninhabited Island, , , 
+LD0658,Haa Dhaalu,Nolhivaran,N,ނޮޅިވަރަން,"73° 4' 56.546"" E","6° 39' 44.683"" N",206.27283,Residential Island, , , 
+LD0659,Meemu,Kekuraalhuveli,N,ކެކުރާޅުވެލި,"73° 27' 30.815"" E","2° 49' 47.982"" N",0.67539,Tourism Island,Tourism, ,MoT
+LD0660,Baa,Vakkaru,N,ވައްކަރު,"72° 54' 36.178"" E","5° 8' 0.967"" N",14.677883,Tourism Island,Tourism,Resort,MoT
+LD0661,Raa,Vilin'gili,N,ވިލިނގިލި,"72° 57' 17.713"" E","5° 22' 36.258"" N",4.448541,Uninhabited Island, , ,MoFMRA
+LD0662,Dhaalu,Hulhudheli,N,ހުޅުދެލި,"72° 50' 47.413"" E","2° 51' 30.386"" N",21.534249,Residential Island, , , 
+LD0663,Haa Dhaalu,Dhipparufushi,N,ދިއްޕަރުފުށި,"72° 38' 26.319"" E","6° 19' 8.570"" N",5.033061,Tourism Island,Tourism,Resort,MoT
+LD0664,Gaafu Dhaalu,Golhaallaa,N,ގޮޅާއްލާ,"73° 29' 11.389"" E","0° 19' 15.200"" N",16.37758,Uninhabited Island, , ,MoFMRA
+LD0665,Kaafu,Kaashidhoo,N,ކާށިދޫ,"73° 27' 37.397"" E","4° 57' 22.937"" N",282.710945,Residential Island, , , 
+LD0666,Lhaviyani,Faadhoo,N,ފާދޫ,"73° 37' 47.735"" E","5° 25' 53.752"" N",12.304573,Industrial Island, , ,MoFMRA
+LD0667,Raa,Lhaan'bugali,N,ޅާނބުގަލި,"72° 52' 36.354"" E","5° 33' 9.959"" N",2.655641,Uninhabited Island, , ,MoFMRA
+LD0668,Baa,Kendhoo,N,ކެންދޫ,"73° 0' 35.923"" E","5° 16' 31.419"" N",19.015349,Residential Island, , , 
+LD0671,Laamu,Hulhiyandhoo,N,ހުޅިޔަންދޫ,"73° 32' 30.165"" E","2° 4' 51.022"" N",20.802917,Uninhabited Island, , ,Council
+LD0672,Baa,Olhugiri,N,އޮޅުގިރި,"72° 54' 21.083"" E","5° 0' 4.732"" N",20.677144,Uninhabited Island, , ,MoECCT
+LD0673,Dhaalu,Than'balhaidhoo,N,ތަނބަޅައިދޫ,"73° 1' 32.552"" E","2° 47' 38.093"" N",5.225725,Uninhabited Island, , ,MoFMRA
+LD0674,Shaviyani,Van'garu,N,ވަނގަރު,"73° 12' 11.985"" E","6° 5' 22.114"" N",9.688351,Tourism Island,Tourism, ,MoT
+LD0675,Raa,Maamunagau,N,މާމުނަގައު,"72° 55' 8.655"" E","5° 21' 35.659"" N",8.395081,Tourism Island,Tourism,Resort,MoT
+LD0676,Raa,Fasgan'dufaru,N,ފަސްގަނޑުފަރު,"72° 56' 22.904"" E","5° 45' 28.431"" N",0.490459,Uninhabited Island, , ,MoFMRA
+LD0677,Baa,Thulhaadhoo,N,ތުޅާދޫ,"72° 50' 28.033"" E","5° 1' 18.902"" N",45.801303,Residential Island, , , 
+LD0678,Lhaviyani,Maidhoo,N,މައިދޫ,"73° 38' 54.800"" E","5° 23' 50.967"" N",20.986256,Uninhabited Island, , ,MoNPHI
+LD0679,Raa,Maashigiri,N,މާށިގިރި,"72° 49' 36.721"" E","5° 30' 50.181"" N",11.241924,Uninhabited Island, , ,MoFMRA
+LD0681,Thaa,Hiriyanfushi,N,ހިރިޔަންފުށި,"73° 8' 59.181"" E","2° 12' 41.397"" N",2.512747,Uninhabited Island, , ,Council
+LD0682,Vaavu, ,N, ,"73° 29' 59.796"" E","3° 21' 40.537"" N",0.567421,Uninhabited Island, , ,MoFMRA
+LD0683,Kaafu,Huraa,N,ހުރާ,"73° 36' 5.577"" E","4° 20' 0.899"" N",52.614556,Residential Island, , , 
+LD0684,Meemu,Dhihthun'di,N,ދިއްތުނޑި,"73° 25' 15.282"" E","2° 45' 58.184"" N",10.124715,Uninhabited Island, , ,Atoll Council
+LD0685,Gaafu Dhaalu,Kalherehaa,N,ކަޅެރެހާ,"73° 19' 49.308"" E","0° 15' 14.796"" N",29.98115,Uninhabited Island, , ,MoFMRA
+LD0686,Haa Dhaalu,Neykurendhoo,N,ނޭކުރެންދޫ,"72° 58' 47.220"" E","6° 32' 34.960"" N",171.698005,Residential Island, , , 
+LD0687,Baa,Dhakandhoo,N,ދަކަންދޫ,"72° 53' 37.146"" E","5° 14' 54.187"" N",5.733043,Uninhabited Island, , ,MoFMRA
+LD0688,Dhaalu,Olhufushi,N,އޮޅުފުށި,"73° 1' 35.149"" E","2° 48' 49.266"" N",1.437177,Uninhabited Island, ,Varuva,MoFMRA
+LD0689,Kaafu,Giraavaru,N,ގިރާވަރު,"73° 24' 46.514"" E","4° 12' 1.780"" N",3.526453,Tourism Island,Tourism,Resort,MoT
+LD0690,Gaafu Dhaalu,Dhoonirehaa,N,ދޫނިރެހާ,"73° 5' 2.388"" E","0° 16' 6.621"" N",10.136739,Uninhabited Island, , ,MoFMRA
+LD0691,Kaafu,Farivelihuraa,N,ފަރިވެލިހުރާ,"73° 34' 18.456"" E","4° 37' 29.908"" N",39.501677,Uninhabited Island,Tourism,Resort,MoT
+LD0692,Gaafu Dhaalu,Kodehutigalaa,N,ކޮޑެހުޓިގަލާ,"73° 12' 3.081"" E","0° 17' 21.764"" N",1.918016,Uninhabited Island, ,Longterm Leased,MoFMRA
+LD0693,Gaafu Dhaalu,Olhimuntaa,N,އޮޅިމުންޓާ,"73° 1' 33.411"" E","0° 21' 35.866"" N",1.948502,Tourism Island,Tourism, ,MoT
+LD0694,Thaa,Veymandoo,Y,ވޭމަންޑޫ,"73° 5' 41.864"" E","2° 11' 13.819"" N",44.64553,Residential Island, , , 
+LD0695,Haa Alifu,Maarandhoo,N,މާރަންދޫ,"72° 59' 3.570"" E","6° 51' 8.797"" N",44.588624,Residential Island, , , 
+LD0696,Noonu,Tholhendhoo,N,ތޮޅެންދޫ,"73° 26' 11.226"" E","5° 55' 14.841"" N",16.416521,Uninhabited Island,Agriculture, ,MoFMRA
+LD0697,Dhaalu,Thinhuraa,N,ތިންހުރާ,"73° 1' 25.264"" E","2° 46' 1.609"" N",6.052254,Uninhabited Island, ,Varuva,MoFMRA
+LD0698,Haa Dhaalu,Nellaidhoo,N,ނެއްލައިދޫ,"72° 56' 49.121"" E","6° 42' 53.563"" N",32.412109,Residential Island, , , 
+LD0699,Haa Dhaalu,Makunudhoo,N,މަކުނުދޫ,"72° 42' 18.317"" E","6° 24' 33.786"" N",80.716405,Residential Island, , , 
+LD0701,Haa Alifu,Muraidhoo,N,މުރައިދޫ,"73° 10' 2.311"" E","6° 50' 16.516"" N",47.503676,Residential Island, , , 
+LD0702,Seenu,Maahera,N,މާހެރަ,"73° 5' 24.291"" E","0° 35' 41.851"" S",3.877402,Uninhabited Island, , ,Council
+LD0703,Laamu,Mahakanfushi,N,މަހަކަންފުށި,"73° 32' 26.576"" E","1° 57' 31.722"" N",7.15385,Tourism Island,Tourism, ,MoT
+LD0704,Gaafu Dhaalu,Ekurukerataa,N,އެކުރުކެރަޓާ,"73° 7' 6.683"" E","0° 14' 21.907"" N",0.701977,Uninhabited Island, , , 
+LD0705,Gaafu Dhaalu,Rodhavarrehaa,N,ރޮދަވައްރެހާ,"73° 27' 47.089"" E","0° 17' 42.134"" N",1.21335,Uninhabited Island, , , 
+LD0707,Seenu,Hikahera,N,ހިކަހެރަ,"73° 13' 18.286"" E","0° 34' 48.478"" S",1.680495,Uninhabited Island, , ,Council
+LD0708,Haa Dhaalu,Maavaidhoo,N,މާވައިދޫ,"73° 3' 14.244"" E","6° 30' 55.614"" N",41.98341,Uninhabited Island, , , 
+LD0709,Thaa,Ruhthibirah,N,ރުއްތިބިރަށް,"73° 3' 10.230"" E","2° 10' 7.943"" N",8.414695,Tourism Island,Tourism,Resort,MoT
+LD0710,Haa Dhaalu,Naivaadhoo,N,ނައިވާދޫ,"72° 56' 5.541"" E","6° 44' 49.050"" N",30.9304,Residential Island, , , 
+LD0711,Meemu,Kudausfushi,N,ކުޑައުސްފުށި,"73° 26' 0.779"" E","2° 48' 14.970"" N",10.165884,Tourism Island,Tourism,Resort,MoT
+LD0712,Kaafu,Bulhifushi,N,ބުޅިފުށި,"73° 30' 5.166"" E","3° 58' 48.045"" N",0.574422,Uninhabited Island, , , 
+LD0713,Noonu,Bodufushi,N,ބޮޑުފުށި,"73° 24' 37.616"" E","5° 41' 57.041"" N",0.395611,Uninhabited Island, , ,MoFMRA
+LD0714,Lhaviyani,Dhehuraa Evvihuraa,N,ދެހުރާއެއްވިހުރާ,"73° 29' 22.003"" E","5° 33' 16.884"" N",0.87792,Uninhabited Island, , , 
+LD0716,Dhaalu, ,N, ,"72° 50' 35.903"" E","2° 42' 47.759"" N",0.783423,Uninhabited Island, , , 
+LD0717,Gaafu Dhaalu,Thinadhoo,Y,ތިނަދޫ,"72° 59' 54.350"" E","0° 31' 56.767"" N",184.792144,Residential Island, , , 
+LD0720,Laamu,Fonagaadhoo,N,ފޮނަގާދޫ,"73° 32' 32.916"" E","2° 6' 55.065"" N",8.183331,Uninhabited Island, , ,MoFMRA
+LD0721,Kaafu, ,N, ,"73° 27' 7.053"" E","4° 57' 28.604"" N",2.970259,Uninhabited Island, , , 
+LD0722,Seenu,Geskalhuheraa,N,ގެސްކަޅުހެރާ,"73° 13' 17.041"" E","0° 38' 46.097"" S",0.774554,Tourism Island,Tourism,Resort,MoT
+LD0723,Dhaalu,Vallalhohi,N,ވައްލަޅޮހި,"72° 53' 16.764"" E","2° 43' 49.940"" N",2.224986,Uninhabited Island, , ,MoFMRA
+LD0725,Alifu Dhaalu,Nalaguraidhoo,N,ނަލަގުރައިދޫ,"72° 48' 7.795"" E","3° 28' 59.735"" N",55.044026,Tourism Island,Tourism,Resort,MoT
+LD0726,Gnaviyani,Fuvahmulah,Y,ފުވައްމުލައް,"73° 25' 30.532"" E","0° 17' 42.320"" S",495.047469,Residential Island, , , 
+LD0727,Alifu Alifu,Velifinolhu,N,ވެލިފިނޮޅު,"73° 0' 34.832"" E","4° 17' 36.854"" N",1.168185,Uninhabited Island, , , 
+LD0728,Gaafu Dhaalu,Kodegalaa,N,ކޮޑެގަލާ,"73° 23' 29.691"" E","0° 22' 4.830"" N",4.007996,Uninhabited Island, , ,MoFMRA
+LD0730,Lhaviyani,Varihuraa,N,ވަރިހުރާ,"73° 29' 17.456"" E","5° 18' 12.721"" N",1.844888,Uninhabited Island, , ,Atoll Council
+LD0731,Gaafu Dhaalu,Hulhehdhoo,N,ހުޅެއްދޫ,"73° 0' 21.315"" E","0° 24' 2.074"" N",5.226718,Uninhabited Island, , ,MoFMRA
+LD0732,Baa,Hirundhoo,N,ހިރުންދޫ,"73° 9' 12.909"" E","5° 13' 1.575"" N",6.078914,Tourism Island,Tourism,Resort,MoT
+LD0733,Laamu,Haiythoshi,N,ހަތްތޮށި,"73° 15' 30.610"" E","1° 50' 31.300"" N",1.365798,Tourism Island,Tourism, ,MoT
+LD0734,Noonu,Maakurehdhoo,N,މާކުރެއްދޫ,"73° 18' 43.116"" E","5° 41' 47.629"" N",27.187097,Industrial Island,Agriculture, ,MoFMRA
+LD0735,Laamu,Kandaru,N,ކަނޑަރު,"73° 32' 11.262"" E","2° 3' 39.011"" N",4.272959,Industrial Island, , ,MoFMRA
+LD0736,Raa,Vandhoo,N,ވަންދޫ,"73° 2' 30.785"" E","5° 31' 53.751"" N",39.933074,Uninhabited Island, , ,Council
+LD0737,Lhaviyani,Madhiriguraidhoo,N,މަދިރިގުރައިދޫ,"73° 33' 34.023"" E","5° 28' 10.874"" N",23.000983,Tourism Island,Tourism,Resort,MoT
+LD0738,Kaafu,Guraidhoo,N,ގުރައިދޫ,"73° 28' 5.144"" E","3° 54' 2.542"" N",22.48401,Residential Island, , , 
+LD0739,Raa,Bodufarufinolhu,N,ބޮޑުފަރުފިނޮޅު,"72° 48' 21.003"" E","5° 31' 46.385"" N",4.751315,Tourism Island,Tourism,Resort,MoT
+LD0740,Gaafu Dhaalu,Dhatekarunahuttaa,N,ދަޓެކަރުނަހުއްޓާ,"73° 0' 28.471"" E","0° 23' 47.662"" N",1.370598,Uninhabited Island, ,Varuva,MoFMRA
+LD0741,Dhaalu,Maadheli,N,މާދެލި,"72° 50' 15.080"" E","2° 53' 3.001"" N",23.193398,Uninhabited Island, , ,MoFMRA
+LD0742,Baa,Vinaneiyfaruhuraa,N,ވިނަނެތްފަރުހުރާ,"73° 4' 43.378"" E","5° 20' 46.317"" N",0.15063,Uninhabited Island, , ,MoECCT
+LD0743,Gaafu Alifu,Kolamaafushi,N,ކޮލަމާފުށި,"73° 11' 5.023"" E","0° 50' 15.076"" N",35.300191,Residential Island, , , 
+LD0744,Shaviyani,Nalandhoo,N,ނަލަންދޫ,"73° 13' 41.862"" E","6° 19' 29.806"" N",63.990282,Uninhabited Island,Tourism,Resort,MoFMRA
+LD0745,Kaafu,Thulusdhoo,Y,ތުލުސްދޫ,"73° 38' 51.872"" E","4° 22' 23.320"" N",77.132774,Residential Island, , , 
+LD0746,Raa,Maamin'gili,N,މާމިނގިލި,"72° 53' 4.066"" E","5° 39' 4.022"" N",7.21864,Tourism Island,Tourism, ,MoT
+LD0747,Dhaalu,Faandhoo,N,ފާންދޫ,"72° 56' 48.627"" E","2° 57' 46.067"" N",6.348475,Tourism Island,Tourism, ,MoT
+LD0748,Gaafu Dhaalu,Kudhe-ehivakaa,N,ކުދެއެހިވަކާ,"73° 3' 25.615"" E","0° 17' 8.469"" N",6.281379,Uninhabited Island, , ,MoFMRA
+LD0749,Gaafu Alifu,Matu,N,މަޓު,"73° 20' 10.616"" E","0° 53' 6.565"" N",5.812449, , , , 
+LD0750,Noonu,Thoshigan'dukolhu,N,ތޮށިގަނޑުކޮޅު,"73° 24' 49.136"" E","5° 43' 57.322"" N",2.036284,Tourism Island,Tourism, ,MoT
+LD0751,Gaafu Dhaalu,Lonudhoohuttaa,N,ލޮނުދޫހުއްޓާ,"73° 25' 0.221"" E","0° 18' 6.901"" N",7.701849,Tourism Island,Tourism,Resort,MoT
+LD0752,Faafu,Makunueri,N,މަކުނުއެރި,"72° 55' 43.569"" E","3° 15' 30.321"" N",1.28063,Uninhabited Island, , ,MoFMRA
+LD0753,Kaafu,Maifalhuhuraa,N,މައިފަޅުހުރާ,"73° 34' 16.174"" E","4° 37' 48.601"" N",0.61879,Uninhabited Island, , , 
+LD0754,Gaafu Dhaalu,Lifadhoo,N,ލިފަދޫ,"73° 0' 31.185"" E","0° 23' 35.103"" N",3.710649,Uninhabited Island, , ,MoFMRA
+LD0755,Dhaalu,Kanneiyfaru,N,ކަންނެތްފަރު,"73° 1' 37.835"" E","2° 55' 26.906"" N",1.360496,Uninhabited Island, , ,MoFMRA
+LD0756,Kaafu,Olhuveli,N,އޮޅުވެލި,"73° 27' 21.362"" E","3° 51' 2.746"" N",15.469732,Tourism Island,Tourism,Resort,MoT
+LD0757,Laamu,Hikan'dhirahaa,N,ހިކަނދިރަހާ,"73° 32' 11.600"" E","2° 3' 30.072"" N",2.692263,Uninhabited Island, , ,Atoll Council
+LD0758,Dhaalu,Valla,N,ވައްލަ,"72° 52' 57.702"" E","2° 42' 16.301"" N",1.991885,Uninhabited Island, ,Varuva,MoFMRA
+LD0759,Thaa,Kani,N,ކަނި,"72° 58' 25.436"" E","2° 11' 23.404"" N",0.524474,Uninhabited Island, , ,MoFMRA
+LD0760,Alifu Alifu,Madoogali,N,މަޑޫގަލި,"72° 45' 10.379"" E","4° 5' 46.094"" N",6.357331,Tourism Island,Tourism, ,MoT
+LD0761,Gaafu Dhaalu,Kalhehuttaa,N,ކަޅެހުއްޓާ,"73° 1' 32.593"" E","0° 19' 44.641"" N",7.612315,Uninhabited Island, , ,MoFMRA
+LD0762,Gaafu Dhaalu,Maagalaa,N,މާގަލާ,"73° 22' 45.840"" E","0° 22' 11.158"" N",2.030327,Uninhabited Island, , ,MoFMRA
+LD0763,Laamu,Bodumaabulhali,N,ބޮޑުމާބުޅަލި,"73° 15' 19.401"" E","1° 50' 56.993"" N",5.073464,Uninhabited Island, , ,Atoll Council
+LD0764,Meemu,Madifushi,N,މަޑިފުށި,"73° 38' 17.190"" E","3° 4' 52.089"" N",13.266591,Tourism Island,Tourism,Resort,MoT
+LD0765,Kaafu,Nakaiychaafushi,N,ނަކަތްޗާފުށި,"73° 22' 10.971"" E","4° 22' 6.413"" N",5.277136,Tourism Island,Tourism,Resort,MoT
+LD0766,Gaafu Alifu,Dhaandhoo,N,ދާންދޫ,"73° 27' 40.056"" E","0° 37' 14.967"" N",31.558554,Residential Island, , , 
+LD0767,Noonu,Loafaru,N,ލޯފަރު,"73° 16' 35.308"" E","5° 47' 9.484"" N",13.720211,Tourism Island,Tourism,Resort,MoT
+LD0768,Gaafu Dhaalu,Viligillaa,N,ވިލިގިއްލާ,"73° 7' 46.855"" E","0° 13' 46.458"" N",11.227801,Uninhabited Island, , ,Council
+LD0769,Baa,Veyofushi,N,ވެޔޮފުށި,"73° 9' 22.422"" E","5° 13' 46.402"" N",0.307479,Uninhabited Island, , ,MoFMRA
+LD0770,Gaafu Dhaalu,Menthandhuvaa,N,މެންތަންދުވާ,"73° 29' 27.831"" E","0° 19' 29.260"" N",11.382902,Uninhabited Island, , ,MoFMRA
+LD0771,Alifu Dhaalu,Kun'burudhoo,N,ކުނބުރުދޫ,"72° 55' 28.994"" E","3° 46' 31.700"" N",6.507178,Residential Island, , , 
+LD0772,Dhaalu,Hiriyafushi,N,ހިރިޔަފުށި,"72° 59' 16.088"" E","2° 42' 42.596"" N",7.61906,Tourism Island,Tourism,Resort,MoT
+LD0773,Gaafu Dhaalu,Dhathaidhuaa,N,ދަތައިދުއާ,"73° 7' 20.684"" E","0° 14' 14.401"" N",3.666561,Uninhabited Island, , ,MoFMRA
+LD0774,Gaafu Dhaalu,Fereythavilin'gili,N,ފެރޭތަވިލިނގިލި,"73° 1' 26.366"" E","0° 22' 19.190"" N",1.692327,Tourism Island,Tourism, ,MoT
+LD0775,Gaafu Dhaalu,Fonehigillaa,N,ފޮނެހިގިއްލާ,"73° 3' 36.214"" E","0° 17' 0.024"" N",8.124939,Uninhabited Island, , , 
+LD0776,Baa,Funadhoo,N,ފުނަދޫ,"73° 1' 59.275"" E","5° 16' 28.670"" N",12.462911,Tourism Island,Tourism,Resort,MoT
+LD0777,Laamu,Kudamungnafushi,N,ކުޑަމުންޏަފުށި,"73° 18' 50.339"" E","1° 59' 35.983"" N",0.224555,Uninhabited Island, , , 
+LD0778,Gaafu Dhaalu,Haadhoo,N,ހާދޫ,"72° 59' 53.911"" E","0° 26' 56.372"" N",6.815088,Uninhabited Island, , ,Council
+LD0779,Raa,Maamunagaufinolhu,N,މާމުނަގައުފިނޮޅު,"72° 52' 34.279"" E","5° 22' 10.625"" N",0.216741,Uninhabited Island, , ,MoFMRA
+LD0781,Baa, ,N, ,"73° 5' 10.165"" E","5° 19' 31.559"" N",3.598788,Uninhabited Island, , , 
+LD0782,Alifu Dhaalu,Kalhahan'dhihuraa,N,ކަޅަހަނދިހުރާ,"72° 42' 38.675"" E","3° 47' 53.151"" N",1.214197,Uninhabited Island, , ,MoFMRA
+LD0783,Thaa,Omadhoo,N,އޮމަދޫ,"73° 1' 24.999"" E","2° 10' 3.280"" N",36.961553,Residential Island, , , 
+LD0784,Alifu Dhaalu,En'boodhoo,N,އެނބޫދޫ,"72° 45' 8.671"" E","3° 48' 54.647"" N",1.997857,Uninhabited Island, , ,Atoll Council
+LD0785,Kaafu,Rasfari,N,ރަސްފަރި,"73° 21' 5.519"" E","4° 23' 40.804"" N",1.314033,Uninhabited Island, , ,MoFMRA
+LD0786,Meemu,Raiymandhoo,N,ރަތްމަންދޫ,"73° 38' 20.802"" E","3° 5' 21.872"" N",28.387081,Residential Island, , , 
+LD0787,Gaafu Alifu,Bodehuttaa,N,ބޮޑެހުއްޓާ,"73° 24' 10.579"" E","0° 51' 18.329"" N",0.334837,Uninhabited Island, , ,MoFMRA
+LD0788,Gaafu Dhaalu,Kudherataa,N,ކުދެރަޓާ,"72° 59' 23.452"" E","0° 30' 2.159"" N",1.557544,Industrial Island, , ,MoTCA
+LD0790,Raa,Dhuvaafaru,N,ދުވާފަރު,"73° 2' 29.042"" E","5° 37' 45.289"" N",54.651127,Residential Island, , , 
+LD0791,Gaafu Dhaalu,Kodedhoo,N,ކޮޑެދޫ,"73° 0' 18.945"" E","0° 24' 44.407"" N",0.266999,Uninhabited Island, , ,MoFMRA
+LD0792,Gaafu Alifu,Hurendhoo,N,ހުރެންދޫ,"73° 12' 28.143"" E","0° 50' 47.672"" N",1.54949,Uninhabited Island, , ,MoFMRA
+LD0793,Meemu,Naalaafushi,N,ނާލާފުށި,"73° 34' 38.723"" E","2° 53' 43.308"" N",12.945342,Residential Island, , , 
+LD0795,Noonu,Kaalhugemendhoo,N,ކާޅުގެމެންދޫ,"73° 21' 14.984"" E","5° 47' 13.652"" N",0.28883,Uninhabited Island, , ,Council
+LD0796,Thaa,Hulhiyanfushi,N,ހުޅިޔަންފުށި,"73° 13' 5.522"" E","2° 15' 31.537"" N",2.686494,Uninhabited Island, , ,Council
+LD0797,Lhaviyani,Innahuraa,N,އިންނަހުރާ,"73° 39' 14.643"" E","5° 21' 0.416"" N",12.228222,Tourism Island,Tourism,Resort,MoT
+LD0798,Laamu,Rahaa,N,ރަހާ,"73° 32' 4.134"" E","2° 3' 22.918"" N",14.394209,Uninhabited Island, , ,Atoll Council
+LD0799,Gaafu Alifu,Fenfuttaa,N,ފެންފުއްޓާ,"73° 17' 7.800"" E","0° 42' 49.884"" N",3.699137,Uninhabited Island, , ,MoFMRA
+LD0800,Raa,Kan'dholhudhoo,N,ކަނދޮޅުދޫ,"72° 51' 18.381"" E","5° 37' 7.508"" N",11.799283,Uninhabited Island, , , 
+LD0801,Haa Alifu,Govvaafushi,N,ގޮއްވާފުށި,"72° 55' 9.491"" E","7° 0' 45.591"" N",1.656185,Uninhabited Island, , ,MoFMRA
+LD0802,Gaafu Alifu,Falhumaafushi,N,ފަޅުމާފުށި,"73° 26' 18.389"" E","0° 40' 18.513"" N",7.677609,Tourism Island,Tourism,Resort,MoT
+LD0803,Kaafu,Gasfinolhu,N,ގަސްފިނޮޅު,"73° 37' 34.523"" E","4° 21' 40.875"" N",7.524631,Tourism Island,Tourism,Resort,MoT
+LD0805,Gaafu Alifu,Kodagehuttaa,N,ކޮޑަގެހުއްޓާ,"73° 10' 49.395"" E","0° 50' 34.495"" N",1.624394,Uninhabited Island, , ,Council
+LD0806,Gaafu Alifu,Lhossaa,N,ޅޮއްސާ,"73° 12' 6.888"" E","0° 49' 12.160"" N",11.561702,Uninhabited Island, , ,MoFMRA
+LD0807,Alifu Alifu,Veligan'du,N,ވެލިގަނޑު,"73° 0' 40.883"" E","4° 17' 55.269"" N",6.596679,Tourism Island,Tourism,Resort,MoT
+LD0808,Noonu,Bomasdhoo,N,ބޮމަސްދޫ,"73° 20' 44.437"" E","5° 58' 18.817"" N",28.363455,Industrial Island,Agriculture, ,MoFMRA
+LD0809,Lhaviyani,Bodufaahuraa,N,ބޮޑުފާހުރާ,"73° 39' 24.675"" E","5° 19' 57.070"" N",0.328314,Uninhabited Island, , ,MoFMRA
+LD0810,Gaafu Dhaalu,Bodehuttaa,N,ބޮޑެހުއްޓާ,"73° 11' 59.448"" E","0° 11' 42.951"" N",1.007923,Uninhabited Island, , , 
+LD0811,Gaafu Alifu,Dhigurah,N,ދިގުރަށް,"73° 26' 27.767"" E","0° 41' 25.861"" N",24.142466,Tourism Island,Tourism,Resort,MoT
+LD0812,Lhaviyani,Medha Adihuraa,N,މެދައަޑިހުރާ,"73° 30' 9.704"" E","5° 32' 26.840"" N",3.171275,Tourism Island,Tourism, ,MoT
+LD0813,Vaavu,Bodumohoraa,N,ބޮޑުމޮހޮރާ,"73° 31' 14.047"" E","3° 20' 35.492"" N",6.838834,Tourism Island,Tourism,Resort,MoFMRA
+LD0814,Gaafu Dhaalu,Dhoonirehaa,N,ދޫނިރެހާ,"73° 29' 38.995"" E","0° 19' 29.186"" N",3.257954,Tourism Island,Tourism, ,MoFMRA
+LD0815,Gaafu Dhaalu,Kadhefala,N,ކަދެފަލަ,"73° 1' 31.175"" E","0° 22' 4.610"" N",2.223634,Tourism Island,Tourism, ,MoT
+LD0816,Kaafu,En'boodhoo,N,އެނބޫދޫ,"73° 30' 43.514"" E","4° 5' 2.701"" N",5.36146,Tourism Island,Tourism,Resort,MoT
+LD0817,Seenu,Gomahera,N,ގޮމަހެރަ,"73° 10' 59.897"" E","0° 41' 27.416"" S",1.833494,Tourism Island,Tourism,Resort,MoT
+LD0818,Shaviyani,Kudadhoo,N,ކުޑަދޫ,"72° 54' 27.066"" E","6° 26' 9.510"" N",3.515357,Uninhabited Island, , ,Council
+LD0819,Faafu,Filitheyo,N,ފިލިތެޔޮ,"73° 2' 12.983"" E","3° 12' 47.404"" N",21.023546,Tourism Island,Tourism,Resort,MoT
+LD0820,Gaafu Alifu,Dhevvaamaagalaa,N,ދެއްވާމާގަލާ,"73° 11' 30.723"" E","0° 34' 16.543"" N",8.905316,Uninhabited Island, ,Varuva,MoFMRA
+LD0821,Raa,Dhuvaafaruhuraa,N,ދުވާފަރުހުރާ,"73° 2' 29.664"" E","5° 38' 23.545"" N",0.220021,Uninhabited Island, , ,Council
+LD0822,Raa,Kothaifaru,N,ކޮތައިފަރު,"72° 50' 35.247"" E","5° 31' 29.802"" N",11.269344,Uninhabited Island,Tourism,Resort,MoNPHI
+LD0823,Noonu,Bodulhaimendhoo,N,ބޮޑުޅައިމެންދޫ,"73° 18' 9.991"" E","6° 0' 0.083"" N",38.935391,Uninhabited Island, , ,MoECCT
+LD0824,Haa Alifu,Maarandhoofarufinolhu,N,މާރަންދޫފަރުފިނޮޅު,"72° 58' 18.969"" E","6° 49' 44.169"" N",0.06688,Uninhabited Island, , , 
+LD0825,Laamu,Enberahaa,N,އެންބެރަހާ,"73° 15' 27.156"" E","1° 50' 30.598"" N",0.37783,Uninhabited Island, ,Varuva,MoFMRA
+LD0826,Faafu,En'bulufushi,N,އެނބުލުފުށި,"73° 1' 5.200"" E","3° 8' 1.277"" N",2.529832,Tourism Island,Tourism, ,MoT
+LD0827,Meemu,Maausfushi,N,މާއުސްފުށި,"73° 25' 55.343"" E","2° 47' 53.632"" N",9.496443,Tourism Island,Tourism, ,MoT
+LD0828,Gaafu Alifu,Hithaadhoo,N,ހިތާދޫ,"73° 14' 33.033"" E","0° 50' 57.545"" N",9.474494,Uninhabited Island, , ,MoECCT
+LD0829,Thaa,Dhiffushi,N,ދިއްފުށި,"73° 13' 56.723"" E","2° 30' 53.217"" N",3.983705,Uninhabited Island, ,Varuva,MoFMRA
+LD0830,Meemu,Etherefasgan'du,N,އެތެރެފަސްގަނޑު,"73° 25' 4.275"" E","2° 46' 43.925"" N",0.605182,Uninhabited Island, , , 
+LD0831,Dhaalu,Dhebaidhoo,N,ދެބައިދޫ,"73° 1' 31.929"" E","2° 47' 14.651"" N",6.804715,Uninhabited Island, , ,Atoll Council
+LD0832,Laamu,Maandhoo,N,މާންދޫ,"73° 31' 35.628"" E","1° 52' 28.489"" N",100.646585,Industrial Island,Fisheries and Agricultue,Mixed Usage,MoFMRA
+LD0833,Baa,Mendhoo,N,މެންދޫ,"72° 59' 43.905"" E","5° 10' 29.877"" N",14.763287,Tourism Island,Tourism, ,MoT
+LD0835,Gaafu Dhaalu,Ulegalaa,N,އުލެގަލާ,"73° 22' 12.245"" E","0° 23' 55.013"" N",3.885007,Uninhabited Island, , ,MoFMRA
+LD0836,Shaviyani,Goidhoo,N,ގޮއިދޫ,"72° 55' 47.003"" E","6° 25' 48.321"" N",100.616365,Residential Island, , , 
+LD0837,Lhaviyani,Kudadhoo,N,ކުޑަދޫ,"73° 26' 0.830"" E","5° 30' 10.425"" N",2.831308,Tourism Island,Tourism,Resort,MoT
+LD0839,Gaafu Dhaalu,Kelaihuttaa,N,ކެލައިހުއްޓާ,"73° 10' 46.744"" E","0° 12' 15.035"" N",2.546844,Uninhabited Island, , ,Council
+LD0840,Raa,Neyo,N,ނެޔޮ,"73° 2' 20.015"" E","5° 29' 33.299"" N",7.190373,Uninhabited Island, , ,MoFMRA
+LD0841,Baa,Madhirivaadhoo,N,މަދިރިވާދޫ,"73° 9' 40.551"" E","5° 16' 8.023"" N",5.1747,Uninhabited Island, ,Varuva,MoFMRA
+LD0842,Kaafu,Lhosfushi,N,ޅޮސްފުށި,"73° 28' 11.343"" E","3° 53' 49.874"" N",0.902532,Uninhabited Island, , ,Council
+LD0843,Kaafu,Kagi,N,ކަގި,"73° 30' 4.383"" E","4° 40' 36.242"" N",2.497504,Tourism Island,Tourism,Resort,MoT
+LD0844,Baa,Dharavandhoo,N,ދަރަވަންދޫ,"73° 7' 50.554"" E","5° 9' 25.320"" N",67.384564,Residential Island, , , 
+LD0845,Faafu,Jinnathugau,N,ޖިންނަތުގައު,"72° 59' 52.709"" E","3° 12' 2.600"" N",1.86062,Tourism Island,Tourism, ,MoT
+LD0846,Gaafu Dhaalu,Kautihulhadhoo,N,ކައުޓިހުޅަދޫ,"73° 0' 28.812"" E","0° 23' 43.255"" N",13.708645,Uninhabited Island, , ,MoFMRA
+LD0847,Gaafu Dhaalu,Kanandhoo,N,ކަނަންދޫ,"73° 4' 9.975"" E","0° 16' 21.227"" N",30.701144,Uninhabited Island,Agriculture, ,MoFMRA
+LD0848,Thaa,Kudadhoo,N,ކުޑަދޫ,"72° 57' 6.006"" E","2° 18' 32.165"" N",0.252227,Uninhabited Island, , ,Atoll Council
+LD0849,Thaa,Mathidhoo,N,މަތިދޫ,"73° 20' 33.849"" E","2° 20' 47.982"" N",6.2022,Uninhabited Island, ,Varuva,MoFMRA
+LD0850,Thaa,Medhafushi,N,މެދަފުށި,"73° 20' 27.129"" E","2° 20' 36.353"" N",4.708547,Uninhabited Island, , ,Council
+LD0851,Gaafu Dhaalu,Hoan'dehdhoo,N,ހޯނޑެއްދޫ,"73° 0' 15.530"" E","0° 26' 40.345"" N",110.8848,Residential Island, , , 
+LD0852,Haa Dhaalu,Kurin'bi,N,ކުރިނބި,"72° 59' 47.893"" E","6° 39' 55.982"" N",40.992754,Residential Island, , , 
+LD0853,Kaafu, ,N, ,"73° 34' 48.215"" E","4° 34' 57.676"" N",11.916428,Uninhabited Island, , , 
+LD0854,Shaviyani,Gallaidhoo,N,ގައްލައިދޫ,"73° 7' 27.878"" E","5° 58' 8.569"" N",12.432299,Uninhabited Island, ,Varuva,MoFMRA
+LD0855,Seenu,Kaohera,N,ކައޮހެރަ,"73° 5' 17.471"" E","0° 35' 19.829"" S",5.841492,Uninhabited Island, , ,MoECCT
+LD0856,Gaafu Alifu,Kan'duhulhudhoo,N,ކަނޑުހުޅުދޫ,"73° 32' 23.000"" E","0° 21' 4.746"" N",32.324874,Residential Island, , , 
+LD0858,Haa Dhaalu,Kanamana,N,ކަނަމަނަ,"72° 53' 57.905"" E","6° 42' 18.953"" N",2.798506,Uninhabited Island, , ,MoFMRA
+LD0859,Thaa,Vandhoo,N,ވަންދޫ,"72° 56' 30.971"" E","2° 17' 30.157"" N",25.906479,Residential Island, , , 
+LD0860,Lhaviyani,Masleggihuraa,N,މަސްލެއްގިހުރާ,"73° 30' 2.986"" E","5° 32' 37.364"" N",1.191154,Uninhabited Island, , ,MoFMRA
+LD0861,Baa,Ahivaffushi,N,އަހިވައްފުށި,"72° 51' 25.168"" E","5° 13' 42.589"" N",0.312543,Uninhabited Island, , ,Atoll Council
+LD0862,Haa Alifu,Velifinolhu,N,ވެލިފިނޮޅު,"72° 52' 28.443"" E","6° 59' 38.668"" N",4.209848,Uninhabited Island, , ,MoFMRA
+LD0863,Shaviyani,Funadhoo,Y,ފުނަދޫ,"73° 17' 23.470"" E","6° 9' 11.709"" N",122.498119,Residential Island, , , 
+LD0864,Dhaalu,Bulhalafushi,N,ބުޅަލަފުށި,"73° 1' 33.818"" E","2° 48' 23.629"" N",0.8935,Uninhabited Island, , ,Atoll Council
+LD0865,Alifu Alifu,Mushimasmigili,N,މުށިމަސްމިގިލި,"72° 54' 45.763"" E","3° 57' 32.231"" N",2.87264,Tourism Island,Tourism, ,MoT
+LD0866,Noonu,Ken'dhikulhudhoo,N,ކެނދިކުޅުދޫ,"73° 24' 55.705"" E","5° 57' 9.061"" N",209.086502,Residential Island, , , 
+LD0867,Gaafu Dhaalu,Hadahahuttaa,N,ހަޑަހަހުއްޓާ,"73° 5' 46.566"" E","0° 15' 39.278"" N",4.506419,Uninhabited Island, , ,MoFMRA
+LD0868,Alifu Alifu,Fushi,N,ފުށި,"72° 53' 0.364"" E","4° 12' 56.483"" N",0.817702,Uninhabited Island, ,Varuva,MoFMRA
+LD0869,Gaafu Alifu,Boadduvaa,N,ބޯއްޑުވާ,"73° 19' 51.238"" E","0° 42' 22.075"" N",0.956967,Uninhabited Island, ,Varuva,MoFMRA
+LD0870,Gaafu Dhaalu,Kudhehaadhuaa,N,ކުދެހާދުއާ,"73° 7' 17.130"" E","0° 14' 24.828"" N",0.418501,Uninhabited Island, , ,MoFMRA
+LD0871,Noonu,Than'burudhoo,N,ތަނބުރުދޫ,"73° 14' 4.905"" E","5° 42' 59.663"" N",5.900963,Industrial Island,Agriculture, ,MoFMRA
+LD0872,Raa,Lhohi,N,ޅޮހި,"72° 53' 6.933"" E","5° 27' 41.445"" N",3.864406,Industrial Island,Agriculture, ,MoFMRA
+LD0873,Kaafu,Gaafaru,N,ގާފަރު,"73° 29' 58.581"" E","4° 44' 10.257"" N",19.474938,Residential Island, , , 
+LD0874,Alifu Alifu,Himandhoo,N,ހިމަންދޫ,"72° 44' 39.243"" E","3° 55' 15.848"" N",20.958977,Residential Island, , , 
+LD0876,Meemu,Hurasveli,N,ހުރަސްވެލި,"73° 37' 4.392"" E","3° 1' 8.510"" N",0.942755,Tourism Island,Tourism,Resort,MoFMRA
+LD0877,Noonu,Kan'dinmaahuraa,N,ކަނޑިންމާހުރާ,"73° 28' 48.543"" E","5° 51' 28.125"" N",0.558283,Uninhabited Island, , ,Atoll Council
+LD0878,Gaafu Alifu,Melaimaa,N,މެލައިމާ,"73° 10' 46.664"" E","0° 51' 27.168"" N",1.221183,Uninhabited Island, , ,MoFMRA
+LD0879,Lhaviyani,Thilamaafushi,N,ތިލަމާފުށި,"73° 35' 13.436"" E","5° 16' 23.718"" N",10.686956,Tourism Island,Tourism,Resort,MoT
+LD0880,Haa Alifu,Medhafushi,N,މެދަފުށި,"72° 56' 5.203"" E","7° 0' 39.166"" N",11.744079,Tourism Island,Tourism,Resort,MoT
+LD0881,Gaafu Alifu,Faruhulhedhoo,N,ފަރުހުޅެދޫ,"73° 14' 40.502"" E","0° 52' 20.716"" N",6.505367,Uninhabited Island, , ,MoFMRA
+LD0882,Haa Dhaalu,Fenboahuraa,N,ފެންބޯހުރާ,"72° 41' 41.039"" E","6° 23' 47.100"" N",7.232664,Uninhabited Island, , ,Council
+LD0883,Gaafu Dhaalu,Thelehuttaa,N,ތެލެހުއްޓާ,"73° 3' 9.149"" E","0° 17' 16.808"" N",2.320004,Uninhabited Island, , ,MoFMRA
+LD0884,Gaafu Alifu, ,N, ,"73° 33' 39.556"" E","0° 23' 22.944"" N",0.587402,Uninhabited Island, , , 
+LD0885,Gaafu Dhaalu,Kudhemathaidhoo,N,ކުދެމަތައިދޫ,"73° 1' 47.808"" E","0° 18' 24.044"" N",2.769733,Uninhabited Island, , ,MoFMRA
+LD0886,Kaafu,Lankanfushi,N,ލަންކަންފުށި,"73° 33' 25.472"" E","4° 17' 42.117"" N",11.580096,Tourism Island,Tourism,Resort,MoT
+LD0887,Gaafu Dhaalu,Gadhdhoo,N,ގައްދޫ,"73° 27' 28.647"" E","0° 17' 24.639"" N",58.664974,Residential Island, , , 
+LD0888,Seenu,Gan,N,ގަން,"73° 9' 9.919"" E","0° 41' 39.605"" S",333.054463,Industrial Island,Aviation,Airport, 
+LD0889,Baa,Maaddoohulhudhoo,N,މާއްޑޫހުޅުދޫ,"73° 1' 54.268"" E","5° 4' 16.724"" N",2.388381,Uninhabited Island, ,Varuva,MoFMRA
+LD0890,Kaafu,Hulhule,N,ހުޅުލެ,"73° 31' 54.437"" E","4° 11' 42.884"" N",332.302213,Industrial Island,Aviation,Airport, 
+LD0892,Meemu, ,N, ,"73° 22' 43.643"" E","2° 59' 22.985"" N",0.147651,Uninhabited Island, , , 
+LD0893,Alifu Alifu,Kudafolhudhoo,N,ކުޑަފޮޅުދޫ,"72° 46' 0.301"" E","4° 10' 52.882"" N",5.348472,Tourism Island,Tourism,Resort,MoT
+LD0894,Kaafu,Dhiffushi,N,ދިއްފުށި,"73° 42' 51.577"" E","4° 26' 30.863"" N",27.057046,Residential Island, , , 
+LD0895,Seenu, ,N, ,"73° 6' 5.096"" E","0° 36' 6.013"" S",1.799193,Uninhabited Island, , , 
+LD0896,Gaafu Dhaalu,Aakirahuttaa,N,އާކިރަހުއްޓާ,"73° 5' 32.464"" E","0° 15' 50.577"" N",9.216307,Uninhabited Island, , ,MoFMRA
+LD0897,Dhaalu, ,N, ,"72° 50' 28.996"" E","2° 43' 5.696"" N",0.166263,Uninhabited Island, , , 
+LD0898,Thaa,Usfushi,N,އުސްފުށި,"73° 12' 16.848"" E","2° 14' 47.353"" N",1.912543,Uninhabited Island, , ,Council
+LD0899,Seenu,Savaaheli,N,ސަވާހެލި,"73° 7' 33.695"" E","0° 40' 51.729"" S",9.401453,Tourism Island,Tourism, ,MoT
+LD0900,Alifu Dhaalu,Moofushi,N,މޫފުށި,"72° 43' 35.185"" E","3° 53' 6.262"" N",7.644527,Tourism Island,Tourism,Resort,MoT
+LD0901,Haa Alifu,Molhadhoo,N,މޮޅަދޫ,"72° 59' 50.561"" E","7° 0' 49.939"" N",119.087738,Residential Island, , , 
+LD0902,Laamu,Kudamahigulhi,N,ކުޑަމަހިގުޅި,"73° 19' 41.445"" E","1° 47' 14.114"" N",0.252097,Uninhabited Island, , ,Atoll Council
+LD0903,Kaafu,Vaadhoo,N,ވާދޫ,"73° 27' 25.997"" E","4° 7' 26.966"" N",2.309305,Tourism Island,Tourism,Resort,MoT
+LD0904,Gaafu Dhaalu,Rahadhuvaa,N,ރަހަދުވާ,"72° 59' 23.993"" E","0° 29' 48.756"" N",6.299647,Industrial Island, , ,MoTCA
+LD0905,Thaa,Kolhufushi,N,ކޮޅުފުށި,"73° 21' 48.221"" E","2° 21' 53.628"" N",3.722058,Uninhabited Island, , ,MoFMRA
+LD0906,Noonu,Hulhuhdhoo,N,ހުޅުއްދޫ,"73° 19' 8.239"" E","5° 48' 54.242"" N",8.592477,Uninhabited Island, , ,MoFMRA
+LD0907,Noonu,Magoodhoo,N,މަގޫދޫ,"73° 21' 44.868"" E","5° 46' 35.138"" N",36.953845,Residential Island, , , 
+LD0908,Haa Alifu,Ihavandhoo,N,އިހަވަންދޫ,"72° 55' 34.403"" E","6° 57' 10.517"" N",62.575702,Residential Island, , , 
+LD0909,Haa Alifu,Madulu,N,މަޑުލު,"72° 57' 11.375"" E","7° 3' 17.476"" N",15.081753,Uninhabited Island,Agriculture, ,MoFMRA
+LD0910,Baa,Dhandhoo,N,ދަންދޫ,"73° 10' 6.221"" E","5° 14' 9.287"" N",2.52308,Tourism Island,Tourism,Resort,MoT
+LD0911,Gaafu Alifu,Maarehaa,N,މާރެހާ,"73° 33' 49.977"" E","0° 27' 41.226"" N",15.600729,Tourism Island,Tourism, ,MoT
+LD0912,Thaa,Fonidhaani,N,ފޮނިދާނި,"73° 17' 5.142"" E","2° 18' 3.549"" N",1.891963,Uninhabited Island, ,Varuva,MoFMRA
+LD0914,Raa,Kan'doogan'du,N,ކަނޑޫގަނޑު,"72° 52' 34.254"" E","5° 46' 51.074"" N",2.580319,Tourism Island,Tourism, ,MoT
+LD0915,Haa Alifu,Thuraakunu,N,ތުރާކުނު,"72° 53' 56.916"" E","7° 6' 15.060"" N",26.204154,Residential Island, , , 
+LD0916,Alifu Alifu,Ukulhas,N,އުކުޅަސް,"72° 51' 50.906"" E","4° 12' 53.697"" N",23.749664,Residential Island, , , 
+LD0917,Raa,Arilundhoo,N,އަރިލުންދޫ,"72° 57' 27.612"" E","5° 39' 36.823"" N",3.584128,Uninhabited Island, ,Varuva,MoFMRA
+LD0918,Raa,Dhigali,N,ދިގަލި,"72° 57' 13.586"" E","5° 28' 31.003"" N",20.746701,Tourism Island,Tourism,Resort,MoT
+LD0919,Gaafu Dhaalu,Maarehaa,N,މާރެހާ,"73° 2' 46.040"" E","0° 17' 26.341"" N",1.852086,Uninhabited Island, , ,Council
+LD0920,Meemu, ,N, ,"73° 22' 40.896"" E","3° 3' 47.515"" N",0.215961,Uninhabited Island, , , 
+LD0921,Shaviyani,Hurasfaru,N,ހުރަސްފަރު,"73° 2' 11.429"" E","6° 8' 26.065"" N",4.898395,Tourism Island,Tourism, ,MoT
+LD0923,Shaviyani,Dholhiyadhookudarah,N,ދޮޅިޔަދޫކުޑަރަށް,"73° 13' 28.216"" E","5° 59' 24.838"" N",0.163603,Uninhabited Island, , ,Atoll Council
+LD0924,Raa,Fainu,N,ފައިނު,"73° 2' 4.495"" E","5° 27' 48.438"" N",61.795385,Residential Island, , , 
+LD0925,Faafu,Maafushi,N,މާފުށި,"72° 58' 42.770"" E","3° 14' 35.232"" N",2.998066,Tourism Island,Tourism,Resort,MoT
+LD0926,Gaafu Alifu,Funamauddaa,N,ފުނަމައުއްޑާ,"73° 11' 25.025"" E","0° 32' 1.615"" N",9.668965,Tourism Island,Tourism,Resort,MoT
+LD0927,Shaviyani,Gaakoshibi,N,ގާކޮށިބި,"73° 0' 43.288"" E","6° 17' 12.349"" N",18.184266,Tourism Island,Tourism,Resort,MoT
+LD0928,Gaafu Dhaalu,Goshi,N,ގޮށި,"73° 8' 52.273"" E","0° 30' 39.047"" N",4.236273,Uninhabited Island, , , 
+LD0929,Kaafu,Thulhaagiri,N,ތުޅާގިރި,"73° 29' 13.931"" E","4° 18' 42.304"" N",4.071385,Tourism Island,Tourism,Resort,MoT
+LD0930,Gaafu Dhaalu,Oinigillaa,N,އޮއިނިގިއްލާ,"73° 3' 53.082"" E","0° 16' 32.327"" N",14.473374,Uninhabited Island,Agriculture, ,MoFMRA
+LD0931,Baa,Goidhoo,N,ގޮއިދޫ,"72° 59' 58.403"" E","4° 52' 19.486"" N",162.944662,Residential Island, , , 
+LD0932,Dhaalu,Olhuveli,N,އޮޅުވެލި,"72° 56' 4.053"" E","2° 40' 56.083"" N",11.750496,Tourism Island,Tourism, ,MoT
+LD0934,Meemu, ,N, ,"73° 22' 45.203"" E","3° 1' 31.254"" N",0.153259,Uninhabited Island, , , 
+LD0935,Vaavu,Fohtheyobodufushi,N,ފޮއްތެޔޮބޮޑުފުށި,"73° 45' 28.800"" E","3° 27' 19.133"" N",13.315224,Tourism Island,Tourism,Resort,MoT
+LD0936,Gaafu Dhaalu,Ehivakaa,N,އެހިވަކާ,"73° 3' 16.239"" E","0° 17' 12.641"" N",7.190685,Uninhabited Island, , ,MoFMRA
+LD0937,Baa,Boifushi,N,ބޮއިފުށި,"72° 59' 37.815"" E","5° 17' 52.189"" N",0.619176,Tourism Island,Tourism, ,MoT
+LD0938,Laamu,Maavah,N,މާވަށް,"73° 14' 35.445"" E","1° 53' 7.783"" N",39.891946,Residential Island, , , 
+LD0939,Thaa,Olhufushi,N,އޮޅުފުށި,"72° 54' 29.917"" E","2° 21' 56.474"" N",2.342549,Tourism Island,Tourism, ,MoT
+LD0940,Gaafu Dhaalu,Konottaa,N,ކޮނޮއްޓާ,"73° 9' 17.184"" E","0° 27' 45.967"" N",8.163207,Tourism Island,Tourism,Resort,MoT
+LD0941,Gaafu Dhaalu,Fatefandhoo,N,ފަޓެފަންދޫ,"73° 1' 38.590"" E","0° 18' 22.760"" N",9.9925,Uninhabited Island, , ,MoFMRA
+LD0942,Gaafu Dhaalu,Uhurehaa,N,އުހުރެހާ,"73° 0' 18.755"" E","0° 25' 6.485"" N",0.357701,Uninhabited Island, , , 
+LD0943,Dhaalu, ,N, ,"72° 50' 53.094"" E","2° 42' 1.971"" N",0.178548,Uninhabited Island, , , 
+LD0944,Noonu,Felivaru,N,ފެލިވަރު,"73° 18' 23.350"" E","5° 50' 9.283"" N",11.276552,Industrial Island,Agriculture, ,MoFMRA
+LD0945,Gaafu Alifu,Baavanadhoo,N,ބާވަނަދޫ,"73° 32' 23.644"" E","0° 31' 16.718"" N",6.4366,Uninhabited Island, ,Varuva,MoFMRA
+LD0946,Gaafu Alifu,Munandhuvaa,N,މުނަންދުވާ,"73° 30' 1.964"" E","0° 35' 44.303"" N",6.355107,Uninhabited Island, , ,MoFMRA
+LD0947,Seenu,Feydhoo,N,ފޭދޫ,"73° 8' 5.541"" E","0° 40' 57.795"" S",122.343602,Residential Island, , , 
+LD0950,Kaafu, ,N, ,"73° 26' 25.138"" E","4° 57' 25.301"" N",0.673221,Uninhabited Island, , , 
+LD0951,Laamu,Maafushi,N,މާފުށި,"73° 19' 59.419"" E","1° 47' 30.460"" N",2.907887,Uninhabited Island, , ,MoFMRA
+LD0952,Laamu,Maakalhuveli,N,މާކަޅުވެލި,"73° 20' 25.644"" E","1° 47' 19.189"" N",4.829808,Uninhabited Island, , ,Atoll Council
+LD0953,Laamu,Guraidhoo,N,ގުރައިދޫ,"73° 15' 18.086"" E","1° 54' 29.659"" N",8.182903,Tourism Island,Tourism,Resort,MoT
+LD0954,Kaafu,Velassaru,N,ވެލައްސަރު,"73° 26' 12.975"" E","4° 7' 17.181"" N",9.003921,Tourism Island,Tourism,Resort,MoT
+LD0955,Laamu,Medhuvinagan'du,N,މެދުވިނަގަނޑު,"73° 16' 41.435"" E","1° 48' 59.269"" N",1.13887,Uninhabited Island, , ,Atoll Council
+LD0956,Thaa,Rihaamaafushi,N,ރިހާމާފުށި,"73° 15' 59.047"" E","2° 17' 22.105"" N",1.248225,Uninhabited Island, , ,MoFMRA
+LD0957,Dhaalu,Maalefaru,N,މާލެފަރު,"73° 1' 32.423"" E","2° 52' 55.411"" N",0.97962,Uninhabited Island, ,Varuva,MoFMRA
+LD0958,Baa,Nibiligaa,N,ނިބިލިގާ,"72° 56' 38.967"" E","5° 10' 27.062"" N",1.592583,Uninhabited Island, , ,MoECCT
+LD0959,Haa Dhaalu,Hon'daidhoo,N,ހޮނޑައިދޫ,"73° 5' 15.259"" E","6° 46' 11.216"" N",18.039801,Uninhabited Island,Tourism,Mixed Usage,MoFMRA
+LD0960,Kaafu,Kanifinolhu,N,ކަނިފިނޮޅު,"73° 36' 28.828"" E","4° 20' 36.915"" N",14.321346,Tourism Island,Tourism,Resort,MoT
+LD0961,Raa,Maanenfushi,N,މާނެންފުށި,"72° 57' 41.080"" E","5° 45' 3.758"" N",20.190982,Tourism Island,Tourism, ,MoT
+LD0962,Noonu,Hen'badhoo,N,ހެނބަދޫ,"73° 23' 34.384"" E","5° 58' 3.172"" N",13.83568,Residential Island, , , 
+LD0963,Lhaviyani,Boamandhipparu Huraagan'du,N,ބޯމަންދިއްޕަރު ހުރާގަނޑު,"73° 30' 38.012"" E","5° 29' 53.765"" N",0.808733,Uninhabited Island, , ,MoFMRA
+LD0964,Alifu Alifu,Gaagan'du,N,ގާގަނޑު,"72° 51' 53.967"" E","4° 13' 57.773"" N",0.071722,Uninhabited Island, , , 
+LD0965,Raa,Angaagiri,N,އަންގާގިރި,"72° 56' 45.760"" E","5° 33' 23.085"" N",2.487905,Uninhabited Island, , ,MoFMRA
+LD0966,Alifu Dhaalu,Lonuboi,N,ލޮނުބޮއި,"72° 54' 3.280"" E","3° 36' 11.670"" N",1.197831,Tourism Island,Tourism, ,MoT
+LD0967,Meemu, ,N, ,"73° 22' 8.538"" E","2° 47' 13.580"" N",0.134429,Uninhabited Island, , , 
+LD0968,Baa,Mathifaru,N,މަތިފަރު,"72° 53' 25.664"" E","4° 48' 57.846"" N",1.038861,Uninhabited Island, , , 
+LD0969,Haa Dhaalu,Keylakunu,N,ކޭލަކުނު,"73° 0' 32.819"" E","6° 36' 10.104"" N",90.781959,Uninhabited Island, , ,MoECCT
+LD0970,Faafu,Dharan'boodhoo,N,ދަރަނބޫދޫ,"72° 55' 32.607"" E","3° 3' 46.651"" N",40.079694,Residential Island, , , 
+LD0971,Laamu,Kuredhirehaa,N,ކުރެދިރެހާ,"73° 21' 12.915"" E","1° 46' 51.697"" N",4.574285,Uninhabited Island, , ,Council
+LD0972,Kaafu,Lankanfinolhu,N,ލަންކަންފިނޮޅު,"73° 33' 14.306"" E","4° 17' 6.543"" N",28.494525,Tourism Island,Tourism,Resort,MoT
+LD0974,Dhaalu,Hudhufusheefinolhu,N,ހުދުފުށީފިނޮޅު,"72° 54' 19.523"" E","2° 53' 36.859"" N",0.62992,Uninhabited Island, , , 
+LD0975,Faafu,Vilin'gilivarufinolhu,N,ވިލިނގިލިވަރުފިނޮޅު,"72° 59' 55.965"" E","3° 16' 27.362"" N",0.049682,Uninhabited Island, , ,Council
+LD0978,Shaviyani,Lhaimagu,N,ޅައިމަގު,"73° 15' 5.321"" E","6° 9' 50.445"" N",44.168911,Residential Island, , , 
+LD0979,Noonu,Orimasvaru,N,އޮރިމަސްވަރު,"73° 12' 26.127"" E","5° 51' 47.409"" N",5.83588,Uninhabited Island, ,Varuva,MoFMRA
+LD0980,Lhaviyani,Huravalhi,N,ހުރަވަޅި,"73° 26' 29.258"" E","5° 31' 16.190"" N",9.274345,Tourism Island,Tourism,Resort,MoT
+LD0981,Kaafu,Akirifushi,N,އަކިރިފުށި,"73° 24' 9.203"" E","4° 38' 13.551"" N",7.968911,Tourism Island,Tourism,Resort,MoT
+LD0982,Noonu,Kudafunafaru,N,ކުޑަފުނަފަރު,"73° 22' 40.785"" E","5° 53' 4.901"" N",13.107829,Tourism Island,Tourism,Resort,MoT
+LD0983,Haa Alifu,Maafinolhu,N,މާފިނޮޅު,"72° 51' 44.802"" E","7° 0' 7.992"" N",15.342167,Tourism Island,Tourism,Resort,MoT
+LD0984,Haa Alifu,Thakandhoo,N,ތަކަންދޫ,"72° 59' 44.249"" E","6° 50' 39.229"" N",41.343205,Residential Island, , , 
+LD0985,Shaviyani,Noomaraa,N,ނޫމަރާ,"73° 4' 8.659"" E","6° 26' 3.207"" N",39.212995,Residential Island, , , 
+LD0986,Meemu,Uthuruboduveli,N,އުތުރުބޮޑުވެލި,"73° 37' 3.172"" E","3° 1' 33.063"" N",4.42795,Tourism Island,Tourism,Resort,MoT
+LD0987,Haa Alifu,Baarah,N,ބާރަށް,"73° 12' 30.177"" E","6° 48' 59.981"" N",249.955159,Residential Island, , , 
+LD0988,Laamu,Fares,N,ފަރެސް,"73° 18' 2.661"" E","1° 47' 57.028"" N",12.198334,Tourism Island,Tourism,Resort,MoT
+LD0989,Gaafu Alifu,Bihurehaa,N,ބިހުރެހާ,"73° 34' 15.473"" E","0° 25' 19.022"" N",47.072093,Uninhabited Island, , ,Council
+LD0990,Seenu,Herethere,N,ހެރެތެރެ,"73° 13' 29.276"" E","0° 37' 28.802"" S",57.260598,Tourism Island,Tourism,Resort,MoT
+LD0991,Baa, ,N, ,"73° 3' 25.679"" E","5° 10' 2.028"" N",1.66211,Uninhabited Island, , , 
+LD0992,Seenu,Kedevaahera,N,ކެޑެވާހެރަ,"73° 12' 27.168"" E","0° 34' 36.983"" S",1.013324,Uninhabited Island, , ,Atoll Council
+LD0993,Haa Alifu,Filladhoo,N,ފިއްލަދޫ,"73° 13' 44.659"" E","6° 53' 35.252"" N",266.042832,Residential Island, , , 
+LD0994,Laamu,Baresdhoo,N,ބަރެސްދޫ,"73° 32' 23.840"" E","1° 58' 4.197"" N",73.832891,Tourism Island,Tourism,Resort,MoT
+LD0995,Gaafu Dhaalu,Hunigoderehaa,N,ހުނިގޮޑެރެހާ,"73° 0' 8.552"" E","0° 26' 5.621"" N",0.246286,Uninhabited Island, , ,Council
+LD0996,Noonu,Raafushi,N,ރާފުށި,"73° 17' 54.907"" E","5° 38' 51.333"" N",18.522149,Tourism Island,Tourism, ,MoT
+LD0997,Alifu Alifu,Gaathafushi,N,ގާތަފުށި,"72° 48' 38.547"" E","4° 1' 25.318"" N",1.083756,Tourism Island,Tourism, ,MoT
+LD0998,Thaa,Gaalee,N,ގާލީ,"73° 9' 16.221"" E","2° 32' 49.133"" N",6.957192,Uninhabited Island, , ,MoFMRA
+LD0999,Baa,Innafushi,N,އިންނަފުށި,"72° 52' 45.705"" E","4° 52' 39.045"" N",3.488531,Tourism Island,Tourism, ,MoT
+LD1000,Baa,Hithaadhoo,N,ހިތާދޫ,"72° 55' 22.291"" E","5° 0' 26.660"" N",31.740218,Residential Island, , , 
+LD1001,Thaa,Ekuruffushi,N,އެކުރުއްފުށި,"73° 13' 34.528"" E","2° 15' 57.594"" N",2.259125,Tourism Island,Tourism,Resort,MoFMRA
+LD1002,Alifu Alifu,Fesdhoo,N,ފެސްދޫ,"72° 48' 39.611"" E","4° 0' 24.757"" N",4.965637,Tourism Island,Tourism,Resort,MoT
+LD1004,Seenu,Hithadhoo,Y,ހިތަދޫ,"73° 5' 30.321"" E","0° 36' 43.677"" S",551.277866,Residential Island, , , 
+LD1006,Gaafu Alifu,Faruhulhudhoo,N,ފަރުހުޅުދޫ,"73° 15' 19.346"" E","0° 52' 27.871"" N",3.249829,Uninhabited Island, , ,MoFMRA
+LD1007,Alifu Dhaalu,Dhihdhoofinolhu,N,ދިއްދޫފިނޮޅު,"72° 53' 47.992"" E","3° 29' 54.922"" N",17.553549,Tourism Island,Tourism,Resort,MoT
+LD1008,Gaafu Dhaalu,Meragihuttaa,N,މެރަގިހުއްޓާ,"73° 4' 52.341"" E","0° 16' 9.268"" N",6.038213,Uninhabited Island, , ,MoFMRA
+LD1009,Meemu,Hudhuveli,N,ހުދުވެލި,"73° 37' 10.370"" E","3° 2' 10.966"" N",0.113584,Uninhabited Island, , , 
+LD1010,Alifu Dhaalu,Vilin'gilivaru,N,ވިލިނގިލިވަރު,"72° 57' 18.483"" E","3° 37' 8.511"" N",3.245918,Tourism Island,Tourism, ,MoT
+LD1011,Thaa,Kolafushi,N,ކޮލަފުށި,"73° 13' 24.477"" E","2° 15' 49.795"" N",1.569517,Uninhabited Island, ,Varuva,MoFMRA
+LD1012,Gaafu Dhaalu,Mathaidhoo,N,މަތައިދޫ,"73° 1' 36.801"" E","0° 18' 14.210"" N",3.855108,Uninhabited Island, ,Varuva,MoFMRA
+LD1013,Lhaviyani,Gaaerifaru,N,ގާއެރިފަރު,"73° 24' 12.564"" E","5° 29' 7.602"" N",3.421922,Uninhabited Island, , ,MoFMRA
+LD1014,Laamu,Boduhuraa,N,ބޮޑުހުރާ,"73° 17' 41.115"" E","1° 48' 4.346"" N",25.630468,Tourism Island,Tourism,Resort,MoT
+LD1015,Baa,Mudhdhoo,N,މުއްދޫ,"73° 5' 5.018"" E","5° 12' 24.021"" N",18.92602,Tourism Island,Tourism,Resort,MoT
+LD1016,Raa,Kudafushi,N,ކުޑަފުށި,"72° 58' 49.472"" E","5° 30' 38.425"" N",10.359002,Tourism Island,Tourism,Resort,MoT
+LD1017,Gaafu Alifu,Idhimaa,N,އިދިމާ,"73° 34' 11.013"" E","0° 24' 28.839"" N",2.029186,Uninhabited Island, , ,Atoll Council
+LD1018,Haa Dhaalu,Faridhoo,N,ފަރިދޫ,"73° 3' 14.494"" E","6° 47' 5.853"" N",26.466145,Uninhabited Island, , , 
+LD1019,Gaafu Dhaalu,Odagallaa,N,އޮޑަގައްލާ,"73° 22' 49.685"" E","0° 19' 10.185"" N",5.983735,Uninhabited Island, , ,MoFMRA
+LD1020,Lhaviyani,Fushifaru,N,ފުށިފަރު,"73° 30' 54.823"" E","5° 29' 28.354"" N",5.203138,Uninhabited Island,Tourism,Resort,MoFMRA
+LD1021,Alifu Alifu,Fusfinolhu,N,ފުސްފިނޮޅު,"72° 57' 30.260"" E","4° 1' 8.362"" N",0.011952,Uninhabited Island, , , 
+LD1022,Raa,Goiymaru,N,ގޮތްމަރު,"72° 53' 15.297"" E","5° 37' 48.637"" N",2.1174,Uninhabited Island, , ,MoFMRA
+LD1023,Alifu Dhaalu,Hangnaameedhoo,N,ހަންޏާމީދޫ,"72° 57' 19.215"" E","3° 50' 57.429"" N",20.310461,Residential Island, , , 
+LD1024,Laamu,Kudafenrehaa,N,ކުޑަފެންރެހާ,"73° 17' 20.834"" E","1° 48' 35.266"" N",2.060229,Uninhabited Island, , ,MoFMRA
+LD1025,Laamu,Kudafushi,N,ކުޑަފުށި,"73° 19' 54.691"" E","1° 47' 19.074"" N",12.274137,Industrial Island,Agriculture, ,MoFMRA
+LD1026,Vaavu,Vashugiri,N,ވަށުގިރި,"73° 22' 38.712"" E","3° 37' 47.925"" N",0.600103,Uninhabited Island, , ,MoFMRA
+LD1027,Gaafu Dhaalu,Rodaadhoo,N,ރޮޑާދޫ,"73° 1' 35.028"" E","0° 20' 34.559"" N",2.225078,Uninhabited Island, , ,MoFMRA
+LD1028,Lhaviyani,Dhashugirifinolhu,N,ދަށުގިރިފިނޮޅު,"73° 25' 30.035"" E","5° 25' 18.179"" N",0.035467,Uninhabited Island, , ,MoECCT
+LD1029,Gaafu Dhaalu,Keredhirehaa,N,ކެރެދިރެހާ,"73° 1' 32.942"" E","0° 18' 28.626"" N",1.022962,Uninhabited Island, , , 
+LD1030,Gaafu Dhaalu,Fenevenehuttaa,N,ފެނެވެނެހުއްޓާ,"73° 5' 15.120"" E","0° 15' 59.296"" N",5.245121,Uninhabited Island, ,Varuva,MoFMRA
+LD1031,Gaafu Dhaalu,Anhenerehaa,N,އަންހެނެރެހާ,"73° 0' 18.190"" E","0° 24' 8.760"" N",1.015288,Uninhabited Island, , ,MoFMRA
+LD1032,Gaafu Alifu,Hulhimendhoo,N,ހުޅިމެންދޫ,"73° 26' 24.057"" E","0° 42' 12.714"" N",4.89266,Uninhabited Island, ,Varuva,MoFMRA
+LD1033,Haa Alifu,Alidhoo,N,އަލިދޫ,"73° 9' 8.265"" E","6° 50' 56.488"" N",14.84319,Tourism Island,Tourism, ,MoT
+LD1034,Laamu,Kudaveshi,N,ކުޑަވެށި,"73° 16' 54.833"" E","1° 49' 26.637"" N",3.218864,Uninhabited Island, ,Varuva,MoFMRA
+LD1035,Thaa,Olhudhiyafushi,N,އޮޅުދިޔަފުށި,"73° 14' 9.832"" E","2° 16' 20.212"" N",0.833091,Uninhabited Island, , ,Atoll Council
+LD1036,Noonu,Medhafushi,N,މެދަފުށި,"73° 19' 25.903"" E","5° 44' 40.486"" N",22.970841,Tourism Island,Tourism,Resort,MoT
+LD1037,Haa Alifu,Dhapparuhuraa,N,ދައްޕަރުހުރާ,"73° 12' 40.769"" E","6° 54' 54.825"" N",0.06269,Uninhabited Island, , ,Atoll Council
+LD1038,Laamu,Fonadhoo,Y,ފޮނަދޫ,"73° 30' 0.244"" E","1° 50' 3.633"" N",171.614648,Residential Island, , , 
+LD1039,Kaafu,Vihamanaafushi,N,ވިހަމަނާފުށި,"73° 31' 11.195"" E","4° 13' 35.336"" N",13.620349,Tourism Island,Tourism,Resort,MoT
+LD1040,Haa Dhaalu,Kun'burudhoo,N,ކުނބުރުދޫ,"73° 1' 38.732"" E","6° 39' 29.793"" N",50.444248,Uninhabited Island, , , 
+LD1041,Baa,Finolhas,N,ފިނޮޅަސް,"73° 6' 49.114"" E","5° 14' 1.961"" N",24.484782,Tourism Island,Tourism, ,MoT
+LD1042,Noonu,Randheli,N,ރަންދެލި,"73° 20' 30.199"" E","5° 41' 30.898"" N",10.928058,Tourism Island,Tourism,Resort,MoT
+LD1043,Vaavu,Anbaraa,N,އަންބަރާ,"73° 26' 21.483"" E","3° 22' 20.190"" N",1.985168,Tourism Island,Tourism,Resort,MoT
+LD1045,Gaafu Alifu,Kendheraa,N,ކެންދެރާ,"73° 17' 6.426"" E","0° 43' 36.994"" N",4.362284,Uninhabited Island, , ,MoFMRA
+LD1046,Gaafu Dhaalu, ,N, ,"73° 11' 40.619"" E","0° 11' 40.436"" N",4.825249,Uninhabited Island, , ,MoFMRA
+LD1047,Alifu Dhaalu,Dhigurah,N,ދިގުރަށް,"72° 55' 25.897"" E","3° 31' 40.415"" N",55.048316,Residential Island, , , 
+LD1048,Laamu,Maaveshi,N,މާވެށި,"73° 16' 17.822"" E","1° 49' 58.637"" N",2.858033,Uninhabited Island, ,Varuva,MoFMRA
+LD1049,Laamu,Dhan'bidhoo,N,ދަނބިދޫ,"73° 32' 40.931"" E","2° 5' 39.159"" N",53.918371,Residential Island, , , 
+LD1050,Dhaalu,Meedhoo,N,މީދޫ,"73° 0' 26.204"" E","2° 59' 52.929"" N",32.553442,Residential Island, , , 
+LD1052,Noonu,Dhigurah,N,ދިގުރަށް,"73° 21' 33.868"" E","5° 43' 55.611"" N",56.620677,Tourism Island,Tourism,Resort,MoT
+LD1053,Laamu,Maabaidhoo,N,މާބައިދޫ,"73° 31' 57.423"" E","2° 1' 45.627"" N",52.80499,Residential Island, , , 
+LD1054,Baa,Dhashufaruhuraa,N,ދަށުފަރުހުރާ,"72° 54' 35.742"" E","4° 49' 2.566"" N",0.075837,Uninhabited Island, , , 
+LD1055,Raa,Dhinnaafushi,N,ދިންނާފުށި,"72° 49' 59.124"" E","5° 35' 20.509"" N",0.609908,Uninhabited Island, , ,MoFMRA
+LD1056,Laamu, ,N, ,"73° 31' 56.208"" E","2° 2' 35.402"" N",0.49023,Uninhabited Island, , , 
+LD1057,Gaafu Alifu,Maadhigavara,N,މާދިގަވަރަ,"73° 16' 0.258"" E","0° 41' 18.784"" N",2.814654,Uninhabited Island, , ,MoFMRA
+LD1058,Shaviyani,Komandoo,N,ކޮމަންޑޫ,"73° 3' 15.303"" E","6° 3' 15.172"" N",22.158796,Residential Island, , , 
+LD1059,Meemu, ,N, ,"73° 22' 9.543"" E","2° 47' 23.558"" N",0.119238,Uninhabited Island, , , 
+LD1060,Gaafu Dhaalu,Hevaahulhudhoo,N,ހެވާހުޅުދޫ,"73° 1' 50.408"" E","0° 18' 3.812"" N",5.997078,Uninhabited Island, , ,MoFMRA
+LD1061,Baa,Kihavahhuravalhi,N,ކިހަވައްހުރަވަޅި,"73° 3' 25.577"" E","5° 17' 46.295"" N",15.449922,Tourism Island,Tourism,Resort,MoT
+LD1062,Alifu Dhaalu,Mahchafushi,N,މައްޗަފުށި,"72° 53' 0.705"" E","3° 35' 37.858"" N",4.637307,Tourism Island,Tourism,Resort,MoT
+LD1063,Raa,Veyvah,N,ވޭވަށް,"72° 53' 36.141"" E","5° 46' 1.703"" N",1.719632,Tourism Island,Tourism,Resort,Atoll Council
+LD1064,Shaviyani,Bileiyfahi,N,ބިލެތްފަހި,"72° 58' 26.294"" E","6° 20' 16.196"" N",66.519896,Residential Island, , , 
+LD1066,Baa,Muthaafushi,N,މުތާފުށި,"72° 52' 40.181"" E","5° 4' 42.335"" N",5.041946,Tourism Island,Tourism,Resort,MoT
+LD1067,Meemu, ,N, ,"73° 34' 14.780"" E","2° 54' 13.676"" N",0.611643,Uninhabited Island, , , 
+LD1068,Noonu,Miladhoo,N,މިލަދޫ,"73° 21' 45.358"" E","5° 47' 25.752"" N",22.37376,Residential Island, , , 
+LD1069,Gaafu Dhaalu,Maavehdhoo,N,މާވެއްދޫ,"73° 28' 20.191"" E","0° 18' 32.213"" N",7.754522,Industrial Island, , ,MoTCA
+LD1070,Laamu,Isdhoo,N,އިސްދޫ,"73° 34' 37.235"" E","2° 7' 27.522"" N",147.063796,Residential Island, , , 
+LD1071,Kaafu,Meerufenfushi,N,މީރުފެންފުށި,"73° 43' 0.622"" E","4° 27' 14.739"" N",37.687894,Tourism Island,Tourism,Resort,MoT
+LD1072,Meemu,Thuvaru,N,ތުވަރު,"73° 22' 45.887"" E","2° 53' 54.236"" N",14.104491,Industrial Island,Agriculture, ,MoFMRA
+LD1073,Thaa, ,N, ,"73° 9' 25.496"" E","2° 32' 56.550"" N",0.19827,Uninhabited Island, , , 
+LD1074,Gaafu Dhaalu,Dhiyanegili,N,ދިޔަނެގިލި,"73° 1' 43.201"" E","0° 18' 6.507"" N",6.354613,Uninhabited Island, , ,MoFMRA
+LD1075,Baa,Milaidhoo,N,މިލައިދޫ,"73° 7' 42.513"" E","5° 16' 1.606"" N",5.51469,Tourism Island,Tourism,Resort,MoT
+LD1077,Dhaalu,Minimasgali,N,މިނިމަސްގަލި,"72° 53' 15.132"" E","2° 45' 1.017"" N",4.641304,Uninhabited Island, , ,MoFMRA
+LD1078,Thaa,Elaa,N,އެލާ,"73° 4' 45.850"" E","2° 10' 19.224"" N",31.377957,Tourism Island,Tourism, ,MoT
+LD1079,Vaavu,Thinadhoo,N,ތިނަދޫ,"73° 32' 17.880"" E","3° 29' 15.779"" N",12.490236,Residential Island, , , 
+LD1080,Alifu Alifu,Bathalaa,N,ބަތަލާ,"72° 56' 44.859"" E","4° 4' 13.233"" N",3.203231,Tourism Island,Tourism,Resort,MoT
+LD1082,Laamu,Fushi,N,ފުށި,"73° 31' 55.861"" E","2° 2' 58.690"" N",3.835373,Uninhabited Island, , ,MoFMRA
+LD1083,Noonu,Dhelibeyruhelhihuraa,N,ދެލިބޭރުހެޅިހުރާ,"73° 27' 24.030"" E","5° 48' 26.143"" N",0.078673,Uninhabited Island, , ,Council
+LD1085,Gaafu Alifu,Maamendhoo,N,މާމެންދޫ,"73° 26' 20.148"" E","0° 42' 49.768"" N",51.913822,Residential Island, , , 
+LD1086,Noonu,Kuredhivaru,N,ކުރެދިވަރު,"73° 20' 36.446"" E","5° 52' 30.986"" N",10.366427,Uninhabited Island,Tourism,Resort,MoFMRA
+LD1087,Laamu,Kokurahaa,N,ކޮކުރަހާ,"73° 15' 19.887"" E","1° 51' 14.690"" N",0.630781,Uninhabited Island, , , 
+LD1088,Gaafu Alifu,Fenrehaa,N,ފެންރެހާ,"73° 34' 20.838"" E","0° 24' 55.649"" N",1.90732,Uninhabited Island, , ,Atoll Council
+LD1089,Kaafu,Aarah,N,އާރަށް,"73° 29' 40.522"" E","4° 13' 48.381"" N",5.860183,Institutional Island,Other,Presidential Use,MoD
+LD1090,Gaafu Dhaalu,Aakirahuttaa,N,އާކިރަހުއްޓާ,"73° 7' 40.790"" E","0° 13' 50.637"" N",5.746217,Uninhabited Island, , ,MoFMRA
+LD1091,Gaafu Alifu,Nilandhoo,N,ނިލަންދޫ,"73° 26' 46.584"" E","0° 38' 11.021"" N",61.258407,Residential Island, , , 
+LD1092,Shaviyani,Kan'ditheemu,N,ކަނޑިތީމު,"72° 54' 57.890"" E","6° 26' 25.932"" N",89.304283,Residential Island, , , 
+LD1093,Alifu Dhaalu,Hukurudhoo,N,ހުކުރުދޫ,"72° 43' 7.301"" E","3° 34' 13.246"" N",14.118336,Industrial Island,Agriculture, ,MoFMRA
+LD1094,Gaafu Dhaalu,Olhurataa,N,އޮޅުރަޓާ,"73° 1' 29.814"" E","0° 18' 57.999"" N",1.351377,Uninhabited Island, , , 
+LD1096,Laamu,Mendhoo,N,މެންދޫ,"73° 22' 53.868"" E","1° 47' 13.427"" N",65.461227,Industrial Island,Agriculture, ,MoFMRA
+LD1097,Haa Alifu,Huvahandhoo,N,ހުވަހަންދޫ,"72° 54' 19.110"" E","6° 57' 34.818"" N",45.39337,Uninhabited Island, , ,Atoll Council
+LD1099,Vaavu,Vattaru,N,ވައްޓަރު,"73° 25' 35.225"" E","3° 13' 18.988"" N",1.999962,Uninhabited Island, , ,MoECCT
+LD1100,Shaviyani,Feydhoo,N,ފޭދޫ,"73° 2' 55.857"" E","6° 21' 37.991"" N",90.27882,Residential Island, , , 
+LD1101,Lhaviyani,Dhirun'baahuraa,N,ދިރުނބާހުރާ,"73° 39' 30.949"" E","5° 21' 14.295"" N",0.004968,Uninhabited Island, , , 
+LD1102,Alifu Dhaalu,Hiyafushi,N,ހިޔަފުށި,"72° 52' 13.921"" E","3° 28' 45.885"" N",1.056135,Uninhabited Island, , ,Council
+LD1103,Thaa,Olhufushifinolhu,N,އޮޅުފުށިފިނޮޅު,"72° 54' 29.182"" E","2° 22' 19.970"" N",0.026298,Tourism Island,Tourism, ,MoT
+LD1104,Faafu,Kan'dumoonufushi,N,ކަނޑުމޫނުފުށި,"72° 53' 50.544"" E","3° 18' 55.002"" N",1.08561,Uninhabited Island, ,Varuva,MoFMRA
+LD1105,Noonu,Dhekenanfaru,N,ދެކެނަންފަރު,"73° 9' 26.000"" E","5° 55' 12.315"" N",2.640705,Uninhabited Island, , ,Atoll Council
+LD1106,Dhaalu,Bodufushi,N,ބޮޑުފުށި,"72° 50' 50.867"" E","2° 42' 9.949"" N",0.884948,Uninhabited Island, , ,Atoll Council
+LD1107,Lhaviyani,Komandoo,N,ކޮމަންޑޫ,"73° 25' 27.470"" E","5° 29' 36.082"" N",5.038144,Tourism Island,Tourism,Resort,MoT
+LD1108,Meemu,Bodukan'duhuraa,N,ބޮޑުކަނޑުހުރާ,"73° 22' 8.777"" E","2° 49' 29.600"" N",0.377214,Uninhabited Island, , , 
+LD1109,Lhaviyani, ,N, ,"73° 21' 12.147"" E","5° 22' 16.977"" N",0.190559,Uninhabited Island, , , 
+LD1110,Meemu,Vannanerufasgan'du,N,ވަންނަނެރުފަސްގަނޑު,"73° 24' 36.798"" E","2° 46' 51.191"" N",0.440182,Uninhabited Island, , , 
+LD1111,Lhaviyani,Hiriyadhoo,N,ހިރިޔަދޫ,"73° 38' 37.797"" E","5° 24' 44.173"" N",29.110873,Uninhabited Island, , ,MoECCT
+LD1112,Meemu,Dhekunuboduveli,N,ދެކުނުބޮޑުވެލި,"73° 27' 8.043"" E","2° 49' 33.001"" N",5.465303,Tourism Island,Tourism,Resort,MoT
+LD1114,Kaafu,Kudahuraa,N,ކުޑަހުރާ,"73° 35' 50.850"" E","4° 19' 41.571"" N",7.717748,Tourism Island,Tourism,Resort,MoT
+LD1115,Baa,Keyodhoo,N,ކެޔޮދޫ,"72° 59' 45.708"" E","5° 16' 35.839"" N",3.257111,Uninhabited Island, ,Varuva,MoFMRA
+LD1116,Meemu, ,N, ,"73° 22' 9.244"" E","2° 49' 44.528"" N",0.04211,Uninhabited Island, , , 
+LD1117,Raa,Ethigan'dujehihuraa,N,އެތިގަނޑުޖެހިހުރާ,"73° 1' 47.250"" E","5° 25' 26.838"" N",0.02783,Uninhabited Island, , ,MoFMRA
+LD1118,Laamu,Olhuveli,N,އޮޅުވެލި,"73° 24' 17.118"" E","1° 49' 0.751"" N",19.569392,Tourism Island,Tourism,Resort,MoT
+LD1120,Raa,Fenfushi,N,ފެންފުށި,"72° 54' 8.222"" E","5° 22' 56.790"" N",4.831229,Industrial Island,Mariculture, ,MoFMRA
+LD1121,Raa,In'guraidhoo,N,އިނގުރައިދޫ,"73° 2' 12.178"" E","5° 28' 37.177"" N",47.104442,Residential Island, , , 
+LD1122,Raa,Kukulhudhoo,N,ކުކުޅުދޫ,"72° 52' 16.242"" E","5° 27' 33.190"" N",2.963137,Uninhabited Island, , ,MoFMRA
+LD1123,Thaa,Kanimeedhoo,N,ކަނިމީދޫ,"73° 6' 41.558"" E","2° 11' 44.274"" N",67.861905,Tourism Island,Agriculture, ,MoFMRA
+LD1124,Gaafu Dhaalu,Kaadehdhoo,N,ކާޑެއްދޫ,"72° 59' 38.294"" E","0° 29' 15.338"" N",182.14734,Industrial Island,Aviation,Airport,MoTCA
+LD1125,Noonu,Than'burudhuffushi,N,ތަނބުރުދުއްފުށި,"73° 14' 32.569"" E","5° 42' 30.764"" N",3.034676,Tourism Island,Tourism, ,MoT
+LD1126,Haa Dhaalu,Hirinaidhoo,N,ހިރިނައިދޫ,"72° 56' 53.744"" E","6° 42' 5.948"" N",6.400555,Uninhabited Island, , ,MoFMRA
+LD1127,Raa,Kottefaru,N,ކޮއްޓެފަރު,"73° 2' 27.220"" E","5° 30' 36.280"" N",13.800018,Tourism Island,Tourism,Resort,MoT
+LD1128,Noonu, ,N, ,"73° 16' 52.439"" E","5° 40' 51.754"" N",0.258167,Uninhabited Island, , ,MoFMRA
+LD1129,Kaafu,Hinmafushi,N,ހިންމަފުށި,"73° 34' 16.121"" E","4° 18' 29.718"" N",66.19051,Residential Island, , , 
+LD1130,Thaa,Ufuriyaa,N,އުފުރިޔާ,"73° 21' 40.568"" E","2° 21' 41.779"" N",7.374522,Uninhabited Island, , ,MoFMRA
+LD1131,Alifu Dhaalu,Fushidhigga,N,ފުށިދިއްގަ,"72° 46' 14.079"" E","3° 45' 28.501"" N",2.019956,Uninhabited Island, , ,Atoll Council
+LD1132,Haa Alifu,Umuraifinolhu,N,އުމުރަތްފިނޮޅު,"72° 51' 4.654"" E","7° 0' 34.202"" N",0.486371,Uninhabited Island, , ,Atoll Council
+LD1133,Dhaalu,Kudathilabolhufushi,N,ކުޑަތިލަބޮޅުފުށި,"73° 1' 22.746"" E","2° 45' 24.174"" N",1.013738,Uninhabited Island, , , 
+LD1134,Kaafu,Veligan'duhuraa,N,ވެލިގަނޑުހުރާ,"73° 30' 23.017"" E","3° 58' 18.173"" N",3.436668,Tourism Island,Tourism,Resort,MoT
+LD1135,Faafu,Madivaruhuraa,N,މަޑިވަރުހުރާ,"73° 0' 38.810"" E","3° 16' 0.495"" N",0.126607,Uninhabited Island, , ,Council
+LD1136,Lhaviyani,Dhihdhoo,N,ދިއްދޫ,"73° 22' 56.702"" E","5° 22' 34.311"" N",13.186313,Uninhabited Island, , ,MoNPHI
+LD1137,Baa,Kashidhoo,N,ކަށިދޫ,"72° 58' 7.328"" E","5° 17' 49.841"" N",6.608706,Industrial Island,Agriculture,Mixed Usage,MoFMRA
+LD1138,Haa Dhaalu,Vaikaramuraidhoo,N,ވައިކަރަމުރައިދޫ,"72° 53' 48.289"" E","6° 32' 27.479"" N",68.481153,Uninhabited Island,Tourism,Resort,MoFMRA
+LD1139,Alifu Alifu,Kuramathi,N,ކުރަމަތި,"72° 58' 39.999"" E","4° 15' 35.512"" N",31.182256,Tourism Island,Tourism,Resort,MoT
+LD1140,Seenu,Fathikedeheragan'du,N,ފަތިކެޑެހެރަގަނޑު,"73° 8' 54.107"" E","0° 36' 44.630"" S",2.398911,Uninhabited Island, , ,MoECCT
+LD1141,Faafu,Himithi,N,ހިމިތި,"72° 49' 6.836"" E","3° 15' 19.354"" N",15.650724,Tourism Island,Tourism, ,MoT
+LD1142,Kaafu,Makunudhoo,N,މަކުނުދޫ,"73° 24' 20.483"" E","4° 32' 33.334"" N",3.405964,Tourism Island,Tourism,Resort,MoT
+LD1143,Faafu,Faanumaahuraa,N,ފާނުމާހުރާ,"72° 58' 55.286"" E","3° 12' 47.304"" N",0.28924,Uninhabited Island, , ,Atoll Council
+LD1144,Shaviyani,Maroshi,N,މަރޮށި,"73° 3' 41.007"" E","6° 12' 34.795"" N",30.868095,Residential Island, , , 
+LD1145,Noonu,Ban'daidhihdhoo,N,ބަނޑައިދިއްދޫ,"73° 15' 27.431"" E","5° 41' 6.091"" N",28.636439,Industrial Island,Agriculture,Mixed Usage,MoFMRA
+LD1146,Baa,Dhunikolhu,N,ދުނިކޮޅު,"72° 52' 53.323"" E","5° 2' 22.728"" N",15.763694,Tourism Island,Tourism,Resort,MoT
+LD1147,Alifu Dhaalu,Athurugau,N,އަތުރުގައު,"72° 48' 58.116"" E","3° 53' 13.929"" N",3.132407,Tourism Island,Tourism,Resort,MoT
+LD1148,Vaavu,Kunaaveshi,N,ކުނާވެށި,"73° 21' 54.606"" E","3° 38' 12.025"" N",1.999378,Tourism Island,Tourism,Resort,MoT
+LD1149,Shaviyani,Feevah,N,ފީވައް,"73° 12' 33.690"" E","6° 20' 56.034"" N",87.56318,Residential Island, , , 
+LD1150,Meemu,Raaban'dhihuraa,N,ރާބަނދިހުރާ,"73° 23' 20.029"" E","3° 5' 31.018"" N",1.354704,Uninhabited Island, , ,Atoll Council
+LD1151,Raa,Gemana,N,ގެމަނަ,"72° 59' 5.940"" E","5° 32' 13.597"" N",2.44989,Uninhabited Island, , ,Atoll Council
+LD1152,Gaafu Dhaalu,Han'daidhoo,N,ހަނޑައިދޫ,"73° 11' 31.398"" E","0° 11' 36.945"" N",2.608402,Uninhabited Island, , ,MoFMRA
+LD1153,Baa,Maarikilu,N,މާރިކިލު,"72° 57' 9.113"" E","5° 20' 5.950"" N",26.773437,Industrial Island,Agriculture, ,MoFMRA
+LD1154,Alifu Alifu,Dhinnolhufinolhu,N,ދިންނޮޅުފިނޮޅު,"72° 43' 57.410"" E","4° 8' 18.866"" N",0.496554,Uninhabited Island, ,Varuva,MoFMRA
+LD1155,Haa Alifu,Naridhoo,N,ނަރިދޫ,"73° 7' 36.345"" E","6° 53' 41.989"" N",14.212611,Tourism Island,Tourism, ,MoT
+LD1156,Gaafu Alifu,Bodubon'deyyaa,N,ބޮޑުބޮނޑެއްޔާ,"73° 34' 2.617"" E","0° 24' 36.355"" N",6.540944,Uninhabited Island, , , 
+LD1157,Vaavu, ,N, ,"73° 34' 47.223"" E","3° 21' 32.026"" N",1.129195,Uninhabited Island, , , 
+LD1158,Faafu,Nilandhoo,Y,ނިލަންދޫ,"72° 53' 19.729"" E","3° 3' 25.641"" N",74.796714,Residential Island, , , 
+LD1159,Shaviyani,Kudafarufinolhu,N,ކުޑަފަރުފިނޮޅު,"73° 2' 39.212"" E","6° 3' 51.017"" N",1.325759,Uninhabited Island, , ,Atoll Council
+LD1160,Laamu,Bodufinolhu,N,ބޮޑުފިނޮޅު,"73° 32' 25.252"" E","1° 56' 43.632"" N",6.349199,Tourism Island,Tourism,Resort,MoT
+LD1161,Gaafu Dhaalu,Haadhuaa,N,ހާދުއާ,"73° 7' 19.600"" E","0° 14' 20.968"" N",7.417197,Uninhabited Island, ,Varuva,MoFMRA
+LD1162,Thaa,Kuran'dhuvaru,N,ކުރަނދުވަރު,"73° 10' 33.770"" E","2° 32' 21.456"" N",2.530567,Uninhabited Island, ,Varuva,MoFMRA
+LD1163,Thaa,Guraidhoo,N,ގުރައިދޫ,"73° 19' 3.269"" E","2° 19' 21.297"" N",76.475535,Residential Island, , , 
+LD1164,Gaafu Dhaalu,Kodaanahuttaa,N,ކޮޑާނަހުއްޓާ,"73° 29' 51.994"" E","0° 19' 57.504"" N",18.450771,Uninhabited Island, , ,MoFMRA
+LD1165,Kaafu,Villivaru,N,ވިއްލިވަރު,"73° 27' 19.010"" E","3° 54' 52.138"" N",7.130108,Tourism Island,Tourism, ,MoT
+LD1166,Meemu,Maduvvari,N,މަޑުއްވަރި,"73° 34' 23.090"" E","3° 6' 17.519"" N",12.121939,Residential Island, , , 
+LD1167,Meemu,Veyvah,N,ވޭވަށް,"73° 35' 59.573"" E","2° 57' 22.624"" N",42.069185,Residential Island, , , 
+LD1168,Gaafu Dhaalu,Bolimathaidhoo,N,ބޮލިމަތައިދޫ,"73° 7' 34.649"" E","0° 13' 58.865"" N",11.861986,Tourism Island,Tourism, ,MoT
+LD1169,Shaviyani,Neyo,N,ނެޔޮ,"73° 3' 34.758"" E","6° 27' 1.151"" N",20.55523,Uninhabited Island,Agriculture, ,MoFMRA
+LD1170,Shaviyani,Naainfarufinolhu,N,ނާއިންފަރުފިނޮޅު,"72° 59' 56.372"" E","6° 12' 12.212"" N",7.478862,Tourism Island,Tourism,Resort,MoT
+LD1171,Gaafu Alifu,Kon'deymatheelaabadhoo,N,ކޮނޑޭމަތީލާބަދޫ,"73° 29' 52.836"" E","0° 30' 20.738"" N",7.544139,Tourism Island,Tourism,Resort,MoT
+LD1172,Laamu,Hanhushi,N,ހަންހުށި,"73° 15' 42.358"" E","1° 57' 5.540"" N",2.812051,Uninhabited Island, , ,Atoll Council
+LD1173,Thaa,Kalhudheyfushi,N,ކަޅުދޭފުށި,"73° 16' 34.630"" E","2° 17' 41.915"" N",4.153478,Tourism Island,Tourism,Resort,MoT
+LD1174,Gaafu Dhaalu,Kudhebeeraahuttaa,N,ކުދެބީރާހުއްޓާ,"73° 3' 41.843"" E","0° 16' 56.569"" N",0.268522,Uninhabited Island, , ,MoFMRA
+LD1175,Raa,Un'goofaaru,Y,އުނގޫފާރު,"73° 1' 47.079"" E","5° 40' 5.835"" N",36.149593,Residential Island, , , 
+LD1176,Alifu Dhaalu,Maafushivaru,N,މާފުށިވަރު,"72° 54' 0.915"" E","3° 36' 28.516"" N",3.184805,Tourism Island,Tourism,Resort,MoT
+LD1177,Kaafu,Furanafushi,N,ފުރަނަފުށި,"73° 32' 42.244"" E","4° 15' 0.301"" N",15.043387,Tourism Island,Tourism,Resort,MoT
+LD1178,Lhaviyani,Kanifushi,N,ކަނިފުށި,"73° 20' 22.482"" E","5° 21' 58.641"" N",36.443182,Tourism Island,Tourism,Resort,MoT
+LD1179,Lhaviyani,Lhossalafushi,N,ޅޮއްސަލަފުށި,"73° 28' 59.360"" E","5° 18' 27.150"" N",28.181335,Uninhabited Island,Tourism,Luxury Villa,MoT
+LD1182,Gaafu Alifu,Gemanafushi,N,ގެމަނަފުށި,"73° 34' 5.755"" E","0° 26' 32.801"" N",56.791277,Residential Island, , , 
+LD1185,Dhaalu,Velavaru,N,ވެލަވަރު,"73° 0' 56.463"" E","2° 58' 46.926"" N",8.049292,Tourism Island,Tourism,Resort,MoT
+LD1186,Laamu,Bodufinolhu,N,ބޮޑުފިނޮޅު,"73° 22' 19.650"" E","2° 1' 40.246"" N",1.571887,Tourism Island,Tourism,Resort, 
+LD1187,Noonu, ,N, ,"73° 22' 25.739"" E","5° 39' 31.364"" N",0.23233,Uninhabited Island, , , 
+LD1188,Dhaalu,Maagau,N,މާގައު,"72° 54' 52.543"" E","2° 56' 51.552"" N",7.335599,Tourism Island,Tourism,Resort,MoT
+LD1189,Haa Alifu,Hathifushi,N,ހަތިފުށި,"72° 49' 50.688"" E","7° 1' 12.265"" N",5.008324,Uninhabited Island, , , 
+LD1190,Lhaviyani,Ookolhufinolhu,N,އޫކޮޅުފިނޮޅު,"73° 37' 22.193"" E","5° 16' 55.614"" N",10.951528,Tourism Island,Tourism,Resort,MoT
+LD1191,Laamu,Hulhisdhoo,N,ހުޅިސްދޫ,"73° 23' 15.589"" E","1° 47' 6.751"" N",1.390029,Uninhabited Island, , ,Council
+LD1192,Haa Dhaalu,Hon'daafushi,N,ހޮނޑާފުށި,"73° 7' 19.890"" E","6° 46' 43.405"" N",61.545473,Tourism Island,Tourism,Resort,MoT
+LD1194,Kaafu,Bodufinolhu,N,ބޮޑުފިނޮޅު,"73° 27' 23.765"" E","3° 51' 26.663"" N",14.242592,Tourism Island,Tourism,Resort,MoT
+LD1195,Gaafu Dhaalu,Bodehuttaa,N,ބޮޑެހުއްޓާ,"73° 2' 25.750"" E","0° 17' 57.301"" N",1.60538,Uninhabited Island, , ,Council
+LD1196,Haa Dhaalu,Muiri,N,މުއިރި,"72° 56' 10.560"" E","6° 39' 29.096"" N",49.025597,Tourism Island,Tourism, ,MoT
+LD1197,Baa,Kihaadhuffaru,N,ކިހާދުއްފަރު,"73° 7' 56.570"" E","5° 11' 27.503"" N",15.0633,Tourism Island,Tourism,Resort,MoT
+LD1198,Alifu Dhaalu,Thun'dufushi,N,ތުނޑުފުށި,"72° 43' 50.406"" E","3° 47' 10.447"" N",3.844039,Tourism Island,Tourism,Resort,MoT
+LD1199,Meemu,Kuradhigan'du,N,ކުރަދިގަނޑު,"73° 22' 20.942"" E","2° 46' 26.927"" N",0.824179,Uninhabited Island, , , 
+LD1200,Baa,En'boodhoo,N,އެނބޫދޫ,"72° 51' 22.198"" E","5° 3' 49.963"" N",4.315823,Tourism Island,Tourism, ,MoT
+LD1202,Thaa,Bodurehaa,N,ބޮޑުރެހާ,"73° 13' 44.777"" E","2° 16' 4.517"" N",1.127544,Uninhabited Island, ,Varuva,MoFMRA
+LD1203,Kaafu, ,N, ,"73° 27' 27.199"" E","4° 10' 49.635"" N",26.910398,Uninhabited Island, , , 
+LD1206,Shaviyani, ,N, ,"73° 17' 47.454"" E","6° 10' 16.461"" N",0.273725,Uninhabited Island, , , 
+LD1207,Haa Dhaalu, ,N, ,"72° 55' 5.433"" E","6° 38' 55.082"" N",0.076685,Uninhabited Island, , , 
+LD1208,Baa, ,N, ,"72° 57' 49.324"" E","5° 17' 42.981"" N",0.031108,Uninhabited Island, , , 
+LD1209,Baa, ,N, ,"72° 57' 18.905"" E","5° 17' 58.306"" N",1.742012,Uninhabited Island, , , 
+LD1210,Baa, ,N, ,"73° 4' 31.582"" E","5° 20' 30.310"" N",0.102837,Uninhabited Island, , , 
+LD1211,Baa,Bathalaahuraa,N,ބަތަލާހުރާ,"73° 3' 43.180"" E","5° 21' 26.603"" N",0.801144,Uninhabited Island, , ,Atoll Council
+LD1212,Raa,Minaadhoo,N,މިނާދޫ,"72° 55' 38.913"" E","5° 35' 17.347"" N",0.100738,Uninhabited Island, , ,MoFMRA
+LD1214,Baa,Hanifaruhuraa,N,ހަނިފަރުހުރާ,"73° 9' 5.166"" E","5° 10' 22.413"" N",0.027229,Uninhabited Island, , , 
+LD1215,Baa,Huraafaru,N,ހުރާފަރު,"73° 9' 14.175"" E","5° 12' 24.922"" N",2.975102,Tourism Island,Tourism, ,MoT
+LD1216,Baa,Dhoogan'dufinolhu,N,ދޫގަނޑުފިނޮޅު,"73° 9' 7.115"" E","5° 14' 50.641"" N",0.36693,Uninhabited Island, , , 
+LD1217,Baa, ,N, ,"73° 7' 12.008"" E","5° 15' 12.048"" N",0.603506,Uninhabited Island, , , 
+LD1218,Baa, ,N, ,"73° 11' 27.947"" E","5° 14' 25.967"" N",0.179305,Uninhabited Island, , , 
+LD1219,Baa,Vandhuhmaafarufinolhu,N,ވަންދުއްމާފަރުފިނޮޅު,"73° 11' 27.454"" E","5° 14' 14.310"" N",0.174816,Uninhabited Island, , ,MoFMRA
+LD1220,Baa,Maafusheefinolhu,N,މާފުށީފިނޮޅު,"73° 11' 27.820"" E","5° 13' 52.968"" N",0.201373,Uninhabited Island, , ,MoFMRA
+LD1221,Baa, ,N, ,"73° 11' 27.010"" E","5° 13' 33.685"" N",0.029423,Uninhabited Island, , , 
+LD1222,Baa, ,N, ,"73° 1' 55.786"" E","5° 10' 51.999"" N",2.764025,Uninhabited Island, , , 
+LD1223,Baa, ,N, ,"73° 3' 43.823"" E","5° 9' 55.871"" N",0.078649,Uninhabited Island, , , 
+LD1224,Baa,An'gaafaru,N,އަނގާފަރު,"73° 5' 57.251"" E","5° 10' 39.006"" N",1.659028,Uninhabited Island, , , 
+LD1225,Baa, ,N, ,"73° 2' 29.258"" E","5° 10' 1.282"" N",0.799257,Uninhabited Island, , , 
+LD1229,Baa, ,N, ,"73° 5' 47.627"" E","5° 17' 1.782"" N",3.630237,Uninhabited Island, , , 
+LD1230,Baa, ,N, ,"73° 0' 46.270"" E","5° 17' 52.048"" N",0.1369,Uninhabited Island, , , 
+LD1231,Raa, ,N, ,"73° 1' 41.088"" E","5° 25' 21.742"" N",0.680616,Uninhabited Island, , , 
+LD1232,Raa, ,N, ,"73° 1' 26.679"" E","5° 25' 12.422"" N",0.043903,Uninhabited Island, , , 
+LD1233,Raa, ,N, ,"73° 0' 55.971"" E","5° 24' 50.429"" N",0.058701,Uninhabited Island, , , 
+LD1236,Raa, ,N, ,"72° 56' 30.734"" E","5° 36' 29.656"" N",0.24704,Uninhabited Island, , , 
+LD1237,Raa, ,N, ,"72° 49' 47.709"" E","5° 34' 9.461"" N",0.801517,Uninhabited Island, , , 
+LD1238,Raa,Kukulhudhuffaru,N,ކުކުޅުދުއްފަރު,"72° 50' 38.250"" E","5° 28' 24.003"" N",2.729344,Uninhabited Island, , , 
+LD1241,Lhaviyani, ,N, ,"73° 21' 6.187"" E","5° 24' 27.532"" N",0.030607,Uninhabited Island, , , 
+LD1242,Lhaviyani, ,N, ,"73° 29' 1.997"" E","5° 33' 26.283"" N",0.014589,Uninhabited Island, , , 
+LD1244,Lhaviyani, ,N, ,"73° 29' 48.421"" E","5° 32' 45.489"" N",0.208231,Uninhabited Island, , , 
+LD1249,Lhaviyani,Veligan'du,N,ވެލިގަނޑު,"73° 26' 16.099"" E","5° 31' 42.934"" N",1.479462,Uninhabited Island, , ,MoFMRA
+LD1252,Lhaviyani, ,N, ,"73° 23' 30.211"" E","5° 22' 36.222"" N",0.379525,Uninhabited Island, , , 
+LD1253,Lhaviyani, ,N, ,"73° 23' 23.727"" E","5° 22' 36.173"" N",0.09873,Uninhabited Island, , , 
+LD1255,Lhaviyani, ,N, ,"73° 22' 26.751"" E","5° 22' 31.889"" N",0.069394,Uninhabited Island, , , 
+LD1256,Lhaviyani, ,N, ,"73° 22' 19.272"" E","5° 22' 28.817"" N",0.262662,Uninhabited Island, , , 
+LD1261,Lhaviyani, ,N, ,"73° 21' 17.913"" E","5° 22' 19.820"" N",0.139971,Uninhabited Island, , , 
+LD1262,Lhaviyani, ,N, ,"73° 25' 8.596"" E","5° 22' 4.521"" N",0.032102,Uninhabited Island, , , 
+LD1266,Lhaviyani, ,N, ,"73° 38' 31.678"" E","5° 18' 55.697"" N",0.09096,Uninhabited Island, , , 
+LD1267,Lhaviyani,Faadhoohuraagan'du,N,ފާދޫހުރާގަނޑު,"73° 37' 10.570"" E","5° 26' 9.328"" N",0.533495,Uninhabited Island, , ,MoFMRA
+LD1268,Lhaviyani, ,N, ,"73° 25' 32.772"" E","5° 29' 53.611"" N",0.623333,Uninhabited Island, , , 
+LD1271,Baa, ,N, ,"72° 57' 16.343"" E","4° 53' 4.536"" N",0.018005,Uninhabited Island, , , 
+LD1272,Baa, ,N, ,"72° 58' 32.342"" E","4° 53' 3.161"" N",0.211031,Uninhabited Island, , , 
+LD1273,Baa, ,N, ,"72° 56' 30.180"" E","4° 52' 58.763"" N",0.011279,Uninhabited Island, , , 
+LD1274,Baa, ,N, ,"72° 56' 52.537"" E","4° 53' 5.201"" N",0.016891,Uninhabited Island, , , 
+LD1275,Baa, ,N, ,"72° 57' 8.681"" E","4° 53' 6.091"" N",0.146653,Uninhabited Island, , , 
+LD1276,Baa, ,N, ,"72° 56' 30.471"" E","4° 53' 9.618"" N",0.015186,Uninhabited Island, , , 
+LD1277,Baa, ,N, ,"72° 53' 13.350"" E","4° 52' 53.322"" N",0.36045,Uninhabited Island, , , 
+LD1279,Baa, ,N, ,"72° 53' 23.454"" E","4° 52' 50.625"" N",0.945049,Uninhabited Island, , , 
+LD1280,Baa,Boadhaafushifinolhu,N,ބޯދާފުށިފިނޮޅު,"72° 53' 41.823"" E","4° 52' 53.976"" N",3.170277,Uninhabited Island, , ,MoFMRA
+LD1283,Baa, ,N, ,"72° 54' 4.176"" E","4° 52' 59.340"" N",0.116068,Uninhabited Island, , , 
+LD1284,Baa, ,N, ,"72° 54' 26.024"" E","4° 53' 0.733"" N",0.381795,Uninhabited Island, , , 
+LD1287,Baa, ,N, ,"72° 54' 45.769"" E","4° 53' 2.648"" N",0.878812,Uninhabited Island, , , 
+LD1288,Baa, ,N, ,"72° 55' 17.251"" E","4° 53' 3.540"" N",0.362751,Uninhabited Island, , , 
+LD1293,Kaafu,Aanugan'dufinolhu,N,އާނުގަނޑުފިނޮޅު,"73° 30' 20.033"" E","4° 18' 23.040"" N",8.348494,Tourism Island,Tourism, ,MoT
+LD1295,Kaafu, ,N, ,"73° 24' 34.102"" E","4° 22' 9.839"" N",1.546324,Uninhabited Island, , , 
+LD1296,Kaafu, ,N, ,"73° 24' 24.363"" E","4° 27' 24.633"" N",0.318577,Uninhabited Island, , , 
+LD1297,Kaafu, ,N, ,"73° 26' 56.415"" E","4° 28' 21.336"" N",0.565094,Uninhabited Island, , , 
+LD1298,Kaafu, ,N, ,"73° 29' 11.056"" E","4° 43' 50.137"" N",0.635407,Uninhabited Island, , , 
+LD1299,Kaafu, ,N, ,"73° 26' 21.976"" E","4° 37' 53.247"" N",0.63958,Uninhabited Island, , , 
+LD1300,Kaafu,Dhonfushi,N,ދޮންފުށި,"73° 24' 27.996"" E","4° 36' 30.917"" N",0.767237,Tourism Island,Tourism, ,MoT
+LD1301,Kaafu, ,N, ,"73° 27' 14.033"" E","4° 40' 56.799"" N",0.134003,Uninhabited Island, , , 
+LD1303,Kaafu, ,N, ,"73° 31' 56.974"" E","4° 40' 17.316"" N",8.60581,Uninhabited Island, , , 
+LD1304,Kaafu, ,N, ,"73° 40' 25.486"" E","4° 28' 3.356"" N",0.153427,Uninhabited Island, , , 
+LD1305,Kaafu, ,N, ,"73° 41' 8.477"" E","4° 28' 2.999"" N",0.032309,Uninhabited Island, , , 
+LD1306,Kaafu, ,N, ,"73° 39' 13.088"" E","4° 23' 5.812"" N",0.120853,Uninhabited Island, , , 
+LD1308,Kaafu, ,N, ,"73° 37' 40.676"" E","4° 21' 32.963"" N",0.490921,Uninhabited Island, , , 
+LD1310,Kaafu, ,N, ,"73° 36' 7.781"" E","4° 20' 46.385"" N",0.03701,Uninhabited Island, , , 
+LD1312,Kaafu, ,N, ,"73° 21' 32.352"" E","4° 16' 13.944"" N",0.099372,Uninhabited Island, , , 
+LD1313,Kaafu,Nakahchaahuraa,N,ނަކައްޗާހުރާ,"73° 23' 11.464"" E","4° 20' 31.378"" N",1.959014,Tourism Island,Tourism,Resort,MoT
+LD1315,Kaafu, ,N, ,"73° 36' 52.275"" E","4° 21' 10.364"" N",0.133976,Uninhabited Island, , , 
+LD1316,Kaafu, ,N, ,"73° 36' 52.778"" E","4° 21' 5.324"" N",0.214435,Uninhabited Island, , , 
+LD1317,Kaafu, ,N, ,"73° 35' 47.666"" E","4° 19' 50.473"" N",0.63615,Uninhabited Island, , , 
+LD1318,Kaafu, ,N, ,"73° 33' 5.190"" E","4° 17' 11.688"" N",0.394435,Uninhabited Island, , , 
+LD1320,Kaafu,Bodubis,N,ބޮޑުބިސް,"73° 24' 52.268"" E","4° 16' 31.749"" N",0.025017,Uninhabited Island, , ,MoFMRA
+LD1321,Kaafu, ,N, ,"73° 27' 37.949"" E","3° 57' 21.019"" N",0.09334,Uninhabited Island, , , 
+LD1323,Kaafu,Ithaafinolhu,N,އިތާފިނޮޅު,"73° 23' 28.502"" E","4° 0' 2.848"" N",0.251054,Uninhabited Island, , ,MoFMRA
+LD1325,Kaafu, ,N, ,"73° 24' 46.269"" E","4° 4' 27.763"" N",0.200585,Uninhabited Island, , , 
+LD1326,Kaafu, ,N, ,"73° 31' 49.920"" E","4° 4' 45.296"" N",0.035498,Uninhabited Island, , , 
+LD1327,Kaafu, ,N, ,"73° 22' 36.500"" E","3° 50' 25.903"" N",1.53879,Uninhabited Island, , , 
+LD1328,Kaafu, ,N, ,"73° 22' 39.960"" E","3° 49' 39.710"" N",0.120912,Uninhabited Island, , , 
+LD1329,Kaafu,Tholhimaraahuraa,N,ތޮޅިމަރާހުރާ,"73° 22' 30.712"" E","3° 49' 28.725"" N",0.064598,Tourism Island,Tourism,Resort,MoT
+LD1334,Kaafu,Funfinolhu,N,ފުންފިނޮޅު,"73° 30' 17.338"" E","3° 58' 34.642"" N",1.098857,Tourism Island,Tourism, ,MoT
+LD1335,Kaafu,Noofinolhu,N,ނޫފިނޮޅޮ,"73° 30' 11.098"" E","3° 58' 7.475"" N",1.261958,Tourism Island,Tourism, ,MoT
+LD1336,Alifu Dhaalu, ,N, ,"72° 52' 1.118"" E","3° 35' 29.210"" N",0.037286,Uninhabited Island, , , 
+LD1337,Alifu Dhaalu,Ranfinolhu,N,ރަންފިނޮޅު,"72° 43' 38.747"" E","3° 36' 39.316"" N",3.116504,Uninhabited Island, , , 
+LD1338,Alifu Dhaalu, ,N, ,"72° 47' 22.156"" E","3° 42' 33.224"" N",1.437275,Uninhabited Island, , , 
+LD1339,Alifu Dhaalu, ,N, ,"72° 44' 37.761"" E","3° 51' 58.519"" N",0.012406,Uninhabited Island, , , 
+LD1340,Alifu Dhaalu, ,N, ,"72° 53' 22.783"" E","3° 53' 23.172"" N",0.611083,Uninhabited Island, , , 
+LD1341,Alifu Dhaalu, ,N, ,"72° 53' 52.293"" E","3° 54' 8.829"" N",0.039653,Uninhabited Island, , , 
+LD1342,Alifu Alifu, ,N, ,"72° 56' 30.324"" E","4° 7' 10.932"" N",0.536076,Uninhabited Island, , , 
+LD1343,Alifu Alifu, ,N, ,"72° 56' 49.139"" E","3° 57' 9.238"" N",0.653644,Uninhabited Island, , , 
+LD1346,Alifu Alifu, ,N, ,"72° 45' 59.199"" E","4° 10' 57.045"" N",0.0341,Uninhabited Island, , , 
+LD1348,Alifu Dhaalu, ,N, ,"72° 56' 26.738"" E","3° 51' 21.494"" N",0.035181,Uninhabited Island, , , 
+LD1350,Alifu Dhaalu, ,N, ,"72° 58' 48.329"" E","3° 42' 54.408"" N",0.077349,Uninhabited Island, , , 
+LD1351,Alifu Dhaalu, ,N, ,"72° 58' 46.552"" E","3° 42' 0.267"" N",0.133018,Uninhabited Island, , , 
+LD1360,Vaavu,Kudamohoraa,N,ކުޑަމޮހޮރާ,"73° 30' 38.398"" E","3° 20' 31.124"" N",0.352168,Uninhabited Island, , , 
+LD1362,Vaavu, ,N, ,"73° 19' 29.450"" E","3° 27' 15.277"" N",0.27236,Uninhabited Island, , , 
+LD1363,Vaavu, ,N, ,"73° 42' 12.443"" E","3° 28' 53.723"" N",1.231497,Uninhabited Island, , ,MoFMRA
+LD1364,Vaavu, ,N, ,"73° 31' 39.016"" E","3° 29' 7.629"" N",0.214282,Uninhabited Island, , , 
+LD1365,Vaavu, ,N, ,"73° 29' 50.940"" E","3° 33' 36.213"" N",0.421193,Uninhabited Island, , , 
+LD1366,Vaavu, ,N, ,"73° 29' 59.619"" E","3° 33' 5.470"" N",0.618628,Uninhabited Island, , , 
+LD1367,Vaavu, ,N, ,"73° 30' 15.829"" E","3° 32' 43.397"" N",0.135712,Uninhabited Island, , , 
+LD1368,Vaavu, ,N, ,"73° 31' 18.452"" E","3° 30' 50.340"" N",0.078823,Uninhabited Island, , , 
+LD1369,Vaavu, ,N, ,"73° 27' 45.253"" E","3° 23' 4.638"" N",0.023169,Uninhabited Island, , , 
+LD1370,Vaavu, ,N, ,"73° 26' 48.483"" E","3° 23' 47.263"" N",0.050369,Uninhabited Island, , , 
+LD1371,Vaavu, ,N, ,"73° 26' 14.895"" E","3° 23' 15.828"" N",0.20625,Uninhabited Island, , , 
+LD1372,Meemu, ,N, ,"73° 37' 34.891"" E","3° 5' 25.494"" N",0.057618,Uninhabited Island, , , 
+LD1379,Meemu, ,N, ,"73° 22' 14.266"" E","2° 46' 47.971"" N",0.266478,Uninhabited Island, , , 
+LD1380,Faafu, ,N, ,"72° 56' 12.197"" E","3° 9' 3.815"" N",1.445184,Uninhabited Island, , , 
+LD1381,Faafu, ,N, ,"72° 59' 22.044"" E","3° 17' 12.284"" N",2.38963,Uninhabited Island, , , 
+LD1382,Faafu, ,N, ,"72° 53' 46.883"" E","3° 9' 54.943"" N",1.259547,Uninhabited Island, , , 
+LD1383,Dhaalu, ,N, ,"72° 57' 8.017"" E","2° 41' 41.861"" N",0.16995,Uninhabited Island, , , 
+LD1386,Dhaalu, ,N, ,"72° 59' 20.286"" E","2° 54' 32.496"" N",0.112641,Uninhabited Island, , , 
+LD1387,Dhaalu, ,N, ,"73° 0' 33.672"" E","2° 59' 10.121"" N",0.343052,Uninhabited Island, , , 
+LD1388,Dhaalu, ,N, ,"72° 55' 19.262"" E","2° 59' 35.422"" N",0.141727,Uninhabited Island, , , 
+LD1389,Dhaalu, ,N, ,"73° 1' 29.001"" E","2° 56' 58.807"" N",0.034037,Uninhabited Island, , , 
+LD1391,Dhaalu, ,N, ,"73° 1' 30.466"" E","2° 46' 29.977"" N",0.020939,Uninhabited Island, , , 
+LD1392,Dhaalu, ,N, ,"73° 1' 25.028"" E","2° 46' 23.432"" N",0.075662,Uninhabited Island, , , 
+LD1394,Dhaalu, ,N, ,"73° 1' 21.308"" E","2° 45' 43.879"" N",0.263734,Uninhabited Island, , , 
+LD1395,Dhaalu,Sarakafushi,N,ސަރަކަފުށި,"72° 57' 40.540"" E","2° 55' 22.471"" N",0.887708,Uninhabited Island, , , 
+LD1396,Dhaalu,Boarikifinolhu,N,ބޯރިކިފިނޮޅު,"72° 58' 13.263"" E","2° 55' 23.830"" N",0.090769,Tourism Island,Tourism, ,MoT
+LD1397,Dhaalu, ,N, ,"72° 58' 54.149"" E","2° 52' 49.602"" N",0.264163,Uninhabited Island, , , 
+LD1419,Thaa, ,N, ,"73° 15' 19.701"" E","2° 16' 53.586"" N",0.145102,Uninhabited Island, , , 
+LD1425,Laamu, ,N, ,"73° 27' 17.822"" E","1° 49' 44.382"" N",0.574187,Uninhabited Island, , , 
+LD1428,Laamu, ,N, ,"73° 32' 19.067"" E","2° 5' 45.445"" N",0.158523,Uninhabited Island, , , 
+LD1429,Laamu, ,N, ,"73° 32' 30.252"" E","2° 6' 4.644"" N",0.218026,Uninhabited Island, , , 
+LD1430,Laamu, ,N, ,"73° 32' 34.135"" E","2° 6' 15.375"" N",0.307049,Uninhabited Island, , , 
+LD1431,Laamu, ,N, ,"73° 32' 23.708"" E","2° 6' 24.156"" N",2.48495,Uninhabited Island, , , 
+LD1432,Gaafu Dhaalu,Raaverinkolhihuttaa,N,ރާވެރިންކޮޅިހުއްޓާ,"73° 14' 1.891"" E","0° 15' 1.783"" N",0.774422,Uninhabited Island, , , 
+LD1434,Gaafu Dhaalu,Faanehuttaa,N,ފާނެހުއްޓާ,"73° 24' 14.829"" E","0° 17' 59.610"" N",1.076961,Uninhabited Island, ,Varuva,MoFMRA
+LD1435,Gaafu Dhaalu, ,N, ,"73° 2' 38.608"" E","0° 25' 40.362"" N",0.109069,Uninhabited Island, , , 
+LD1436,Gaafu Dhaalu, ,N, ,"73° 5' 2.668"" E","0° 26' 53.308"" N",0.046559,Uninhabited Island, , , 
+LD1437,Gaafu Dhaalu, ,N, ,"73° 5' 52.499"" E","0° 28' 57.036"" N",0.094843,Uninhabited Island, , , 
+LD1439,Gaafu Dhaalu, ,N, ,"73° 3' 58.102"" E","0° 30' 7.298"" N",0.039352,Uninhabited Island, , , 
+LD1440,Gaafu Alifu, ,N, ,"73° 18' 48.786"" E","0° 50' 11.760"" N",0.241073,Uninhabited Island, , , 
+LD1443,Gaafu Alifu, ,N, ,"73° 17' 51.003"" E","0° 53' 53.127"" N",0.09644,Uninhabited Island, , , 
+LD1444,Gaafu Alifu, ,N, ,"73° 17' 29.511"" E","0° 52' 25.885"" N",0.017692,Uninhabited Island, , , 
+LD1445,Gaafu Alifu, ,N, ,"73° 25' 22.760"" E","0° 48' 10.479"" N",0.127094,Uninhabited Island, , , 
+LD1447,Gaafu Alifu, ,N, ,"73° 28' 45.856"" E","0° 36' 24.863"" N",0.390432,Uninhabited Island, , , 
+LD1448,Gaafu Alifu, ,N, ,"73° 28' 48.957"" E","0° 36' 22.186"" N",0.048085,Uninhabited Island, , , 
+LD1449,Gaafu Alifu, ,N, ,"73° 25' 6.079"" E","0° 39' 45.905"" N",0.908344,Tourism Island,Tourism, ,MoFMRA
+LD1450,Gaafu Alifu, ,N, ,"73° 8' 17.844"" E","0° 38' 6.873"" N",0.051296,Uninhabited Island, , , 
+LD1451,Gaafu Alifu, ,N, ,"73° 9' 14.757"" E","0° 38' 32.015"" N",0.15634,Uninhabited Island, , , 
+LD1452,Seenu, ,N, ,"73° 10' 57.760"" E","0° 41' 26.254"" S",0.22087,Uninhabited Island, , , 
+LD1453,Seenu, ,N, ,"73° 11' 57.137"" E","0° 34' 52.601"" S",0.845829,Uninhabited Island, , , 
+LD1455,Alifu Alifu, ,N, ,"73° 0' 28.767"" E","4° 16' 51.797"" N",0.336669,Uninhabited Island, , , 
+LD1456,Alifu Alifu, ,N, ,"73° 0' 14.344"" E","4° 16' 30.254"" N",0.106947,Uninhabited Island, , , 
+LD1459,Haa Alifu,Dhigufaruhuraa,N, ދިގުފަރުހުރާ,"72° 58' 12.333"" E","6° 55' 31.922"" N",0.363655,Uninhabited Island, , ,MoFMRA
+LD1460,Meemu, ,N, ,"73° 22' 48.803"" E","3° 1' 9.600"" N",0.017357,Uninhabited Island, , , 
+LD1465,Gaafu Alifu, ,N, ,"73° 12' 2.487"" E","0° 50' 54.031"" N",0.113761,Uninhabited Island, , , 
+LD1466,Meemu,Thuvaru Uthuruhuraa,N,ތުވަރުއުތުރުހުރާ,"73° 22' 36.375"" E","2° 56' 48.136"" N",0.240733,Uninhabited Island, , , 
+LD1469,Seenu,Kudhehera,N,ކުދެހެރަ,"73° 13' 24.095"" E","0° 34' 49.239"" S",0.077607,Uninhabited Island, , ,Council
+LD1470,Laamu,Fenboahuraa,N,ފެންބޯހުރާ,"73° 32' 17.724"" E","2° 3' 51.183"" N",0.340271,Uninhabited Island, , ,Atoll Council
+LD1471,Meemu,Fenfuraaveli,N,ފެންފުރާވެލި,"73° 25' 37.118"" E","2° 47' 17.061"" N",19.471817,Industrial Island,Agriculture, ,MoFMRA
+LD1472,Seenu,Ismehelaahera,N,އިސްމެހެލާހެރަ,"73° 12' 56.959"" E","0° 34' 45.453"" S",12.148703,Tourism Island,Tourism,Resort,MoT
+LD1473,Laamu,Kalaidhoo,N,ކަލައިދޫ,"73° 33' 37.862"" E","2° 6' 51.226"" N",213.439932,Residential Island, , , 
+LD1496,Gaafu Dhaalu,Kaafarataa,N,ކާފަރަޓާ,"73° 1' 31.193"" E","0° 18' 29.562"" N",0.441138,Uninhabited Island, , ,MoFMRA
+LD1497,Gaafu Dhaalu,Dhatemulaidhua,N,ދަޓެމުލައިދުއާ,"73° 1' 36.600"" E","0° 18' 35.567"" N",0.887449,Uninhabited Island, , ,MoFMRA
+LD1498,Gaafu Dhaalu,Keyhuvadhoo,N,ކޭހުވަދޫ,"73° 1' 32.878"" E","0° 21' 12.695"" N",0.133091,Uninhabited Island, , , 
+LD1499,Noonu,Maakanaafushi,N,މާކަނާފުށި,"73° 24' 58.394"" E","5° 43' 40.017"" N",0.05003,Uninhabited Island, , ,MoFMRA
+LD1500,Kaafu,Maaranfushi,N,މާރަންފުށި,"73° 25' 12.088"" E","4° 36' 36.544"" N",6.639042,Tourism Island,Tourism, ,MoT
+LD1501,Kaafu,Ehmafushi,N,އެއްމަފުށި,"73° 27' 55.436"" E","4° 7' 22.605"" N",26.614046,Tourism Island,Tourism,Resort,MoT
+LD1502,Kaafu,Akasdhoo,N,އަކަސްދޫ,"73° 28' 20.327"" E","4° 7' 25.754"" N",8.452091,Tourism Island,Tourism,Resort,MoT
+LD1503,Raa,Vakkarufaru,N,ވައްކަރުފަރު,"72° 55' 36.786"" E","5° 30' 54.518"" N",0.035236,Uninhabited Island, , , 
+LD1504,Baa,Finolhufaru,N,ފިނޮޅުފަރު,"72° 56' 4.644"" E","5° 11' 2.160"" N",0.025725,Uninhabited Island, ,Varuva,MoFMRA
+LD1505,Alifu Dhaalu,Athulivarufinolhu,N,އަތުލިވަރުފިނޮޅު,"72° 57' 20.519"" E","3° 38' 52.176"" N",0.095647,Uninhabited Island, ,Varuva,MoFMRA
+LD1506,Vaavu, ,N, ,"73° 23' 13.302"" E","3° 24' 34.879"" N",0.027217,Uninhabited Island, ,Varuva,MoFMRA
+LD1507,Kaafu,Ithaafushi,N,އިތާފުށި,"73° 22' 59.241"" E","4° 0' 42.923"" N",5.150367,Tourism Island,Tourism,Resort,MoT
+LD1508,Kaafu,Kan'baashaa,N,ކަނބާޝާ,"73° 23' 44.128"" E","4° 37' 13.875"" N",9.21301,Uninhabited Island, , , 
+LD1509,Haa Alifu, ,N, ,"72° 53' 43.066"" E","6° 58' 20.952"" N",14.884309,Uninhabited Island, , , 
+LD1510,Haa Dhaalu, ,N, ,"73° 6' 49.769"" E","6° 41' 58.710"" N",0.663954,Uninhabited Island, , , 
+LD1511,Shaviyani, ,N, ,"73° 1' 48.018"" E","6° 5' 42.735"" N",0.055544,Uninhabited Island, , , 
+LD1512,Shaviyani, ,N, ,"73° 1' 34.866"" E","6° 7' 17.663"" N",0.082172,Uninhabited Island, , , 
+LD1513,Shaviyani, ,N, ,"73° 0' 35.588"" E","6° 16' 45.404"" N",0.314503,Uninhabited Island, , , 
+LD1514,Shaviyani, ,N, ,"72° 53' 23.489"" E","6° 28' 18.041"" N",0.081162,Uninhabited Island, , , 
+LD1515,Shaviyani, ,N, ,"73° 2' 37.328"" E","6° 4' 3.612"" N",0.06954,Uninhabited Island, , , 
+LD1516,Shaviyani, ,N, ,"73° 2' 52.782"" E","6° 8' 32.622"" N",0.654678,Uninhabited Island, , , 
+LD1517,Shaviyani, ,N, ,"73° 3' 20.576"" E","6° 8' 29.951"" N",0.072282,Uninhabited Island, , , 
+LD1518,Noonu, ,N, ,"73° 16' 42.822"" E","5° 39' 44.827"" N",0.086223,Uninhabited Island, , , 
+LD1519,Noonu, ,N, ,"73° 20' 41.227"" E","5° 41' 41.621"" N",2.317535,Uninhabited Island, , , 
+LD1520,Noonu, ,N, ,"73° 16' 33.263"" E","5° 40' 56.343"" N",0.05898,Uninhabited Island, , , 
+LD1521,Noonu, ,N, ,"73° 16' 51.374"" E","5° 42' 7.981"" N",0.054316,Uninhabited Island, , , 
+LD1522,Noonu, ,N, ,"73° 22' 53.158"" E","5° 53' 9.993"" N",0.140139,Uninhabited Island, , , 
+LD1523,Noonu, ,N, ,"73° 12' 44.098"" E","5° 50' 2.526"" N",0.089018,Uninhabited Island, , , 
+LD1524,Noonu, ,N, ,"73° 21' 46.246"" E","5° 44' 1.986"" N",0.287181,Uninhabited Island, , , 
+LD1525,Noonu, ,N, ,"73° 20' 10.111"" E","5° 41' 48.744"" N",1.561162,Uninhabited Island, , , 
+LD1526,Noonu, ,N, ,"73° 20' 7.517"" E","5° 41' 56.116"" N",1.075753,Uninhabited Island, , , 
+LD1527,Noonu, ,N, ,"73° 20' 55.827"" E","5° 52' 28.491"" N",0.005812,Uninhabited Island, , , 
+LD1528,Noonu, ,N, ,"73° 24' 52.633"" E","5° 42' 17.386"" N",0.112178,Uninhabited Island, , , 
+LD1529,Raa, ,N, ,"72° 48' 5.391"" E","5° 31' 53.181"" N",0.459669,Uninhabited Island, , , 
+LD1530,Raa, ,N, ,"72° 55' 21.836"" E","5° 32' 8.756"" N",0.023927,Uninhabited Island, , , 
+LD1531,Raa, ,N, ,"72° 55' 41.311"" E","5° 46' 30.028"" N",0.069055,Uninhabited Island, , , 
+LD1532,Raa, ,N, ,"72° 51' 59.284"" E","5° 44' 53.057"" N",0.263163,Uninhabited Island, , , 
+LD1533,Raa, ,N, ,"72° 51' 42.462"" E","5° 43' 23.702"" N",0.314306,Uninhabited Island, , , 
+LD1534,Raa, ,N, ,"72° 53' 0.301"" E","5° 37' 47.930"" N",0.203986,Uninhabited Island, , , 
+LD1535,Raa, ,N, ,"72° 49' 46.822"" E","5° 37' 5.717"" N",0.051107,Uninhabited Island, , , 
+LD1536,Raa, ,N, ,"72° 50' 58.284"" E","5° 36' 43.255"" N",0.068994,Uninhabited Island, , , 
+LD1537,Raa, ,N, ,"72° 50' 59.739"" E","5° 36' 50.682"" N",0.03094,Uninhabited Island, , , 
+LD1538,Raa, ,N, ,"72° 57' 28.765"" E","5° 57' 53.055"" N",0.171302,Uninhabited Island, , , 
+LD1539,Raa, ,N, ,"72° 58' 1.678"" E","5° 46' 11.586"" N",0.164814,Uninhabited Island, , , 
+LD1540,Raa, ,N, ,"72° 58' 3.921"" E","5° 46' 8.246"" N",0.250521,Uninhabited Island, , , 
+LD1541,Raa, ,N, ,"72° 52' 51.426"" E","5° 34' 38.611"" N",0.038723,Uninhabited Island, , , 
+LD1542,Raa, ,N, ,"72° 54' 8.061"" E","5° 32' 33.688"" N",0.071409,Uninhabited Island, , , 
+LD1543,Raa, ,N, ,"72° 56' 43.607"" E","5° 26' 44.489"" N",0.210924,Uninhabited Island, , , 
+LD1544,Raa, ,N, ,"72° 58' 34.517"" E","5° 23' 17.320"" N",0.445981,Uninhabited Island, , , 
+LD1545,Raa, ,N, ,"72° 50' 59.864"" E","5° 39' 50.785"" N",0.022498,Uninhabited Island, , , 
+LD1546,Raa, ,N, ,"72° 48' 37.095"" E","5° 32' 26.983"" N",0.042195,Uninhabited Island, , , 
+LD1547,Raa, ,N, ,"73° 2' 9.809"" E","5° 30' 33.247"" N",0.078403,Uninhabited Island, , , 
+LD1548,Raa, ,N, ,"72° 55' 33.253"" E","5° 30' 59.331"" N",0.122848,Uninhabited Island, , , 
+LD1549,Baa, ,N, ,"73° 4' 8.255"" E","5° 20' 54.691"" N",0.024539,Uninhabited Island, , , 
+LD1550,Baa, ,N, ,"73° 4' 25.304"" E","5° 21' 13.208"" N",0.018459,Uninhabited Island, , , 
+LD1551,Baa, ,N, ,"72° 52' 34.923"" E","5° 13' 4.816"" N",0.157127,Uninhabited Island, , , 
+LD1552,Baa, ,N, ,"72° 55' 35.319"" E","5° 10' 15.456"" N",0.121234,Uninhabited Island, , , 
+LD1553,Baa, ,N, ,"73° 3' 49.869"" E","5° 9' 52.553"" N",0.023166,Uninhabited Island, , , 
+LD1554,Baa, ,N, ,"72° 51' 28.716"" E","5° 0' 46.710"" N",0.859784,Uninhabited Island, , , 
+LD1555,Baa, ,N, ,"72° 51' 31.905"" E","5° 0' 46.799"" N",0.033567,Uninhabited Island, , , 
+LD1556,Baa, ,N, ,"72° 50' 45.258"" E","5° 3' 40.067"" N",0.690641,Uninhabited Island, , , 
+LD1557,Baa, ,N, ,"72° 52' 34.583"" E","5° 4' 32.243"" N",0.073748,Uninhabited Island, , , 
+LD1558,Baa, ,N, ,"72° 58' 43.974"" E","5° 8' 1.383"" N",0.279847,Uninhabited Island, , , 
+LD1559,Baa, ,N, ,"73° 0' 6.958"" E","5° 21' 28.874"" N",0.24511,Uninhabited Island, , , 
+LD1560,Baa, ,N, ,"73° 0' 9.136"" E","5° 21' 29.787"" N",0.091656,Uninhabited Island, , , 
+LD1561,Baa, ,N, ,"72° 54' 40.693"" E","4° 49' 5.008"" N",0.175331,Uninhabited Island, , , 
+LD1562,Lhaviyani, ,N, ,"73° 38' 33.327"" E","5° 18' 44.448"" N",0.182344,Uninhabited Island, , , 
+LD1563,Lhaviyani, ,N, ,"73° 38' 36.480"" E","5° 18' 53.942"" N",0.287391,Uninhabited Island, , , 
+LD1564,Lhaviyani, ,N, ,"73° 38' 15.786"" E","5° 17' 59.706"" N",0.37902,Uninhabited Island, , , 
+LD1565,Lhaviyani, ,N, ,"73° 37' 24.995"" E","5° 17' 36.818"" N",0.300219,Uninhabited Island, , , 
+LD1566,Lhaviyani, ,N, ,"73° 25' 57.204"" E","5° 30' 27.110"" N",0.07912,Uninhabited Island, , , 
+LD1567,Lhaviyani, ,N, ,"73° 26' 10.149"" E","5° 30' 55.830"" N",0.125417,Uninhabited Island, , , 
+LD1568,Lhaviyani, ,N, ,"73° 30' 55.341"" E","5° 29' 36.716"" N",0.125367,Uninhabited Island, , , 
+LD1569,Lhaviyani, ,N, ,"73° 35' 24.623"" E","5° 16' 30.989"" N",0.195507,Uninhabited Island, , , 
+LD1570,Lhaviyani, ,N, ,"73° 35' 24.974"" E","5° 16' 37.478"" N",0.426409,Uninhabited Island, , , 
+LD1571,Lhaviyani, ,N, ,"73° 35' 17.733"" E","5° 16' 33.287"" N",0.946884,Uninhabited Island, , , 
+LD1572,Lhaviyani, ,N, ,"73° 30' 11.010"" E","5° 31' 44.727"" N",0.216563,Uninhabited Island, , , 
+LD1573,Lhaviyani, ,N, ,"73° 37' 25.077"" E","5° 17' 6.800"" N",0.611977,Uninhabited Island, , , 
+LD1574,Lhaviyani, ,N, ,"73° 39' 26.980"" E","5° 20' 38.882"" N",2.388772,Uninhabited Island, , , 
+LD1575,Lhaviyani, ,N, ,"73° 39' 18.266"" E","5° 20' 50.620"" N",0.40484,Uninhabited Island, , , 
+LD1576,Lhaviyani, ,N, ,"73° 39' 2.787"" E","5° 21' 2.407"" N",1.099968,Uninhabited Island, , , 
+LD1577,Alifu Alifu, ,N, ,"72° 55' 57.484"" E","4° 6' 58.207"" N",0.213536,Uninhabited Island, , , 
+LD1578,Alifu Alifu, ,N, ,"72° 48' 48.262"" E","4° 11' 34.724"" N",0.061524,Uninhabited Island, , , 
+LD1579,Alifu Alifu, ,N, ,"72° 56' 54.193"" E","3° 59' 54.696"" N",0.390946,Uninhabited Island, , , 
+LD1580,Alifu Alifu, ,N, ,"72° 45' 39.470"" E","4° 10' 36.084"" N",0.095635,Uninhabited Island, , , 
+LD1581,Alifu Alifu, ,N, ,"72° 44' 35.582"" E","3° 55' 27.361"" N",0.166739,Uninhabited Island, , , 
+LD1582,Alifu Alifu, ,N, ,"72° 54' 33.032"" E","4° 5' 1.247"" N",0.82764,Uninhabited Island, , , 
+LD1583,Alifu Alifu, ,N, ,"72° 46' 29.289"" E","3° 58' 11.593"" N",0.087415,Uninhabited Island, , , 
+LD1584,Alifu Dhaalu, ,N, ,"72° 57' 49.780"" E","3° 38' 1.154"" N",0.218161,Uninhabited Island, , , 
+LD1585,Alifu Dhaalu, ,N, ,"72° 44' 29.912"" E","3° 51' 5.753"" N",2.742197,Uninhabited Island, , , 
+LD1586,Alifu Dhaalu, ,N, ,"72° 57' 34.300"" E","3° 37' 43.573"" N",0.197896,Uninhabited Island, , , 
+LD1587,Alifu Dhaalu, ,N, ,"72° 57' 31.841"" E","3° 37' 43.736"" N",0.184481,Uninhabited Island, , , 
+LD1588,Alifu Dhaalu, ,N, ,"72° 55' 2.126"" E","3° 36' 35.505"" N",0.737356,Uninhabited Island, , , 
+LD1589,Alifu Dhaalu, ,N, ,"72° 49' 52.421"" E","3° 32' 20.407"" N",0.072721,Uninhabited Island, , , 
+LD1590,Alifu Dhaalu, ,N, ,"72° 53' 1.460"" E","3° 31' 48.956"" N",0.044634,Uninhabited Island, , , 
+LD1591,Alifu Dhaalu, ,N, ,"72° 53' 33.373"" E","3° 33' 9.230"" N",0.060887,Uninhabited Island, , , 
+LD1592,Alifu Dhaalu, ,N, ,"72° 52' 3.050"" E","3° 34' 26.233"" N",0.354027,Uninhabited Island, , , 
+LD1593,Alifu Dhaalu, ,N, ,"72° 48' 56.986"" E","3° 36' 11.066"" N",0.019219,Uninhabited Island, , , 
+LD1594,Alifu Dhaalu, ,N, ,"72° 56' 26.712"" E","3° 36' 42.758"" N",0.21683,Uninhabited Island, , , 
+LD1595,Alifu Dhaalu, ,N, ,"72° 43' 32.186"" E","3° 47' 19.752"" N",0.128113,Uninhabited Island, , , 
+LD1596,Alifu Dhaalu, ,N, ,"72° 57' 30.341"" E","3° 36' 42.063"" N",0.013618,Uninhabited Island, , , 
+LD1597,Alifu Dhaalu, ,N, ,"72° 57' 28.493"" E","3° 36' 41.616"" N",0.008004,Uninhabited Island, , , 
+LD1598,Alifu Dhaalu, ,N, ,"72° 58' 26.131"" E","3° 45' 25.932"" N",0.169358,Uninhabited Island, , , 
+LD1599,Alifu Dhaalu, ,N, ,"72° 48' 7.339"" E","3° 29' 16.323"" N",0.565432,Uninhabited Island, , , 
+LD1600,Alifu Dhaalu, ,N, ,"72° 47' 35.875"" E","3° 29' 13.472"" N",0.218066,Uninhabited Island, , , 
+LD1601,Alifu Dhaalu, ,N, ,"72° 52' 16.075"" E","3° 28' 39.157"" N",0.04928,Uninhabited Island, , , 
+LD1602,Alifu Dhaalu, ,N, ,"72° 52' 52.672"" E","3° 35' 32.376"" N",0.196976,Uninhabited Island, , , 
+LD1603,Alifu Dhaalu, ,N, ,"72° 43' 54.073"" E","3° 52' 43.385"" N",0.114415,Uninhabited Island, , , 
+LD1604,Alifu Dhaalu, ,N, ,"72° 47' 34.477"" E","3° 29' 8.379"" N",0.067134,Uninhabited Island, , , 
+LD1605,Alifu Dhaalu, ,N, ,"72° 47' 38.416"" E","3° 29' 11.612"" N",0.055949,Uninhabited Island, , , 
+LD1606,Alifu Dhaalu, ,N, ,"72° 54' 59.803"" E","3° 30' 54.979"" N",0.052145,Uninhabited Island, , , 
+LD1607,Alifu Dhaalu, ,N, ,"72° 54' 58.521"" E","3° 30' 55.040"" N",0.054962,Uninhabited Island, , , 
+LD1608,Vaavu, ,N, ,"73° 23' 53.140"" E","3° 24' 56.384"" N",0.584963,Uninhabited Island, , , 
+LD1609,Vaavu, ,N, ,"73° 28' 12.001"" E","3° 37' 21.992"" N",0.011909,Uninhabited Island, , , 
+LD1610,Vaavu, ,N, ,"73° 38' 53.902"" E","3° 21' 43.029"" N",0.53155,Uninhabited Island, , , 
+LD1611,Vaavu, ,N, ,"73° 38' 27.611"" E","3° 21' 36.035"" N",0.681543,Uninhabited Island, , , 
+LD1612,Vaavu, ,N, ,"73° 31' 17.163"" E","3° 30' 0.663"" N",0.027272,Uninhabited Island, , , 
+LD1613,Vaavu, ,N, ,"73° 30' 5.784"" E","3° 37' 24.561"" N",0.123521,Uninhabited Island, , , 
+LD1614,Vaavu, ,N, ,"73° 29' 59.278"" E","3° 37' 32.891"" N",0.043758,Uninhabited Island, , , 
+LD1615,Vaavu, ,N, ,"73° 22' 8.849"" E","3° 37' 8.091"" N",0.124818,Uninhabited Island, , , 
+LD1616,Vaavu, ,N, ,"73° 22' 1.607"" E","3° 36' 48.880"" N",0.010009,Uninhabited Island, , , 
+LD1617,Vaavu, ,N, ,"73° 18' 15.263"" E","3° 31' 44.740"" N",0.022067,Uninhabited Island, , , 
+LD1618,Vaavu, ,N, ,"73° 18' 27.431"" E","3° 31' 38.589"" N",0.139513,Uninhabited Island, , , 
+LD1619,Vaavu, ,N, ,"73° 17' 9.602"" E","3° 30' 46.993"" N",0.209108,Uninhabited Island, , , 
+LD1620,Vaavu, ,N, ,"73° 25' 20.434"" E","3° 25' 59.843"" N",0.047649,Uninhabited Island, , , 
+LD1621,Vaavu, ,N, ,"73° 24' 19.646"" E","3° 25' 46.817"" N",0.047716,Uninhabited Island, , , 
+LD1622,Vaavu, ,N, ,"73° 25' 47.327"" E","3° 22' 41.621"" N",0.035598,Uninhabited Island, , , 
+LD1623,Vaavu, ,N, ,"73° 17' 2.844"" E","3° 30' 27.425"" N",0.014576,Uninhabited Island, , , 
+LD1624,Vaavu, ,N, ,"73° 22' 11.066"" E","3° 38' 7.176"" N",0.076496,Uninhabited Island, , , 
+LD1625,Meemu, ,N, ,"73° 37' 13.057"" E","3° 2' 8.019"" N",0.431233,Uninhabited Island, , , 
+LD1626,Meemu, ,N, ,"73° 27' 39.177"" E","2° 49' 55.376"" N",0.063495,Uninhabited Island, , , 
+LD1627,Meemu, ,N, ,"73° 27' 32.861"" E","2° 49' 53.912"" N",0.062197,Uninhabited Island, , , 
+LD1628,Meemu, ,N, ,"73° 34' 53.597"" E","3° 6' 15.691"" N",0.547387,Uninhabited Island, , , 
+LD1629,Meemu, ,N, ,"73° 37' 21.324"" E","3° 5' 46.705"" N",0.156129,Uninhabited Island, , , 
+LD1630,Meemu, ,N, ,"73° 37' 24.468"" E","3° 4' 50.968"" N",0.348916,Uninhabited Island, , , 
+LD1631,Meemu, ,N, ,"73° 37' 39.469"" E","3° 4' 53.319"" N",0.564747,Uninhabited Island, , , 
+LD1632,Meemu, ,N, ,"73° 37' 12.777"" E","3° 5' 27.426"" N",0.129,Uninhabited Island, , , 
+LD1633,Meemu, ,N, ,"73° 38' 12.588"" E","3° 5' 2.126"" N",0.072696,Uninhabited Island, , , 
+LD1634,Meemu, ,N, ,"73° 38' 7.375"" E","3° 5' 2.651"" N",0.033381,Uninhabited Island, , , 
+LD1635,Meemu, ,N, ,"73° 38' 5.556"" E","3° 5' 1.942"" N",0.054659,Uninhabited Island, , , 
+LD1636,Meemu, ,N, ,"73° 38' 51.507"" E","3° 4' 45.239"" N",0.078328,Uninhabited Island, , , 
+LD1637,Meemu, ,N, ,"73° 37' 6.794"" E","3° 2' 1.749"" N",0.021695,Uninhabited Island, , , 
+LD1638,Meemu, ,N, ,"73° 25' 7.585"" E","2° 46' 47.659"" N",0.236986,Uninhabited Island, , , 
+LD1639,Faafu, ,N, ,"73° 2' 19.839"" E","3° 11' 24.608"" N",0.848071,Uninhabited Island, , , 
+LD1640,Faafu, ,N, ,"73° 2' 28.486"" E","3° 11' 28.362"" N",0.171324,Uninhabited Island, , , 
+LD1641,Faafu, ,N, ,"73° 1' 41.324"" E","3° 10' 12.940"" N",0.196943,Uninhabited Island, , , 
+LD1642,Faafu, ,N, ,"73° 1' 49.443"" E","3° 8' 25.829"" N",0.158149,Uninhabited Island, , , 
+LD1643,Faafu, ,N, ,"72° 58' 8.167"" E","3° 5' 24.268"" N",0.087275,Uninhabited Island, , , 
+LD1644,Faafu, ,N, ,"72° 58' 3.178"" E","3° 5' 34.883"" N",0.06442,Uninhabited Island, , , 
+LD1645,Faafu, ,N, ,"72° 59' 30.666"" E","3° 5' 49.989"" N",0.153476,Uninhabited Island, , , 
+LD1646,Faafu, ,N, ,"72° 59' 6.732"" E","3° 8' 53.772"" N",1.103373,Uninhabited Island, , , 
+LD1647,Faafu, ,N, ,"73° 1' 53.881"" E","3° 13' 16.032"" N",0.223937,Uninhabited Island, , , 
+LD1648,Faafu, ,N, ,"73° 1' 48.327"" E","3° 13' 15.406"" N",0.047257,Uninhabited Island, , , 
+LD1649,Dhaalu, ,N, ,"73° 0' 6.887"" E","2° 59' 37.360"" N",1.75269,Uninhabited Island, , , 
+LD1650,Dhaalu, ,N, ,"72° 59' 33.771"" E","2° 59' 57.525"" N",0.372724,Uninhabited Island, , , 
+LD1651,Dhaalu, ,N, ,"72° 59' 32.058"" E","2° 59' 57.874"" N",0.380423,Uninhabited Island, , , 
+LD1652,Dhaalu, ,N, ,"72° 53' 42.527"" E","2° 55' 35.710"" N",0.062702,Uninhabited Island, , , 
+LD1653,Dhaalu, ,N, ,"72° 50' 6.468"" E","2° 46' 0.749"" N",0.436731,Uninhabited Island, , , 
+LD1654,Dhaalu, ,N, ,"72° 51' 32.383"" E","2° 52' 5.140"" N",0.253598,Uninhabited Island, , , 
+LD1655,Dhaalu, ,N, ,"73° 1' 23.813"" E","2° 46' 25.827"" N",0.047554,Uninhabited Island, , , 
+LD1656,Thaa, ,N, ,"73° 17' 49.299"" E","2° 18' 45.524"" N",0.162356,Uninhabited Island, , , 
+LD1657,Thaa, ,N, ,"73° 16' 28.762"" E","2° 17' 46.854"" N",0.313282,Uninhabited Island, , , 
+LD1658,Thaa, ,N, ,"73° 4' 5.978"" E","2° 10' 38.091"" N",0.378266,Uninhabited Island, , , 
+LD1659,Thaa, ,N, ,"73° 2' 53.580"" E","2° 9' 52.439"" N",0.307441,Uninhabited Island, , , 
+LD1660,Thaa, ,N, ,"72° 56' 21.497"" E","2° 16' 6.261"" N",0.445261,Uninhabited Island, , , 
+LD1661,Thaa, ,N, ,"72° 57' 7.783"" E","2° 17' 18.710"" N",0.231564,Uninhabited Island, , , 
+LD1662,Thaa, ,N, ,"73° 20' 58.887"" E","2° 21' 21.395"" N",0.045722,Uninhabited Island, , , 
+LD1663,Thaa, ,N, ,"73° 21' 1.199"" E","2° 21' 16.575"" N",0.037139,Uninhabited Island, , , 
+LD1664,Thaa, ,N, ,"73° 5' 25.352"" E","2° 11' 27.354"" N",0.084817,Uninhabited Island, , , 
+LD1665,Thaa, ,N, ,"73° 14' 13.440"" E","2° 30' 45.626"" N",3.258614,Uninhabited Island, , , 
+LD1666,Laamu, ,N, ,"73° 27' 17.064"" E","1° 49' 41.407"" N",0.111419,Uninhabited Island, , , 
+LD1667,Laamu, ,N, ,"73° 17' 0.403"" E","1° 49' 20.163"" N",0.314631,Uninhabited Island, , , 
+LD1668,Laamu, ,N, ,"73° 18' 48.692"" E","1° 48' 20.677"" N",0.333724,Uninhabited Island, , , 
+LD1669,Laamu, ,N, ,"73° 32' 7.174"" E","2° 3' 18.420"" N",0.206531,Uninhabited Island, , , 
+LD1670,Laamu, ,N, ,"73° 29' 0.085"" E","1° 49' 26.483"" N",0.166132,Uninhabited Island, , , 
+LD1671,Laamu, ,N, ,"73° 24' 52.614"" E","1° 49' 22.988"" N",0.082789,Uninhabited Island, , , 
+LD1672,Laamu, ,N, ,"73° 22' 10.813"" E","1° 47' 40.941"" N",0.087353,Uninhabited Island, , , 
+LD1673,Laamu, ,N, ,"73° 32' 28.074"" E","2° 6' 6.291"" N",0.3068,Uninhabited Island, , , 
+LD1674,Laamu, ,N, ,"73° 32' 31.399"" E","2° 6' 14.749"" N",0.309681,Uninhabited Island, , , 
+LD1675,Gaafu Alifu, ,N, ,"73° 5' 41.954"" E","0° 34' 37.204"" N",0.03848,Uninhabited Island, , , 
+LD1676,Gaafu Alifu, ,N, ,"73° 11' 43.877"" E","0° 37' 3.350"" N",0.444153,Uninhabited Island, , , 
+LD1677,Gaafu Alifu, ,N, ,"73° 10' 36.100"" E","0° 38' 56.153"" N",0.027232,Uninhabited Island, , , 
+LD1678,Gaafu Alifu, ,N, ,"73° 11' 21.582"" E","0° 39' 43.387"" N",0.120336,Uninhabited Island, , , 
+LD1679,Gaafu Alifu, ,N, ,"73° 12' 45.143"" E","0° 40' 35.323"" N",0.02313,Uninhabited Island, , , 
+LD1680,Gaafu Alifu,Maadhigavara,N,މާދިގަވަރަ,"73° 16' 59.986"" E","0° 40' 18.440"" N",0.173718,Uninhabited Island, , ,MoFMRA
+LD1681,Gaafu Alifu, ,N, ,"73° 14' 16.938"" E","0° 47' 47.182"" N",0.620425,Uninhabited Island, , , 
+LD1682,Gaafu Alifu, ,N, ,"73° 12' 12.040"" E","0° 48' 52.979"" N",0.23905,Uninhabited Island, , , 
+LD1683,Gaafu Alifu, ,N, ,"73° 19' 5.415"" E","0° 53' 43.150"" N",0.189424,Uninhabited Island, , , 
+LD1684,Gaafu Alifu, ,N, ,"73° 25' 56.464"" E","0° 45' 49.563"" N",0.240558,Uninhabited Island, , , 
+LD1685,Gaafu Alifu, ,N, ,"73° 26' 23.031"" E","0° 40' 50.003"" N",0.171699,Uninhabited Island, , , 
+LD1686,Gaafu Alifu, ,N, ,"73° 26' 22.005"" E","0° 40' 38.049"" N",0.079991,Uninhabited Island, , , 
+LD1687,Gaafu Alifu, ,N, ,"73° 8' 12.036"" E","0° 38' 57.925"" N",0.054141,Uninhabited Island, , , 
+LD1688,Gaafu Dhaalu, ,N, ,"73° 19' 45.601"" E","0° 17' 42.571"" N",0.210511,Uninhabited Island, , , 
+LD1689,Gaafu Dhaalu, ,N, ,"73° 20' 35.254"" E","0° 15' 52.820"" N",0.259153,Uninhabited Island, , , 
+LD1690,Gaafu Dhaalu, ,N, ,"73° 5' 42.911"" E","0° 30' 0.683"" N",0.049748,Uninhabited Island, , , 
+LD1691,Gaafu Dhaalu,Maakirigalla,N, މާކިރިގައްލާ,"73° 2' 23.091"" E","0° 31' 26.541"" N",0.06014,Uninhabited Island, , , 
+LD1692,Gaafu Dhaalu, ,N, ,"73° 8' 6.111"" E","0° 18' 15.901"" N",0.123696,Uninhabited Island, , , 
+LD1693,Gaafu Dhaalu, ,N, ,"73° 9' 22.215"" E","0° 18' 19.723"" N",0.095363,Uninhabited Island, , , 
+LD1694,Gaafu Dhaalu, ,N, ,"73° 28' 32.960"" E","0° 18' 34.635"" N",6.016707,Uninhabited Island, , , 
+LD1695,Gaafu Dhaalu, ,N, ,"73° 8' 2.280"" E","0° 13' 40.333"" N",0.028964,Uninhabited Island, , , 
+LD1696,Gaafu Dhaalu,Huttaa,N,ހުއްޓާ,"73° 3' 24.648"" E","0° 17' 14.631"" N",0.345194,Uninhabited Island, , , 
+LD1697,Seenu, ,N, ,"73° 6' 42.778"" E","0° 39' 32.241"" S",0.425639,Uninhabited Island, , , 
+LD1698,Seenu, ,N, ,"73° 12' 36.148"" E","0° 34' 36.688"" S",0.071374,Uninhabited Island, , , 
+LD1699,Seenu, ,N, ,"73° 13' 13.887"" E","0° 34' 43.999"" S",0.027107,Uninhabited Island, , , 
+LD1700,Seenu, ,N, ,"73° 12' 40.848"" E","0° 34' 41.340"" S",0.043294,Uninhabited Island, , , 
+LD1701,Seenu, ,N, ,"73° 12' 54.873"" E","0° 34' 48.038"" S",0.024266,Uninhabited Island, , , 
+LD1702,Kaafu, ,N, ,"73° 32' 40.208"" E","4° 39' 57.405"" N",31.094295,Uninhabited Island, , , 
+LD1703,Kaafu,Fariiruhuraa,N,ފަރިިއިރުހުރާ,"73° 35' 3.423"" E","4° 35' 40.865"" N",12.077187,Uninhabited Island,Tourism,Resort,MoT
+LD1705,Kaafu,Farikan'duhuraa,N,ފަަރިކަނޑުހުރާ,"73° 34' 52.111"" E","4° 36' 11.674"" N",14.422806,Uninhabited Island,Tourism,Resort,MoT
+LD1706,Kaafu,Nashvilu,N,ނަޝްވިލު,"73° 24' 23.488"" E","4° 37' 28.303"" N",5.902713,Tourism Island,Tourism, ,MoT
+LD1707,Kaafu,Hastheem,N,ހަސްތީމް,"73° 24' 59.847"" E","4° 37' 19.239"" N",2.56717,Tourism Island,Tourism, ,MoT
+LD1708,Kaafu, ,N, ,"73° 35' 23.377"" E","4° 34' 37.668"" N",0.082293,Uninhabited Island, , , 
+LD1709,Kaafu, ,N, ,"73° 41' 16.731"" E","4° 24' 12.517"" N",4.062712,Uninhabited Island, , , 
+LD1710,Kaafu, ,N, ,"73° 40' 36.265"" E","4° 23' 14.580"" N",11.883561,Uninhabited Island, , , 
+LD1711,Kaafu, ,N, ,"73° 23' 39.456"" E","4° 13' 2.752"" N",0.842175,Uninhabited Island, , , 
+LD1712,Kaafu, ,N, ,"73° 23' 26.687"" E","4° 32' 48.333"" N",0.080422,Uninhabited Island, , , 
+LD1713,Kaafu, ,N, ,"73° 30' 51.482"" E","4° 41' 37.100"" N",9.788476,Uninhabited Island, , , 
+LD1714,Kaafu,Aanugan'duhuraa,N,އާނުގަނޑުހުރާ,"73° 30' 3.752"" E","4° 18' 28.174"" N",3.852387,Tourism Island,Tourism, ,MoT
+LD1715,Kaafu, ,N, ,"73° 32' 29.088"" E","4° 39' 25.200"" N",0.168559,Uninhabited Island, , , 
+LD1716,Kaafu, ,N, ,"73° 28' 50.217"" E","4° 17' 43.271"" N",0.044124,Uninhabited Island, , , 
+LD1717,Kaafu, ,N, ,"73° 28' 17.111"" E","4° 17' 57.512"" N",0.046891,Uninhabited Island, , , 
+LD1718,Kaafu, ,N, ,"73° 21' 51.529"" E","4° 18' 37.997"" N",0.02154,Uninhabited Island, , , 
+LD1719,Kaafu, ,N, ,"73° 21' 52.040"" E","4° 18' 42.157"" N",0.001522,Uninhabited Island, , , 
+LD1720,Kaafu, ,N, ,"73° 25' 24.299"" E","4° 15' 55.352"" N",1.11791,Uninhabited Island, , , 
+LD1722,Kaafu, ,N, ,"73° 23' 21.253"" E","4° 5' 22.734"" N",11.985086,Uninhabited Island, , , 
+LD1723,Kaafu, ,N, ,"73° 22' 47.175"" E","4° 3' 42.451"" N",11.74754,Uninhabited Island, , , 
+LD1724,Kaafu, ,N, ,"73° 23' 18.428"" E","4° 3' 22.398"" N",5.256767,Uninhabited Island, , , 
+LD1725,Kaafu, ,N, ,"73° 21' 45.981"" E","3° 53' 38.911"" N",0.083305,Uninhabited Island, , , 
+LD1726,Kaafu, ,N, ,"73° 22' 39.330"" E","3° 50' 4.986"" N",0.012918,Uninhabited Island, , , 
+LD1727,Kaafu, ,N, ,"73° 25' 7.310"" E","3° 48' 58.569"" N",0.081842,Uninhabited Island, , , 
+LD1728,Kaafu, ,N, ,"73° 26' 14.188"" E","3° 49' 26.672"" N",34.518425,Uninhabited Island, , , 
+LD1729,Kaafu, ,N, ,"73° 26' 47.645"" E","3° 49' 50.351"" N",0.470456,Uninhabited Island, , , 
+LD1730,Kaafu,Faritharihuraa,N,ފަރިތަރިހުރާ,"73° 34' 13.112"" E","4° 36' 51.691"" N",17.291949,Uninhabited Island,Tourism,Resort,MoT
+LD1731,Kaafu, ,N, ,"73° 27' 47.221"" E","3° 58' 20.115"" N",0.046349,Uninhabited Island, , , 
+LD1732,Kaafu,Hathaafinolhu,N,ހަތާފިނޮޅު,"73° 31' 25.523"" E","4° 5' 23.764"" N",6.358701,Tourism Island,Tourism,Resort,MoT
+LD1733,Kaafu, ,N, ,"73° 31' 35.378"" E","4° 7' 4.621"" N",8.057155,Uninhabited Island, , , 
+LD1734,Kaafu, ,N, ,"73° 30' 13.599"" E","4° 7' 17.799"" N",39.447478,Uninhabited Island, , , 
+LD1735,Kaafu, ,N, ,"73° 26' 38.838"" E","3° 55' 14.506"" N",0.05061,Uninhabited Island, , , 
+LD1736,Kaafu, ,N, ,"73° 26' 47.836"" E","3° 57' 59.542"" N",4.716357,Uninhabited Island, , , 
+LD1737,Kaafu, ,N, ,"73° 30' 45.969"" E","3° 59' 20.238"" N",0.083052,Uninhabited Island, , , 
+LD1739,Kaafu, ,N, ,"73° 28' 22.164"" E","3° 54' 21.772"" N",0.51066,Uninhabited Island, , , 
+LD1740,Kaafu, ,N, ,"73° 27' 35.947"" E","3° 50' 51.686"" N",8.930172,Uninhabited Island, , , 
+LD1741,Kaafu, ,N, ,"73° 32' 45.374"" E","4° 14' 54.936"" N",0.102476,Uninhabited Island, , , 
+LD1742,Kaafu, ,N, ,"73° 32' 43.012"" E","4° 14' 54.254"" N",0.190856,Uninhabited Island, , , 
+LD1743,Kaafu, ,N, ,"73° 32' 39.963"" E","4° 14' 53.638"" N",0.162813,Uninhabited Island, , , 
+LD1744,Kaafu, ,N, ,"73° 32' 37.378"" E","4° 14' 53.359"" N",0.188743,Uninhabited Island, , , 
+LD1745,Kaafu, ,N, ,"73° 32' 35.112"" E","4° 14' 53.142"" N",0.194611,Uninhabited Island, , , 
+LD1746,Kaafu, ,N, ,"73° 32' 33.248"" E","4° 14' 52.842"" N",0.105086,Uninhabited Island, , , 
+LD1747,Kaafu, ,N, ,"73° 23' 0.193"" E","4° 0' 52.076"" N",8.216412,Uninhabited Island, , , 
+LD1748,Kaafu, ,N, ,"73° 23' 14.941"" E","4° 0' 54.796"" N",0.895578,Uninhabited Island, , , 
+LD1749,Kaafu, ,N, ,"73° 23' 24.464"" E","4° 0' 51.857"" N",1.417852,Uninhabited Island, , , 
+LD1750,Kaafu, ,N, ,"73° 23' 39.531"" E","4° 0' 51.375"" N",7.515454,Uninhabited Island, , , 
+LD1751,Kaafu, ,N, ,"73° 23' 32.366"" E","4° 0' 39.988"" N",0.18184,Uninhabited Island, , , 
+LD1752,Kaafu, ,N, ,"73° 24' 12.510"" E","4° 0' 31.839"" N",3.422856,Uninhabited Island, , , 
+LD1753,Kaafu, ,N, ,"73° 32' 57.120"" E","4° 39' 47.796"" N",0.158196,Uninhabited Island, , , 
+LD1754,Kaafu, ,N, ,"73° 34' 43.593"" E","4° 35' 41.983"" N",0.356432,Uninhabited Island, , , 
+LD1755,Kaafu, ,N, ,"73° 34' 41.430"" E","4° 35' 44.346"" N",0.279914,Uninhabited Island, , , 
+LD1756,Kaafu, ,N, ,"73° 28' 57.437"" E","4° 7' 23.917"" N",7.261305,Uninhabited Island, , , 
+LD1757,Kaafu, ,N, ,"73° 23' 16.216"" E","4° 5' 7.892"" N",8.917704,Uninhabited Island, , , 
+LD1758,Kaafu, ,N, ,"73° 23' 9.943"" E","4° 4' 52.868"" N",12.995462,Uninhabited Island, , , 
+LD1759,Kaafu, ,N, ,"73° 23' 4.040"" E","4° 3' 42.739"" N",0.104247,Uninhabited Island, , , 
+LD1760,Kaafu, ,N, ,"73° 26' 21.882"" E","3° 49' 48.222"" N",0.193006,Uninhabited Island, , , 
+LD1761,Kaafu, ,N, ,"73° 22' 0.161"" E","4° 15' 0.267"" N",2.007827,Uninhabited Island, , , 
+LD1762,Kaafu,Kassanfushi,N,ކައްސަންފުށި,"73° 39' 40.409"" E","4° 31' 7.382"" N",10.763659,Uninhabited Island,Tourism, ,MoT
+LD1763,Kaafu, ,N, ,"73° 40' 3.364"" E","4° 22' 36.355"" N",0.49584,Uninhabited Island, , , 
+LD1764,Kaafu, ,N, ,"73° 39' 38.511"" E","4° 22' 34.308"" N",0.729083,Uninhabited Island, , , 
+LD1765,Kaafu, ,N, ,"73° 39' 56.999"" E","4° 22' 33.789"" N",0.308656,Uninhabited Island, , , 
+LD1767,Kaafu, ,N, ,"73° 27' 37.763"" E","3° 51' 7.445"" N",7.16454,Uninhabited Island, , , 
+LD1768,Gaafu Dhaalu,Kudhemaadhoo,N,ކުދެމާދޫ,"73° 4' 52.154"" E","0° 16' 17.465"" N",0.381025,Uninhabited Island, , , 
+LD1769,Gaafu Dhaalu,Kavvahuttaa,N,ކައްވަހުއްޓާ,"73° 5' 31.720"" E","0° 15' 58.059"" N",0.059179,Uninhabited Island, , , 
+LD1770,Gaafu Dhaalu, ,N, ,"73° 11' 50.852"" E","0° 11' 31.768"" N",52.739463,Uninhabited Island, , , 
+LD1777,Kaafu,Kudagiri,N,ކުޑަގިރި,"73° 25' 36.227"" E","4° 13' 35.557"" N",9.78436,Uninhabited Island, ,Picnic,MoF
+LD1778,Seenu,Bolihera,N,ބޮލިހެރަ,"73° 6' 38.101"" E","0° 36' 38.686"" S",8.363419, , , , 
+LD1779,Seenu, ,N, ,"73° 6' 13.541"" E","0° 36' 18.737"" S",8.362898, , , , 
+LD1780,Seenu,Dhonhera,N,ދޮންހެރަ,"73° 11' 48.302"" E","0° 35' 8.802"" S",8.376239, , , , 
+LD1781,Kaafu, ,N, ,"73° 24' 35.571"" E","3° 53' 39.980"" N",0.644317, , , , 
+LD1782,Kaafu, ,N, ,"73° 29' 51.543"" E","4° 12' 33.637"" N",0.044658, , , , 
+LD1783,Kaafu, ,N, ,"73° 20' 50.586"" E","4° 18' 41.973"" N",12.006972, , , , 
+LD1784,Kaafu, ,N, ,"73° 21' 32.180"" E","4° 18' 34.502"" N",11.355996, , , , 
+LD1785,Kaafu, ,N, ,"73° 20' 53.225"" E","4° 18' 58.101"" N",10.763135, , , , 
+ ,N, ,"073° 20' 52.69"" E","04° 18' 58.22"" N",10.631675, , , , ,,
