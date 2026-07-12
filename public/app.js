@@ -126,7 +126,8 @@
           "About the data",
           "",
           `<table class="data"><tbody>
-            <tr><td>House &amp; road names</td><td>OpenStreetMap (Overpass API)</td></tr>
+            <tr><td>Addresses / house names</td><td>Maldives Bureau of Statistics national address register (statisticsmaldives.gov.mv/gismaps) + OpenStreetMap</td></tr>
+            <tr><td>Road names</td><td>OpenStreetMap (Overpass API) + MBS road layer</td></tr>
             <tr><td>Island registry</td><td>onemap.mv — Maldives Land and Survey Authority</td></tr>
             <tr><td>House name convention</td><td>Maldivian buildings traditionally carry a house name (e.g. <em>Sosunge</em>, <em>Nooranmaage</em>) instead of a street number — OSM maps these as building names.</td></tr>
             <tr><td>Google Maps</td><td>Not included: bulk extraction is prohibited by its Terms of Service.</td></tr>
@@ -190,11 +191,20 @@
     const el = $("#tab-explore");
     el.innerHTML = `<div class="loading">Loading full datasets…</div>`;
     try {
-      const [houses, roads, islands] = await Promise.all([
-        fetch("data/houses.json").then((r) => r.json()),
+      const [housesMin, roads, islands] = await Promise.all([
+        fetch("data/houses.min.json").then((r) => r.json()),
         fetch("data/roads.json").then((r) => r.json()),
         fetch("data/islands.json").then((r) => r.json()),
       ]);
+      const KIND = { h: "house", r: "resort unit", c: "unit code", o: "building" };
+      const SRC = { mbs: "national register", osm: "OpenStreetMap" };
+      const houses = housesMin.rows.map(([name, ii, kind, src]) => ({
+        name,
+        island: housesMin.islands[ii][0],
+        atoll: housesMin.islands[ii][1],
+        kind: KIND[kind] ?? "building",
+        src: SRC[src] ?? src,
+      }));
       const islandNames = [...new Set([...houses.map((h) => h.island), ...roads.map((r) => r.island)])].sort();
       el.innerHTML = `
         <div class="controls">
@@ -225,7 +235,7 @@
           for (const h of houses) {
             if (isl && h.island !== isl) continue;
             if (q && !h.name.toLowerCase().includes(q)) continue;
-            out.push({ name: h.name, type: h.kind === "house" ? "house" : "building", island: h.island, atoll: h.atoll, detail: h.street ?? "" });
+            out.push({ name: h.name, type: h.kind, island: h.island, atoll: h.atoll, detail: h.src });
             if (out.length >= 500) break;
           }
         if (out.length < 500 && (kind === "all" || kind === "roads"))
@@ -268,9 +278,13 @@
       renderNameSection($("#tab-houses"), A.houses, {
         recordsLabel: "named buildings (residential)",
         noun: "house names",
-        extra: `<p class="note" style="color:var(--muted);font-size:12.5px">Named buildings classified as shops, mosques, schools or offices are excluded here (${fmt(
+        extra: `<p class="note" style="color:var(--muted);font-size:12.5px">Sources: ${fmt(
+          A.houses.bySource?.mbs ?? 0
+        )} addresses from the Maldives Bureau of Statistics national address register, plus ${fmt(
+          A.houses.bySource?.osmOnly ?? 0
+        )} OpenStreetMap-only records. Buildings classified as shops, mosques, schools, offices, resort units or unit codes are excluded from this analysis (${fmt(
           A.houses.allNamedBuildings - A.houses.records
-        )} such buildings were collected but filtered out).</p>`,
+        )} records filtered out but kept in the dataset).</p>`,
       });
       renderNameSection($("#tab-roads"), A.roads, { recordsLabel: "distinct named roads", noun: "road names" });
       renderIslands(A);

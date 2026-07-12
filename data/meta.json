@@ -2,5 +2,10 @@
  "registryTotal": 1561,
  "namedIslands": 1132,
  "unnamedIslands": 429,
- "islandsFetched": "2026-07-12T09:04:20.818Z"
+ "islandsFetched": "2026-07-12T09:04:20.818Z",
+ "housesMbs": 91284,
+ "housesOsmOnly": 3240,
+ "osmDupesSkipped": 525,
+ "mbsIslandsTotal": 1187,
+ "mbsIslandsInhabited": 187
 }

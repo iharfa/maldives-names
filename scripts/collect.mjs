@@ -7,6 +7,10 @@
  *     public ArcGIS FeatureServer (island polygons layer, attributes + centroids).
  *  2. OpenStreetMap via Overpass API — named buildings (house names),
  *     addr:housename tags, named highways (road names), and place=island nodes.
+ *  3. Maldives Bureau of Statistics GIS maps (statisticsmaldives.gov.mv/gismaps)
+ *     — the national address register (~92k address points with house names),
+ *     roads with Dhivehi names, and an island layer with inhabited categories.
+ *     These are published as qgis2web GeoJSON-in-JS layer files.
  *
  * Google Maps is intentionally NOT used: its Terms of Service prohibit bulk
  * extraction/scraping of map content and it offers no API for downloading
@@ -100,10 +104,26 @@ const QUERIES = {
   osm_islands: `[out:json][timeout:300];area(${MALDIVES_AREA})->.mv;nwr["place"~"^(island|islet)$"]["name"](area.mv);out tags center;`,
 };
 
+const MBS_LAYERS = ["Address_24", "Road_9", "IslandName_23"];
+
+async function fetchMbsLayers() {
+  for (const layer of MBS_LAYERS) {
+    const url = `https://statisticsmaldives.gov.mv/gismaps/statsmap/layers/${layer}.js`;
+    const res = await fetch(url, { headers: { "User-Agent": "Mozilla/5.0 (maldives-names research)" } });
+    if (!res.ok) throw new Error(`MBS layer ${layer}: HTTP ${res.status}`);
+    const text = await res.text();
+    writeFileSync(join(RAW, `${layer}.js`), text);
+    process.stderr.write(`[mbs] ${layer}: ${text.length} bytes\n`);
+  }
+}
+
 async function main() {
   const only = process.argv.slice(2); // optionally run a subset: node collect.mjs osm_roads
   if (only.length === 0 || only.includes("islands")) {
     await fetchIslands();
+  }
+  if (only.length === 0 || only.includes("mbs")) {
+    await fetchMbsLayers();
   }
   for (const [name, query] of Object.entries(QUERIES)) {
     if (only.length > 0 && !only.includes(name) && !only.includes("osm")) continue;

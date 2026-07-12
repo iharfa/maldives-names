@@ -111,6 +111,10 @@ const realHouses = houses.filter((h) => h.kind === "house");
 const housesSection = {
   ...nameStats(realHouses, (h) => h.name),
   allNamedBuildings: houses.length,
+  bySource: {
+    mbs: houses.filter((h) => h.src === "mbs").length,
+    osmOnly: houses.filter((h) => h.src === "osm").length,
+  },
   suffixes: suffixStats(realHouses.map((h) => h.name), ["ge", "villa", "maage", "manzil", "aage", "house", "hiya", "light", "view", "side"]),
   perIsland: perIsland(realHouses).slice(0, 25),
   islandsCovered: new Set(realHouses.map((h) => h.island)).size,
@@ -176,12 +180,18 @@ const islandsSection = {
     osmIslandFeatures: osmIslands.length,
     note: "OSM island/islet features with a name inside the Maldives boundary, for comparison with the official onemap.mv registry.",
   },
+  mbsCrossCheck: {
+    total: meta.mbsIslandsTotal,
+    inhabited: meta.mbsIslandsInhabited,
+    note: "Maldives Bureau of Statistics island layer (statisticsmaldives.gov.mv/gismaps): 187 islands categorised Inhabited vs 189 Residential in the onemap.mv registry.",
+  },
 };
 
 const analysis = {
   generated: new Date().toISOString(),
   sources: {
     islands: "onemap.mv (Maldives Land and Survey Authority) — island_20240509 FeatureServer",
+    addresses: "Maldives Bureau of Statistics national address register — statisticsmaldives.gov.mv/gismaps (statsmap Address layer)",
     housesRoads: "OpenStreetMap via Overpass API (ODbL). © OpenStreetMap contributors",
     excluded: "Google Maps (Terms of Service prohibit bulk data extraction)",
   },

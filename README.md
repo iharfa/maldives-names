@@ -14,16 +14,20 @@ and per-atoll breakdowns.
 
 | Data | Source | License / terms |
 |---|---|---|
-| House names, road names | [OpenStreetMap](https://www.openstreetmap.org) via the Overpass API | [ODbL](https://www.openstreetmap.org/copyright) — © OpenStreetMap contributors |
+| National address register (~92k address points with house names) | [Maldives Bureau of Statistics GIS maps](https://statisticsmaldives.gov.mv/gismaps/) (statsmap Address layer, published as qgis2web GeoJSON) | © Maldives Bureau of Statistics |
+| House names, road names (supplementary) | [OpenStreetMap](https://www.openstreetmap.org) via the Overpass API | [ODbL](https://www.openstreetmap.org/copyright) — © OpenStreetMap contributors |
+| Roads with Dhivehi names (Malé region) | MBS statsmap Road layer | © Maldives Bureau of Statistics |
 | Island registry (all ~1,560 islands, inhabited flag, atolls, Dhivehi names) | Maldives Land and Survey Authority via [onemap.mv](https://onemap.mv) (public ArcGIS FeatureServer) | © Maldives Land and Survey Authority |
 | Google Maps | **Not used** | Google's Terms of Service prohibit bulk extraction/scraping of map content |
 
 ### Coverage caveat
 
-OpenStreetMap completeness varies by island: Malé, Hulhumalé, Addu and other
-large islands are densely mapped; many smaller islands have partial or no
-house-name coverage. Counts describe *what has been mapped*, not necessarily
-everything that exists on the ground.
+The MBS national address register covers all administrative islands (~92k
+address points), making house-name coverage close to national. OSM adds ~3k
+extra named buildings not in the register. Register entries that are vacant-plot
+placeholders ("Hus Goathi", "Husbin"), unit/block codes, or land-use
+descriptions are classified out of the house-name analysis but kept in the
+dataset (`kind` field: `house` / `vacant` / `code` / `resort` / `other`).
 
 ## Repository layout
 
@@ -49,14 +53,20 @@ Requires Node 18+. No npm dependencies.
 
 ## Methodology notes
 
-- **House names** come from OSM buildings with a `name` or `addr:housename` tag.
-  Buildings tagged as shops, mosques, schools, offices, hotels etc. are collected
-  but excluded from the "house names" analysis (kept in the dataset with
-  `kind: "other"`).
-- **Road names** are OSM ways with `highway` + `name`, deduplicated per
-  `(island, lowercase name)` since one street is split into many OSM way segments.
-- **Island assignment** uses the nearest onemap.mv island centroid (haversine).
-  For dense clusters (e.g. Malé region) this can very occasionally attribute a
-  building to a neighbouring island.
+- **House names** come primarily from the MBS national address register
+  (`hname` per address point), plus OSM buildings with a `name` or
+  `addr:housename` tag that aren't already in the register (same island + same
+  name = same address). Entries that are clearly not house names — shops,
+  mosques, schools, offices, vacant-plot placeholders, unit codes, land-use
+  descriptions (detected via Dhivehi grammar markers like *-faivaa*) — are
+  classified out but kept in the dataset.
+- **Road names** are OSM ways with `highway` + `name` merged with the MBS road
+  layer (which adds Dhivehi road names), deduplicated per
+  `(island, lowercase name)` since one street is split into many way segments.
+- **Island assignment**: MBS addresses carry their island name; where a name is
+  shared by several islands the nearest same-named island centroid wins. OSM
+  records use the nearest onemap.mv island centroid (haversine). For dense
+  clusters (e.g. Malé region) this can very occasionally attribute a building
+  to a neighbouring island.
 - **Inhabited islands** are those in the onemap.mv registry with category
   `Residential Island` (189 islands as of the 2024 registry snapshot).
