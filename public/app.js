@@ -2,6 +2,11 @@
 (() => {
   "use strict";
 
+  // Bumped whenever the data schema changes so cached data files from a
+  // previous deploy can never be paired with newer app code.
+  const DATA_V = "3";
+  const dataUrl = (f) => `data/${f}?v=${DATA_V}`;
+
   const $ = (sel, el = document) => el.querySelector(sel);
   const esc = (s) =>
     String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
@@ -297,9 +302,9 @@
     el.innerHTML = `<div class="loading">Loading full datasets…</div>`;
     try {
       const [housesMin, roads, islands] = await Promise.all([
-        fetch("data/houses.min.json").then((r) => r.json()),
-        fetch("data/roads.json").then((r) => r.json()),
-        fetch("data/islands.json").then((r) => r.json()),
+        fetch(dataUrl("houses.min.json")).then((r) => r.json()),
+        fetch(dataUrl("roads.json")).then((r) => r.json()),
+        fetch(dataUrl("islands.json")).then((r) => r.json()),
       ]);
       const KIND = { h: "house", r: "resort unit", c: "unit code", o: "building" };
       const SRC = { mbs: "national register", "mbs-pdf": "census map (Malé City)", osm: "OpenStreetMap" };
@@ -373,17 +378,28 @@
   }
 
   // ---------- boot ----------
-  fetch("data/analysis.json")
+  fetch(dataUrl("analysis.json"))
     .then((r) => {
       if (!r.ok) throw new Error(`HTTP ${r.status}`);
       return r.json();
     })
     .then((A) => {
-      renderOverview(A);
-      renderHousesTab(A);
-      renderNameSection($("#tab-roads"), A.roads, { recordsLabel: "distinct named roads", noun: "road names" });
-      renderIslands(A);
-      renderAtolls(A);
+      // Render sections independently so one stale/mismatched piece of data
+      // can't blank the entire page.
+      const sections = [
+        () => renderOverview(A),
+        () => renderHousesTab(A),
+        () => renderNameSection($("#tab-roads"), A.roads, { recordsLabel: "distinct named roads", noun: "road names" }),
+        () => renderIslands(A),
+        () => { if (Array.isArray(A.atolls)) renderAtolls(A); },
+      ];
+      for (const render of sections) {
+        try {
+          render();
+        } catch (e) {
+          console.error(e);
+        }
+      }
       $("#generated").textContent = `Analysis generated ${new Date(A.generated).toUTCString()}.`;
     })
     .catch((e) => {
