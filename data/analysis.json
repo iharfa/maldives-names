@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-12T10:15:30.626Z",
+ "generated": "2026-07-13T06:07:45.332Z",
  "sources": {
   "islands": "onemap.mv (Maldives Land and Survey Authority) — island_20240509 FeatureServer",
   "addresses": "Maldives Bureau of Statistics national address register — statisticsmaldives.gov.mv/gismaps (statsmap Address layer)",
@@ -7,8 +7,9 @@
   "excluded": "Google Maps (Terms of Service prohibit bulk data extraction)"
  },
  "houses": {
-  "records": 81939,
-  "uniqueNames": 36476,
+  "records": 81273,
+  "uniqueNames": 34282,
+  "variantsMerged": 1560,
   "topNames": [
    {
     "name": "Asseyri",
@@ -24,23 +25,31 @@
    },
    {
     "name": "Finifenmaage",
-    "count": 131
+    "count": 133,
+    "variants": 3
    },
    {
     "name": "Fehivina",
-    "count": 128
+    "count": 132,
+    "variants": 2
    },
    {
     "name": "Moonimaage",
     "count": 127
    },
    {
+    "name": "Dhoores",
+    "count": 125,
+    "variants": 2
+   },
+   {
     "name": "Manzil",
     "count": 125
    },
    {
-    "name": "Dhoores",
-    "count": 124
+    "name": "Huvandhumaage",
+    "count": 120,
+    "variants": 4
    },
    {
     "name": "Naares",
@@ -51,12 +60,13 @@
     "count": 117
    },
    {
-    "name": "Huvandhumaage",
-    "count": 116
-   },
-   {
     "name": "Asurumaage",
     "count": 114
+   },
+   {
+    "name": "Green Area",
+    "count": 114,
+    "variants": 2
    },
    {
     "name": "Malas",
@@ -75,11 +85,12 @@
     "count": 111
    },
    {
-    "name": "Iramaage",
-    "count": 107
+    "name": "Irudheymaage",
+    "count": 110,
+    "variants": 2
    },
    {
-    "name": "Irudheymaage",
+    "name": "Iramaage",
     "count": 107
    },
    {
@@ -91,15 +102,12 @@
     "count": 106
    },
    {
-    "name": "Bahaaruge",
-    "count": 102
-   },
-   {
     "name": "Chaandhaneege",
-    "count": 102
+    "count": 104,
+    "variants": 3
    },
    {
-    "name": "Green Area",
+    "name": "Bahaaruge",
     "count": 102
    },
    {
@@ -112,7 +120,8 @@
    },
    {
     "name": "Vaijeheyge",
-    "count": 100
+    "count": 101,
+    "variants": 2
    },
    {
     "name": "Vinares",
@@ -127,8 +136,9 @@
     "count": 98
    },
    {
-    "name": "Hiyaa",
-    "count": 96
+    "name": "Javaahirumaage",
+    "count": 98,
+    "variants": 2
    }
   ],
   "shortest": [
@@ -156,11 +166,6 @@
     "name": "Aal",
     "length": 3,
     "count": 3
-   },
-   {
-    "name": "Aan",
-    "length": 3,
-    "count": 1
    },
    {
     "name": "Aas",
@@ -206,6 +211,11 @@
     "name": "Ahi",
     "length": 3,
     "count": 3
+   },
+   {
+    "name": "Aid",
+    "length": 3,
+    "count": 1
    }
   ],
   "longest": [
@@ -285,99 +295,99 @@
     "count": 1
    }
   ],
-  "avgLength": 11.24,
+  "avgLength": 11.29,
   "lengthDist": [
    {
     "length": 3,
-    "count": 174
+    "count": 171
    },
    {
     "length": 4,
-    "count": 947
+    "count": 920
    },
    {
     "length": 5,
-    "count": 2094
+    "count": 2063
    },
    {
     "length": 6,
-    "count": 3226
+    "count": 3154
    },
    {
     "length": 7,
-    "count": 3471
+    "count": 3255
    },
    {
     "length": 8,
-    "count": 3465
+    "count": 3175
    },
    {
     "length": 9,
-    "count": 3095
+    "count": 2800
    },
    {
     "length": 10,
-    "count": 3093
+    "count": 2811
    },
    {
     "length": 11,
-    "count": 2825
+    "count": 2561
    },
    {
     "length": 12,
-    "count": 2580
+    "count": 2365
    },
    {
     "length": 13,
-    "count": 2169
+    "count": 2018
    },
    {
     "length": 14,
-    "count": 1851
+    "count": 1723
    },
    {
     "length": 15,
-    "count": 1462
+    "count": 1383
    },
    {
     "length": 16,
-    "count": 1027
+    "count": 971
    },
    {
     "length": 17,
-    "count": 757
+    "count": 721
    },
    {
     "length": 18,
-    "count": 551
+    "count": 527
    },
    {
     "length": 19,
-    "count": 463
+    "count": 450
    },
    {
     "length": 20,
-    "count": 403
+    "count": 400
    },
    {
     "length": 21,
-    "count": 405
+    "count": 402
    },
    {
     "length": 22,
-    "count": 407
+    "count": 404
    },
    {
     "length": 23,
-    "count": 349
+    "count": 348
    },
    {
     "length": 24,
-    "count": 295
+    "count": 294
    },
    {
     "length": 25,
-    "count": 265
+    "count": 264
    },
    {
     "length": 26,
@@ -403,7 +413,7 @@
   "topWords": [
    {
     "name": "Villa",
-    "count": 3453
+    "count": 3438
    },
    {
     "name": "Goathi",
@@ -411,15 +421,15 @@
    },
    {
     "name": "House",
-    "count": 1046
+    "count": 1044
    },
    {
     "name": "Manzil",
-    "count": 900
+    "count": 899
    },
    {
     "name": "Rose",
-    "count": 678
+    "count": 677
    },
    {
     "name": "Mohamed",
@@ -431,7 +441,7 @@
    },
    {
     "name": "Ali",
-    "count": 611
+    "count": 610
    },
    {
     "name": "Ahmed",
@@ -439,23 +449,23 @@
    },
    {
     "name": "Beach",
-    "count": 531
-   },
-   {
-    "name": "Aage",
-    "count": 499
+    "count": 530
    },
    {
     "name": "Green",
     "count": 499
    },
    {
-    "name": "Hiyaa",
-    "count": 494
+    "name": "Aage",
+    "count": 497
    },
    {
     "name": "Star",
     "count": 493
+   },
+   {
+    "name": "Hiyaa",
+    "count": 462
    },
    {
     "name": "Light",
@@ -467,7 +477,7 @@
    },
    {
     "name": "View",
-    "count": 368
+    "count": 367
    },
    {
     "name": "White",
@@ -475,15 +485,15 @@
    },
    {
     "name": "2",
-    "count": 365
+    "count": 362
    },
    {
     "name": "1",
-    "count": 308
+    "count": 304
    },
    {
     "name": "Night",
-    "count": 304
+    "count": 303
    },
    {
     "name": "Happy",
@@ -495,7 +505,7 @@
    },
    {
     "name": "Vaadhee",
-    "count": 275
+    "count": 274
    },
    {
     "name": "Asseyri",
@@ -505,7 +515,7 @@
   "topLastWords": [
    {
     "name": "Villa",
-    "count": 3305
+    "count": 3290
    },
    {
     "name": "Goathi",
@@ -513,19 +523,19 @@
    },
    {
     "name": "House",
-    "count": 967
+    "count": 965
    },
    {
     "name": "Manzil",
-    "count": 749
+    "count": 748
    },
    {
     "name": "Rose",
-    "count": 461
+    "count": 460
    },
    {
     "name": "Aage",
-    "count": 453
+    "count": 452
    },
    {
     "name": "Star",
@@ -533,7 +543,7 @@
    },
    {
     "name": "2",
-    "count": 356
+    "count": 353
    },
    {
     "name": "Hiyaa",
@@ -541,7 +551,7 @@
    },
    {
     "name": "View",
-    "count": 339
+    "count": 338
    },
    {
     "name": "Light",
@@ -549,33 +559,27 @@
    },
    {
     "name": "1",
-    "count": 301
+    "count": 297
    },
    {
     "name": "Flower",
-    "count": 222
+    "count": 221
    },
    {
     "name": "Side",
-    "count": 207
+    "count": 206
    },
    {
     "name": "Heaven",
     "count": 180
    }
   ],
-  "singletons": 28439,
-  "allNamedBuildings": 100254,
-  "bySource": {
-   "mbs": 91284,
-   "mbsPdf": 5730,
-   "osmOnly": 3240
-  },
+  "singletons": 26162,
   "suffixes": [
    {
     "suffix": "ge",
-    "count": 21123,
-    "pct": 25.8,
+    "count": 21091,
+    "pct": 26,
     "examples": [
      "Zamaaneege",
      "Tharimaage",
@@ -585,8 +589,8 @@
    },
    {
     "suffix": "aage",
-    "count": 9996,
-    "pct": 12.2,
+    "count": 9988,
+    "pct": 12.3,
     "examples": [
      "Tharimaage",
      "Chabeylimaage",
@@ -596,7 +600,7 @@
    },
    {
     "suffix": "maage",
-    "count": 5377,
+    "count": 5389,
     "pct": 6.6,
     "examples": [
      "Tharimaage",
@@ -607,7 +611,7 @@
    },
    {
     "suffix": "villa",
-    "count": 3790,
+    "count": 3767,
     "pct": 4.6,
     "examples": [
      "Garden Villa",
@@ -618,7 +622,7 @@
    },
    {
     "suffix": "manzil",
-    "count": 1070,
+    "count": 1069,
     "pct": 1.3,
     "examples": [
      "Mareena Manzil",
@@ -629,8 +633,8 @@
    },
    {
     "suffix": "house",
-    "count": 1024,
-    "pct": 1.2,
+    "count": 1022,
+    "pct": 1.3,
     "examples": [
      "Bencho House",
      "Orchid House",
@@ -651,7 +655,7 @@
    },
    {
     "suffix": "view",
-    "count": 399,
+    "count": 398,
     "pct": 0.5,
     "examples": [
      "Beach View",
@@ -662,7 +666,7 @@
    },
    {
     "suffix": "side",
-    "count": 270,
+    "count": 268,
     "pct": 0.3,
     "examples": [
      "Sunside",
@@ -687,20 +691,20 @@
    {
     "island": "Malé",
     "atoll": "MLE",
-    "count": 7658,
-    "unique": 7619
+    "count": 7196,
+    "unique": 7151
    },
    {
     "island": "Fuvahmulah",
     "atoll": "Gnaviyani",
-    "count": 3233,
-    "unique": 3043
+    "count": 3230,
+    "unique": 3040
    },
    {
     "island": "Hithadhoo",
     "atoll": "Seenu",
     "count": 2831,
-    "unique": 2796
+    "unique": 2795
    },
    {
     "island": "Kulhudhuffushi",
@@ -712,7 +716,7 @@
     "island": "Thinadhoo",
     "atoll": "Gaafu Dhaalu",
     "count": 1768,
-    "unique": 1740
+    "unique": 1739
    },
    {
     "island": "Naifaru",
@@ -723,8 +727,8 @@
    {
     "island": "Feydhoo",
     "atoll": "Seenu",
-    "count": 1204,
-    "unique": 1187
+    "count": 1203,
+    "unique": 1186
    },
    {
     "island": "Meedhoo",
@@ -736,7 +740,7 @@
     "island": "Hoarafushi",
     "atoll": "Haa Alifu",
     "count": 956,
-    "unique": 946
+    "unique": 944
    },
    {
     "island": "Vilin'gili",
@@ -759,14 +763,14 @@
    {
     "island": "Kudahuvadhoo",
     "atoll": "Dhaalu",
-    "count": 884,
-    "unique": 879
+    "count": 883,
+    "unique": 878
    },
    {
     "island": "Kaashidhoo",
     "atoll": "Kaafu",
-    "count": 879,
-    "unique": 863
+    "count": 877,
+    "unique": 860
    },
    {
     "island": "Hulhudhoo",
@@ -832,116 +836,2943 @@
     "island": "Funadhoo",
     "atoll": "Shaviyani",
     "count": 683,
-    "unique": 677
+    "unique": 676
    }
   ],
   "islandsCovered": 195,
   "spread": {
-   "oneIsland": 28353,
-   "multiIsland": 7743,
+   "oneIsland": 26481,
+   "multiIsland": 7801,
    "mostWidespread": [
     {
-     "name": "asseyri",
+     "name": "Asseyri",
      "islands": 132
     },
     {
-     "name": "udhares",
+     "name": "Udhares",
      "islands": 128
     },
     {
-     "name": "fazaa",
+     "name": "Fazaa",
      "islands": 127
     },
     {
-     "name": "finifenmaage",
-     "islands": 122
+     "name": "Fehivina",
+     "islands": 125
     },
     {
-     "name": "fehivina",
-     "islands": 121
+     "name": "Finifenmaage",
+     "islands": 123
     },
     {
-     "name": "manzil",
+     "name": "Manzil",
      "islands": 118
     },
     {
-     "name": "moonimaage",
+     "name": "Moonimaage",
      "islands": 116
     },
     {
-     "name": "dhoores",
+     "name": "Dhoores",
      "islands": 115
     },
     {
-     "name": "naares",
+     "name": "Naares",
      "islands": 115
     },
     {
-     "name": "finivaage",
+     "name": "Finivaage",
      "islands": 111
     },
     {
-     "name": "malas",
+     "name": "Huvandhumaage",
+     "islands": 109
+    },
+    {
+     "name": "Malas",
      "islands": 108
     },
     {
-     "name": "huvandhumaage",
-     "islands": 108
-    },
-    {
-     "name": "asurumaage",
+     "name": "Asurumaage",
      "islands": 107
     },
     {
-     "name": "alivaage",
+     "name": "Alivaage",
      "islands": 104
     },
     {
-     "name": "karankaage",
+     "name": "Karankaage",
      "islands": 104
     },
     {
-     "name": "athamaage",
+     "name": "Athamaage",
      "islands": 104
     },
     {
-     "name": "mala",
+     "name": "Irudheymaage",
+     "islands": 103
+    },
+    {
+     "name": "Mala",
      "islands": 101
     },
     {
-     "name": "iramaage",
+     "name": "Iramaage",
      "islands": 101
     },
     {
-     "name": "irudheymaage",
-     "islands": 100
-    },
-    {
-     "name": "meenaaz",
+     "name": "Meenaaz",
      "islands": 99
     }
    ]
+  },
+  "allNamedBuildings": 94909,
+  "kindCounts": {
+   "house": 81273,
+   "resort": 759,
+   "code": 4506,
+   "vacant": 889,
+   "other": 7482
+  },
+  "bySource": {
+   "mbs": 91284,
+   "mbsPdf": 561,
+   "osmOnly": 3064
+  },
+  "variants": {
+   "withResort": {
+    "records": 82032,
+    "uniqueNames": 34725,
+    "variantsMerged": 1564,
+    "topNames": [
+     {
+      "name": "Asseyri",
+      "count": 140
+     },
+     {
+      "name": "Udhares",
+      "count": 135
+     },
+     {
+      "name": "Fazaa",
+      "count": 134
+     },
+     {
+      "name": "Fehivina",
+      "count": 133,
+      "variants": 2
+     },
+     {
+      "name": "Finifenmaage",
+      "count": 133,
+      "variants": 3
+     },
+     {
+      "name": "Moonimaage",
+      "count": 127
+     },
+     {
+      "name": "Dhoores",
+      "count": 125,
+      "variants": 2
+     },
+     {
+      "name": "Manzil",
+      "count": 125
+     },
+     {
+      "name": "Naares",
+      "count": 121
+     },
+     {
+      "name": "Huvandhumaage",
+      "count": 120,
+      "variants": 4
+     },
+     {
+      "name": "Finivaage",
+      "count": 117
+     },
+     {
+      "name": "Asurumaage",
+      "count": 115
+     },
+     {
+      "name": "Green Area",
+      "count": 114,
+      "variants": 2
+     },
+     {
+      "name": "Malas",
+      "count": 114
+     },
+     {
+      "name": "Athamaage",
+      "count": 113
+     },
+     {
+      "name": "Alivaage",
+      "count": 111
+     },
+     {
+      "name": "Karankaage",
+      "count": 111
+     },
+     {
+      "name": "Irudheymaage",
+      "count": 110,
+      "variants": 2
+     },
+     {
+      "name": "Iramaage",
+      "count": 107
+     },
+     {
+      "name": "Mala",
+      "count": 107
+     },
+     {
+      "name": "Meenaaz",
+      "count": 106
+     },
+     {
+      "name": "Chaandhaneege",
+      "count": 105,
+      "variants": 3
+     },
+     {
+      "name": "Bahaaruge",
+      "count": 102
+     },
+     {
+      "name": "Irumatheege",
+      "count": 102
+     },
+     {
+      "name": "Vaijeheyge",
+      "count": 102,
+      "variants": 2
+     },
+     {
+      "name": "Finihiyaage",
+      "count": 101
+     },
+     {
+      "name": "Vinares",
+      "count": 101
+     },
+     {
+      "name": "Javaahirumaage",
+      "count": 99,
+      "variants": 2
+     },
+     {
+      "name": "Vaadhee",
+      "count": 99
+     },
+     {
+      "name": "Heenaamaage",
+      "count": 98
+     }
+    ],
+    "shortest": [
+     {
+      "name": "Aaf",
+      "length": 3,
+      "count": 1
+     },
+     {
+      "name": "Aah",
+      "length": 3,
+      "count": 1
+     },
+     {
+      "name": "Aaj",
+      "length": 3,
+      "count": 1
+     },
+     {
+      "name": "Aak",
+      "length": 3,
+      "count": 1
+     },
+     {
+      "name": "Aal",
+      "length": 3,
+      "count": 4
+     },
+     {
+      "name": "Aas",
+      "length": 3,
+      "count": 1
+     },
+     {
+      "name": "Aaz",
+      "length": 3,
+      "count": 7
+     },
+     {
+      "name": "Aba",
+      "length": 3,
+      "count": 1
+     },
+     {
+      "name": "Ace",
+      "length": 3,
+      "count": 2
+     },
+     {
+      "name": "Ada",
+      "length": 3,
+      "count": 1
+     },
+     {
+      "name": "Afi",
+      "length": 3,
+      "count": 4
+     },
+     {
+      "name": "Age",
+      "length": 3,
+      "count": 1
+     },
+     {
+      "name": "Agi",
+      "length": 3,
+      "count": 2
+     },
+     {
+      "name": "Ahi",
+      "length": 3,
+      "count": 3
+     },
+     {
+      "name": "Aid",
+      "length": 3,
+      "count": 1
+     }
+    ],
+    "longest": [
+     {
+      "name": "Kaanimaagey Abdurrahmaan Dhaaood Goathi",
+      "length": 39,
+      "count": 1
+     },
+     {
+      "name": "Fathimath Saeedha Maafalhaage Uthurubai",
+      "length": 39,
+      "count": 1
+     },
+     {
+      "name": "Billoorijeheege Mohamed Muhusinu Goathi",
+      "length": 39,
+      "count": 1
+     },
+     {
+      "name": "Kairiaagey Hussain Abdulrrahman Goathi",
+      "length": 38,
+      "count": 1
+     },
+     {
+      "name": "Jaheenu Abdul Gayyoom Kashmeeruvaadhee",
+      "length": 38,
+      "count": 1
+     },
+     {
+      "name": "Hassan Gadheeru Goathi/Hundred Flavors",
+      "length": 38,
+      "count": 1
+     },
+     {
+      "name": "Samandharu Abduh Samadhu-Fenfiyaazuge",
+      "length": 37,
+      "count": 1
+     },
+     {
+      "name": "Masjidhul Gaazee Mohamed Thakurufaanu",
+      "length": 37,
+      "count": 1
+     },
+     {
+      "name": "Kudakudhinge Parkeh Tharaggee Kurumah",
+      "length": 37,
+      "count": 1
+     },
+     {
+      "name": "Gulfaamugey Abdhullah Idhurees Goathi",
+      "length": 37,
+      "count": 1
+     },
+     {
+      "name": "Gadhakamaadhige Abdhurrazzaagu Alibai",
+      "length": 37,
+      "count": 1
+     },
+     {
+      "name": "Abduh Rahmaan Abdulla/Nooreege Muraka",
+      "length": 37,
+      "count": 1
+     },
+     {
+      "name": "Aasaarugey Mohamed Rasheedhuge Goathi",
+      "length": 37,
+      "count": 1
+     },
+     {
+      "name": "Zoona Abdulla GoathiJihathul Vaadhee",
+      "length": 36,
+      "count": 1
+     },
+     {
+      "name": "Yaameen Hassan Rasheedhu Dhilshaadhu",
+      "length": 36,
+      "count": 1
+     }
+    ],
+    "avgLength": 11.31,
+    "lengthDist": [
+     {
+      "length": 3,
+      "count": 172
+     },
+     {
+      "length": 4,
+      "count": 920
+     },
+     {
+      "length": 5,
+      "count": 2065
+     },
+     {
+      "length": 6,
+      "count": 3164
+     },
+     {
+      "length": 7,
+      "count": 3261
+     },
+     {
+      "length": 8,
+      "count": 3179
+     },
+     {
+      "length": 9,
+      "count": 2920
+     },
+     {
+      "length": 10,
+      "count": 2845
+     },
+     {
+      "length": 11,
+      "count": 2571
+     },
+     {
+      "length": 12,
+      "count": 2390
+     },
+     {
+      "length": 13,
+      "count": 2024
+     },
+     {
+      "length": 14,
+      "count": 1788
+     },
+     {
+      "length": 15,
+      "count": 1459
+     },
+     {
+      "length": 16,
+      "count": 977
+     },
+     {
+      "length": 17,
+      "count": 728
+     },
+     {
+      "length": 18,
+      "count": 529
+     },
+     {
+      "length": 19,
+      "count": 460
+     },
+     {
+      "length": 20,
+      "count": 401
+     },
+     {
+      "length": 21,
+      "count": 452
+     },
+     {
+      "length": 22,
+      "count": 406
+     },
+     {
+      "length": 23,
+      "count": 351
+     },
+     {
+      "length": 24,
+      "count": 295
+     },
+     {
+      "length": 25,
+      "count": 265
+     },
+     {
+      "length": 26,
+      "count": 249
+     },
+     {
+      "length": 27,
+      "count": 199
+     },
+     {
+      "length": 28,
+      "count": 173
+     },
+     {
+      "length": 29,
+      "count": 133
+     },
+     {
+      "length": 30,
+      "count": 349
+     }
+    ],
+    "topWords": [
+     {
+      "name": "Villa",
+      "count": 3820
+     },
+     {
+      "name": "Goathi",
+      "count": 1183
+     },
+     {
+      "name": "House",
+      "count": 1048
+     },
+     {
+      "name": "Manzil",
+      "count": 899
+     },
+     {
+      "name": "Rose",
+      "count": 683
+     },
+     {
+      "name": "Mohamed",
+      "count": 670
+     },
+     {
+      "name": "Blue",
+      "count": 653
+     },
+     {
+      "name": "Beach",
+      "count": 614
+     },
+     {
+      "name": "Ali",
+      "count": 610
+     },
+     {
+      "name": "Ahmed",
+      "count": 541
+     },
+     {
+      "name": "Green",
+      "count": 501
+     },
+     {
+      "name": "Aage",
+      "count": 498
+     },
+     {
+      "name": "Star",
+      "count": 497
+     },
+     {
+      "name": "Hiyaa",
+      "count": 462
+     },
+     {
+      "name": "Light",
+      "count": 456
+     },
+     {
+      "name": "Ibrahim",
+      "count": 400
+     },
+     {
+      "name": "View",
+      "count": 368
+     },
+     {
+      "name": "White",
+      "count": 368
+     },
+     {
+      "name": "2",
+      "count": 366
+     },
+     {
+      "name": "1",
+      "count": 306
+     },
+     {
+      "name": "Night",
+      "count": 305
+     },
+     {
+      "name": "Happy",
+      "count": 301
+     },
+     {
+      "name": "New",
+      "count": 276
+     },
+     {
+      "name": "Vaadhee",
+      "count": 274
+     },
+     {
+      "name": "Asseyri",
+      "count": 270
+     }
+    ],
+    "topLastWords": [
+     {
+      "name": "Villa",
+      "count": 3385
+     },
+     {
+      "name": "Goathi",
+      "count": 1172
+     },
+     {
+      "name": "House",
+      "count": 969
+     },
+     {
+      "name": "Manzil",
+      "count": 748
+     },
+     {
+      "name": "Rose",
+      "count": 465
+     },
+     {
+      "name": "Aage",
+      "count": 452
+     },
+     {
+      "name": "Star",
+      "count": 417
+     },
+     {
+      "name": "2",
+      "count": 357
+     },
+     {
+      "name": "Hiyaa",
+      "count": 351
+     },
+     {
+      "name": "View",
+      "count": 339
+     },
+     {
+      "name": "Light",
+      "count": 327
+     },
+     {
+      "name": "1",
+      "count": 299
+     },
+     {
+      "name": "Flower",
+      "count": 222
+     },
+     {
+      "name": "Side",
+      "count": 207
+     },
+     {
+      "name": "Heaven",
+      "count": 183
+     }
+    ],
+    "singletons": 26569,
+    "suffixes": [
+     {
+      "suffix": "ge",
+      "count": 21152,
+      "pct": 25.8,
+      "examples": [
+       "Zamaaneege",
+       "Tharimaage",
+       "Dhonfehige",
+       "Dhivehige"
+      ]
+     },
+     {
+      "suffix": "aage",
+      "count": 10015,
+      "pct": 12.2,
+      "examples": [
+       "Tharimaage",
+       "Chabeylimaage",
+       "Dhooriyaage",
+       "Bilammaage"
+      ]
+     },
+     {
+      "suffix": "maage",
+      "count": 5406,
+      "pct": 6.6,
+      "examples": [
+       "Tharimaage",
+       "Chabeylimaage",
+       "Bilammaage",
+       "Dhihgaamaage"
+      ]
+     },
+     {
+      "suffix": "villa",
+      "count": 3862,
+      "pct": 4.7,
+      "examples": [
+       "Garden Villa",
+       "Welcome Villa",
+       "Shaanee Villa",
+       "Day Light Villa"
+      ]
+     },
+     {
+      "suffix": "manzil",
+      "count": 1073,
+      "pct": 1.3,
+      "examples": [
+       "Mareena Manzil",
+       "Latheefeemanzil",
+       "Aasimee Manzil",
+       "Faheema Manzil"
+      ]
+     },
+     {
+      "suffix": "house",
+      "count": 1028,
+      "pct": 1.3,
+      "examples": [
+       "Bencho House",
+       "Orchid House",
+       "Sea House",
+       "Leenhouse"
+      ]
+     },
+     {
+      "suffix": "light",
+      "count": 602,
+      "pct": 0.7,
+      "examples": [
+       "Light",
+       "Port Light",
+       "Ray Light",
+       "East Light"
+      ]
+     },
+     {
+      "suffix": "view",
+      "count": 399,
+      "pct": 0.5,
+      "examples": [
+       "Beach View",
+       "Rain View",
+       "Sea View",
+       "Ocean View"
+      ]
+     },
+     {
+      "suffix": "side",
+      "count": 269,
+      "pct": 0.3,
+      "examples": [
+       "Sunside",
+       "Love Side",
+       "Hillside",
+       "Sea Side"
+      ]
+     },
+     {
+      "suffix": "hiya",
+      "count": 143,
+      "pct": 0.2,
+      "examples": [
+       "Fahththiya",
+       "Fenkuri Hiya",
+       "Aashiya",
+       "Hadhiya"
+      ]
+     }
+    ],
+    "perIsland": [
+     {
+      "island": "Malé",
+      "atoll": "MLE",
+      "count": 7196,
+      "unique": 7151
+     },
+     {
+      "island": "Fuvahmulah",
+      "atoll": "Gnaviyani",
+      "count": 3230,
+      "unique": 3040
+     },
+     {
+      "island": "Hithadhoo",
+      "atoll": "Seenu",
+      "count": 2831,
+      "unique": 2795
+     },
+     {
+      "island": "Kulhudhuffushi",
+      "atoll": "Haa Dhaalu",
+      "count": 2055,
+      "unique": 2035
+     },
+     {
+      "island": "Thinadhoo",
+      "atoll": "Gaafu Dhaalu",
+      "count": 1768,
+      "unique": 1739
+     },
+     {
+      "island": "Naifaru",
+      "atoll": "Lhaviyani",
+      "count": 1230,
+      "unique": 1154
+     },
+     {
+      "island": "Feydhoo",
+      "atoll": "Seenu",
+      "count": 1203,
+      "unique": 1186
+     },
+     {
+      "island": "Meedhoo",
+      "atoll": "Dhaalu",
+      "count": 983,
+      "unique": 946
+     },
+     {
+      "island": "Hoarafushi",
+      "atoll": "Haa Alifu",
+      "count": 956,
+      "unique": 944
+     },
+     {
+      "island": "Vilin'gili",
+      "atoll": "Gaafu Alifu",
+      "count": 948,
+      "unique": 934
+     },
+     {
+      "island": "Maamigili",
+      "atoll": "Alifu Dhaalu",
+      "count": 901,
+      "unique": 862
+     },
+     {
+      "island": "Maradhoo",
+      "atoll": "Seenu",
+      "count": 894,
+      "unique": 877
+     },
+     {
+      "island": "Kudahuvadhoo",
+      "atoll": "Dhaalu",
+      "count": 883,
+      "unique": 878
+     },
+     {
+      "island": "Kaashidhoo",
+      "atoll": "Kaafu",
+      "count": 877,
+      "unique": 860
+     },
+     {
+      "island": "Hulhudhoo",
+      "atoll": "Baa",
+      "count": 875,
+      "unique": 838
+     },
+     {
+      "island": "Fonadhoo",
+      "atoll": "Laamu",
+      "count": 860,
+      "unique": 843
+     },
+     {
+      "island": "Dhidhdhoo",
+      "atoll": "Haa Alifu",
+      "count": 855,
+      "unique": 837
+     },
+     {
+      "island": "Hinnavaru",
+      "atoll": "Lhaviyani",
+      "count": 811,
+      "unique": 801
+     },
+     {
+      "island": "Milandhoo",
+      "atoll": "Shaviyani",
+      "count": 790,
+      "unique": 763
+     },
+     {
+      "island": "Thulhaadhoo",
+      "atoll": "Baa",
+      "count": 748,
+      "unique": 744
+     },
+     {
+      "island": "Nolhivaran",
+      "atoll": "Haa Dhaalu",
+      "count": 707,
+      "unique": 693
+     },
+     {
+      "island": "Velidhoo",
+      "atoll": "Noonu",
+      "count": 703,
+      "unique": 639
+     },
+     {
+      "island": "Gadhdhoo",
+      "atoll": "Gaafu Dhaalu",
+      "count": 702,
+      "unique": 700
+     },
+     {
+      "island": "Alifushi",
+      "atoll": "Raa",
+      "count": 687,
+      "unique": 682
+     },
+     {
+      "island": "Funadhoo",
+      "atoll": "Shaviyani",
+      "count": 683,
+      "unique": 676
+     }
+    ],
+    "islandsCovered": 227,
+    "spread": {
+     "oneIsland": 26892,
+     "multiIsland": 7833,
+     "mostWidespread": [
+      {
+       "name": "Asseyri",
+       "islands": 132
+      },
+      {
+       "name": "Udhares",
+       "islands": 128
+      },
+      {
+       "name": "Fazaa",
+       "islands": 127
+      },
+      {
+       "name": "Fehivina",
+       "islands": 126
+      },
+      {
+       "name": "Finifenmaage",
+       "islands": 123
+      },
+      {
+       "name": "Manzil",
+       "islands": 118
+      },
+      {
+       "name": "Moonimaage",
+       "islands": 116
+      },
+      {
+       "name": "Naares",
+       "islands": 116
+      },
+      {
+       "name": "Dhoores",
+       "islands": 115
+      },
+      {
+       "name": "Finivaage",
+       "islands": 111
+      },
+      {
+       "name": "Huvandhumaage",
+       "islands": 109
+      },
+      {
+       "name": "Malas",
+       "islands": 108
+      },
+      {
+       "name": "Asurumaage",
+       "islands": 108
+      },
+      {
+       "name": "Athamaage",
+       "islands": 105
+      },
+      {
+       "name": "Alivaage",
+       "islands": 104
+      },
+      {
+       "name": "Karankaage",
+       "islands": 104
+      },
+      {
+       "name": "Irudheymaage",
+       "islands": 103
+      },
+      {
+       "name": "Mala",
+       "islands": 102
+      },
+      {
+       "name": "Iramaage",
+       "islands": 101
+      },
+      {
+       "name": "Meenaaz",
+       "islands": 99
+      }
+     ]
+    }
+   },
+   "withCodes": {
+    "records": 85779,
+    "uniqueNames": 37321,
+    "variantsMerged": 1950,
+    "topNames": [
+     {
+      "name": "Asseyri",
+      "count": 140
+     },
+     {
+      "name": "Udhares",
+      "count": 135
+     },
+     {
+      "name": "Fazaa",
+      "count": 134
+     },
+     {
+      "name": "Finifenmaage",
+      "count": 133,
+      "variants": 3
+     },
+     {
+      "name": "Fehivina",
+      "count": 132,
+      "variants": 2
+     },
+     {
+      "name": "Moonimaage",
+      "count": 127
+     },
+     {
+      "name": "Dhoores",
+      "count": 125,
+      "variants": 2
+     },
+     {
+      "name": "Manzil",
+      "count": 125
+     },
+     {
+      "name": "Huvandhumaage",
+      "count": 120,
+      "variants": 4
+     },
+     {
+      "name": "Naares",
+      "count": 120
+     },
+     {
+      "name": "Finivaage",
+      "count": 117
+     },
+     {
+      "name": "Asurumaage",
+      "count": 114
+     },
+     {
+      "name": "Green Area",
+      "count": 114,
+      "variants": 2
+     },
+     {
+      "name": "Malas",
+      "count": 114
+     },
+     {
+      "name": "Athamaage",
+      "count": 112
+     },
+     {
+      "name": "Alivaage",
+      "count": 111
+     },
+     {
+      "name": "Karankaage",
+      "count": 111
+     },
+     {
+      "name": "Irudheymaage",
+      "count": 110,
+      "variants": 2
+     },
+     {
+      "name": "Iramaage",
+      "count": 107
+     },
+     {
+      "name": "Mala",
+      "count": 106
+     },
+     {
+      "name": "Meenaaz",
+      "count": 106
+     },
+     {
+      "name": "Chaandhaneege",
+      "count": 104,
+      "variants": 3
+     },
+     {
+      "name": "KH",
+      "count": 104
+     },
+     {
+      "name": "Bahaaruge",
+      "count": 102
+     },
+     {
+      "name": "Finihiyaage",
+      "count": 101
+     },
+     {
+      "name": "Irumatheege",
+      "count": 101
+     },
+     {
+      "name": "Vaijeheyge",
+      "count": 101,
+      "variants": 2
+     },
+     {
+      "name": "Vinares",
+      "count": 100
+     },
+     {
+      "name": "Vaadhee",
+      "count": 99
+     },
+     {
+      "name": "Heenaamaage",
+      "count": 98
+     }
+    ],
+    "shortest": [
+     {
+      "name": "1",
+      "length": 1,
+      "count": 22
+     },
+     {
+      "name": "2",
+      "length": 1,
+      "count": 23
+     },
+     {
+      "name": "3",
+      "length": 1,
+      "count": 23
+     },
+     {
+      "name": "4",
+      "length": 1,
+      "count": 24
+     },
+     {
+      "name": "5",
+      "length": 1,
+      "count": 22
+     },
+     {
+      "name": "6",
+      "length": 1,
+      "count": 20
+     },
+     {
+      "name": "7",
+      "length": 1,
+      "count": 17
+     },
+     {
+      "name": "8",
+      "length": 1,
+      "count": 20
+     },
+     {
+      "name": "9",
+      "length": 1,
+      "count": 12
+     },
+     {
+      "name": "E",
+      "length": 1,
+      "count": 1
+     },
+     {
+      "name": "P",
+      "length": 1,
+      "count": 6
+     },
+     {
+      "name": "v",
+      "length": 1,
+      "count": 1
+     },
+     {
+      "name": "??",
+      "length": 2,
+      "count": 1
+     },
+     {
+      "name": "10",
+      "length": 2,
+      "count": 8
+     },
+     {
+      "name": "11",
+      "length": 2,
+      "count": 7
+     }
+    ],
+    "longest": [
+     {
+      "name": "R i z a m a n d h u v a a d h e e R i z a m a n d h u v a a d h e e 2",
+      "length": 69,
+      "count": 1
+     },
+     {
+      "name": "M a t h i r a i y m a a g e M a t h i r a i y m a a g e 2",
+      "length": 57,
+      "count": 1
+     },
+     {
+      "name": "R u h f u s h i M a d h o s h i g a s d h o s h u g e",
+      "length": 53,
+      "count": 1
+     },
+     {
+      "name": "P i e g o n O r c h i d F o h g a s d h o s h u g e",
+      "length": 51,
+      "count": 1
+     },
+     {
+      "name": "N a s r u v i l l a K a d h u g a s d h o s h u g e",
+      "length": 51,
+      "count": 1
+     },
+     {
+      "name": "M i r i y a a s g e B a d i k u l h i m a a g e",
+      "length": 47,
+      "count": 1
+     },
+     {
+      "name": "P e n z e e g a r d e n O r c h i d H o u s e",
+      "length": 45,
+      "count": 1
+     },
+     {
+      "name": "D h a a r u l g a r a a r 1 A r a a t h a r i",
+      "length": 45,
+      "count": 1
+     },
+     {
+      "name": "B e r e b e d h i g e F r o z e n B r e e z e",
+      "length": 45,
+      "count": 1
+     },
+     {
+      "name": "R e s t i n g B e a c h F l a t G a r d e n",
+      "length": 43,
+      "count": 1
+     },
+     {
+      "name": "G u l a a b e e g e L a v e n d e r P a r k",
+      "length": 43,
+      "count": 1
+     },
+     {
+      "name": "W h i t e l a n d A n d h a r u s a v a a",
+      "length": 41,
+      "count": 1
+     },
+     {
+      "name": "R a i y L i l y g e R a i y L i l y g e 1",
+      "length": 41,
+      "count": 1
+     },
+     {
+      "name": "M a d h a f u s h i S o o r a j v i l l a",
+      "length": 41,
+      "count": 1
+     },
+     {
+      "name": "K u d h e h i m a a g e A s a r u k u r i",
+      "length": 41,
+      "count": 1
+     }
+    ],
+    "avgLength": 10.85,
+    "lengthDist": [
+     {
+      "length": 1,
+      "count": 12
+     },
+     {
+      "length": 2,
+      "count": 118
+     },
+     {
+      "length": 3,
+      "count": 431
+     },
+     {
+      "length": 4,
+      "count": 1416
+     },
+     {
+      "length": 5,
+      "count": 3501
+     },
+     {
+      "length": 6,
+      "count": 3447
+     },
+     {
+      "length": 7,
+      "count": 3510
+     },
+     {
+      "length": 8,
+      "count": 3174
+     },
+     {
+      "length": 9,
+      "count": 2800
+     },
+     {
+      "length": 10,
+      "count": 2826
+     },
+     {
+      "length": 11,
+      "count": 2575
+     },
+     {
+      "length": 12,
+      "count": 2363
+     },
+     {
+      "length": 13,
+      "count": 2035
+     },
+     {
+      "length": 14,
+      "count": 1729
+     },
+     {
+      "length": 15,
+      "count": 1385
+     },
+     {
+      "length": 16,
+      "count": 970
+     },
+     {
+      "length": 17,
+      "count": 728
+     },
+     {
+      "length": 18,
+      "count": 529
+     },
+     {
+      "length": 19,
+      "count": 458
+     },
+     {
+      "length": 20,
+      "count": 401
+     },
+     {
+      "length": 21,
+      "count": 409
+     },
+     {
+      "length": 22,
+      "count": 405
+     },
+     {
+      "length": 23,
+      "count": 352
+     },
+     {
+      "length": 24,
+      "count": 295
+     },
+     {
+      "length": 25,
+      "count": 276
+     },
+     {
+      "length": 26,
+      "count": 249
+     },
+     {
+      "length": 27,
+      "count": 205
+     },
+     {
+      "length": 28,
+      "count": 173
+     },
+     {
+      "length": 29,
+      "count": 145
+     },
+     {
+      "length": 30,
+      "count": 404
+     }
+    ],
+    "topWords": [
+     {
+      "name": "Villa",
+      "count": 3438
+     },
+     {
+      "name": "Goathi",
+      "count": 1183
+     },
+     {
+      "name": "House",
+      "count": 1044
+     },
+     {
+      "name": "Manzil",
+      "count": 899
+     },
+     {
+      "name": "Rose",
+      "count": 677
+     },
+     {
+      "name": "Mohamed",
+      "count": 670
+     },
+     {
+      "name": "Blue",
+      "count": 651
+     },
+     {
+      "name": "Ali",
+      "count": 610
+     },
+     {
+      "name": "Hiyaa",
+      "count": 542
+     },
+     {
+      "name": "Ahmed",
+      "count": 541
+     },
+     {
+      "name": "Beach",
+      "count": 530
+     },
+     {
+      "name": "Green",
+      "count": 499
+     },
+     {
+      "name": "Aage",
+      "count": 497
+     },
+     {
+      "name": "Star",
+      "count": 493
+     },
+     {
+      "name": "Light",
+      "count": 452
+     },
+     {
+      "name": "2",
+      "count": 404
+     },
+     {
+      "name": "Ibrahim",
+      "count": 400
+     },
+     {
+      "name": "a",
+      "count": 372
+     },
+     {
+      "name": "View",
+      "count": 367
+     },
+     {
+      "name": "White",
+      "count": 366
+     },
+     {
+      "name": "1",
+      "count": 343
+     },
+     {
+      "name": "Night",
+      "count": 303
+     },
+     {
+      "name": "Happy",
+      "count": 301
+     },
+     {
+      "name": "New",
+      "count": 276
+     },
+     {
+      "name": "Vaadhee",
+      "count": 274
+     }
+    ],
+    "topLastWords": [
+     {
+      "name": "Villa",
+      "count": 3290
+     },
+     {
+      "name": "Goathi",
+      "count": 1172
+     },
+     {
+      "name": "House",
+      "count": 965
+     },
+     {
+      "name": "Manzil",
+      "count": 748
+     },
+     {
+      "name": "Rose",
+      "count": 460
+     },
+     {
+      "name": "Aage",
+      "count": 452
+     },
+     {
+      "name": "Star",
+      "count": 414
+     },
+     {
+      "name": "2",
+      "count": 368
+     },
+     {
+      "name": "Hiyaa",
+      "count": 351
+     },
+     {
+      "name": "View",
+      "count": 338
+     },
+     {
+      "name": "Light",
+      "count": 323
+     },
+     {
+      "name": "1",
+      "count": 306
+     },
+     {
+      "name": "Flower",
+      "count": 221
+     },
+     {
+      "name": "Side",
+      "count": 206
+     },
+     {
+      "name": "Heaven",
+      "count": 180
+     }
+    ],
+    "singletons": 28673,
+    "suffixes": [
+     {
+      "suffix": "ge",
+      "count": 21125,
+      "pct": 24.6,
+      "examples": [
+       "Zamaaneege",
+       "Tharimaage",
+       "Dhonfehige",
+       "Dhivehige"
+      ]
+     },
+     {
+      "suffix": "aage",
+      "count": 10002,
+      "pct": 11.7,
+      "examples": [
+       "Tharimaage",
+       "Chabeylimaage",
+       "Dhooriyaage",
+       "Bilammaage"
+      ]
+     },
+     {
+      "suffix": "maage",
+      "count": 5392,
+      "pct": 6.3,
+      "examples": [
+       "Tharimaage",
+       "Chabeylimaage",
+       "Bilammaage",
+       "Dhihgaamaage"
+      ]
+     },
+     {
+      "suffix": "villa",
+      "count": 3773,
+      "pct": 4.4,
+      "examples": [
+       "Garden Villa",
+       "Welcome Villa",
+       "Shaanee Villa",
+       "Day Light Villa"
+      ]
+     },
+     {
+      "suffix": "manzil",
+      "count": 1069,
+      "pct": 1.2,
+      "examples": [
+       "Mareena Manzil",
+       "Latheefeemanzil",
+       "Aasimee Manzil",
+       "Faheema Manzil"
+      ]
+     },
+     {
+      "suffix": "house",
+      "count": 1027,
+      "pct": 1.2,
+      "examples": [
+       "Bencho House",
+       "Orchid House",
+       "Sea House",
+       "Leenhouse"
+      ]
+     },
+     {
+      "suffix": "light",
+      "count": 599,
+      "pct": 0.7,
+      "examples": [
+       "Light",
+       "Port Light",
+       "Ray Light",
+       "East Light"
+      ]
+     },
+     {
+      "suffix": "view",
+      "count": 401,
+      "pct": 0.5,
+      "examples": [
+       "Beach View",
+       "Rain View",
+       "Sea View",
+       "Ocean View"
+      ]
+     },
+     {
+      "suffix": "side",
+      "count": 268,
+      "pct": 0.3,
+      "examples": [
+       "Sunside",
+       "Love Side",
+       "Hillside",
+       "Sea Side"
+      ]
+     },
+     {
+      "suffix": "hiya",
+      "count": 143,
+      "pct": 0.2,
+      "examples": [
+       "Fahththiya",
+       "Fenkuri Hiya",
+       "Aashiya",
+       "Hadhiya"
+      ]
+     }
+    ],
+    "perIsland": [
+     {
+      "island": "Malé",
+      "atoll": "MLE",
+      "count": 7387,
+      "unique": 7342
+     },
+     {
+      "island": "Fuvahmulah",
+      "atoll": "Gnaviyani",
+      "count": 3238,
+      "unique": 3045
+     },
+     {
+      "island": "Hithadhoo",
+      "atoll": "Seenu",
+      "count": 2851,
+      "unique": 2815
+     },
+     {
+      "island": "Kulhudhuffushi",
+      "atoll": "Haa Dhaalu",
+      "count": 2060,
+      "unique": 2040
+     },
+     {
+      "island": "Thinadhoo",
+      "atoll": "Gaafu Dhaalu",
+      "count": 1970,
+      "unique": 1940
+     },
+     {
+      "island": "Hulhumalé",
+      "atoll": "MLE",
+      "count": 1430,
+      "unique": 1383
+     },
+     {
+      "island": "Naifaru",
+      "atoll": "Lhaviyani",
+      "count": 1230,
+      "unique": 1154
+     },
+     {
+      "island": "Feydhoo",
+      "atoll": "Seenu",
+      "count": 1203,
+      "unique": 1186
+     },
+     {
+      "island": "Hoarafushi",
+      "atoll": "Haa Alifu",
+      "count": 1110,
+      "unique": 1098
+     },
+     {
+      "island": "Vilin'gili",
+      "atoll": "Gaafu Alifu",
+      "count": 1061,
+      "unique": 1041
+     },
+     {
+      "island": "Meedhoo",
+      "atoll": "Dhaalu",
+      "count": 986,
+      "unique": 949
+     },
+     {
+      "island": "Hinnavaru",
+      "atoll": "Lhaviyani",
+      "count": 929,
+      "unique": 816
+     },
+     {
+      "island": "Maamigili",
+      "atoll": "Alifu Dhaalu",
+      "count": 905,
+      "unique": 866
+     },
+     {
+      "island": "Hulhudhoo",
+      "atoll": "Baa",
+      "count": 898,
+      "unique": 861
+     },
+     {
+      "island": "Maradhoo",
+      "atoll": "Seenu",
+      "count": 894,
+      "unique": 877
+     },
+     {
+      "island": "Dhidhdhoo",
+      "atoll": "Haa Alifu",
+      "count": 892,
+      "unique": 872
+     },
+     {
+      "island": "Kudahuvadhoo",
+      "atoll": "Dhaalu",
+      "count": 884,
+      "unique": 879
+     },
+     {
+      "island": "Kaashidhoo",
+      "atoll": "Kaafu",
+      "count": 877,
+      "unique": 860
+     },
+     {
+      "island": "Fonadhoo",
+      "atoll": "Laamu",
+      "count": 865,
+      "unique": 848
+     },
+     {
+      "island": "Dhuvaafaru",
+      "atoll": "Raa",
+      "count": 834,
+      "unique": 719
+     },
+     {
+      "island": "Milandhoo",
+      "atoll": "Shaviyani",
+      "count": 794,
+      "unique": 767
+     },
+     {
+      "island": "Thulhaadhoo",
+      "atoll": "Baa",
+      "count": 753,
+      "unique": 749
+     },
+     {
+      "island": "Nolhivaran",
+      "atoll": "Haa Dhaalu",
+      "count": 707,
+      "unique": 693
+     },
+     {
+      "island": "Gadhdhoo",
+      "atoll": "Gaafu Dhaalu",
+      "count": 703,
+      "unique": 701
+     },
+     {
+      "island": "Velidhoo",
+      "atoll": "Noonu",
+      "count": 703,
+      "unique": 639
+     }
+    ],
+    "islandsCovered": 203,
+    "spread": {
+     "oneIsland": 29030,
+     "multiIsland": 8291,
+     "mostWidespread": [
+      {
+       "name": "Asseyri",
+       "islands": 132
+      },
+      {
+       "name": "Udhares",
+       "islands": 128
+      },
+      {
+       "name": "Fazaa",
+       "islands": 127
+      },
+      {
+       "name": "Fehivina",
+       "islands": 125
+      },
+      {
+       "name": "Finifenmaage",
+       "islands": 123
+      },
+      {
+       "name": "Manzil",
+       "islands": 118
+      },
+      {
+       "name": "Moonimaage",
+       "islands": 116
+      },
+      {
+       "name": "Dhoores",
+       "islands": 115
+      },
+      {
+       "name": "Naares",
+       "islands": 115
+      },
+      {
+       "name": "Finivaage",
+       "islands": 111
+      },
+      {
+       "name": "Huvandhumaage",
+       "islands": 109
+      },
+      {
+       "name": "Malas",
+       "islands": 108
+      },
+      {
+       "name": "Asurumaage",
+       "islands": 107
+      },
+      {
+       "name": "Alivaage",
+       "islands": 104
+      },
+      {
+       "name": "Karankaage",
+       "islands": 104
+      },
+      {
+       "name": "Athamaage",
+       "islands": 104
+      },
+      {
+       "name": "Irudheymaage",
+       "islands": 103
+      },
+      {
+       "name": "Mala",
+       "islands": 101
+      },
+      {
+       "name": "Iramaage",
+       "islands": 101
+      },
+      {
+       "name": "Meenaaz",
+       "islands": 99
+      }
+     ]
+    }
+   },
+   "withBoth": {
+    "records": 86538,
+    "uniqueNames": 37764,
+    "variantsMerged": 1954,
+    "topNames": [
+     {
+      "name": "Asseyri",
+      "count": 140
+     },
+     {
+      "name": "Udhares",
+      "count": 135
+     },
+     {
+      "name": "Fazaa",
+      "count": 134
+     },
+     {
+      "name": "Fehivina",
+      "count": 133,
+      "variants": 2
+     },
+     {
+      "name": "Finifenmaage",
+      "count": 133,
+      "variants": 3
+     },
+     {
+      "name": "Moonimaage",
+      "count": 127
+     },
+     {
+      "name": "Dhoores",
+      "count": 125,
+      "variants": 2
+     },
+     {
+      "name": "Manzil",
+      "count": 125
+     },
+     {
+      "name": "Naares",
+      "count": 121
+     },
+     {
+      "name": "Huvandhumaage",
+      "count": 120,
+      "variants": 4
+     },
+     {
+      "name": "Finivaage",
+      "count": 117
+     },
+     {
+      "name": "Asurumaage",
+      "count": 115
+     },
+     {
+      "name": "Green Area",
+      "count": 114,
+      "variants": 2
+     },
+     {
+      "name": "Malas",
+      "count": 114
+     },
+     {
+      "name": "Athamaage",
+      "count": 113
+     },
+     {
+      "name": "Alivaage",
+      "count": 111
+     },
+     {
+      "name": "Karankaage",
+      "count": 111
+     },
+     {
+      "name": "Irudheymaage",
+      "count": 110,
+      "variants": 2
+     },
+     {
+      "name": "Iramaage",
+      "count": 107
+     },
+     {
+      "name": "Mala",
+      "count": 107
+     },
+     {
+      "name": "Meenaaz",
+      "count": 106
+     },
+     {
+      "name": "Chaandhaneege",
+      "count": 105,
+      "variants": 3
+     },
+     {
+      "name": "KH",
+      "count": 104
+     },
+     {
+      "name": "Bahaaruge",
+      "count": 102
+     },
+     {
+      "name": "Irumatheege",
+      "count": 102
+     },
+     {
+      "name": "Vaijeheyge",
+      "count": 102,
+      "variants": 2
+     },
+     {
+      "name": "Finihiyaage",
+      "count": 101
+     },
+     {
+      "name": "Vinares",
+      "count": 101
+     },
+     {
+      "name": "Javaahirumaage",
+      "count": 99,
+      "variants": 2
+     },
+     {
+      "name": "Vaadhee",
+      "count": 99
+     }
+    ],
+    "shortest": [
+     {
+      "name": "1",
+      "length": 1,
+      "count": 22
+     },
+     {
+      "name": "2",
+      "length": 1,
+      "count": 23
+     },
+     {
+      "name": "3",
+      "length": 1,
+      "count": 23
+     },
+     {
+      "name": "4",
+      "length": 1,
+      "count": 24
+     },
+     {
+      "name": "5",
+      "length": 1,
+      "count": 22
+     },
+     {
+      "name": "6",
+      "length": 1,
+      "count": 20
+     },
+     {
+      "name": "7",
+      "length": 1,
+      "count": 17
+     },
+     {
+      "name": "8",
+      "length": 1,
+      "count": 20
+     },
+     {
+      "name": "9",
+      "length": 1,
+      "count": 12
+     },
+     {
+      "name": "E",
+      "length": 1,
+      "count": 1
+     },
+     {
+      "name": "P",
+      "length": 1,
+      "count": 6
+     },
+     {
+      "name": "v",
+      "length": 1,
+      "count": 1
+     },
+     {
+      "name": "??",
+      "length": 2,
+      "count": 1
+     },
+     {
+      "name": "10",
+      "length": 2,
+      "count": 8
+     },
+     {
+      "name": "11",
+      "length": 2,
+      "count": 7
+     }
+    ],
+    "longest": [
+     {
+      "name": "R i z a m a n d h u v a a d h e e R i z a m a n d h u v a a d h e e 2",
+      "length": 69,
+      "count": 1
+     },
+     {
+      "name": "M a t h i r a i y m a a g e M a t h i r a i y m a a g e 2",
+      "length": 57,
+      "count": 1
+     },
+     {
+      "name": "R u h f u s h i M a d h o s h i g a s d h o s h u g e",
+      "length": 53,
+      "count": 1
+     },
+     {
+      "name": "P i e g o n O r c h i d F o h g a s d h o s h u g e",
+      "length": 51,
+      "count": 1
+     },
+     {
+      "name": "N a s r u v i l l a K a d h u g a s d h o s h u g e",
+      "length": 51,
+      "count": 1
+     },
+     {
+      "name": "M i r i y a a s g e B a d i k u l h i m a a g e",
+      "length": 47,
+      "count": 1
+     },
+     {
+      "name": "P e n z e e g a r d e n O r c h i d H o u s e",
+      "length": 45,
+      "count": 1
+     },
+     {
+      "name": "D h a a r u l g a r a a r 1 A r a a t h a r i",
+      "length": 45,
+      "count": 1
+     },
+     {
+      "name": "B e r e b e d h i g e F r o z e n B r e e z e",
+      "length": 45,
+      "count": 1
+     },
+     {
+      "name": "R e s t i n g B e a c h F l a t G a r d e n",
+      "length": 43,
+      "count": 1
+     },
+     {
+      "name": "G u l a a b e e g e L a v e n d e r P a r k",
+      "length": 43,
+      "count": 1
+     },
+     {
+      "name": "W h i t e l a n d A n d h a r u s a v a a",
+      "length": 41,
+      "count": 1
+     },
+     {
+      "name": "R a i y L i l y g e R a i y L i l y g e 1",
+      "length": 41,
+      "count": 1
+     },
+     {
+      "name": "M a d h a f u s h i S o o r a j v i l l a",
+      "length": 41,
+      "count": 1
+     },
+     {
+      "name": "K u d h e h i m a a g e A s a r u k u r i",
+      "length": 41,
+      "count": 1
+     }
+    ],
+    "avgLength": 10.88,
+    "lengthDist": [
+     {
+      "length": 1,
+      "count": 12
+     },
+     {
+      "length": 2,
+      "count": 118
+     },
+     {
+      "length": 3,
+      "count": 432
+     },
+     {
+      "length": 4,
+      "count": 1416
+     },
+     {
+      "length": 5,
+      "count": 3503
+     },
+     {
+      "length": 6,
+      "count": 3457
+     },
+     {
+      "length": 7,
+      "count": 3516
+     },
+     {
+      "length": 8,
+      "count": 3178
+     },
+     {
+      "length": 9,
+      "count": 2920
+     },
+     {
+      "length": 10,
+      "count": 2860
+     },
+     {
+      "length": 11,
+      "count": 2585
+     },
+     {
+      "length": 12,
+      "count": 2388
+     },
+     {
+      "length": 13,
+      "count": 2041
+     },
+     {
+      "length": 14,
+      "count": 1794
+     },
+     {
+      "length": 15,
+      "count": 1461
+     },
+     {
+      "length": 16,
+      "count": 976
+     },
+     {
+      "length": 17,
+      "count": 735
+     },
+     {
+      "length": 18,
+      "count": 531
+     },
+     {
+      "length": 19,
+      "count": 468
+     },
+     {
+      "length": 20,
+      "count": 402
+     },
+     {
+      "length": 21,
+      "count": 459
+     },
+     {
+      "length": 22,
+      "count": 407
+     },
+     {
+      "length": 23,
+      "count": 355
+     },
+     {
+      "length": 24,
+      "count": 296
+     },
+     {
+      "length": 25,
+      "count": 277
+     },
+     {
+      "length": 26,
+      "count": 249
+     },
+     {
+      "length": 27,
+      "count": 205
+     },
+     {
+      "length": 28,
+      "count": 173
+     },
+     {
+      "length": 29,
+      "count": 146
+     },
+     {
+      "length": 30,
+      "count": 404
+     }
+    ],
+    "topWords": [
+     {
+      "name": "Villa",
+      "count": 3820
+     },
+     {
+      "name": "Goathi",
+      "count": 1183
+     },
+     {
+      "name": "House",
+      "count": 1048
+     },
+     {
+      "name": "Manzil",
+      "count": 899
+     },
+     {
+      "name": "Rose",
+      "count": 683
+     },
+     {
+      "name": "Mohamed",
+      "count": 670
+     },
+     {
+      "name": "Blue",
+      "count": 653
+     },
+     {
+      "name": "Beach",
+      "count": 614
+     },
+     {
+      "name": "Ali",
+      "count": 610
+     },
+     {
+      "name": "Hiyaa",
+      "count": 542
+     },
+     {
+      "name": "Ahmed",
+      "count": 541
+     },
+     {
+      "name": "Green",
+      "count": 501
+     },
+     {
+      "name": "Aage",
+      "count": 498
+     },
+     {
+      "name": "Star",
+      "count": 497
+     },
+     {
+      "name": "Light",
+      "count": 456
+     },
+     {
+      "name": "2",
+      "count": 408
+     },
+     {
+      "name": "Ibrahim",
+      "count": 400
+     },
+     {
+      "name": "a",
+      "count": 372
+     },
+     {
+      "name": "View",
+      "count": 368
+     },
+     {
+      "name": "White",
+      "count": 368
+     },
+     {
+      "name": "1",
+      "count": 345
+     },
+     {
+      "name": "Night",
+      "count": 305
+     },
+     {
+      "name": "Happy",
+      "count": 301
+     },
+     {
+      "name": "New",
+      "count": 276
+     },
+     {
+      "name": "Vaadhee",
+      "count": 274
+     }
+    ],
+    "topLastWords": [
+     {
+      "name": "Villa",
+      "count": 3385
+     },
+     {
+      "name": "Goathi",
+      "count": 1172
+     },
+     {
+      "name": "House",
+      "count": 969
+     },
+     {
+      "name": "Manzil",
+      "count": 748
+     },
+     {
+      "name": "Rose",
+      "count": 465
+     },
+     {
+      "name": "Aage",
+      "count": 452
+     },
+     {
+      "name": "Star",
+      "count": 417
+     },
+     {
+      "name": "2",
+      "count": 372
+     },
+     {
+      "name": "Hiyaa",
+      "count": 351
+     },
+     {
+      "name": "View",
+      "count": 339
+     },
+     {
+      "name": "Light",
+      "count": 327
+     },
+     {
+      "name": "1",
+      "count": 308
+     },
+     {
+      "name": "Flower",
+      "count": 222
+     },
+     {
+      "name": "Side",
+      "count": 207
+     },
+     {
+      "name": "Heaven",
+      "count": 183
+     }
+    ],
+    "singletons": 29080,
+    "suffixes": [
+     {
+      "suffix": "ge",
+      "count": 21186,
+      "pct": 24.5,
+      "examples": [
+       "Zamaaneege",
+       "Tharimaage",
+       "Dhonfehige",
+       "Dhivehige"
+      ]
+     },
+     {
+      "suffix": "aage",
+      "count": 10029,
+      "pct": 11.6,
+      "examples": [
+       "Tharimaage",
+       "Chabeylimaage",
+       "Dhooriyaage",
+       "Bilammaage"
+      ]
+     },
+     {
+      "suffix": "maage",
+      "count": 5409,
+      "pct": 6.3,
+      "examples": [
+       "Tharimaage",
+       "Chabeylimaage",
+       "Bilammaage",
+       "Dhihgaamaage"
+      ]
+     },
+     {
+      "suffix": "villa",
+      "count": 3868,
+      "pct": 4.5,
+      "examples": [
+       "Garden Villa",
+       "Welcome Villa",
+       "Shaanee Villa",
+       "Day Light Villa"
+      ]
+     },
+     {
+      "suffix": "manzil",
+      "count": 1073,
+      "pct": 1.2,
+      "examples": [
+       "Mareena Manzil",
+       "Latheefeemanzil",
+       "Aasimee Manzil",
+       "Faheema Manzil"
+      ]
+     },
+     {
+      "suffix": "house",
+      "count": 1033,
+      "pct": 1.2,
+      "examples": [
+       "Bencho House",
+       "Orchid House",
+       "Sea House",
+       "Leenhouse"
+      ]
+     },
+     {
+      "suffix": "light",
+      "count": 604,
+      "pct": 0.7,
+      "examples": [
+       "Light",
+       "Port Light",
+       "Ray Light",
+       "East Light"
+      ]
+     },
+     {
+      "suffix": "view",
+      "count": 402,
+      "pct": 0.5,
+      "examples": [
+       "Beach View",
+       "Rain View",
+       "Sea View",
+       "Ocean View"
+      ]
+     },
+     {
+      "suffix": "side",
+      "count": 269,
+      "pct": 0.3,
+      "examples": [
+       "Sunside",
+       "Love Side",
+       "Hillside",
+       "Sea Side"
+      ]
+     },
+     {
+      "suffix": "hiya",
+      "count": 143,
+      "pct": 0.2,
+      "examples": [
+       "Fahththiya",
+       "Fenkuri Hiya",
+       "Aashiya",
+       "Hadhiya"
+      ]
+     }
+    ],
+    "perIsland": [
+     {
+      "island": "Malé",
+      "atoll": "MLE",
+      "count": 7387,
+      "unique": 7342
+     },
+     {
+      "island": "Fuvahmulah",
+      "atoll": "Gnaviyani",
+      "count": 3238,
+      "unique": 3045
+     },
+     {
+      "island": "Hithadhoo",
+      "atoll": "Seenu",
+      "count": 2851,
+      "unique": 2815
+     },
+     {
+      "island": "Kulhudhuffushi",
+      "atoll": "Haa Dhaalu",
+      "count": 2060,
+      "unique": 2040
+     },
+     {
+      "island": "Thinadhoo",
+      "atoll": "Gaafu Dhaalu",
+      "count": 1970,
+      "unique": 1940
+     },
+     {
+      "island": "Hulhumalé",
+      "atoll": "MLE",
+      "count": 1430,
+      "unique": 1383
+     },
+     {
+      "island": "Naifaru",
+      "atoll": "Lhaviyani",
+      "count": 1230,
+      "unique": 1154
+     },
+     {
+      "island": "Feydhoo",
+      "atoll": "Seenu",
+      "count": 1203,
+      "unique": 1186
+     },
+     {
+      "island": "Hoarafushi",
+      "atoll": "Haa Alifu",
+      "count": 1110,
+      "unique": 1098
+     },
+     {
+      "island": "Vilin'gili",
+      "atoll": "Gaafu Alifu",
+      "count": 1061,
+      "unique": 1041
+     },
+     {
+      "island": "Meedhoo",
+      "atoll": "Dhaalu",
+      "count": 986,
+      "unique": 949
+     },
+     {
+      "island": "Hinnavaru",
+      "atoll": "Lhaviyani",
+      "count": 929,
+      "unique": 816
+     },
+     {
+      "island": "Maamigili",
+      "atoll": "Alifu Dhaalu",
+      "count": 905,
+      "unique": 866
+     },
+     {
+      "island": "Hulhudhoo",
+      "atoll": "Baa",
+      "count": 898,
+      "unique": 861
+     },
+     {
+      "island": "Maradhoo",
+      "atoll": "Seenu",
+      "count": 894,
+      "unique": 877
+     },
+     {
+      "island": "Dhidhdhoo",
+      "atoll": "Haa Alifu",
+      "count": 892,
+      "unique": 872
+     },
+     {
+      "island": "Kudahuvadhoo",
+      "atoll": "Dhaalu",
+      "count": 884,
+      "unique": 879
+     },
+     {
+      "island": "Kaashidhoo",
+      "atoll": "Kaafu",
+      "count": 877,
+      "unique": 860
+     },
+     {
+      "island": "Fonadhoo",
+      "atoll": "Laamu",
+      "count": 865,
+      "unique": 848
+     },
+     {
+      "island": "Dhuvaafaru",
+      "atoll": "Raa",
+      "count": 834,
+      "unique": 719
+     },
+     {
+      "island": "Milandhoo",
+      "atoll": "Shaviyani",
+      "count": 794,
+      "unique": 767
+     },
+     {
+      "island": "Thulhaadhoo",
+      "atoll": "Baa",
+      "count": 753,
+      "unique": 749
+     },
+     {
+      "island": "Nolhivaran",
+      "atoll": "Haa Dhaalu",
+      "count": 707,
+      "unique": 693
+     },
+     {
+      "island": "Gadhdhoo",
+      "atoll": "Gaafu Dhaalu",
+      "count": 703,
+      "unique": 701
+     },
+     {
+      "island": "Velidhoo",
+      "atoll": "Noonu",
+      "count": 703,
+      "unique": 639
+     }
+    ],
+    "islandsCovered": 230,
+    "spread": {
+     "oneIsland": 29441,
+     "multiIsland": 8323,
+     "mostWidespread": [
+      {
+       "name": "Asseyri",
+       "islands": 132
+      },
+      {
+       "name": "Udhares",
+       "islands": 128
+      },
+      {
+       "name": "Fazaa",
+       "islands": 127
+      },
+      {
+       "name": "Fehivina",
+       "islands": 126
+      },
+      {
+       "name": "Finifenmaage",
+       "islands": 123
+      },
+      {
+       "name": "Manzil",
+       "islands": 118
+      },
+      {
+       "name": "Moonimaage",
+       "islands": 116
+      },
+      {
+       "name": "Naares",
+       "islands": 116
+      },
+      {
+       "name": "Dhoores",
+       "islands": 115
+      },
+      {
+       "name": "Finivaage",
+       "islands": 111
+      },
+      {
+       "name": "Huvandhumaage",
+       "islands": 109
+      },
+      {
+       "name": "Malas",
+       "islands": 108
+      },
+      {
+       "name": "Asurumaage",
+       "islands": 108
+      },
+      {
+       "name": "Athamaage",
+       "islands": 105
+      },
+      {
+       "name": "Alivaage",
+       "islands": 104
+      },
+      {
+       "name": "Karankaage",
+       "islands": 104
+      },
+      {
+       "name": "Irudheymaage",
+       "islands": 103
+      },
+      {
+       "name": "Mala",
+       "islands": 102
+      },
+      {
+       "name": "Iramaage",
+       "islands": 101
+      },
+      {
+       "name": "Meenaaz",
+       "islands": 99
+      }
+     ]
+    }
+   }
   }
  },
  "roads": {
-  "records": 1685,
-  "uniqueNames": 1454,
+  "records": 1617,
+  "uniqueNames": 1281,
+  "variantsMerged": 112,
   "topNames": [
    {
-    "name": "Ameenee Magu",
-    "count": 10
+    "name": "Orchid Magu",
+    "count": 13,
+    "variants": 4
    },
    {
-    "name": "Orchid Magu",
-    "count": 10
+    "name": "Ameenee Magu",
+    "count": 12,
+    "variants": 3
    },
    {
     "name": "Nikagas Magu",
-    "count": 9
+    "count": 10,
+    "variants": 2
+   },
+   {
+    "name": "Rahdhebai Magu",
+    "count": 9,
+    "variants": 6
+   },
+   {
+    "name": "Violet Magu",
+    "count": 9,
+    "variants": 3
+   },
+   {
+    "name": "Haveeree Hingun",
+    "count": 8,
+    "variants": 2
    },
    {
     "name": "Roashanee Magu",
     "count": 8
+   },
+   {
+    "name": "Chaandhanee Magu",
+    "count": 7,
+    "variants": 2
+   },
+   {
+    "name": "Marine Drive",
+    "count": 7,
+    "variants": 2
+   },
+   {
+    "name": "Mirihi Magu",
+    "count": 7,
+    "variants": 2
    },
    {
     "name": "Shamsudheen Bodu Fandiyaaru Thakurufaanu Magu",
@@ -952,28 +3783,39 @@
     "count": 7
    },
    {
-    "name": "Violet Magu",
-    "count": 7
+    "name": "Aabaadhee Hingun",
+    "count": 6,
+    "variants": 3
    },
    {
-    "name": "Chaandhanee Magu",
-    "count": 6
+    "name": "Bodu Magu",
+    "count": 6,
+    "variants": 2
    },
    {
-    "name": "Haveeree Hingun",
-    "count": 6
-   },
-   {
-    "name": "Marine Drive",
-    "count": 6
-   },
-   {
-    "name": "Mirihi Magu",
-    "count": 6
+    "name": "Boduthakurufaanu Magu",
+    "count": 6,
+    "variants": 4
    },
    {
     "name": "Karankaa Magu",
-    "count": 5
+    "count": 6,
+    "variants": 2
+   },
+   {
+    "name": "Bandharu Magu",
+    "count": 5,
+    "variants": 3
+   },
+   {
+    "name": "Hithigas Magu",
+    "count": 5,
+    "variants": 2
+   },
+   {
+    "name": "Kaneeru Magu",
+    "count": 5,
+    "variants": 2
    },
    {
     "name": "Lily Magu",
@@ -984,68 +3826,48 @@
     "count": 5
    },
    {
-    "name": "Bodu Magu",
-    "count": 4
+    "name": "Nooraanee Magu",
+    "count": 5,
+    "variants": 2
+   },
+   {
+    "name": "Asaree Hingun",
+    "count": 4,
+    "variants": 2
+   },
+   {
+    "name": "Asrafee Magu",
+    "count": 4,
+    "variants": 3
+   },
+   {
+    "name": "Asurumaa Goalhi",
+    "count": 4,
+    "variants": 2
+   },
+   {
+    "name": "Carnation Magu",
+    "count": 4,
+    "variants": 2
+   },
+   {
+    "name": "Chanbeylee Magu",
+    "count": 4,
+    "variants": 2
    },
    {
     "name": "Daisy Magu",
     "count": 4
    },
    {
-    "name": "Ghaazee Magu",
-    "count": 4
+    "name": "Dhakandhaa Magu",
+    "count": 4,
+    "variants": 3
    },
    {
-    "name": "Hithigas Magu",
-    "count": 4
-   },
-   {
-    "name": "Nooraanee Magu",
-    "count": 4
-   },
-   {
-    "name": "Rahdhebai Magu",
-    "count": 4
-   },
-   {
-    "name": "Vashaa Magu",
-    "count": 4
-   },
-   {
-    "name": "Aabaadhee Hin'gun",
-    "count": 3
-   },
-   {
-    "name": "Aabaadhee Hingun",
-    "count": 3
-   },
-   {
-    "name": "Abadhahfehi Magu",
-    "count": 3
-   },
-   {
-    "name": "Asaree Hingun",
-    "count": 3
-   },
-   {
-    "name": "Asurumaa Goalhi",
-    "count": 3
-   },
-   {
-    "name": "Bandharu Magu",
-    "count": 3
-   },
-   {
-    "name": "Beach Road",
-    "count": 3
-   },
-   {
-    "name": "Boduthakurufaanu Magu",
-    "count": 3
-   },
-   {
-    "name": "Carnation Magu",
-    "count": 3
+    "name": "Filigas Magu",
+    "count": 4,
+    "variants": 2
    }
   ],
   "shortest": [
@@ -1065,11 +3887,6 @@
     "count": 1
    },
    {
-    "name": "Aamagu",
-    "length": 6,
-    "count": 1
-   },
-   {
     "name": "Immagu",
     "length": 6,
     "count": 1
@@ -1077,7 +3894,7 @@
    {
     "name": "Aa Magu",
     "length": 7,
-    "count": 1
+    "count": 2
    },
    {
     "name": "Jetty 2",
@@ -1100,11 +3917,6 @@
     "count": 1
    },
    {
-    "name": "Bodumagu",
-    "length": 8,
-    "count": 2
-   },
-   {
     "name": "Causeway",
     "length": 8,
     "count": 2
@@ -1121,6 +3933,16 @@
    },
    {
     "name": "New Road",
+    "length": 8,
+    "count": 1
+   },
+   {
+    "name": "Rest Hut",
+    "length": 8,
+    "count": 1
+   },
+   {
+    "name": "ބޮޑުމަގު",
     "length": 8,
     "count": 1
    }
@@ -1202,7 +4024,7 @@
     "count": 1
    }
   ],
-  "avgLength": 15.48,
+  "avgLength": 15.56,
   "lengthDist": [
    {
     "length": 4,
@@ -1214,7 +4036,7 @@
    },
    {
     "length": 6,
-    "count": 2
+    "count": 1
    },
    {
     "length": 7,
@@ -1222,67 +4044,67 @@
    },
    {
     "length": 8,
-    "count": 8
+    "count": 7
    },
    {
     "length": 9,
-    "count": 19
+    "count": 15
    },
    {
     "length": 10,
-    "count": 34
+    "count": 30
    },
    {
     "length": 11,
-    "count": 99
+    "count": 83
    },
    {
     "length": 12,
-    "count": 148
+    "count": 133
    },
    {
     "length": 13,
-    "count": 180
+    "count": 166
    },
    {
     "length": 14,
-    "count": 196
+    "count": 173
    },
    {
     "length": 15,
-    "count": 214
+    "count": 186
    },
    {
     "length": 16,
-    "count": 167
+    "count": 146
    },
    {
     "length": 17,
-    "count": 94
+    "count": 82
    },
    {
     "length": 18,
-    "count": 67
+    "count": 55
    },
    {
     "length": 19,
-    "count": 38
+    "count": 31
    },
    {
     "length": 20,
-    "count": 29
+    "count": 23
    },
    {
     "length": 21,
-    "count": 14
+    "count": 12
    },
    {
     "length": 22,
-    "count": 11
+    "count": 9
    },
    {
     "length": 23,
-    "count": 25
+    "count": 22
    },
    {
     "length": 24,
@@ -1290,7 +4112,7 @@
    },
    {
     "length": 25,
-    "count": 14
+    "count": 12
    },
    {
     "length": 26,
@@ -1316,11 +4138,11 @@
   "topWords": [
    {
     "name": "Magu",
-    "count": 607
+    "count": 591
    },
    {
     "name": "Goalhi",
-    "count": 344
+    "count": 338
    },
    {
     "name": "Hingun",
@@ -1328,11 +4150,7 @@
    },
    {
     "name": "magu",
-    "count": 107
-   },
-   {
-    "name": "Hin'gun",
-    "count": 94
+    "count": 104
    },
    {
     "name": "-",
@@ -1341,6 +4159,10 @@
    {
     "name": "Villa",
     "count": 55
+   },
+   {
+    "name": "Hin'gun",
+    "count": 53
    },
    {
     "name": "Access",
@@ -1375,12 +4197,12 @@
     "count": 18
    },
    {
-    "name": "Bodu",
+    "name": "Mago",
     "count": 16
    },
    {
-    "name": "Mago",
-    "count": 16
+    "name": "Bodu",
+    "count": 15
    },
    {
     "name": "Chanbeylee",
@@ -1392,10 +4214,6 @@
    },
    {
     "name": "Ameenee",
-    "count": 13
-   },
-   {
-    "name": "Nikagas",
     "count": 13
    },
    {
@@ -1411,6 +4229,10 @@
     "count": 12
    },
    {
+    "name": "Nikagas",
+    "count": 12
+   },
+   {
     "name": "2",
     "count": 11
    }
@@ -1418,11 +4240,11 @@
   "topLastWords": [
    {
     "name": "Magu",
-    "count": 553
+    "count": 537
    },
    {
     "name": "Goalhi",
-    "count": 286
+    "count": 280
    },
    {
     "name": "Hingun",
@@ -1430,11 +4252,11 @@
    },
    {
     "name": "magu",
-    "count": 106
+    "count": 103
    },
    {
     "name": "Hin'gun",
-    "count": 94
+    "count": 53
    },
    {
     "name": "goalhi",
@@ -1477,12 +4299,12 @@
     "count": 11
    }
   ],
-  "singletons": 1331,
+  "singletons": 1117,
   "suffixes": [
    {
     "suffix": "magu",
-    "count": 705,
-    "pct": 41.8,
+    "count": 686,
+    "pct": 42.4,
     "examples": [
      "Shamsudheen Bodu Fandiyaaru Thakurufaanu Magu",
      "Izzuddeen Magu",
@@ -1492,8 +4314,8 @@
    },
    {
     "suffix": "goalhi",
-    "count": 348,
-    "pct": 20.7,
+    "count": 342,
+    "pct": 21.2,
     "examples": [
      "Goadhi Goalhi",
      "Valumiskiy goalhi",
@@ -1503,19 +4325,19 @@
    },
    {
     "suffix": "hingun",
-    "count": 183,
-    "pct": 10.9,
+    "count": 268,
+    "pct": 16.6,
     "examples": [
      "Kanbaa Aisa Rani Hingun",
      "Haveeree Hingun",
      "Gulbahaaru Hingun",
-     "Faithumaary Hingun"
+     "Sheesham hin'gun"
     ]
    },
    {
     "suffix": "higun",
     "count": 27,
-    "pct": 1.6,
+    "pct": 1.7,
     "examples": [
      "Fareedhee Higun",
      "Thabureyzee Higun",
@@ -1557,8 +4379,8 @@
    {
     "island": "Malé",
     "atoll": "MLE",
-    "count": 412,
-    "unique": 412
+    "count": 351,
+    "unique": 351
    },
    {
     "island": "Fuvahmulah",
@@ -1581,8 +4403,8 @@
    {
     "island": "Hithadhoo",
     "atoll": "Seenu",
-    "count": 90,
-    "unique": 90
+    "count": 88,
+    "unique": 88
    },
    {
     "island": "Fonadhoo",
@@ -1617,8 +4439,8 @@
    {
     "island": "Maradhoo",
     "atoll": "Seenu",
-    "count": 38,
-    "unique": 38
+    "count": 37,
+    "unique": 37
    },
    {
     "island": "Goidhoo",
@@ -1629,8 +4451,8 @@
    {
     "island": "Maafaru",
     "atoll": "Noonu",
-    "count": 34,
-    "unique": 34
+    "count": 33,
+    "unique": 33
    },
    {
     "island": "Nellaidhoo",
@@ -1681,16 +4503,16 @@
     "unique": 22
    },
    {
-    "island": "Funadhoo",
-    "atoll": "Kaafu",
-    "count": 20,
-    "unique": 20
-   },
-   {
     "island": "Ukulhas",
     "atoll": "Alifu Alifu",
     "count": 20,
     "unique": 20
+   },
+   {
+    "island": "Funadhoo",
+    "atoll": "Kaafu",
+    "count": 19,
+    "unique": 19
    },
    {
     "island": "Kulhudhuffushi",
@@ -1707,99 +4529,99 @@
   ],
   "islandsCovered": 94,
   "spread": {
-   "oneIsland": 1274,
-   "multiIsland": 138,
+   "oneIsland": 1117,
+   "multiIsland": 164,
    "mostWidespread": [
     {
-     "name": "orchid magu",
+     "name": "Orchid Magu",
+     "islands": 13
+    },
+    {
+     "name": "Ameeneemagu",
      "islands": 12
     },
     {
-     "name": "ameenee magu",
-     "islands": 11
-    },
-    {
-     "name": "nikagas magu",
+     "name": "Nikagas Magu",
      "islands": 10
     },
     {
-     "name": "violet magu",
+     "name": "Rahdhebai Magu",
+     "islands": 9
+    },
+    {
+     "name": "Violet Magu",
+     "islands": 9
+    },
+    {
+     "name": "Haveeree Hingun",
      "islands": 8
     },
     {
-     "name": "roashanee magu",
+     "name": "Roashanee Magu",
      "islands": 8
     },
     {
-     "name": "shamsudheen bodu fandiyaaru thakurufaanu magu",
+     "name": "Shamsudheen Bodu Fandiyaaru Thakurufaanu Magu",
      "islands": 7
     },
     {
-     "name": "mirihi magu",
+     "name": "Mirihi magu",
      "islands": 7
     },
     {
-     "name": "sosun magu",
+     "name": "Sosun Magu",
      "islands": 7
     },
     {
-     "name": "chaandhanee magu",
+     "name": "Marine Drive",
      "islands": 7
     },
     {
-     "name": "haveeree hingun",
+     "name": "Chaandhanee Magu",
+     "islands": 7
+    },
+    {
+     "name": "Bodu Magu",
      "islands": 6
     },
     {
-     "name": "rahdhebai magu",
+     "name": "Karankaa Magu",
      "islands": 6
     },
     {
-     "name": "karankaa magu",
+     "name": "Aabaadheehingun",
      "islands": 6
     },
     {
-     "name": "marine drive",
+     "name": "Boduthakurufaanu Magu",
      "islands": 6
     },
     {
-     "name": "lily magu",
+     "name": "Lily Magu",
      "islands": 5
     },
     {
-     "name": "nirolhu magu",
+     "name": "Nirolhu Magu",
      "islands": 5
     },
     {
-     "name": "kaneeru magu",
+     "name": "Kaneeru Magu",
      "islands": 5
     },
     {
-     "name": "hithigas magu",
+     "name": "Hithigas magu",
      "islands": 5
-    },
-    {
-     "name": "bodu magu",
-     "islands": 4
-    },
-    {
-     "name": "daisy magu",
-     "islands": 4
-    },
-    {
-     "name": "carnation magu",
-     "islands": 4
     }
    ]
   },
   "byHighwayType": [
    {
     "name": "residential",
-    "count": 1279
+    "count": 1274
    },
    {
     "name": "road",
-    "count": 164
+    "count": 102
    },
    {
     "name": "footway",
@@ -1811,7 +4633,7 @@
    },
    {
     "name": "tertiary",
-    "count": 45
+    "count": 44
    },
    {
     "name": "unclassified",
@@ -1877,6 +4699,7 @@
   "all": {
    "records": 1132,
    "uniqueNames": 998,
+   "variantsMerged": 0,
    "topNames": [
     {
      "name": "Bodufinolhu",
@@ -2409,6 +5232,7 @@
   "inhabitedStats": {
    "records": 189,
    "uniqueNames": 174,
+   "variantsMerged": 0,
    "topNames": [
     {
      "name": "Dhidhdhoo",

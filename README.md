@@ -59,6 +59,16 @@ so the Node pipeline works without Python.
 
 ## Methodology notes
 
+- **Name variants** are grouped under a normalization key that ignores case,
+  whitespace, apostrophes (transliteration marks: *Dhan'buge* = *Dhanbuge*),
+  dots/hyphens and diacritics — so *Beach Villa* / *Beachvilla* and
+  *HUvandhumaage* / *Huvandhumaage* count as one name, displayed under the most
+  common spelling (`scripts/normalize.mjs`; ~1,500 variants merged). The same
+  key powers deduplication across the three sources.
+- **Resort/guesthouse units and block/unit codes** (e.g. *Hiyaa H16-1* social
+  housing towers) are excluded from the default house-name analysis but can be
+  toggled on with checkboxes on the House names tab (all variants are
+  precomputed in `analysis.json`).
 - **House names** come primarily from the MBS national address register
   (`hname` per address point), plus OSM buildings with a `name` or
   `addr:housename` tag that aren't already in the register (same island + same

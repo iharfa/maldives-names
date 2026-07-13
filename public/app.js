@@ -108,6 +108,40 @@
       ${opts.extra ?? ""}`;
   }
 
+  function renderHousesTab(A) {
+    const tab = $("#tab-houses");
+    tab.innerHTML = `
+      <div class="controls" style="align-items:center">
+        <label style="display:flex;gap:6px;align-items:center;font-size:13.5px;color:var(--ink-2)">
+          <input type="checkbox" id="inc-resort"> Include resort &amp; guesthouse units (${fmt(A.houses.kindCounts?.resort ?? 0)})
+        </label>
+        <label style="display:flex;gap:6px;align-items:center;font-size:13.5px;color:var(--ink-2)">
+          <input type="checkbox" id="inc-codes"> Include block &amp; unit codes, e.g. “Hiyaa H16-1” (${fmt(A.houses.kindCounts?.code ?? 0)})
+        </label>
+      </div>
+      <div id="houses-body"></div>`;
+    const note = `<p class="note" style="color:var(--muted);font-size:12.5px">Sources: ${fmt(
+      A.houses.bySource?.mbs ?? 0
+    )} addresses from the Maldives Bureau of Statistics national address register, ${fmt(
+      A.houses.bySource?.mbsPdf ?? 0
+    )} building labels from the MBS Malé City census map PDFs, plus ${fmt(
+      A.houses.bySource?.osmOnly ?? 0
+    )} OpenStreetMap-only records. Shops, mosques, schools, offices, vacant-plot placeholders and land-use descriptions are always excluded. Spelling variants (case, spaces, apostrophes — “Beach Villa” / “Beachvilla”) are counted as one name and shown under their most common spelling.</p>`;
+    const render = () => {
+      const r = $("#inc-resort").checked;
+      const c = $("#inc-codes").checked;
+      const S = r && c ? A.houses.variants.withBoth : r ? A.houses.variants.withResort : c ? A.houses.variants.withCodes : A.houses;
+      renderNameSection($("#houses-body"), S, {
+        recordsLabel: "named buildings (residential)" + (r || c ? " + included extras" : ""),
+        noun: "house names",
+        extra: note,
+      });
+    };
+    $("#inc-resort").addEventListener("change", render);
+    $("#inc-codes").addEventListener("change", render);
+    render();
+  }
+
   function renderOverview(A) {
     $("#tab-overview").innerHTML = `
       <div class="kpis">
@@ -275,19 +309,7 @@
     })
     .then((A) => {
       renderOverview(A);
-      renderNameSection($("#tab-houses"), A.houses, {
-        recordsLabel: "named buildings (residential)",
-        noun: "house names",
-        extra: `<p class="note" style="color:var(--muted);font-size:12.5px">Sources: ${fmt(
-          A.houses.bySource?.mbs ?? 0
-        )} addresses from the Maldives Bureau of Statistics national address register, ${fmt(
-          A.houses.bySource?.mbsPdf ?? 0
-        )} building labels from the MBS Malé City census map PDFs, plus ${fmt(
-          A.houses.bySource?.osmOnly ?? 0
-        )} OpenStreetMap-only records. Buildings classified as shops, mosques, schools, offices, resort units or unit codes are excluded from this analysis (${fmt(
-          A.houses.allNamedBuildings - A.houses.records
-        )} records filtered out but kept in the dataset).</p>`,
-      });
+      renderHousesTab(A);
       renderNameSection($("#tab-roads"), A.roads, { recordsLabel: "distinct named roads", noun: "road names" });
       renderIslands(A);
       $("#generated").textContent = `Analysis generated ${new Date(A.generated).toUTCString()}.`;

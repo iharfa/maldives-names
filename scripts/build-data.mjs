@@ -12,6 +12,7 @@
 import { readFileSync, writeFileSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
+import { normalizeName } from "./normalize.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const RAW = join(ROOT, "data", "raw");
@@ -121,6 +122,8 @@ function classifyBuilding(tags, name, islandCategory) {
   for (const k of NON_HOUSE_TAGS) if (tags[k]) return "other";
   if (VACANT.test(name)) return "vacant";
   if (UNIT_CODE.test(name)) return "code";
+  // social-housing block labels: "Hiyaa H16-1", "Hiyaa 2" — tower codes, not names
+  if (/^hiyaa\b.*\d/i.test(name)) return "code";
   // no run of 2+ letters (Latin or Thaana) => a label like "E", "??", "7-2";
   // 1-2 character names ("CR", "GA") are block/plot codes, not house names
   if (!/[A-Za-zހ-޿]{2}/.test(name) || [...name].length < 3) return "code";
@@ -162,7 +165,7 @@ for (const ft of mbsAddresses.features) {
   const [lon, lat] = ft.geometry?.coordinates ?? [];
   if (!name || lat == null) continue;
   const island = resolveIsland(ft.properties.IslandName, lat, lon);
-  mbsKeys.add(`${island.name}|${name.toLowerCase()}`);
+  mbsKeys.add(`${island.name}|${normalizeName(name)}`);
   houses.push({
     name,
     kind: classifyBuilding({}, name, island.category),
@@ -181,7 +184,7 @@ const mbsCount = houses.length;
 let osmDupes = 0;
 for (const { el, tags, name, co } of houseMap.values()) {
   const { island, km } = nearestIsland(co.lat, co.lon);
-  if (mbsKeys.has(`${island.name}|${name.toLowerCase()}`)) {
+  if (mbsKeys.has(`${island.name}|${normalizeName(name)}`)) {
     osmDupes++;
     continue;
   }
@@ -217,7 +220,7 @@ try {
       name = name.replace(/\s*\(LD\d+\)\s*/g, "").trim();
       // skip the map's own title label ("Maale", "Hulhumaale", "Villingili")
       if (!name || name.toLowerCase().replace(/[eé]/g, "e") === island.name.toLowerCase().replace(/[eé]/g, "e") || /^(maale|hulhumaale|villingili)$/i.test(name)) continue;
-      const key = `${island.name}|${name.toLowerCase()}`;
+      const key = `${island.name}|${normalizeName(name)}`;
       if (mbsKeys.has(key) || seen.has(key)) {
         pdfDupes++;
         continue;
@@ -253,7 +256,7 @@ for (const el of read("osm_roads.json").elements) {
   const co = coordOf(el);
   if (!name || !co) continue;
   const { island } = nearestIsland(co.lat, co.lon);
-  const key = `${island.fcode}|${name.toLowerCase()}`;
+  const key = `${island.fcode}|${normalizeName(name)}`;
   if (!roadGroups.has(key)) {
     roadGroups.set(key, {
       name,
@@ -283,7 +286,7 @@ for (const ft of readMbs("Road_9.js").features) {
   if (!name || !co) continue;
   const [lon, lat] = co;
   const { island } = nearestIsland(lat, lon);
-  const key = `${island.fcode}|${name.toLowerCase()}`;
+  const key = `${island.fcode}|${normalizeName(name)}`;
   if (roadGroups.has(key)) {
     const g = roadGroups.get(key);
     g.src = "both";
