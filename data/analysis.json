@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-13T06:07:45.332Z",
+ "generated": "2026-07-13T06:16:13.824Z",
  "sources": {
   "islands": "onemap.mv (Maldives Land and Survey Authority) — island_20240509 FeatureServer",
   "addresses": "Maldives Bureau of Statistics national address register — statisticsmaldives.gov.mv/gismaps (statsmap Address layer)",
@@ -7775,5 +7775,4899 @@
    "inhabited": 187,
    "note": "Maldives Bureau of Statistics island layer (statisticsmaldives.gov.mv/gismaps): 187 islands categorised Inhabited vs 189 Residential in the onemap.mv registry."
   }
- }
+ },
+ "atolls": [
+  {
+   "atoll": "Alifu Alifu",
+   "islands": 34,
+   "inhabitedIslands": 8,
+   "islandsWithData": 8,
+   "houses": {
+    "records": 2052,
+    "uniqueNames": 1488,
+    "singletons": 1218,
+    "avgLength": 10.43,
+    "topNames": [
+     {
+      "name": "Banafusaage",
+      "count": 19
+     },
+     {
+      "name": "Asseyri",
+      "count": 8
+     },
+     {
+      "name": "Finifenmaage",
+      "count": 8
+     },
+     {
+      "name": "Moonimaage",
+      "count": 8
+     },
+     {
+      "name": "Udhares",
+      "count": 8
+     },
+     {
+      "name": "Asrafeege",
+      "count": 7
+     },
+     {
+      "name": "Cemetry",
+      "count": 7
+     },
+     {
+      "name": "Daisymaage",
+      "count": 7,
+      "variants": 2
+     },
+     {
+      "name": "Empty",
+      "count": 7
+     },
+     {
+      "name": "Fehivina",
+      "count": 7
+     },
+     {
+      "name": "Heenaamaage",
+      "count": 7
+     },
+     {
+      "name": "Iramaage",
+      "count": 7
+     }
+    ],
+    "suffixes": [
+     {
+      "suffix": "ge",
+      "count": 592,
+      "pct": 28.8,
+      "examples": [
+       "Pansymaage",
+       "Revimaage",
+       "Daisymaage",
+       "Orchidmaage"
+      ]
+     },
+     {
+      "suffix": "aage",
+      "count": 330,
+      "pct": 16.1,
+      "examples": [
+       "Pansymaage",
+       "Revimaage",
+       "Daisymaage",
+       "Orchidmaage"
+      ]
+     },
+     {
+      "suffix": "maage",
+      "count": 202,
+      "pct": 9.8,
+      "examples": [
+       "Pansymaage",
+       "Revimaage",
+       "Daisymaage",
+       "Orchidmaage"
+      ]
+     },
+     {
+      "suffix": "villa",
+      "count": 128,
+      "pct": 6.2,
+      "examples": [
+       "Comred Villa",
+       "Daisy Villa",
+       "Chaandhanee Villa",
+       "Radium Villa"
+      ]
+     },
+     {
+      "suffix": "manzil",
+      "count": 41,
+      "pct": 2,
+      "examples": [
+       "Hiyaalee Manzil",
+       "Reel Manzil",
+       "Shaheedhaa Manzil",
+       "Siyaamaa Manzil"
+      ]
+     }
+    ],
+    "signature": {
+     "total": 493,
+     "top": [
+      {
+       "name": "Didi Night",
+       "count": 3
+      },
+      {
+       "name": "Dhaarul Khair",
+       "count": 2
+      },
+      {
+       "name": "J. Najaah",
+       "count": 2
+      },
+      {
+       "name": "J. Uloom",
+       "count": 2
+      },
+      {
+       "name": "Kaamaage",
+       "count": 2
+      },
+      {
+       "name": "Maakoalhige",
+       "count": 2
+      },
+      {
+       "name": "Neelakoaru",
+       "count": 2
+      },
+      {
+       "name": "Samrock",
+       "count": 2
+      },
+      {
+       "name": "40.1 Tourism Zone 1",
+       "count": 1
+      },
+      {
+       "name": "40.2 Tourism Zone 2",
+       "count": 1
+      },
+      {
+       "name": "7.2 Makthabu",
+       "count": 1
+      },
+      {
+       "name": "Aabdihaa Manzil",
+       "count": 1
+      }
+     ]
+    }
+   },
+   "roads": {
+    "records": 88,
+    "uniqueNames": 80,
+    "topNames": [
+     {
+      "name": "Nikagas Magu",
+      "count": 3
+     },
+     {
+      "name": "Sosun Magu",
+      "count": 3
+     },
+     {
+      "name": "Vashaa Magu",
+      "count": 3
+     },
+     {
+      "name": "Bandharu Magu",
+      "count": 2
+     },
+     {
+      "name": "Chaandhanee magu",
+      "count": 2,
+      "variants": 2
+     },
+     {
+      "name": "Adam Hussain Magu",
+      "count": 1
+     },
+     {
+      "name": "Alimas Goalhi",
+      "count": 1
+     },
+     {
+      "name": "Ameenee Magu",
+      "count": 1
+     }
+    ],
+    "signature": {
+     "total": 44,
+     "top": [
+      {
+       "name": "Adam Hussain Magu",
+       "count": 1
+      },
+      {
+       "name": "Alimas Goalhi",
+       "count": 1
+      },
+      {
+       "name": "Anehenun Magu",
+       "count": 1
+      },
+      {
+       "name": "Anhenun Magu",
+       "count": 1
+      },
+      {
+       "name": "Asrafee Goalhi",
+       "count": 1
+      },
+      {
+       "name": "Asuru Mage",
+       "count": 1
+      },
+      {
+       "name": "Bahthi Magu",
+       "count": 1
+      },
+      {
+       "name": "Blue Berry Moonlight Goalhi",
+       "count": 1
+      }
+     ]
+    }
+   }
+  },
+  {
+   "atoll": "Alifu Dhaalu",
+   "islands": 47,
+   "inhabitedIslands": 10,
+   "islandsWithData": 10,
+   "houses": {
+    "records": 2783,
+    "uniqueNames": 1896,
+    "singletons": 1504,
+    "avgLength": 10.4,
+    "topNames": [
+     {
+      "name": "Green Area",
+      "count": 18
+     },
+     {
+      "name": "Kudhi Viyafaarithakah",
+      "count": 14
+     },
+     {
+      "name": "Heylhi",
+      "count": 10
+     },
+     {
+      "name": "Nooraanee Villa",
+      "count": 10
+     },
+     {
+      "name": "Huvandhumaage",
+      "count": 9
+     },
+     {
+      "name": "Irudheymaage",
+      "count": 9
+     },
+     {
+      "name": "Manzil",
+      "count": 9
+     },
+     {
+      "name": "Moonimaage",
+      "count": 9
+     },
+     {
+      "name": "Udhares",
+      "count": 9
+     },
+     {
+      "name": "Fazaa",
+      "count": 8
+     },
+     {
+      "name": "Finifenmaage",
+      "count": 8
+     },
+     {
+      "name": "Finihiyaa",
+      "count": 8
+     }
+    ],
+    "suffixes": [
+     {
+      "suffix": "ge",
+      "count": 715,
+      "pct": 25.7,
+      "examples": [
+       "Aamiraage",
+       "Endheri Lodge",
+       "Aarifge",
+       "Endherimaage"
+      ]
+     },
+     {
+      "suffix": "aage",
+      "count": 371,
+      "pct": 13.3,
+      "examples": [
+       "Aamiraage",
+       "Endherimaage",
+       "Asurumaage",
+       "Penzymaage"
+      ]
+     },
+     {
+      "suffix": "maage",
+      "count": 238,
+      "pct": 8.6,
+      "examples": [
+       "Endherimaage",
+       "Asurumaage",
+       "Penzymaage",
+       "Kudhiraiymaage"
+      ]
+     },
+     {
+      "suffix": "villa",
+      "count": 179,
+      "pct": 6.4,
+      "examples": [
+       "Rose Villa",
+       "Naseemee Villa",
+       "Ali Villa",
+       "Diamond Villa"
+      ]
+     },
+     {
+      "suffix": "manzil",
+      "count": 45,
+      "pct": 1.6,
+      "examples": [
+       "Manzil",
+       "Manzil",
+       "Handhuvaree Manzil",
+       "Haveeree Manzil"
+      ]
+     }
+    ],
+    "signature": {
+     "total": 648,
+     "top": [
+      {
+       "name": "Kudhi Viyafaarithakah",
+       "count": 14
+      },
+      {
+       "name": "Nooali 67",
+       "count": 4
+      },
+      {
+       "name": "Vaguthee Kuleebin",
+       "count": 4
+      },
+      {
+       "name": "Hikki Bin",
+       "count": 3
+      },
+      {
+       "name": "Theluge Viyafaariah",
+       "count": 3
+      },
+      {
+       "name": "Wau",
+       "count": 3
+      },
+      {
+       "name": "Dhekunu Bandharu",
+       "count": 2
+      },
+      {
+       "name": "Endheyzaathugekuni",
+       "count": 2
+      },
+      {
+       "name": "Fasgandu",
+       "count": 2
+      },
+      {
+       "name": "Fenmigili",
+       "count": 2
+      },
+      {
+       "name": "Happy Flower",
+       "count": 2
+      },
+      {
+       "name": "Loover",
+       "count": 2
+      }
+     ]
+    }
+   },
+   "roads": {
+    "records": 4,
+    "uniqueNames": 4,
+    "topNames": [
+     {
+      "name": "Beach Road",
+      "count": 1
+     },
+     {
+      "name": "Hangnaameedhoo",
+      "count": 1
+     },
+     {
+      "name": "Main road",
+      "count": 1
+     },
+     {
+      "name": "Main Street",
+      "count": 1
+     }
+    ],
+    "signature": {
+     "total": 3,
+     "top": [
+      {
+       "name": "Hangnaameedhoo",
+       "count": 1
+      },
+      {
+       "name": "Main road",
+       "count": 1
+      },
+      {
+       "name": "Main Street",
+       "count": 1
+      }
+     ]
+    }
+   }
+  },
+  {
+   "atoll": "Baa",
+   "islands": 80,
+   "inhabitedIslands": 13,
+   "islandsWithData": 13,
+   "houses": {
+    "records": 3537,
+    "uniqueNames": 2364,
+    "singletons": 1852,
+    "avgLength": 10.34,
+    "topNames": [
+     {
+      "name": "House Name",
+      "count": 16
+     },
+     {
+      "name": "59.8 F&B Plots",
+      "count": 13
+     },
+     {
+      "name": "Asseyri",
+      "count": 13
+     },
+     {
+      "name": "Hiyaavahi",
+      "count": 12,
+      "variants": 2
+     },
+     {
+      "name": "38.0 Residential Plots",
+      "count": 11
+     },
+     {
+      "name": "Arutha",
+      "count": 11
+     },
+     {
+      "name": "Fazaa",
+      "count": 11
+     },
+     {
+      "name": "Hudhuveli",
+      "count": 10
+     },
+     {
+      "name": "Huvandhumaage",
+      "count": 10
+     },
+     {
+      "name": "Manzil",
+      "count": 10
+     },
+     {
+      "name": "Udhares",
+      "count": 10
+     },
+     {
+      "name": "Vaadhee",
+      "count": 10
+     }
+    ],
+    "suffixes": [
+     {
+      "suffix": "ge",
+      "count": 969,
+      "pct": 27.4,
+      "examples": [
+       "Saimaage",
+       "Enginege",
+       "Rasaneege",
+       "Diamond Lounge"
+      ]
+     },
+     {
+      "suffix": "aage",
+      "count": 506,
+      "pct": 14.3,
+      "examples": [
+       "Saimaage",
+       "Bageejaage",
+       "Dazeymaage",
+       "Finifenmaage"
+      ]
+     },
+     {
+      "suffix": "maage",
+      "count": 303,
+      "pct": 8.6,
+      "examples": [
+       "Saimaage",
+       "Dazeymaage",
+       "Finifenmaage",
+       "Funamaage"
+      ]
+     },
+     {
+      "suffix": "villa",
+      "count": 164,
+      "pct": 4.6,
+      "examples": [
+       "Nisreen Villa",
+       "Sosun Villa",
+       "Mustharee Villa",
+       "Jasmine Villa"
+      ]
+     },
+     {
+      "suffix": "house",
+      "count": 45,
+      "pct": 1.3,
+      "examples": [
+       "Pink House",
+       "Blue House",
+       "Beach House",
+       "Thahuneema House"
+      ]
+     }
+    ],
+    "signature": {
+     "total": 828,
+     "top": [
+      {
+       "name": "House Name",
+       "count": 16
+      },
+      {
+       "name": "59.8 F&B Plots",
+       "count": 13
+      },
+      {
+       "name": "38.0 Residential Plots",
+       "count": 11
+      },
+      {
+       "name": "73 Mixed Use Zone",
+       "count": 6
+      },
+      {
+       "name": "Farihandhu",
+       "count": 3
+      },
+      {
+       "name": "51.2 Water Sports Area/Beach",
+       "count": 2
+      },
+      {
+       "name": "Aazaadh",
+       "count": 2
+      },
+      {
+       "name": "Abdurraheem Hussain Goathi",
+       "count": 2
+      },
+      {
+       "name": "Ahmed Faruhaadhu",
+       "count": 2
+      },
+      {
+       "name": "Boakoshaage",
+       "count": 2
+      },
+      {
+       "name": "Boduhiri",
+       "count": 2
+      },
+      {
+       "name": "Finivilaa",
+       "count": 2
+      }
+     ]
+    }
+   },
+   "roads": {
+    "records": 64,
+    "uniqueNames": 64,
+    "topNames": [
+     {
+      "name": "Aabaadhee Hin'gun",
+      "count": 1
+     },
+     {
+      "name": "Abadhahfehi Magu",
+      "count": 1
+     },
+     {
+      "name": "Alikilegefaanu Magu",
+      "count": 1
+     },
+     {
+      "name": "Ameenee Magu",
+      "count": 1
+     },
+     {
+      "name": "Anbuma Goalhi",
+      "count": 1
+     },
+     {
+      "name": "Athamaa Goalhi",
+      "count": 1
+     },
+     {
+      "name": "Bageechaa Goalhi",
+      "count": 1
+     },
+     {
+      "name": "Bahaaru Magu",
+      "count": 1
+     }
+    ],
+    "signature": {
+     "total": 34,
+     "top": [
+      {
+       "name": "Anbuma Goalhi",
+       "count": 1
+      },
+      {
+       "name": "Boalhadhandu Hin'gun",
+       "count": 1
+      },
+      {
+       "name": "Daizy Goalhi",
+       "count": 1
+      },
+      {
+       "name": "Dhinasha Goalhi",
+       "count": 1
+      },
+      {
+       "name": "Dhunnika Hin'gun",
+       "count": 1
+      },
+      {
+       "name": "Feyliviyunu Magu",
+       "count": 1
+      },
+      {
+       "name": "Futtaru Magu",
+       "count": 1
+      },
+      {
+       "name": "Ganduvaru Magu",
+       "count": 1
+      }
+     ]
+    }
+   }
+  },
+  {
+   "atoll": "Dhaalu",
+   "islands": 46,
+   "inhabitedIslands": 6,
+   "islandsWithData": 6,
+   "houses": {
+    "records": 2654,
+    "uniqueNames": 2073,
+    "singletons": 1734,
+    "avgLength": 9.49,
+    "topNames": [
+     {
+      "name": "Alivaage",
+      "count": 6
+     },
+     {
+      "name": "Hiyaa",
+      "count": 6
+     },
+     {
+      "name": "Hudhuveli",
+      "count": 6
+     },
+     {
+      "name": "Maakoani",
+      "count": 6
+     },
+     {
+      "name": "Meenaaz",
+      "count": 6
+     },
+     {
+      "name": "Paris",
+      "count": 6
+     },
+     {
+      "name": "Aahiyaa",
+      "count": 5
+     },
+     {
+      "name": "Aakuri",
+      "count": 5
+     },
+     {
+      "name": "Asseyri",
+      "count": 5
+     },
+     {
+      "name": "Asurumaage",
+      "count": 5
+     },
+     {
+      "name": "Bahaaruge",
+      "count": 5
+     },
+     {
+      "name": "Chaandhanee Villa",
+      "count": 5
+     }
+    ],
+    "suffixes": [
+     {
+      "suffix": "ge",
+      "count": 566,
+      "pct": 21.3,
+      "examples": [
+       "Feroamaage",
+       "Gloryge",
+       "Abuhareege",
+       "Jeymugasdhoshuge"
+      ]
+     },
+     {
+      "suffix": "aage",
+      "count": 251,
+      "pct": 9.5,
+      "examples": [
+       "Feroamaage",
+       "Tharividhaage",
+       "Rankokaage",
+       "Nooranmaage"
+      ]
+     },
+     {
+      "suffix": "villa",
+      "count": 147,
+      "pct": 5.5,
+      "examples": [
+       "Sosun Villa",
+       "Chaandhanee Villa",
+       "Chaandhanee Villa",
+       "Neel Villa"
+      ]
+     },
+     {
+      "suffix": "maage",
+      "count": 145,
+      "pct": 5.5,
+      "examples": [
+       "Feroamaage",
+       "Nooranmaage",
+       "Ranauraamaage",
+       "Kaneerumaage"
+      ]
+     },
+     {
+      "suffix": "manzil",
+      "count": 26,
+      "pct": 1,
+      "examples": [
+       "Roashanee Manzil",
+       "Shaheedha Manzil",
+       "Manzil",
+       "Aishamanzil"
+      ]
+     }
+    ],
+    "signature": {
+     "total": 714,
+     "top": [
+      {
+       "name": "Cemetry 9.2",
+       "count": 3
+      },
+      {
+       "name": "Wish Point Kuleebin",
+       "count": 3
+      },
+      {
+       "name": "Benivah Kuleebin",
+       "count": 2
+      },
+      {
+       "name": "Café Rock Fort Kuleebin",
+       "count": 2
+      },
+      {
+       "name": "Dh.Kudahuvadhoo Sports Arena",
+       "count": 2
+      },
+      {
+       "name": "Dhaarul'amaan",
+       "count": 2
+      },
+      {
+       "name": "Goalhi",
+       "count": 2
+      },
+      {
+       "name": "Manaamu",
+       "count": 2
+      },
+      {
+       "name": "Mannath",
+       "count": 2
+      },
+      {
+       "name": "Selview",
+       "count": 2
+      },
+      {
+       "name": "South Selection Kuleebin",
+       "count": 2
+      },
+      {
+       "name": "Thaaza",
+       "count": 2
+      }
+     ]
+    }
+   },
+   "roads": {
+    "records": 92,
+    "uniqueNames": 92,
+    "topNames": [
+     {
+      "name": "Aabaadheehingun",
+      "count": 1
+     },
+     {
+      "name": "Aakuri Magu",
+      "count": 1
+     },
+     {
+      "name": "Abhareegoalhi",
+      "count": 1
+     },
+     {
+      "name": "Alavalumagu",
+      "count": 1
+     },
+     {
+      "name": "Alimas golhi",
+      "count": 1
+     },
+     {
+      "name": "Amaazugoalhi",
+      "count": 1
+     },
+     {
+      "name": "Ameeneegoalhi",
+      "count": 1
+     },
+     {
+      "name": "Ameeneemagu",
+      "count": 1
+     }
+    ],
+    "signature": {
+     "total": 58,
+     "top": [
+      {
+       "name": "Aakuri Magu",
+       "count": 1
+      },
+      {
+       "name": "Abhareegoalhi",
+       "count": 1
+      },
+      {
+       "name": "Alavalumagu",
+       "count": 1
+      },
+      {
+       "name": "Alimas golhi",
+       "count": 1
+      },
+      {
+       "name": "Amaazugoalhi",
+       "count": 1
+      },
+      {
+       "name": "Ballee Goalhi",
+       "count": 1
+      },
+      {
+       "name": "Balleedhanduhingun",
+       "count": 1
+      },
+      {
+       "name": "Bodaavahmagu",
+       "count": 1
+      }
+     ]
+    }
+   }
+  },
+  {
+   "atoll": "Faafu",
+   "islands": 19,
+   "inhabitedIslands": 5,
+   "islandsWithData": 5,
+   "houses": {
+    "records": 1308,
+    "uniqueNames": 996,
+    "singletons": 806,
+    "avgLength": 10.21,
+    "topNames": [
+     {
+      "name": "Green area",
+      "count": 12
+     },
+     {
+      "name": "Agricultural land",
+      "count": 8,
+      "variants": 2
+     },
+     {
+      "name": "Finimaizaan",
+      "count": 7,
+      "variants": 2
+     },
+     {
+      "name": "Residential plots",
+      "count": 6
+     },
+     {
+      "name": "Row house",
+      "count": 6
+     },
+     {
+      "name": "Asurumaage",
+      "count": 5
+     },
+     {
+      "name": "Gulbakaage",
+      "count": 5
+     },
+     {
+      "name": "Haveyli",
+      "count": 5
+     },
+     {
+      "name": "Javaahirumaage",
+      "count": 5,
+      "variants": 2
+     },
+     {
+      "name": "Kaneerumaage",
+      "count": 5
+     },
+     {
+      "name": "Naares",
+      "count": 5
+     },
+     {
+      "name": "Vaijeheyge",
+      "count": 5
+     }
+    ],
+    "suffixes": [
+     {
+      "suffix": "ge",
+      "count": 369,
+      "pct": 28.2,
+      "examples": [
+       "Dhanburuhdhoshuge",
+       "Fluniyaage",
+       "Nirolhuge",
+       "Saimaage"
+      ]
+     },
+     {
+      "suffix": "aage",
+      "count": 202,
+      "pct": 15.4,
+      "examples": [
+       "Fluniyaage",
+       "Saimaage",
+       "Fiyaathoshimaage",
+       "Rangumaage"
+      ]
+     },
+     {
+      "suffix": "maage",
+      "count": 120,
+      "pct": 9.2,
+      "examples": [
+       "Saimaage",
+       "Fiyaathoshimaage",
+       "Rangumaage",
+       "Huvandhumaage"
+      ]
+     },
+     {
+      "suffix": "villa",
+      "count": 90,
+      "pct": 6.9,
+      "examples": [
+       "Remind Villa",
+       "Ahivaa Villa",
+       "Udhares Villa",
+       "Beach Villa"
+      ]
+     },
+     {
+      "suffix": "manzil",
+      "count": 38,
+      "pct": 2.9,
+      "examples": [
+       "Shiura Manzil",
+       "Nazeeha Manzil",
+       "Saziyya Manzil",
+       "Saamaraa Manzil"
+      ]
+     }
+    ],
+    "signature": {
+     "total": 296,
+     "top": [
+      {
+       "name": "Business plots",
+       "count": 4
+      },
+      {
+       "name": "Animal Farmland",
+       "count": 3
+      },
+      {
+       "name": "Poultry farm",
+       "count": 2
+      },
+      {
+       "name": "Reserve land",
+       "count": 2
+      },
+      {
+       "name": "Yanmu",
+       "count": 2
+      },
+      {
+       "name": "Aadhiyaa",
+       "count": 1
+      },
+      {
+       "name": "Aaj",
+       "count": 1
+      },
+      {
+       "name": "Aasaaree House",
+       "count": 1
+      },
+      {
+       "name": "Aasaharaa Area",
+       "count": 1
+      },
+      {
+       "name": "Aasiruvaadhu",
+       "count": 1
+      },
+      {
+       "name": "Aasiyana",
+       "count": 1
+      },
+      {
+       "name": "Abadhah Afa",
+       "count": 1
+      }
+     ]
+    }
+   },
+   "roads": {
+    "records": 0,
+    "uniqueNames": 0,
+    "topNames": [],
+    "signature": {
+     "total": 0,
+     "top": []
+    }
+   }
+  },
+  {
+   "atoll": "Gaafu Alifu",
+   "islands": 78,
+   "inhabitedIslands": 9,
+   "islandsWithData": 9,
+   "houses": {
+    "records": 3912,
+    "uniqueNames": 2903,
+    "singletons": 2403,
+    "avgLength": 11.67,
+    "topNames": [
+     {
+      "name": "Lilyge",
+      "count": 11,
+      "variants": 2
+     },
+     {
+      "name": "Blue Heaven",
+      "count": 9
+     },
+     {
+      "name": "Bonthi",
+      "count": 9
+     },
+     {
+      "name": "Finifenmaage",
+      "count": 9,
+      "variants": 2
+     },
+     {
+      "name": "Asseyri",
+      "count": 8
+     },
+     {
+      "name": "Chaandhaneege",
+      "count": 8
+     },
+     {
+      "name": "Fehivina",
+      "count": 8,
+      "variants": 2
+     },
+     {
+      "name": "Fenfiyaazuge",
+      "count": 8
+     },
+     {
+      "name": "Fiyaathoshige",
+      "count": 8
+     },
+     {
+      "name": "Kudhimaage",
+      "count": 8
+     },
+     {
+      "name": "Orchid Villa",
+      "count": 8,
+      "variants": 2
+     },
+     {
+      "name": "Violet Villa",
+      "count": 8,
+      "variants": 2
+     }
+    ],
+    "suffixes": [
+     {
+      "suffix": "ge",
+      "count": 1169,
+      "pct": 29.9,
+      "examples": [
+       "Nooraneemaage",
+       "Uvage",
+       "Giriteege",
+       "Rediyamge"
+      ]
+     },
+     {
+      "suffix": "aage",
+      "count": 563,
+      "pct": 14.4,
+      "examples": [
+       "Nooraneemaage",
+       "Himaaliyaage",
+       "Huvandhumaage",
+       "Guldhasthaage"
+      ]
+     },
+     {
+      "suffix": "maage",
+      "count": 272,
+      "pct": 7,
+      "examples": [
+       "Nooraneemaage",
+       "Huvandhumaage",
+       "Irudheymaage",
+       "Matharesmaage"
+      ]
+     },
+     {
+      "suffix": "villa",
+      "count": 192,
+      "pct": 4.9,
+      "examples": [
+       "Saadhee Villa",
+       "Orchid Villa",
+       "Shreenu Ali Goathi/Alimas Villa",
+       "Beach Villa"
+      ]
+     },
+     {
+      "suffix": "house",
+      "count": 60,
+      "pct": 1.5,
+      "examples": [
+       "Light House",
+       "Palace House",
+       "Maisan House",
+       "18-White House"
+      ]
+     }
+    ],
+    "signature": {
+     "total": 1514,
+     "top": [
+      {
+       "name": "Unknown",
+       "count": 7
+      },
+      {
+       "name": "Alifarudhaage",
+       "count": 4
+      },
+      {
+       "name": "Chasbn",
+       "count": 4
+      },
+      {
+       "name": "Hassan Didi",
+       "count": 4
+      },
+      {
+       "name": "Mahuge Masakkaiy",
+       "count": 4
+      },
+      {
+       "name": "Achchamuge",
+       "count": 3
+      },
+      {
+       "name": "Aisaafaanu",
+       "count": 3
+      },
+      {
+       "name": "China Site",
+       "count": 3
+      },
+      {
+       "name": "Irudheyaage",
+       "count": 3
+      },
+      {
+       "name": "Love Heart",
+       "count": 3
+      },
+      {
+       "name": "Memorial",
+       "count": 3
+      },
+      {
+       "name": "Raagolhaage",
+       "count": 3
+      }
+     ]
+    }
+   },
+   "roads": {
+    "records": 10,
+    "uniqueNames": 8,
+    "topNames": [
+     {
+      "name": "Marine Drive",
+      "count": 3
+     },
+     {
+      "name": "Ameenee Magu",
+      "count": 1
+     },
+     {
+      "name": "Kaleyfaanu Magu",
+      "count": 1
+     },
+     {
+      "name": "Kathihbeyya Magu",
+      "count": 1
+     },
+     {
+      "name": "Keyvane Beyya Magu",
+      "count": 1
+     },
+     {
+      "name": "Marien Drive",
+      "count": 1
+     },
+     {
+      "name": "Mudhinbeyya Magu",
+      "count": 1
+     },
+     {
+      "name": "Samugaa Magu",
+      "count": 1
+     }
+    ],
+    "signature": {
+     "total": 6,
+     "top": [
+      {
+       "name": "Kaleyfaanu Magu",
+       "count": 1
+      },
+      {
+       "name": "Kathihbeyya Magu",
+       "count": 1
+      },
+      {
+       "name": "Keyvane Beyya Magu",
+       "count": 1
+      },
+      {
+       "name": "Marien Drive",
+       "count": 1
+      },
+      {
+       "name": "Mudhinbeyya Magu",
+       "count": 1
+      },
+      {
+       "name": "Samugaa Magu",
+       "count": 1
+      }
+     ]
+    }
+   }
+  },
+  {
+   "atoll": "Gaafu Dhaalu",
+   "islands": 155,
+   "inhabitedIslands": 9,
+   "islandsWithData": 9,
+   "houses": {
+    "records": 4991,
+    "uniqueNames": 3780,
+    "singletons": 3144,
+    "avgLength": 10.85,
+    "topNames": [
+     {
+      "name": "Green Area",
+      "count": 10
+     },
+     {
+      "name": "Dhoores",
+      "count": 9,
+      "variants": 2
+     },
+     {
+      "name": "Empty Plot",
+      "count": 9
+     },
+     {
+      "name": "Foolhumaage",
+      "count": 9
+     },
+     {
+      "name": "Sosunge",
+      "count": 9
+     },
+     {
+      "name": "Athireege",
+      "count": 8
+     },
+     {
+      "name": "Gulzaaruge",
+      "count": 8
+     },
+     {
+      "name": "Hus",
+      "count": 8
+     },
+     {
+      "name": "Asareege",
+      "count": 7
+     },
+     {
+      "name": "Bahaaruge",
+      "count": 7
+     },
+     {
+      "name": "Fehige",
+      "count": 7
+     },
+     {
+      "name": "Fehivina",
+      "count": 7
+     }
+    ],
+    "suffixes": [
+     {
+      "suffix": "ge",
+      "count": 1321,
+      "pct": 26.5,
+      "examples": [
+       "Buchaage",
+       "Vabberuge",
+       "Hirudhumaage",
+       "Dheeframge"
+      ]
+     },
+     {
+      "suffix": "aage",
+      "count": 605,
+      "pct": 12.1,
+      "examples": [
+       "Buchaage",
+       "Hirudhumaage",
+       "Gadhakoalhimaage",
+       "Mirusmaage"
+      ]
+     },
+     {
+      "suffix": "maage",
+      "count": 280,
+      "pct": 5.6,
+      "examples": [
+       "Hirudhumaage",
+       "Gadhakoalhimaage",
+       "Mirusmaage",
+       "Heenaamaage"
+      ]
+     },
+     {
+      "suffix": "villa",
+      "count": 214,
+      "pct": 4.3,
+      "examples": [
+       "Beach Villa",
+       "Zamaanee Villa",
+       "Narugis Villa",
+       "Fannu Villa"
+      ]
+     },
+     {
+      "suffix": "house",
+      "count": 86,
+      "pct": 1.7,
+      "examples": [
+       "Engine House",
+       "Flower House",
+       "Morning House",
+       "Adhunaan Iramaa House"
+      ]
+     }
+    ],
+    "signature": {
+     "total": 1824,
+     "top": [
+      {
+       "name": "Non Residencial Zone",
+       "count": 6
+      },
+      {
+       "name": "Agriculture Zone",
+       "count": 5
+      },
+      {
+       "name": "Institutional and Community Zone",
+       "count": 5
+      },
+      {
+       "name": "Commercial Zone",
+       "count": 4
+      },
+      {
+       "name": "Chinese Flat Area",
+       "count": 3
+      },
+      {
+       "name": "Rasheedhu",
+       "count": 3
+      },
+      {
+       "name": "Unidentified",
+       "count": 3
+      },
+      {
+       "name": "A.Latheef",
+       "count": 2
+      },
+      {
+       "name": "Aathifaage Goathi",
+       "count": 2
+      },
+      {
+       "name": "Aathiru Ibrahim",
+       "count": 2
+      },
+      {
+       "name": "Adhunaan Iramaa House",
+       "count": 2
+      },
+      {
+       "name": "Aishath Abdulla Goathi",
+       "count": 2
+      }
+     ]
+    }
+   },
+   "roads": {
+    "records": 39,
+    "uniqueNames": 37,
+    "topNames": [
+     {
+      "name": "Miskiy Magu",
+      "count": 2
+     },
+     {
+      "name": "Rah-dhebai Magu",
+      "count": 2,
+      "variants": 2
+     },
+     {
+      "name": "Aabaadhee Hingun",
+      "count": 1
+     },
+     {
+      "name": "Aithaarafani Magu",
+      "count": 1
+     },
+     {
+      "name": "Bandharu Magu",
+      "count": 1
+     },
+     {
+      "name": "Daisy Magu",
+      "count": 1
+     },
+     {
+      "name": "Dhaannaa Magu",
+      "count": 1
+     },
+     {
+      "name": "Dhaharaa Magu",
+      "count": 1
+     }
+    ],
+    "signature": {
+     "total": 23,
+     "top": [
+      {
+       "name": "Aithaarafani Magu",
+       "count": 1
+      },
+      {
+       "name": "Dhaannaa Magu",
+       "count": 1
+      },
+      {
+       "name": "Dhaharaa Magu",
+       "count": 1
+      },
+      {
+       "name": "Dhannda-heylu Magu",
+       "count": 1
+      },
+      {
+       "name": "Dheeva Goalhi",
+       "count": 1
+      },
+      {
+       "name": "Dhon Thuthu Didi Hingun",
+       "count": 1
+      },
+      {
+       "name": "Dhoshimeyna Magu",
+       "count": 1
+      },
+      {
+       "name": "Factory Goalhi",
+       "count": 1
+      }
+     ]
+    }
+   }
+  },
+  {
+   "atoll": "Gnaviyani",
+   "islands": 1,
+   "inhabitedIslands": 1,
+   "islandsWithData": 1,
+   "houses": {
+    "records": 3230,
+    "uniqueNames": 3040,
+    "singletons": 2994,
+    "avgLength": 7.79,
+    "topNames": [
+     {
+      "name": "G.Plot",
+      "count": 59
+     },
+     {
+      "name": "G.Land",
+      "count": 52
+     },
+     {
+      "name": "Under:G",
+      "count": 18
+     },
+     {
+      "name": "No Name",
+      "count": 9
+     },
+     {
+      "name": "Cemetry",
+      "count": 6
+     },
+     {
+      "name": "Space",
+      "count": 5
+     },
+     {
+      "name": "Under Government",
+      "count": 5
+     },
+     {
+      "name": "Ala Olhu",
+      "count": 3
+     },
+     {
+      "name": "Football Ground",
+      "count": 3
+     },
+     {
+      "name": "Maaish",
+      "count": 3
+     },
+     {
+      "name": "Tree Area",
+      "count": 3
+     },
+     {
+      "name": "Aafiya",
+      "count": 2
+     }
+    ],
+    "suffixes": [
+     {
+      "suffix": "ge",
+      "count": 604,
+      "pct": 18.7,
+      "examples": [
+       "Zamaaneege",
+       "Tharimaage",
+       "Dhonfehige",
+       "Dhivehige"
+      ]
+     },
+     {
+      "suffix": "aage",
+      "count": 202,
+      "pct": 6.3,
+      "examples": [
+       "Tharimaage",
+       "Chabeylimaage",
+       "Dhooriyaage",
+       "Bilammaage"
+      ]
+     },
+     {
+      "suffix": "maage",
+      "count": 100,
+      "pct": 3.1,
+      "examples": [
+       "Tharimaage",
+       "Chabeylimaage",
+       "Bilammaage",
+       "Dhihgaamaage"
+      ]
+     },
+     {
+      "suffix": "villa",
+      "count": 75,
+      "pct": 2.3,
+      "examples": [
+       "Garden Villa",
+       "Welcome Villa",
+       "Shaanee Villa",
+       "Day Light Villa"
+      ]
+     },
+     {
+      "suffix": "house",
+      "count": 25,
+      "pct": 0.8,
+      "examples": [
+       "Bencho House",
+       "Orchid House",
+       "Sea House",
+       "Leenhouse"
+      ]
+     }
+    ],
+    "signature": {
+     "total": 1479,
+     "top": [
+      {
+       "name": "G.Plot",
+       "count": 59
+      },
+      {
+       "name": "G.Land",
+       "count": 52
+      },
+      {
+       "name": "Under:G",
+       "count": 18
+      },
+      {
+       "name": "Under Government",
+       "count": 5
+      },
+      {
+       "name": "Ala Olhu",
+       "count": 3
+      },
+      {
+       "name": "Maaish",
+       "count": 3
+      },
+      {
+       "name": "Tree Area",
+       "count": 3
+      },
+      {
+       "name": "Aafiya",
+       "count": 2
+      },
+      {
+       "name": "Araa",
+       "count": 2
+      },
+      {
+       "name": "Elhevalige",
+       "count": 2
+      },
+      {
+       "name": "Empty Space",
+       "count": 2
+      },
+      {
+       "name": "Footsal Pitch",
+       "count": 2
+      }
+     ]
+    }
+   },
+   "roads": {
+    "records": 123,
+    "uniqueNames": 123,
+    "topNames": [
+     {
+      "name": "Aabaadhee Hingun",
+      "count": 1
+     },
+     {
+      "name": "Aabaadhy Hingun",
+      "count": 1
+     },
+     {
+      "name": "Abaakirukaleyge Mago",
+      "count": 1
+     },
+     {
+      "name": "Abadhah Hingun",
+      "count": 1
+     },
+     {
+      "name": "Alivaa Magu",
+      "count": 1
+     },
+     {
+      "name": "Araaroot Goalhi",
+      "count": 1
+     },
+     {
+      "name": "Asaree Hingun",
+      "count": 1
+     },
+     {
+      "name": "Asurumaa Goalhi",
+      "count": 1
+     }
+    ],
+    "signature": {
+     "total": 101,
+     "top": [
+      {
+       "name": "Aabaadhy Hingun",
+       "count": 1
+      },
+      {
+       "name": "Abaakirukaleyge Mago",
+       "count": 1
+      },
+      {
+       "name": "Abadhah Hingun",
+       "count": 1
+      },
+      {
+       "name": "Araaroot Goalhi",
+       "count": 1
+      },
+      {
+       "name": "Bilhifeyshe Magu",
+       "count": 1
+      },
+      {
+       "name": "Bodu Fannu Magu",
+       "count": 1
+      },
+      {
+       "name": "Bondikendhulhu",
+       "count": 1
+      },
+      {
+       "name": "Bondogedhari Mago",
+       "count": 1
+      }
+     ]
+    }
+   }
+  },
+  {
+   "atoll": "Haa Alifu",
+   "islands": 42,
+   "inhabitedIslands": 14,
+   "islandsWithData": 14,
+   "houses": {
+    "records": 5352,
+    "uniqueNames": 3508,
+    "singletons": 2760,
+    "avgLength": 11.06,
+    "topNames": [
+     {
+      "name": "Kuleebin",
+      "count": 14,
+      "variants": 3
+     },
+     {
+      "name": "Asseyri",
+      "count": 12
+     },
+     {
+      "name": "Fazaa",
+      "count": 12
+     },
+     {
+      "name": "Havaa",
+      "count": 12
+     },
+     {
+      "name": "Udhares",
+      "count": 12
+     },
+     {
+      "name": "Aahiyaa",
+      "count": 11
+     },
+     {
+      "name": "Aavehi",
+      "count": 11
+     },
+     {
+      "name": "Dheyliyaage",
+      "count": 11
+     },
+     {
+      "name": "Dhoores",
+      "count": 11
+     },
+     {
+      "name": "Huvandhumaage",
+      "count": 11
+     },
+     {
+      "name": "Vacant",
+      "count": 11
+     },
+     {
+      "name": "Vinares",
+      "count": 11
+     }
+    ],
+    "suffixes": [
+     {
+      "suffix": "ge",
+      "count": 1729,
+      "pct": 32.3,
+      "examples": [
+       "Binmaage",
+       "Penzeemaage",
+       "Handhuvareeaage",
+       "Athamaa'aage"
+      ]
+     },
+     {
+      "suffix": "aage",
+      "count": 832,
+      "pct": 15.5,
+      "examples": [
+       "Binmaage",
+       "Penzeemaage",
+       "Handhuvareeaage",
+       "Athamaa'aage"
+      ]
+     },
+     {
+      "suffix": "maage",
+      "count": 474,
+      "pct": 8.9,
+      "examples": [
+       "Binmaage",
+       "Penzeemaage",
+       "Moodhumaage",
+       "Finimaage"
+      ]
+     },
+     {
+      "suffix": "villa",
+      "count": 256,
+      "pct": 4.8,
+      "examples": [
+       "Athamaa Villa",
+       "Moosum Villa",
+       "South Villa",
+       "Seeko Villa"
+      ]
+     },
+     {
+      "suffix": "manzil",
+      "count": 99,
+      "pct": 1.8,
+      "examples": [
+       "Handhuvaree Manzil",
+       "Rifaa Manzil",
+       "Roashanee Manzil",
+       "Handhuvaree Manzil"
+      ]
+     }
+    ],
+    "signature": {
+     "total": 1489,
+     "top": [
+      {
+       "name": "Vacant",
+       "count": 11
+      },
+      {
+       "name": "Valhu",
+       "count": 4
+      },
+      {
+       "name": "R.Bin",
+       "count": 3
+      },
+      {
+       "name": "Valuthere",
+       "count": 3
+      },
+      {
+       "name": "A. Waheedh Goathi",
+       "count": 2
+      },
+      {
+       "name": "Aaliyaa",
+       "count": 2
+      },
+      {
+       "name": "Baaru",
+       "count": 2
+      },
+      {
+       "name": "Bahaarugeaage",
+       "count": 2
+      },
+      {
+       "name": "Chasbin Sarahaddhu",
+       "count": 2
+      },
+      {
+       "name": "Commercial Plots",
+       "count": 2
+      },
+      {
+       "name": "Evening Happy",
+       "count": 2
+      },
+      {
+       "name": "Fashuimaage",
+       "count": 2
+      }
+     ]
+    }
+   },
+   "roads": {
+    "records": 7,
+    "uniqueNames": 7,
+    "topNames": [
+     {
+      "name": "Boduthakurufaanu Magu",
+      "count": 1
+     },
+     {
+      "name": "kamanakaa goalhi",
+      "count": 1
+     },
+     {
+      "name": "Libey",
+      "count": 1
+     },
+     {
+      "name": "Miskiy Magu",
+      "count": 1
+     },
+     {
+      "name": "Orchid Magu",
+      "count": 1
+     },
+     {
+      "name": "Sinaaee Magu",
+      "count": 1
+     },
+     {
+      "name": "Zamaanee Hin'gun",
+      "count": 1
+     }
+    ],
+    "signature": {
+     "total": 3,
+     "top": [
+      {
+       "name": "kamanakaa goalhi",
+       "count": 1
+      },
+      {
+       "name": "Libey",
+       "count": 1
+      },
+      {
+       "name": "Sinaaee Magu",
+       "count": 1
+      }
+     ]
+    }
+   }
+  },
+  {
+   "atoll": "Haa Dhaalu",
+   "islands": 34,
+   "inhabitedIslands": 13,
+   "islandsWithData": 13,
+   "houses": {
+    "records": 6669,
+    "uniqueNames": 4430,
+    "singletons": 3488,
+    "avgLength": 10.77,
+    "topNames": [
+     {
+      "name": "Gevalhu",
+      "count": 27
+     },
+     {
+      "name": "Hus",
+      "count": 16
+     },
+     {
+      "name": "Meenaaz",
+      "count": 13
+     },
+     {
+      "name": "Dhoores",
+      "count": 12
+     },
+     {
+      "name": "Huvandhumaage",
+      "count": 12
+     },
+     {
+      "name": "Lilymaage",
+      "count": 12,
+      "variants": 2
+     },
+     {
+      "name": "Malas",
+      "count": 12
+     },
+     {
+      "name": "Vaijeheyge",
+      "count": 12
+     },
+     {
+      "name": "Alivaage",
+      "count": 11
+     },
+     {
+      "name": "Cemetry",
+      "count": 11
+     },
+     {
+      "name": "Fazaa",
+      "count": 11
+     },
+     {
+      "name": "Finivaage",
+      "count": 11
+     }
+    ],
+    "suffixes": [
+     {
+      "suffix": "ge",
+      "count": 1961,
+      "pct": 29.4,
+      "examples": [
+       "Gul'alaage",
+       "Copy ge",
+       "Kelaage Aage",
+       "Irudhey Maage"
+      ]
+     },
+     {
+      "suffix": "aage",
+      "count": 979,
+      "pct": 14.7,
+      "examples": [
+       "Gul'alaage",
+       "Kelaage Aage",
+       "Irudhey Maage",
+       "Kelaage"
+      ]
+     },
+     {
+      "suffix": "maage",
+      "count": 571,
+      "pct": 8.6,
+      "examples": [
+       "Irudhey Maage",
+       "Janburaolumaage",
+       "Panamaage",
+       "Saimaage"
+      ]
+     },
+     {
+      "suffix": "villa",
+      "count": 253,
+      "pct": 3.8,
+      "examples": [
+       "Naaz Villa",
+       "Shaadhee Villa",
+       "Ocean Villa",
+       "Oceanic Villa"
+      ]
+     },
+     {
+      "suffix": "house",
+      "count": 81,
+      "pct": 1.2,
+      "examples": [
+       "Beach House",
+       "Nasimee House",
+       "Violet House",
+       "Lucky House"
+      ]
+     }
+    ],
+    "signature": {
+     "total": 1932,
+     "top": [
+      {
+       "name": "Gevalhu",
+       "count": 27
+      },
+      {
+       "name": "Hilmu",
+       "count": 6
+      },
+      {
+       "name": "Kanboaranihiyaa",
+       "count": 5
+      },
+      {
+       "name": "Asareemaage",
+       "count": 3
+      },
+      {
+       "name": "Masjidul Salaam",
+       "count": 3
+      },
+      {
+       "name": "Nooraani Villa",
+       "count": 3
+      },
+      {
+       "name": "Pairs",
+       "count": 3
+      },
+      {
+       "name": "Abaadhaa",
+       "count": 2
+      },
+      {
+       "name": "Abdullah Nishaan goathi",
+       "count": 2
+      },
+      {
+       "name": "Abdullah Shareef goathi",
+       "count": 2
+      },
+      {
+       "name": "Abeeru Gulshan",
+       "count": 2
+      },
+      {
+       "name": "Adam Waheedh Goathi",
+       "count": 2
+      }
+     ]
+    }
+   },
+   "roads": {
+    "records": 122,
+    "uniqueNames": 121,
+    "topNames": [
+     {
+      "name": "Ameenee Magu",
+      "count": 2
+     },
+     {
+      "name": "Abadhah Fehi Hingun",
+      "count": 1
+     },
+     {
+      "name": "Afeefudheen Magu",
+      "count": 1
+     },
+     {
+      "name": "Ahimaa Goalhi",
+      "count": 1
+     },
+     {
+      "name": "Alibe Hingun",
+      "count": 1
+     },
+     {
+      "name": "Alibe Magu",
+      "count": 1
+     },
+     {
+      "name": "Ameenee Hingun",
+      "count": 1
+     },
+     {
+      "name": "Andhaa Magu",
+      "count": 1
+     }
+    ],
+    "signature": {
+     "total": 87,
+     "top": [
+      {
+       "name": "Abadhah Fehi Hingun",
+       "count": 1
+      },
+      {
+       "name": "Afeefudheen Magu",
+       "count": 1
+      },
+      {
+       "name": "Ahimaa Goalhi",
+       "count": 1
+      },
+      {
+       "name": "Alibe Hingun",
+       "count": 1
+      },
+      {
+       "name": "Alibe Magu",
+       "count": 1
+      },
+      {
+       "name": "Ameenee Hingun",
+       "count": 1
+      },
+      {
+       "name": "Andhaa Magu",
+       "count": 1
+      },
+      {
+       "name": "Anoanaa Magu",
+       "count": 1
+      }
+     ]
+    }
+   }
+  },
+  {
+   "atoll": "Kaafu",
+   "islands": 109,
+   "inhabitedIslands": 9,
+   "islandsWithData": 9,
+   "houses": {
+    "records": 3495,
+    "uniqueNames": 2651,
+    "singletons": 2225,
+    "avgLength": 10.39,
+    "topNames": [
+     {
+      "name": "No Name",
+      "count": 41,
+      "variants": 2
+     },
+     {
+      "name": "Empty",
+      "count": 12
+     },
+     {
+      "name": "Athamaage",
+      "count": 7
+     },
+     {
+      "name": "Fazaa",
+      "count": 7
+     },
+     {
+      "name": "Fehivina",
+      "count": 7
+     },
+     {
+      "name": "Happy Night",
+      "count": 7
+     },
+     {
+      "name": "Manzil",
+      "count": 7
+     },
+     {
+      "name": "Ufaa",
+      "count": 7
+     },
+     {
+      "name": "Dhoadhi",
+      "count": 6
+     },
+     {
+      "name": "Dhoores",
+      "count": 6
+     },
+     {
+      "name": "Finifenmaage",
+      "count": 6
+     },
+     {
+      "name": "Finiroalhi",
+      "count": 6,
+      "variants": 2
+     }
+    ],
+    "suffixes": [
+     {
+      "suffix": "ge",
+      "count": 615,
+      "pct": 17.6,
+      "examples": [
+       "Finivaage",
+       "White Sand Aage",
+       "Kinbigasdhoshuge",
+       "Noorange"
+      ]
+     },
+     {
+      "suffix": "aage",
+      "count": 296,
+      "pct": 8.5,
+      "examples": [
+       "Finivaage",
+       "White Sand Aage",
+       "Alhivilaage",
+       "Thandiraiymaage"
+      ]
+     },
+     {
+      "suffix": "maage",
+      "count": 165,
+      "pct": 4.7,
+      "examples": [
+       "Thandiraiymaage",
+       "Mirusmaage",
+       "Murangamaage",
+       "Anbumaage"
+      ]
+     },
+     {
+      "suffix": "villa",
+      "count": 157,
+      "pct": 4.5,
+      "examples": [
+       "Kothari Villa",
+       "Sp Villa",
+       "Audit Villa",
+       "Beach Villa"
+      ]
+     },
+     {
+      "suffix": "manzil",
+      "count": 62,
+      "pct": 1.8,
+      "examples": [
+       "Murushidha Manzil",
+       "Aneesa Manzil",
+       "Saeedha Manzil",
+       "Manzil"
+      ]
+     }
+    ],
+    "signature": {
+     "total": 1205,
+     "top": [
+      {
+       "name": "Industrial Plot",
+       "count": 6
+      },
+      {
+       "name": "Destination",
+       "count": 3
+      },
+      {
+       "name": "Mumthaz Jaleel",
+       "count": 3
+      },
+      {
+       "name": "Refused",
+       "count": 3
+      },
+      {
+       "name": "Sinaaee Bin",
+       "count": 3
+      },
+      {
+       "name": "Aalaa Manzil",
+       "count": 2
+      },
+      {
+       "name": "Ahmadhu Abdhulla",
+       "count": 2
+      },
+      {
+       "name": "Ahmadhu Muhammadhu",
+       "count": 2
+      },
+      {
+       "name": "Anhenunge Ufaa",
+       "count": 2
+      },
+      {
+       "name": "Canal",
+       "count": 2
+      },
+      {
+       "name": "Custom Service",
+       "count": 2
+      },
+      {
+       "name": "Fehi Sarahadhu",
+       "count": 2
+      }
+     ]
+    }
+   },
+   "roads": {
+    "records": 9,
+    "uniqueNames": 8,
+    "topNames": [
+     {
+      "name": "Bodu Magu",
+      "count": 2,
+      "variants": 2
+     },
+     {
+      "name": "Bahaaru Magu Road",
+      "count": 1
+     },
+     {
+      "name": "Haveeri Hi,ngun",
+      "count": 1
+     },
+     {
+      "name": "Lainoofaru Magu",
+      "count": 1
+     },
+     {
+      "name": "Miskiyy Magu",
+      "count": 1
+     },
+     {
+      "name": "Thinmahaana Magu",
+      "count": 1
+     },
+     {
+      "name": "Thun'dee magu",
+      "count": 1
+     },
+     {
+      "name": "Valu Magu",
+      "count": 1
+     }
+    ],
+    "signature": {
+     "total": 4,
+     "top": [
+      {
+       "name": "Bahaaru Magu Road",
+       "count": 1
+      },
+      {
+       "name": "Haveeri Hi,ngun",
+       "count": 1
+      },
+      {
+       "name": "Miskiyy Magu",
+       "count": 1
+      },
+      {
+       "name": "Thinmahaana Magu",
+       "count": 1
+      }
+     ]
+    }
+   }
+  },
+  {
+   "atoll": "Laamu",
+   "islands": 74,
+   "inhabitedIslands": 11,
+   "islandsWithData": 11,
+   "houses": {
+    "records": 3948,
+    "uniqueNames": 2914,
+    "singletons": 2404,
+    "avgLength": 10.82,
+    "topNames": [
+     {
+      "name": "Asseyri",
+      "count": 10
+     },
+     {
+      "name": "Viyafaari Bin",
+      "count": 10
+     },
+     {
+      "name": "Finihiyaage",
+      "count": 9
+     },
+     {
+      "name": "Heenaamaage",
+      "count": 9
+     },
+     {
+      "name": "Irumatheege",
+      "count": 9
+     },
+     {
+      "name": "Moonimaage",
+      "count": 9
+     },
+     {
+      "name": "Dhekunuge",
+      "count": 8
+     },
+     {
+      "name": "Fazaa",
+      "count": 8
+     },
+     {
+      "name": "Malas",
+      "count": 8
+     },
+     {
+      "name": "Raiyvilaage",
+      "count": 8
+     },
+     {
+      "name": "Sosun Villa",
+      "count": 8
+     },
+     {
+      "name": "Aahiyaa",
+      "count": 7
+     }
+    ],
+    "suffixes": [
+     {
+      "suffix": "ge",
+      "count": 1060,
+      "pct": 26.8,
+      "examples": [
+       "Misraabuge",
+       "Dhilsaadhuge",
+       "Fengasdhoshuge",
+       "Musthareege"
+      ]
+     },
+     {
+      "suffix": "aage",
+      "count": 512,
+      "pct": 13,
+      "examples": [
+       "Dhooriyaage",
+       "Huvandhumaage",
+       "Annaarumaage",
+       "Kafamaage"
+      ]
+     },
+     {
+      "suffix": "maage",
+      "count": 297,
+      "pct": 7.5,
+      "examples": [
+       "Huvandhumaage",
+       "Annaarumaage",
+       "Kafamaage",
+       "Athamaage"
+      ]
+     },
+     {
+      "suffix": "villa",
+      "count": 165,
+      "pct": 4.2,
+      "examples": [
+       "Kaneeru Villa",
+       "Beach Villa",
+       "Sun Ray Villa",
+       "Boagan Villa"
+      ]
+     },
+     {
+      "suffix": "house",
+      "count": 57,
+      "pct": 1.4,
+      "examples": [
+       "Beach House",
+       "Link House",
+       "Blue House",
+       "Dream House"
+      ]
+     }
+    ],
+    "signature": {
+     "total": 1326,
+     "top": [
+      {
+       "name": "Ali Moosa",
+       "count": 2
+      },
+      {
+       "name": "Asseyri House",
+       "count": 2
+      },
+      {
+       "name": "Bandaaraage",
+       "count": 2
+      },
+      {
+       "name": "Bandeyrikoshi",
+       "count": 2
+      },
+      {
+       "name": "Beysge",
+       "count": 2
+      },
+      {
+       "name": "Binhima",
+       "count": 2
+      },
+      {
+       "name": "Blue Fin",
+       "count": 2
+      },
+      {
+       "name": "Eetujehige",
+       "count": 2
+      },
+      {
+       "name": "Elpaasoa",
+       "count": 2
+      },
+      {
+       "name": "Fennaaruge",
+       "count": 2
+      },
+      {
+       "name": "Fenvalhudhoshuge",
+       "count": 2
+      },
+      {
+       "name": "G.Seyliant",
+       "count": 2
+      }
+     ]
+    }
+   },
+   "roads": {
+    "records": 76,
+    "uniqueNames": 75,
+    "topNames": [
+     {
+      "name": "Bodu Magu",
+      "count": 2,
+      "variants": 2
+     },
+     {
+      "name": "Aage Magu",
+      "count": 1
+     },
+     {
+      "name": "Aaily Hin'gun",
+      "count": 1
+     },
+     {
+      "name": "Abadhahhiyaa Magu",
+      "count": 1
+     },
+     {
+      "name": "Ameenee Magu",
+      "count": 1
+     },
+     {
+      "name": "Andhaleeb Magu",
+      "count": 1
+     },
+     {
+      "name": "Asaree Goalhi",
+      "count": 1
+     },
+     {
+      "name": "Asurumaa Goalhi",
+      "count": 1
+     }
+    ],
+    "signature": {
+     "total": 49,
+     "top": [
+      {
+       "name": "Aage Magu",
+       "count": 1
+      },
+      {
+       "name": "Aaily Hin'gun",
+       "count": 1
+      },
+      {
+       "name": "Abadhahhiyaa Magu",
+       "count": 1
+      },
+      {
+       "name": "Andhaleeb Magu",
+       "count": 1
+      },
+      {
+       "name": "Bahaaree Goalhi",
+       "count": 1
+      },
+      {
+       "name": "Berabedhi Magu",
+       "count": 1
+      },
+      {
+       "name": "Boduthakurufaanu Magu (Causeway)",
+       "count": 1
+      },
+      {
+       "name": "Causeway (Sinaaee Magu)",
+       "count": 1
+      }
+     ]
+    }
+   }
+  },
+  {
+   "atoll": "Lhaviyani",
+   "islands": 54,
+   "inhabitedIslands": 4,
+   "islandsWithData": 4,
+   "houses": {
+    "records": 2828,
+    "uniqueNames": 2256,
+    "singletons": 1870,
+    "avgLength": 9.38,
+    "topNames": [
+     {
+      "name": "Dhorumathi",
+      "count": 38
+     },
+     {
+      "name": "Banafsaage",
+      "count": 5
+     },
+     {
+      "name": "Dhoores",
+      "count": 5
+     },
+     {
+      "name": "Gulzaaruge",
+      "count": 5
+     },
+     {
+      "name": "Alihaa",
+      "count": 4
+     },
+     {
+      "name": "Aman",
+      "count": 4
+     },
+     {
+      "name": "Beach House",
+      "count": 4
+     },
+     {
+      "name": "Blue Star",
+      "count": 4
+     },
+     {
+      "name": "Cemetry",
+      "count": 4
+     },
+     {
+      "name": "Commercial",
+      "count": 4
+     },
+     {
+      "name": "Dheyliyaage",
+      "count": 4
+     },
+     {
+      "name": "Dhilbahaaruge",
+      "count": 4
+     }
+    ],
+    "suffixes": [
+     {
+      "suffix": "ge",
+      "count": 863,
+      "pct": 30.5,
+      "examples": [
+       "Landhooge",
+       "Thandirahmaage",
+       "Dhoohimerige",
+       "Busthaanuge"
+      ]
+     },
+     {
+      "suffix": "aage",
+      "count": 351,
+      "pct": 12.4,
+      "examples": [
+       "Thandirahmaage",
+       "Suvaasaage",
+       "Bageechaage",
+       "Haavilaage"
+      ]
+     },
+     {
+      "suffix": "maage",
+      "count": 178,
+      "pct": 6.3,
+      "examples": [
+       "Thandirahmaage",
+       "Lily Maage",
+       "Endherimaage",
+       "Asurumaage"
+      ]
+     },
+     {
+      "suffix": "villa",
+      "count": 78,
+      "pct": 2.8,
+      "examples": [
+       "Aman Villa",
+       "Coupon Villa",
+       "Raby Ee Villa",
+       "Thiburozvilla"
+      ]
+     },
+     {
+      "suffix": "house",
+      "count": 17,
+      "pct": 0.6,
+      "examples": [
+       "Ware House",
+       "Dream House",
+       "White House",
+       "Beach House"
+      ]
+     }
+    ],
+    "signature": {
+     "total": 872,
+     "top": [
+      {
+       "name": "Dhorumathi",
+       "count": 38
+      },
+      {
+       "name": "Boduhiyaage",
+       "count": 3
+      },
+      {
+       "name": "Jallaabuge",
+       "count": 3
+      },
+      {
+       "name": "Kumundhooge",
+       "count": 3
+      },
+      {
+       "name": "Aivaree",
+       "count": 2
+      },
+      {
+       "name": "Azaadhuvaadhee",
+       "count": 2
+      },
+      {
+       "name": "Blasam Ge",
+       "count": 2
+      },
+      {
+       "name": "Chandharuge",
+       "count": 2
+      },
+      {
+       "name": "Dhaaviyaage",
+       "count": 2
+      },
+      {
+       "name": "Dhanmaruge",
+       "count": 2
+      },
+      {
+       "name": "Farihuge",
+       "count": 2
+      },
+      {
+       "name": "Goshihadhaage",
+       "count": 2
+      }
+     ]
+    }
+   },
+   "roads": {
+    "records": 4,
+    "uniqueNames": 4,
+    "topNames": [
+     {
+      "name": "Ifthithaahee Magu",
+      "count": 1
+     },
+     {
+      "name": "Jalaaluddin Magu",
+      "count": 1
+     },
+     {
+      "name": "Mirihi Magu",
+      "count": 1
+     },
+     {
+      "name": "Tulip Hin'gun",
+      "count": 1
+     }
+    ],
+    "signature": {
+     "total": 3,
+     "top": [
+      {
+       "name": "Ifthithaahee Magu",
+       "count": 1
+      },
+      {
+       "name": "Jalaaluddin Magu",
+       "count": 1
+      },
+      {
+       "name": "Tulip Hin'gun",
+       "count": 1
+      }
+     ]
+    }
+   }
+  },
+  {
+   "atoll": "MLE",
+   "islands": 3,
+   "inhabitedIslands": 3,
+   "islandsWithData": 3,
+   "houses": {
+    "records": 7969,
+    "uniqueNames": 7890,
+    "singletons": 7819,
+    "avgLength": 9.86,
+    "topNames": [
+     {
+      "name": "Rainbow",
+      "count": 4
+     },
+     {
+      "name": "Census Block",
+      "count": 3
+     },
+     {
+      "name": "Email: info@stats.gov.mv",
+      "count": 3
+     },
+     {
+      "name": "Legend",
+      "count": 3
+     },
+     {
+      "name": "Meters 0",
+      "count": 3
+     },
+     {
+      "name": "MNDF",
+      "count": 3
+     },
+     {
+      "name": "Plot name",
+      "count": 3
+     },
+     {
+      "name": "Aa Ali",
+      "count": 2
+     },
+     {
+      "name": "Alinarumaa",
+      "count": 2
+     },
+     {
+      "name": "Arooma",
+      "count": 2
+     },
+     {
+      "name": "Asuru Hiyaa",
+      "count": 2,
+      "variants": 2
+     },
+     {
+      "name": "Athirimatheege",
+      "count": 2
+     }
+    ],
+    "suffixes": [
+     {
+      "suffix": "ge",
+      "count": 1484,
+      "pct": 18.6,
+      "examples": [
+       "Penzeemaage",
+       "Penzee Aage",
+       "Noorange",
+       "Raiy Bageechaage"
+      ]
+     },
+     {
+      "suffix": "aage",
+      "count": 650,
+      "pct": 8.2,
+      "examples": [
+       "Penzeemaage",
+       "Penzee Aage",
+       "Raiy Bageechaage",
+       "Greenland Aage"
+      ]
+     },
+     {
+      "suffix": "villa",
+      "count": 399,
+      "pct": 5,
+      "examples": [
+       "Eagle Villa",
+       "Gulshan Villa",
+       "Season Villa",
+       "Morning Villa"
+      ]
+     },
+     {
+      "suffix": "maage",
+      "count": 202,
+      "pct": 2.5,
+      "examples": [
+       "Penzeemaage",
+       "Kudhimaage",
+       "Reethimaage",
+       "Moonimaage"
+      ]
+     },
+     {
+      "suffix": "manzil",
+      "count": 106,
+      "pct": 1.3,
+      "examples": [
+       "Shaaliyaa Manzil",
+       "Vaguthy Manzil",
+       "Manzil",
+       "Sizly Manzil"
+      ]
+     }
+    ],
+    "signature": {
+     "total": 4575,
+     "top": [
+      {
+       "name": "Census Block",
+       "count": 3
+      },
+      {
+       "name": "Email: info@stats.gov.mv",
+       "count": 3
+      },
+      {
+       "name": "Meters 0",
+       "count": 3
+      },
+      {
+       "name": "Alinarumaa",
+       "count": 2
+      },
+      {
+       "name": "Arooma",
+       "count": 2
+      },
+      {
+       "name": "Asuruhiyaa",
+       "count": 2
+      },
+      {
+       "name": "Damas",
+       "count": 2
+      },
+      {
+       "name": "Dhalinaabuilding",
+       "count": 2
+      },
+      {
+       "name": "Feeroz Lodge",
+       "count": 2
+      },
+      {
+       "name": "Gomaa Irumathybai",
+       "count": 2
+      },
+      {
+       "name": "Hinnavaru Hulhangubai",
+       "count": 2
+      },
+      {
+       "name": "Jeeraan",
+       "count": 2
+      }
+     ]
+    }
+   },
+   "roads": {
+    "records": 456,
+    "uniqueNames": 446,
+    "topNames": [
+     {
+      "name": "Carnation Magu",
+      "count": 2
+     },
+     {
+      "name": "Chanbeylee Magu",
+      "count": 2
+     },
+     {
+      "name": "Dhunburi Magu",
+      "count": 2
+     },
+     {
+      "name": "Hirundhu Magu",
+      "count": 2
+     },
+     {
+      "name": "Hithigas Magu",
+      "count": 2
+     },
+     {
+      "name": "Kinbi Gas Magu",
+      "count": 2,
+      "variants": 2
+     },
+     {
+      "name": "Kurikeela Magu",
+      "count": 2
+     },
+     {
+      "name": "Nirolhu Magu",
+      "count": 2
+     }
+    ],
+    "signature": {
+     "total": 360,
+     "top": [
+      {
+       "name": "Hirundhu Magu",
+       "count": 2
+      },
+      {
+       "name": "Kurikeela Magu",
+       "count": 2
+      },
+      {
+       "name": "Unigas Magu",
+       "count": 2
+      },
+      {
+       "name": "Aaburuzu Higun",
+       "count": 1
+      },
+      {
+       "name": "Aaburuzu Hingun",
+       "count": 1
+      },
+      {
+       "name": "Aaminaa Rani Hin'gun",
+       "count": 1
+      },
+      {
+       "name": "Aazaadhee Hingun",
+       "count": 1
+      },
+      {
+       "name": "Abadhah Ufaa Hingun",
+       "count": 1
+      }
+     ]
+    }
+   }
+  },
+  {
+   "atoll": "Meemu",
+   "islands": 38,
+   "inhabitedIslands": 8,
+   "islandsWithData": 8,
+   "houses": {
+    "records": 1367,
+    "uniqueNames": 962,
+    "singletons": 743,
+    "avgLength": 9.58,
+    "topNames": [
+     {
+      "name": "Noovilu",
+      "count": 8
+     },
+     {
+      "name": "Fazaa",
+      "count": 7
+     },
+     {
+      "name": "Fehifarudhaage",
+      "count": 6
+     },
+     {
+      "name": "Fehivina",
+      "count": 6
+     },
+     {
+      "name": "Feyrumaage",
+      "count": 6
+     },
+     {
+      "name": "Husnuheenaage",
+      "count": 6
+     },
+     {
+      "name": "Dhoores",
+      "count": 5
+     },
+     {
+      "name": "Engine House",
+      "count": 5
+     },
+     {
+      "name": "Fehige",
+      "count": 5
+     },
+     {
+      "name": "Finivaage",
+      "count": 5
+     },
+     {
+      "name": "Handhuvareege",
+      "count": 5
+     },
+     {
+      "name": "Hiyaavahi",
+      "count": 5
+     }
+    ],
+    "suffixes": [
+     {
+      "suffix": "ge",
+      "count": 435,
+      "pct": 31.8,
+      "examples": [
+       "Greenge",
+       "Benhaage",
+       "Guraathunge",
+       "Dhethandimaage"
+      ]
+     },
+     {
+      "suffix": "aage",
+      "count": 224,
+      "pct": 16.4,
+      "examples": [
+       "Benhaage",
+       "Dhethandimaage",
+       "Baansaage",
+       "Ochidmaage"
+      ]
+     },
+     {
+      "suffix": "maage",
+      "count": 121,
+      "pct": 8.9,
+      "examples": [
+       "Dhethandimaage",
+       "Ochidmaage",
+       "Irudheymaage",
+       "Binmaage"
+      ]
+     },
+     {
+      "suffix": "villa",
+      "count": 85,
+      "pct": 6.2,
+      "examples": [
+       "Narugisvilla",
+       "Foriegn Villa",
+       "Amaazu Villa",
+       "Boagan Villa"
+      ]
+     },
+     {
+      "suffix": "house",
+      "count": 21,
+      "pct": 1.5,
+      "examples": [
+       "Nizeehouse",
+       "Red House",
+       "Marine House",
+       "Engine House"
+      ]
+     }
+    ],
+    "signature": {
+     "total": 234,
+     "top": [
+      {
+       "name": "A.Raoofu Goathi",
+       "count": 2
+      },
+      {
+       "name": "Alah Goathidhey",
+       "count": 2
+      },
+      {
+       "name": "Lagerige",
+       "count": 2
+      },
+      {
+       "name": "Maskakka Bin",
+       "count": 2
+      },
+      {
+       "name": "Nilamehi",
+       "count": 2
+      },
+      {
+       "name": "Noorangulheyge",
+       "count": 2
+      },
+      {
+       "name": "Raabaage",
+       "count": 2
+      },
+      {
+       "name": "224 Koshi",
+       "count": 1
+      },
+      {
+       "name": "A.Rafeeu Goathi",
+       "count": 1
+      },
+      {
+       "name": "A.Shifaa Goathi",
+       "count": 1
+      },
+      {
+       "name": "Aafis",
+       "count": 1
+      },
+      {
+       "name": "Aage Carpentry",
+       "count": 1
+      }
+     ]
+    }
+   },
+   "roads": {
+    "records": 0,
+    "uniqueNames": 0,
+    "topNames": [],
+    "signature": {
+     "total": 0,
+     "top": []
+    }
+   }
+  },
+  {
+   "atoll": "Noonu",
+   "islands": 66,
+   "inhabitedIslands": 13,
+   "islandsWithData": 13,
+   "houses": {
+    "records": 4459,
+    "uniqueNames": 2966,
+    "singletons": 2353,
+    "avgLength": 10.73,
+    "topNames": [
+     {
+      "name": "Javaahirumaage",
+      "count": 16
+     },
+     {
+      "name": "Robins",
+      "count": 15
+     },
+     {
+      "name": "Asseyri",
+      "count": 12
+     },
+     {
+      "name": "Mala",
+      "count": 12
+     },
+     {
+      "name": "Gahaa",
+      "count": 11
+     },
+     {
+      "name": "Manzil",
+      "count": 11
+     },
+     {
+      "name": "Asurumaage",
+      "count": 10
+     },
+     {
+      "name": "Athamaage",
+      "count": 10
+     },
+     {
+      "name": "Bahaaruge",
+      "count": 10
+     },
+     {
+      "name": "Finihiyaage",
+      "count": 10
+     },
+     {
+      "name": "Gaskara",
+      "count": 10
+     },
+     {
+      "name": "Heylhi",
+      "count": 10
+     }
+    ],
+    "suffixes": [
+     {
+      "suffix": "ge",
+      "count": 1183,
+      "pct": 26.5,
+      "examples": [
+       "Marujaanuge",
+       "Noovilaage",
+       "Sadhubarakaage",
+       "Musthareege"
+      ]
+     },
+     {
+      "suffix": "aage",
+      "count": 553,
+      "pct": 12.4,
+      "examples": [
+       "Noovilaage",
+       "Sadhubarakaage",
+       "Alivaage Aage",
+       "Asrumaage"
+      ]
+     },
+     {
+      "suffix": "maage",
+      "count": 321,
+      "pct": 7.2,
+      "examples": [
+       "Asrumaage",
+       "Hazaarumaage",
+       "Alamaage",
+       "Endherimaage"
+      ]
+     },
+     {
+      "suffix": "villa",
+      "count": 162,
+      "pct": 3.6,
+      "examples": [
+       "Sosun Villa",
+       "Lax Villa",
+       "Muniya Villa",
+       "Karismaa Villa"
+      ]
+     },
+     {
+      "suffix": "house",
+      "count": 48,
+      "pct": 1.1,
+      "examples": [
+       "Red House",
+       "Red House",
+       "Engine House",
+       "Funeral House"
+      ]
+     }
+    ],
+    "signature": {
+     "total": 1235,
+     "top": [
+      {
+       "name": "Electric Substation 16.3",
+       "count": 6
+      },
+      {
+       "name": "Oil Plot",
+       "count": 6
+      },
+      {
+       "name": "Boat Repair 31.2",
+       "count": 4
+      },
+      {
+       "name": "Finiburu",
+       "count": 4
+      },
+      {
+       "name": "Agriculture Zone 8.1",
+       "count": 3
+      },
+      {
+       "name": "Cemetry 7.3",
+       "count": 3
+      },
+      {
+       "name": "Aishath Ziyadha Nooreege",
+       "count": 2
+      },
+      {
+       "name": "April",
+       "count": 2
+      },
+      {
+       "name": "Arafaathuge",
+       "count": 2
+      },
+      {
+       "name": "Boafen Thaangi",
+       "count": 2
+      },
+      {
+       "name": "Chandhanee Villa",
+       "count": 2
+      },
+      {
+       "name": "Fenfinimaage",
+       "count": 2
+      }
+     ]
+    }
+   },
+   "roads": {
+    "records": 74,
+    "uniqueNames": 69,
+    "topNames": [
+     {
+      "name": "Aa Magu",
+      "count": 2,
+      "variants": 2
+     },
+     {
+      "name": "Boduthakurufaanu magu",
+      "count": 2,
+      "variants": 2
+     },
+     {
+      "name": "Chaandhanee Magu",
+      "count": 2
+     },
+     {
+      "name": "Lily Magu",
+      "count": 2
+     },
+     {
+      "name": "Roashanee Magu",
+      "count": 2
+     },
+     {
+      "name": "Aabaadhee Hin'gun",
+      "count": 1
+     },
+     {
+      "name": "Abadhahfehi Magu",
+      "count": 1
+     },
+     {
+      "name": "Ameenee Magu",
+      "count": 1
+     }
+    ],
+    "signature": {
+     "total": 44,
+     "top": [
+      {
+       "name": "Aamagu",
+       "count": 2
+      },
+      {
+       "name": "Anoana Goalhi",
+       "count": 1
+      },
+      {
+       "name": "Chaandhanee Hin'gun",
+       "count": 1
+      },
+      {
+       "name": "Dhamuhingaa Magu",
+       "count": 1
+      },
+      {
+       "name": "Dheriya Magu",
+       "count": 1
+      },
+      {
+       "name": "Dilkash Magu",
+       "count": 1
+      },
+      {
+       "name": "Gahaa Hin'gun",
+       "count": 1
+      },
+      {
+       "name": "Maizaan Magu",
+       "count": 1
+      }
+     ]
+    }
+   }
+  },
+  {
+   "atoll": "Raa",
+   "islands": 92,
+   "inhabitedIslands": 15,
+   "islandsWithData": 15,
+   "houses": {
+    "records": 5014,
+    "uniqueNames": 3032,
+    "singletons": 2315,
+    "avgLength": 10.22,
+    "topNames": [
+     {
+      "name": "Green Area",
+      "count": 33
+     },
+     {
+      "name": "Hus",
+      "count": 32
+     },
+     {
+      "name": "Badhige",
+      "count": 23
+     },
+     {
+      "name": "Kulee Bin",
+      "count": 23
+     },
+     {
+      "name": "Future Use",
+      "count": 22
+     },
+     {
+      "name": "Fazaa",
+      "count": 13
+     },
+     {
+      "name": "Finivaage",
+      "count": 13
+     },
+     {
+      "name": "Udhares",
+      "count": 13
+     },
+     {
+      "name": "Asseyri",
+      "count": 12
+     },
+     {
+      "name": "Fehivina",
+      "count": 12
+     },
+     {
+      "name": "Finifenmaage",
+      "count": 12
+     },
+     {
+      "name": "Naares",
+      "count": 12
+     }
+    ],
+    "suffixes": [
+     {
+      "suffix": "ge",
+      "count": 1314,
+      "pct": 26.2,
+      "examples": [
+       "Ahmed Azumee, Fahaage",
+       "Ismail Hassan, Dhilaasaage",
+       "Pearl Roashaneege",
+       "Aslam Abdullah, Javaahirumaage"
+      ]
+     },
+     {
+      "suffix": "aage",
+      "count": 627,
+      "pct": 12.5,
+      "examples": [
+       "Ahmed Azumee, Fahaage",
+       "Ismail Hassan, Dhilaasaage",
+       "Aslam Abdullah, Javaahirumaage",
+       "Aminath Sheeza, Heenaamaage"
+      ]
+     },
+     {
+      "suffix": "maage",
+      "count": 329,
+      "pct": 6.6,
+      "examples": [
+       "Aslam Abdullah, Javaahirumaage",
+       "Aminath Sheeza, Heenaamaage",
+       "Adam Rasheed, Thandiraimaage",
+       "Asurumaage"
+      ]
+     },
+     {
+      "suffix": "villa",
+      "count": 224,
+      "pct": 4.5,
+      "examples": [
+       "Aaminath Nasreena, Asrafee Villa",
+       "Aminath Abdullah, Samee Villa",
+       "Razeenaa Muhammad, Vaarey Villa",
+       "Marine Villa"
+      ]
+     },
+     {
+      "suffix": "manzil",
+      "count": 59,
+      "pct": 1.2,
+      "examples": [
+       "Hassan Sabaah, Shaheedha Manzil",
+       "Manzil",
+       "Abdullah Hameedh, Hameedhee Manzil",
+       "Safeenaa Manzil"
+      ]
+     }
+    ],
+    "signature": {
+     "total": 1110,
+     "top": [
+      {
+       "name": "Environmental protection area 18.1",
+       "count": 7
+      },
+      {
+       "name": "Land for government use",
+       "count": 5
+      },
+      {
+       "name": "Shopping",
+       "count": 5
+      },
+      {
+       "name": "Neerange",
+       "count": 3
+      },
+      {
+       "name": "Alifushi Preschool",
+       "count": 2
+      },
+      {
+       "name": "Calvinia",
+       "count": 2
+      },
+      {
+       "name": "Existing Garbage Area",
+       "count": 2
+      },
+      {
+       "name": "Hameedhu Ge Valhu",
+       "count": 2
+      },
+      {
+       "name": "Kukulhu Koshi",
+       "count": 2
+      },
+      {
+       "name": "Love Bird",
+       "count": 2
+      },
+      {
+       "name": "Maskakkaa Hikkuma 28-b",
+       "count": 2
+      },
+      {
+       "name": "Mohamed Rasheed Goathi",
+       "count": 2
+      }
+     ]
+    }
+   },
+   "roads": {
+    "records": 35,
+    "uniqueNames": 32,
+    "topNames": [
+     {
+      "name": "Ameenee magu",
+      "count": 2,
+      "variants": 2
+     },
+     {
+      "name": "Haveeree Hingun",
+      "count": 2
+     },
+     {
+      "name": "Saathiru Magu",
+      "count": 2
+     },
+     {
+      "name": "Ahumadhee Magu",
+      "count": 1
+     },
+     {
+      "name": "Athiree Hingun",
+      "count": 1
+     },
+     {
+      "name": "Atholhugey Magu",
+      "count": 1
+     },
+     {
+      "name": "Baainjeenugey Hingun",
+      "count": 1
+     },
+     {
+      "name": "Bandharu  Magu",
+      "count": 1
+     }
+    ],
+    "signature": {
+     "total": 17,
+     "top": [
+      {
+       "name": "Saathiru Magu",
+       "count": 2
+      },
+      {
+       "name": "Ahumadhee Magu",
+       "count": 1
+      },
+      {
+       "name": "Athiree Hingun",
+       "count": 1
+      },
+      {
+       "name": "Atholhugey Magu",
+       "count": 1
+      },
+      {
+       "name": "Baainjeenugey Hingun",
+       "count": 1
+      },
+      {
+       "name": "Bijilee Goalhi",
+       "count": 1
+      },
+      {
+       "name": "Dhoshimeynaa Higun",
+       "count": 1
+      },
+      {
+       "name": "Finifenmagu",
+       "count": 1
+      }
+     ]
+    }
+   }
+  },
+  {
+   "atoll": "Seenu",
+   "islands": 29,
+   "inhabitedIslands": 6,
+   "islandsWithData": 5,
+   "houses": {
+    "records": 5561,
+    "uniqueNames": 4702,
+    "singletons": 4069,
+    "avgLength": 9.58,
+    "topNames": [
+     {
+      "name": "Kuleebin",
+      "count": 12
+     },
+     {
+      "name": "Fihaaraeh",
+      "count": 9
+     },
+     {
+      "name": "Asaree Pearl",
+      "count": 5
+     },
+     {
+      "name": "Bashimaage",
+      "count": 5
+     },
+     {
+      "name": "Gulfaamuge",
+      "count": 5
+     },
+     {
+      "name": "Iramaage",
+      "count": 5
+     },
+     {
+      "name": "Aakuri",
+      "count": 4
+     },
+     {
+      "name": "Beach House",
+      "count": 4
+     },
+     {
+      "name": "Coral",
+      "count": 4
+     },
+     {
+      "name": "Everest",
+      "count": 4
+     },
+     {
+      "name": "Feeroazuge",
+      "count": 4
+     },
+     {
+      "name": "Finivaage",
+      "count": 4
+     }
+    ],
+    "suffixes": [
+     {
+      "suffix": "ge",
+      "count": 1415,
+      "pct": 25.4,
+      "examples": [
+       "Kaamineege",
+       "Janavareege",
+       "Miskiydhoshuge",
+       "Mirihimaage"
+      ]
+     },
+     {
+      "suffix": "aage",
+      "count": 570,
+      "pct": 10.2,
+      "examples": [
+       "Mirihimaage",
+       "Benhaage",
+       "Zanjabeelugeaage",
+       "Tharividhaage"
+      ]
+     },
+     {
+      "suffix": "villa",
+      "count": 297,
+      "pct": 5.3,
+      "examples": [
+       "Lily Villa",
+       "Violet Villa",
+       "Sach Villa",
+       "Pencil Villa"
+      ]
+     },
+     {
+      "suffix": "maage",
+      "count": 287,
+      "pct": 5.2,
+      "examples": [
+       "Mirihimaage",
+       "Murangamaage",
+       "Dhunburumaage",
+       "Fufoomaage"
+      ]
+     },
+     {
+      "suffix": "manzil",
+      "count": 133,
+      "pct": 2.4,
+      "examples": [
+       "Asrafee Manzil",
+       "Fini Manzil",
+       "Ashraf Manzil",
+       "Orchid Manzil"
+      ]
+     }
+    ],
+    "signature": {
+     "total": 2404,
+     "top": [
+      {
+       "name": "Fihaaraeh",
+       "count": 9
+      },
+      {
+       "name": "Asaree Pearl",
+       "count": 5
+      },
+      {
+       "name": "Aagalaa",
+       "count": 2
+      },
+      {
+       "name": "Aamir Kuleebin",
+       "count": 2
+      },
+      {
+       "name": "Aasraa Manzil",
+       "count": 2
+      },
+      {
+       "name": "Aims",
+       "count": 2
+      },
+      {
+       "name": "Amilla Bimeh",
+       "count": 2
+      },
+      {
+       "name": "Aminath Manike Bai",
+       "count": 2
+      },
+      {
+       "name": "Ashraf Manzil",
+       "count": 2
+      },
+      {
+       "name": "Bageecha Villa",
+       "count": 2
+      },
+      {
+       "name": "Baithulridhaa",
+       "count": 2
+      },
+      {
+       "name": "Bazabaazuge",
+       "count": 2
+      }
+     ]
+    }
+   },
+   "roads": {
+    "records": 135,
+    "uniqueNames": 128,
+    "topNames": [
+     {
+      "name": "Shamsudheen Bodu Fandiyaaru Thakurufaanu Magu",
+      "count": 4
+     },
+     {
+      "name": "Filigas magu",
+      "count": 2,
+      "variants": 2
+     },
+     {
+      "name": "kan'dhuvalu magu",
+      "count": 2,
+      "variants": 2
+     },
+     {
+      "name": "Maarandhoo magu",
+      "count": 2,
+      "variants": 2
+     },
+     {
+      "name": "Orchid Magu",
+      "count": 2
+     },
+     {
+      "name": "Aabaadhy magu",
+      "count": 1
+     },
+     {
+      "name": "Aareyfe magu",
+      "count": 1
+     },
+     {
+      "name": "Aari Hin'gun",
+      "count": 1
+     }
+    ],
+    "signature": {
+     "total": 114,
+     "top": [
+      {
+       "name": "Shamsudheen Bodu Fandiyaaru Thakurufaanu Magu",
+       "count": 4
+      },
+      {
+       "name": "Kan'dhuvalu magu",
+       "count": 2
+      },
+      {
+       "name": "Maarandhoo Magu",
+       "count": 2
+      },
+      {
+       "name": "Aabaadhy magu",
+       "count": 1
+      },
+      {
+       "name": "Aareyfe magu",
+       "count": 1
+      },
+      {
+       "name": "Aari Hin'gun",
+       "count": 1
+      },
+      {
+       "name": "Aarimagu",
+       "count": 1
+      },
+      {
+       "name": "Aazaadhy magu",
+       "count": 1
+      }
+     ]
+    }
+   }
+  },
+  {
+   "atoll": "Shaviyani",
+   "islands": 51,
+   "inhabitedIslands": 14,
+   "islandsWithData": 14,
+   "houses": {
+    "records": 4694,
+    "uniqueNames": 2950,
+    "singletons": 2297,
+    "avgLength": 8.99,
+    "topNames": [
+     {
+      "name": "Plot",
+      "count": 45
+     },
+     {
+      "name": "Green Area",
+      "count": 19
+     },
+     {
+      "name": "Future Use",
+      "count": 14
+     },
+     {
+      "name": "Fazaa",
+      "count": 13
+     },
+     {
+      "name": "Iramaage",
+      "count": 13
+     },
+     {
+      "name": "Udhares",
+      "count": 13
+     },
+     {
+      "name": "Asseyri",
+      "count": 12
+     },
+     {
+      "name": "Asurumaage",
+      "count": 12
+     },
+     {
+      "name": "Fehivina",
+      "count": 12
+     },
+     {
+      "name": "Mala",
+      "count": 12
+     },
+     {
+      "name": "Athamaage",
+      "count": 11
+     },
+     {
+      "name": "Chaman",
+      "count": 11
+     }
+    ],
+    "suffixes": [
+     {
+      "suffix": "ge",
+      "count": 1220,
+      "pct": 26,
+      "examples": [
+       "Irudheymaage",
+       "Finivaage",
+       "Guley Nooranmaage",
+       "Nooraneege"
+      ]
+     },
+     {
+      "suffix": "aage",
+      "count": 616,
+      "pct": 13.1,
+      "examples": [
+       "Irudheymaage",
+       "Finivaage",
+       "Guley Nooranmaage",
+       "Heenaamaage"
+      ]
+     },
+     {
+      "suffix": "maage",
+      "count": 360,
+      "pct": 7.7,
+      "examples": [
+       "Irudheymaage",
+       "Guley Nooranmaage",
+       "Heenaamaage",
+       "Huvandhumaage"
+      ]
+     },
+     {
+      "suffix": "villa",
+      "count": 218,
+      "pct": 4.6,
+      "examples": [
+       "Athamaa Villa",
+       "Finivilla",
+       "Husnoo Villa",
+       "Roazy Villa"
+      ]
+     },
+     {
+      "suffix": "house",
+      "count": 75,
+      "pct": 1.6,
+      "examples": [
+       "Cherry House",
+       "Green House",
+       "Funeral House",
+       "Light House"
+      ]
+     }
+    ],
+    "signature": {
+     "total": 1120,
+     "top": [
+      {
+       "name": "Plot",
+       "count": 45
+      },
+      {
+       "name": "Jamsareeruge",
+       "count": 4
+      },
+      {
+       "name": "A.Raazee",
+       "count": 2
+      },
+      {
+       "name": "A.Rif'athu",
+       "count": 2
+      },
+      {
+       "name": "Aaraamge",
+       "count": 2
+      },
+      {
+       "name": "Ahmed Naseeru",
+       "count": 2
+      },
+      {
+       "name": "Ahmed Nizaaru",
+       "count": 2
+      },
+      {
+       "name": "Ali Zafir",
+       "count": 2
+      },
+      {
+       "name": "Carpentery Area",
+       "count": 2
+      },
+      {
+       "name": "Coconut Palm Tree Area",
+       "count": 2
+      },
+      {
+       "name": "Ekuveringe Rooh",
+       "count": 2
+      },
+      {
+       "name": "Faarudhoshuge",
+       "count": 2
+      }
+     ]
+    }
+   },
+   "roads": {
+    "records": 9,
+    "uniqueNames": 9,
+    "topNames": [
+     {
+      "name": "Aaroa Magu",
+      "count": 1
+     },
+     {
+      "name": "Ameenee Magu",
+      "count": 1
+     },
+     {
+      "name": "Asrafee Magu",
+      "count": 1
+     },
+     {
+      "name": "Bandahamagu",
+      "count": 1
+     },
+     {
+      "name": "Chaandhanee Magu",
+      "count": 1
+     },
+     {
+      "name": "Feevak Ring Road",
+      "count": 1
+     },
+     {
+      "name": "Lunboama Goalhi",
+      "count": 1
+     },
+     {
+      "name": "Rosanee Magu",
+      "count": 1
+     }
+    ],
+    "signature": {
+     "total": 5,
+     "top": [
+      {
+       "name": "Aaroa Magu",
+       "count": 1
+      },
+      {
+       "name": "Bandahamagu",
+       "count": 1
+      },
+      {
+       "name": "Feevak Ring Road",
+       "count": 1
+      },
+      {
+       "name": "Lunboama Goalhi",
+       "count": 1
+      },
+      {
+       "name": "Rosanee Magu",
+       "count": 1
+      }
+     ]
+    }
+   }
+  },
+  {
+   "atoll": "Thaa",
+   "islands": 62,
+   "inhabitedIslands": 13,
+   "islandsWithData": 13,
+   "houses": {
+    "records": 3197,
+    "uniqueNames": 2173,
+    "singletons": 1722,
+    "avgLength": 11.2,
+    "topNames": [
+     {
+      "name": "Finifenmaage",
+      "count": 11
+     },
+     {
+      "name": "Irudheymaage",
+      "count": 11
+     },
+     {
+      "name": "Huvandhumaage",
+      "count": 10,
+      "variants": 2
+     },
+     {
+      "name": "Karankaage",
+      "count": 10
+     },
+     {
+      "name": "Sosun Villa",
+      "count": 10,
+      "variants": 2
+     },
+     {
+      "name": "Asseyri",
+      "count": 9
+     },
+     {
+      "name": "Asurumaage",
+      "count": 9
+     },
+     {
+      "name": "Bahaaruge",
+      "count": 9
+     },
+     {
+      "name": "Minivan Asseyri",
+      "count": 9,
+      "variants": 3
+     },
+     {
+      "name": "Rihiveli",
+      "count": 9
+     },
+     {
+      "name": "Bageechaage",
+      "count": 8
+     },
+     {
+      "name": "Dhoores",
+      "count": 8
+     }
+    ],
+    "suffixes": [
+     {
+      "suffix": "ge",
+      "count": 927,
+      "pct": 29,
+      "examples": [
+       "Kurahaage",
+       "Jambumaage",
+       "Filigasdhoshuge",
+       "Vaijeheyge"
+      ]
+     },
+     {
+      "suffix": "aage",
+      "count": 442,
+      "pct": 13.8,
+      "examples": [
+       "Kurahaage",
+       "Jambumaage",
+       "Dhilaasaage",
+       "Valuaage"
+      ]
+     },
+     {
+      "suffix": "maage",
+      "count": 254,
+      "pct": 7.9,
+      "examples": [
+       "Jambumaage",
+       "Hudhuasurumaage",
+       "Finifenmaage",
+       "Jareemaage"
+      ]
+     },
+     {
+      "suffix": "villa",
+      "count": 169,
+      "pct": 5.3,
+      "examples": [
+       "Aasamanu Villa",
+       "Sosun Villa",
+       "Beach Villa",
+       "Athamaa Villa"
+      ]
+     },
+     {
+      "suffix": "manzil",
+      "count": 56,
+      "pct": 1.8,
+      "examples": [
+       "Sazunaamanzil",
+       "Dhathurumanzil",
+       "Safaamanzil",
+       "Noorumanzil"
+      ]
+     }
+    ],
+    "signature": {
+     "total": 855,
+     "top": [
+      {
+       "name": "Ulhandhu Elhun Manaa",
+       "count": 6
+      },
+      {
+       "name": "Uvavalhu",
+       "count": 6
+      },
+      {
+       "name": "Alah Goathi Dhey Sarahadhu",
+       "count": 4
+      },
+      {
+       "name": "Fish Processing",
+       "count": 4
+      },
+      {
+       "name": "Moosa Jameel",
+       "count": 3
+      },
+      {
+       "name": "Vacated Plot",
+       "count": 3
+      },
+      {
+       "name": "Yaagoothu Villa",
+       "count": 3
+      },
+      {
+       "name": "Abdhul Haleem Ali",
+       "count": 2
+      },
+      {
+       "name": "Ahmed Jameel",
+       "count": 2
+      },
+      {
+       "name": "Ahmed Khaneef/Aasha",
+       "count": 2
+      },
+      {
+       "name": "Aminath Goathi",
+       "count": 2
+      },
+      {
+       "name": "Amjadh Hussain",
+       "count": 2
+      }
+     ]
+    }
+   },
+   "roads": {
+    "records": 36,
+    "uniqueNames": 35,
+    "topNames": [
+     {
+      "name": "Ghaazee Magu",
+      "count": 2
+     },
+     {
+      "name": "Abadhah Ufaa Magu",
+      "count": 1
+     },
+     {
+      "name": "Aliwazeeru Magu",
+      "count": 1
+     },
+     {
+      "name": "Banafusaa Magu",
+      "count": 1
+     },
+     {
+      "name": "Carnation Goalhi",
+      "count": 1
+     },
+     {
+      "name": "Dhakandhaa Magu",
+      "count": 1
+     },
+     {
+      "name": "Dhankandhaa Goalhi",
+      "count": 1
+     },
+     {
+      "name": "Finihiyaa Hingun",
+      "count": 1
+     }
+    ],
+    "signature": {
+     "total": 14,
+     "top": [
+      {
+       "name": "Aliwazeeru Magu",
+       "count": 1
+      },
+      {
+       "name": "Banafusaa Magu",
+       "count": 1
+      },
+      {
+       "name": "Carnation Goalhi",
+       "count": 1
+      },
+      {
+       "name": "Dhankandhaa Goalhi",
+       "count": 1
+      },
+      {
+       "name": "Finihiyaa Hingun",
+       "count": 1
+      },
+      {
+       "name": "Kaneeree Magu",
+       "count": 1
+      },
+      {
+       "name": "Miskith Magu",
+       "count": 1
+      },
+      {
+       "name": "Nalahiyaa Goalhi",
+       "count": 1
+      }
+     ]
+    }
+   }
+  },
+  {
+   "atoll": "Vaavu",
+   "islands": 18,
+   "inhabitedIslands": 5,
+   "islandsWithData": 5,
+   "houses": {
+    "records": 572,
+    "uniqueNames": 474,
+    "singletons": 397,
+    "avgLength": 10.38,
+    "topNames": [
+     {
+      "name": "Asseyri",
+      "count": 4
+     },
+     {
+      "name": "Cemetry",
+      "count": 4
+     },
+     {
+      "name": "Manzil",
+      "count": 4
+     },
+     {
+      "name": "Moonimaage",
+      "count": 4
+     },
+     {
+      "name": "Alivaage",
+      "count": 3
+     },
+     {
+      "name": "Bandharu",
+      "count": 3
+     },
+     {
+      "name": "Dhilkusaage",
+      "count": 3
+     },
+     {
+      "name": "Engine House",
+      "count": 3
+     },
+     {
+      "name": "Finiroalhi",
+      "count": 3
+     },
+     {
+      "name": "Heenaamaage",
+      "count": 3
+     },
+     {
+      "name": "Hiyaa",
+      "count": 3
+     },
+     {
+      "name": "Huvandhumaage",
+      "count": 3
+     }
+    ],
+    "suffixes": [
+     {
+      "suffix": "ge",
+      "count": 190,
+      "pct": 33.2,
+      "examples": [
+       "Noorange",
+       "Stage",
+       "Irudheymaage",
+       "Maagasdhoshuge"
+      ]
+     },
+     {
+      "suffix": "aage",
+      "count": 115,
+      "pct": 20.1,
+      "examples": [
+       "Irudheymaage",
+       "Gul'alaamaage",
+       "Daisymaage",
+       "Janavareemaage"
+      ]
+     },
+     {
+      "suffix": "maage",
+      "count": 71,
+      "pct": 12.4,
+      "examples": [
+       "Irudheymaage",
+       "Gul'alaamaage",
+       "Daisymaage",
+       "Janavareemaage"
+      ]
+     },
+     {
+      "suffix": "villa",
+      "count": 30,
+      "pct": 5.2,
+      "examples": [
+       "Nooraanee Villa",
+       "Foreign Villa",
+       "Fehi Villa",
+       "Green Villa"
+      ]
+     },
+     {
+      "suffix": "manzil",
+      "count": 18,
+      "pct": 3.1,
+      "examples": [
+       "Suleyhaa Manzil",
+       "Asrafee Manzil",
+       "Roashanee Manzil",
+       "Ifaashaa Manzil"
+      ]
+     }
+    ],
+    "signature": {
+     "total": 107,
+     "top": [
+      {
+       "name": "Henamaage",
+       "count": 2
+      },
+      {
+       "name": "Aarif Bai",
+       "count": 1
+      },
+      {
+       "name": "Aazaadhee",
+       "count": 1
+      },
+      {
+       "name": "Adhooree",
+       "count": 1
+      },
+      {
+       "name": "Ahoo",
+       "count": 1
+      },
+      {
+       "name": "Ainth",
+       "count": 1
+      },
+      {
+       "name": "Ali Saleem Bai",
+       "count": 1
+      },
+      {
+       "name": "Amyna Manzil",
+       "count": 1
+      },
+      {
+       "name": "Angoorumaage Aage",
+       "count": 1
+      },
+      {
+       "name": "Animoani",
+       "count": 1
+      },
+      {
+       "name": "Asia Manzil",
+       "count": 1
+      },
+      {
+       "name": "Asiage",
+       "count": 1
+      }
+     ]
+    }
+   },
+   "roads": {
+    "records": 1,
+    "uniqueNames": 1,
+    "topNames": [
+     {
+      "name": "Beach Road",
+      "count": 1
+     }
+    ],
+    "signature": {
+     "total": 0,
+     "top": []
+    }
+   }
+  }
+ ]
 }

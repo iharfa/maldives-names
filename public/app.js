@@ -217,6 +217,77 @@
       )}`;
   }
 
+  function renderAtolls(A) {
+    const tab = $("#tab-atolls");
+    const atolls = [...A.atolls].sort((a, b) => b.houses.records - a.houses.records);
+    tab.innerHTML = `
+      <div class="controls" style="align-items:center">
+        <select id="atoll-pick">
+          ${atolls.map((a) => `<option value="${esc(a.atoll)}">${esc(a.atoll)} — ${fmt(a.houses.records)} house names</option>`).join("")}
+        </select>
+        <span class="result-count">Inhabited (residential) islands only</span>
+      </div>
+      <div id="atoll-body"></div>
+      ${card(
+        "All atolls compared",
+        "House and road names collected from inhabited islands, per atoll",
+        `<div style="overflow-x:auto"><table class="data">
+          <thead><tr><th>Atoll</th><th class="num">Inhabited islands</th><th class="num">House names</th><th class="num">Unique</th><th class="num">Only in this atoll</th><th class="num">Used once</th><th class="num">Named roads</th></tr></thead>
+          <tbody>${atolls
+            .map(
+              (a) => `<tr><td>${esc(a.atoll)}</td><td class="num">${fmt(a.inhabitedIslands)}</td><td class="num">${fmt(a.houses.records)}</td><td class="num">${fmt(
+                a.houses.uniqueNames
+              )}</td><td class="num">${fmt(a.houses.signature.total)}</td><td class="num">${fmt(a.houses.singletons)}</td><td class="num">${fmt(a.roads.records)}</td></tr>`
+            )
+            .join("")}</tbody></table></div>`
+      )}`;
+    const body = $("#atoll-body");
+    const render = () => {
+      const a = A.atolls.find((x) => x.atoll === $("#atoll-pick").value);
+      const sigTable = (sig, noun) =>
+        `<table class="data"><thead><tr><th>Name</th><th class="num">Count</th></tr></thead><tbody>${sig.top
+          .map((s) => `<tr><td>${esc(s.name)}</td><td class="num">${fmt(s.count)}</td></tr>`)
+          .join("")}</tbody></table>
+         <p class="note" style="margin-top:10px">${fmt(sig.total)} ${noun} are found in ${esc(a.atoll)} and in no other atoll.</p>`;
+      body.innerHTML = `
+        <div class="kpis">
+          ${kpi(fmt(a.inhabitedIslands), "inhabited islands")}
+          ${kpi(fmt(a.islandsWithData), "islands with data")}
+          ${kpi(fmt(a.houses.records), "house names")}
+          ${kpi(fmt(a.houses.uniqueNames), "unique house names")}
+          ${kpi(fmt(a.houses.signature.total), "found only in this atoll")}
+          ${kpi(fmt(a.roads.records), "named roads")}
+        </div>
+        <div class="grid2">
+          ${card(`Most common house names in ${a.atoll}`, "Occurrences across the atoll's inhabited islands", barList(a.houses.topNames))}
+          ${card(
+            `Signature house names of ${a.atoll}`,
+            "Most frequent names that appear in no other atoll",
+            sigTable(a.houses.signature, "house names")
+          )}
+        </div>
+        <div class="grid2">
+          ${
+            a.roads.records
+              ? card(`Most common road names in ${a.atoll}`, "", barList(a.roads.topNames))
+              : card(`Road names in ${a.atoll}`, "", `<p class="note">No named roads mapped on this atoll's inhabited islands yet.</p>`)
+          }
+          ${card(
+            `House-name endings in ${a.atoll}`,
+            `Average name length: ${a.houses.avgLength} characters; ${fmt(a.houses.singletons)} names used exactly once`,
+            suffixTable(a.houses.suffixes)
+          )}
+        </div>
+        ${
+          a.roads.signature.total
+            ? `<div class="grid2">${card(`Road names found only in ${a.atoll}`, "", sigTable(a.roads.signature, "road names"))}<div></div></div>`
+            : ""
+        }`;
+    };
+    $("#atoll-pick").addEventListener("input", render);
+    render();
+  }
+
   // ---------- explore (lazy loads full datasets) ----------
   let exploreReady = false;
   async function ensureExplore() {
@@ -312,6 +383,7 @@
       renderHousesTab(A);
       renderNameSection($("#tab-roads"), A.roads, { recordsLabel: "distinct named roads", noun: "road names" });
       renderIslands(A);
+      renderAtolls(A);
       $("#generated").textContent = `Analysis generated ${new Date(A.generated).toUTCString()}.`;
     })
     .catch((e) => {

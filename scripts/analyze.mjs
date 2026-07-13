@@ -231,6 +231,78 @@ const islandsSection = {
   },
 };
 
+// ---------- Atolls ----------
+// Per-atoll view over INHABITED (Residential) islands only, per the site's
+// atoll explorer: most common names, names found in that atoll and nowhere
+// else ("signature names"), suffix profile, and comparison metrics.
+const resHouses = realHouses.filter((h) => h.islandCategory === "Residential Island");
+const resRoads = roads.filter((r) => r.islandCategory === "Residential Island");
+
+function atollSpread(records) {
+  const m = new Map(); // norm name -> Set(atoll)
+  for (const r of records) {
+    const k = normalizeName(r.name);
+    if (!m.has(k)) m.set(k, new Set());
+    m.get(k).add(r.atoll);
+  }
+  return m;
+}
+const houseAtollSpread = atollSpread(resHouses);
+const roadAtollSpread = atollSpread(resRoads);
+
+function signatureNames(records, spread, n) {
+  // names that occur in this atoll only (nationally), ranked by local count
+  const groups = new Map();
+  for (const r of records) {
+    const k = normalizeName(r.name);
+    if (spread.get(k).size !== 1) continue;
+    if (!groups.has(k)) groups.set(k, { count: 0, forms: new Map() });
+    const g = groups.get(k);
+    g.count++;
+    g.forms.set(r.name, (g.forms.get(r.name) ?? 0) + 1);
+  }
+  const canonical = (g) => [...g.forms.entries()].sort((a, b) => b[1] - a[1])[0][0];
+  return {
+    total: groups.size,
+    top: [...groups.values()]
+      .sort((a, b) => b.count - a.count || canonical(a).localeCompare(canonical(b)))
+      .slice(0, n)
+      .map((g) => ({ name: canonical(g), count: g.count })),
+  };
+}
+
+const atollsSection = [];
+for (const atoll of [...new Set(inhabited.map((i) => i.atoll))].sort()) {
+  const hRecs = resHouses.filter((h) => h.atoll === atoll);
+  const rRecs = resRoads.filter((r) => r.atoll === atoll);
+  const hStats = nameStats(hRecs, (h) => h.name);
+  const rStats = nameStats(rRecs, (r) => r.name);
+  const hSig = signatureNames(hRecs, houseAtollSpread, 12);
+  const rSig = signatureNames(rRecs, roadAtollSpread, 8);
+  const regIslands = islands.filter((i) => i.atoll === atoll);
+  atollsSection.push({
+    atoll,
+    islands: regIslands.length,
+    inhabitedIslands: regIslands.filter((i) => i.category === "Residential Island").length,
+    islandsWithData: new Set(hRecs.map((h) => h.island)).size,
+    houses: {
+      records: hStats.records,
+      uniqueNames: hStats.uniqueNames,
+      singletons: hStats.singletons,
+      avgLength: hStats.avgLength,
+      topNames: hStats.topNames.slice(0, 12),
+      suffixes: suffixStats(hRecs.map((h) => h.name), ["ge", "villa", "maage", "manzil", "aage", "house"]).slice(0, 5),
+      signature: hSig,
+    },
+    roads: {
+      records: rStats.records,
+      uniqueNames: rStats.uniqueNames,
+      topNames: rStats.topNames.slice(0, 8),
+      signature: rSig,
+    },
+  });
+}
+
 const analysis = {
   generated: new Date().toISOString(),
   sources: {
@@ -242,6 +314,7 @@ const analysis = {
   houses: housesSection,
   roads: roadsSection,
   islands: islandsSection,
+  atolls: atollsSection,
 };
 
 writeFileSync(join(OUT, "analysis.json"), JSON.stringify(analysis, null, 1));
