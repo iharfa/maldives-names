@@ -109,7 +109,7 @@ const NON_HOUSE_BUILDING = new Set([
 ]);
 
 // Institutional/commercial keywords that mark a building name as not a house name
-const INSTITUTIONAL = /\b(council|bank|corporation|company|pvt|ltd|school|madharusaa|mosque|miskiy|masjid|ministry|office|hospital|health|clinic|centre|center|station|court|customs|police|airport|terminal|jetty|harbour|harbor|powerhouse|power house|fenaka|stelco|mifco|stoarage|storage|warehouse|factory|workshop|showroom|shop|store|market|restaurant|cafe|hotel|guest ?house|resort|reception|spa|gym|hall|stadium|mri|wc|toilet|building|rooms|plant|association|academy|institute|campus|library|futsal|mortuary|garage|proposed|reserved|under construction|housing units?|sqft|land use|waste|cemetery|qabrusthan|kulhivaru|park|beach area|picnic)\b/i;
+const INSTITUTIONAL = /\b(council|bank|corporation|company|pvt|ltd|school|madharusaa|mosque|miskiy|masjid|ministry|office|hospital|health|clinic|centre|center|station|court|customs|police|airport|terminal|jetty|harbour|harbor|powerhouse|power house|fenaka|stelco|mifco|stoarage|storage|warehouse|factory|workshop|showroom|shop|store|market|restaurant|cafe|hotel|guest ?house|resort|reception|spa|gym|hall|stadium|mri|wc|toilet|building|rooms|plant|association|academy|institute|campus|library|futsal|mortuary|garage|proposed|reserved|under construction|housing units?|sqft|land use|waste|cemetery|qabrusthan|kulhivaru|park|beach area|picnic|fihaara|gudhan|hardware|pharmacy|salon|corner ?shop)\b/i;
 // Unit/block codes like "C1", "R15", "B-204", "101" — labels, not names
 const UNIT_CODE = /^[A-Za-z]{0,3}[-– ]?\d+[A-Za-z]?$/;
 // Vacant-plot placeholders in the national register: "Hus Goathi" (empty plot),
@@ -201,9 +201,47 @@ for (const { el, tags, name, co } of houseMap.values()) {
     distKm: +km.toFixed(2),
   });
 }
+// Third source: building labels extracted from the MBS Malé City census map
+// PDFs (statisticsmaldives.gov.mv/maale-city-map — see extract_pdf_labels.py).
+// Island is known per PDF; FCODE from the map titles pins the exact island.
+const PDF_ISLAND_FCODE = { "Malé": "LD0442", "Hulhumalé": "LD0591", "Villingili": "LD0268" };
+let pdfAdded = 0, pdfDupes = 0;
+try {
+  const pdfLabels = read("mbs_pdf_labels.json");
+  const byFcode = new Map(islands.map((i) => [i.fcode, i]));
+  for (const [islandName, labels] of Object.entries(pdfLabels)) {
+    const island = byFcode.get(PDF_ISLAND_FCODE[islandName]);
+    if (!island) continue;
+    const seen = new Set();
+    for (let name of labels) {
+      name = name.replace(/\s*\(LD\d+\)\s*/g, "").trim();
+      // skip the map's own title label ("Maale", "Hulhumaale", "Villingili")
+      if (!name || name.toLowerCase().replace(/[eé]/g, "e") === island.name.toLowerCase().replace(/[eé]/g, "e") || /^(maale|hulhumaale|villingili)$/i.test(name)) continue;
+      const key = `${island.name}|${name.toLowerCase()}`;
+      if (mbsKeys.has(key) || seen.has(key)) {
+        pdfDupes++;
+        continue;
+      }
+      seen.add(key);
+      houses.push({
+        name,
+        kind: classifyBuilding({}, name, island.category),
+        src: "mbs-pdf",
+        island: island.name,
+        atoll: island.atoll,
+        islandCategory: island.category,
+      });
+      pdfAdded++;
+    }
+  }
+} catch (e) {
+  console.warn(`mbs_pdf_labels.json not available (${e.message}) — skipping PDF source`);
+}
+console.log(`pdf labels: ${pdfAdded} added, ${pdfDupes} already known`);
+
 writeFileSync(join(OUT, "houses.json"), JSON.stringify(houses));
 console.log(
-  `houses: ${houses.length} named buildings — ${mbsCount} from MBS register, ${houses.length - mbsCount} OSM-only (${osmDupes} OSM records already in register), ${houses.filter((h) => h.kind === "house").length} classified residential`
+  `houses: ${houses.length} named buildings — ${mbsCount} MBS register, ${pdfAdded} census-map PDFs, ${houses.filter((h) => h.src === "osm").length} OSM-only (${osmDupes} OSM dupes skipped), ${houses.filter((h) => h.kind === "house").length} classified residential`
 );
 
 // ---------- Roads ----------
@@ -294,7 +332,8 @@ writeFileSync(
     unnamedIslands: rawIslands.features.length - islands.length,
     islandsFetched: rawIslands.fetched ?? null,
     housesMbs: mbsCount,
-    housesOsmOnly: houses.length - mbsCount,
+    housesPdf: pdfAdded,
+    housesOsmOnly: houses.filter((h) => h.src === "osm").length,
     osmDupesSkipped: osmDupes,
     mbsIslandsTotal: mbsIslands.length,
     mbsIslandsInhabited: mbsIslands.filter((i) => i.category === "Inhabited").length,

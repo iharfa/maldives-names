@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-12T10:04:46.153Z",
+ "generated": "2026-07-12T10:15:30.626Z",
  "sources": {
   "islands": "onemap.mv (Maldives Land and Survey Authority) — island_20240509 FeatureServer",
   "addresses": "Maldives Bureau of Statistics national address register — statisticsmaldives.gov.mv/gismaps (statsmap Address layer)",
@@ -7,8 +7,8 @@
   "excluded": "Google Maps (Terms of Service prohibit bulk data extraction)"
  },
  "houses": {
-  "records": 81475,
-  "uniqueNames": 36011,
+  "records": 81939,
+  "uniqueNames": 36476,
   "topNames": [
    {
     "name": "Asseyri",
@@ -285,7 +285,7 @@
     "count": 1
    }
   ],
-  "avgLength": 11.27,
+  "avgLength": 11.24,
   "lengthDist": [
    {
     "length": 3,
@@ -293,75 +293,75 @@
    },
    {
     "length": 4,
-    "count": 941
+    "count": 947
    },
    {
     "length": 5,
-    "count": 2083
+    "count": 2094
    },
    {
     "length": 6,
-    "count": 3197
+    "count": 3226
    },
    {
     "length": 7,
-    "count": 3424
+    "count": 3471
    },
    {
     "length": 8,
-    "count": 3374
+    "count": 3465
    },
    {
     "length": 9,
-    "count": 3027
+    "count": 3095
    },
    {
     "length": 10,
-    "count": 3015
+    "count": 3093
    },
    {
     "length": 11,
-    "count": 2757
+    "count": 2825
    },
    {
     "length": 12,
-    "count": 2534
+    "count": 2580
    },
    {
     "length": 13,
-    "count": 2136
+    "count": 2169
    },
    {
     "length": 14,
-    "count": 1838
+    "count": 1851
    },
    {
     "length": 15,
-    "count": 1460
+    "count": 1462
    },
    {
     "length": 16,
-    "count": 1023
+    "count": 1027
    },
    {
     "length": 17,
-    "count": 765
+    "count": 757
    },
    {
     "length": 18,
-    "count": 558
+    "count": 551
    },
    {
     "length": 19,
-    "count": 466
+    "count": 463
    },
    {
     "length": 20,
-    "count": 402
+    "count": 403
    },
    {
     "length": 21,
-    "count": 407
+    "count": 405
    },
    {
     "length": 22,
@@ -369,11 +369,11 @@
    },
    {
     "length": 23,
-    "count": 350
+    "count": 349
    },
    {
     "length": 24,
-    "count": 304
+    "count": 295
    },
    {
     "length": 25,
@@ -381,7 +381,7 @@
    },
    {
     "length": 26,
-    "count": 250
+    "count": 249
    },
    {
     "length": 27,
@@ -397,13 +397,13 @@
    },
    {
     "length": 30,
-    "count": 350
+    "count": 349
    }
   ],
   "topWords": [
    {
     "name": "Villa",
-    "count": 3446
+    "count": 3453
    },
    {
     "name": "Goathi",
@@ -411,11 +411,11 @@
    },
    {
     "name": "House",
-    "count": 1044
+    "count": 1046
    },
    {
     "name": "Manzil",
-    "count": 899
+    "count": 900
    },
    {
     "name": "Rose",
@@ -423,7 +423,7 @@
    },
    {
     "name": "Mohamed",
-    "count": 669
+    "count": 670
    },
    {
     "name": "Blue",
@@ -431,22 +431,26 @@
    },
    {
     "name": "Ali",
-    "count": 610
+    "count": 611
    },
    {
     "name": "Ahmed",
-    "count": 542
+    "count": 541
    },
    {
     "name": "Beach",
-    "count": 528
-   },
-   {
-    "name": "Green",
-    "count": 498
+    "count": 531
    },
    {
     "name": "Aage",
+    "count": 499
+   },
+   {
+    "name": "Green",
+    "count": 499
+   },
+   {
+    "name": "Hiyaa",
     "count": 494
    },
    {
@@ -454,32 +458,28 @@
     "count": 493
    },
    {
-    "name": "Hiyaa",
-    "count": 462
-   },
-   {
     "name": "Light",
-    "count": 451
+    "count": 452
    },
    {
     "name": "Ibrahim",
     "count": 400
    },
    {
-    "name": "2",
-    "count": 366
-   },
-   {
     "name": "View",
-    "count": 366
+    "count": 368
    },
    {
     "name": "White",
     "count": 366
    },
    {
+    "name": "2",
+    "count": 365
+   },
+   {
     "name": "1",
-    "count": 304
+    "count": 308
    },
    {
     "name": "Night",
@@ -491,7 +491,7 @@
    },
    {
     "name": "New",
-    "count": 277
+    "count": 276
    },
    {
     "name": "Vaadhee",
@@ -505,7 +505,7 @@
   "topLastWords": [
    {
     "name": "Villa",
-    "count": 3297
+    "count": 3305
    },
    {
     "name": "Goathi",
@@ -513,11 +513,11 @@
    },
    {
     "name": "House",
-    "count": 965
+    "count": 967
    },
    {
     "name": "Manzil",
-    "count": 748
+    "count": 749
    },
    {
     "name": "Rose",
@@ -525,7 +525,7 @@
    },
    {
     "name": "Aage",
-    "count": 449
+    "count": 453
    },
    {
     "name": "Star",
@@ -533,7 +533,7 @@
    },
    {
     "name": "2",
-    "count": 357
+    "count": 356
    },
    {
     "name": "Hiyaa",
@@ -541,40 +541,41 @@
    },
    {
     "name": "View",
-    "count": 338
+    "count": 339
    },
    {
     "name": "Light",
-    "count": 322
+    "count": 323
    },
    {
     "name": "1",
-    "count": 297
+    "count": 301
    },
    {
     "name": "Flower",
-    "count": 221
+    "count": 222
    },
    {
     "name": "Side",
-    "count": 206
+    "count": 207
    },
    {
     "name": "Heaven",
     "count": 180
    }
   ],
-  "singletons": 28003,
-  "allNamedBuildings": 94524,
+  "singletons": 28439,
+  "allNamedBuildings": 100254,
   "bySource": {
    "mbs": 91284,
+   "mbsPdf": 5730,
    "osmOnly": 3240
   },
   "suffixes": [
    {
     "suffix": "ge",
-    "count": 21079,
-    "pct": 25.9,
+    "count": 21123,
+    "pct": 25.8,
     "examples": [
      "Zamaaneege",
      "Tharimaage",
@@ -584,8 +585,8 @@
    },
    {
     "suffix": "aage",
-    "count": 9983,
-    "pct": 12.3,
+    "count": 9996,
+    "pct": 12.2,
     "examples": [
      "Tharimaage",
      "Chabeylimaage",
@@ -595,7 +596,7 @@
    },
    {
     "suffix": "maage",
-    "count": 5374,
+    "count": 5377,
     "pct": 6.6,
     "examples": [
      "Tharimaage",
@@ -606,7 +607,7 @@
    },
    {
     "suffix": "villa",
-    "count": 3780,
+    "count": 3790,
     "pct": 4.6,
     "examples": [
      "Garden Villa",
@@ -617,7 +618,7 @@
    },
    {
     "suffix": "manzil",
-    "count": 1069,
+    "count": 1070,
     "pct": 1.3,
     "examples": [
      "Mareena Manzil",
@@ -628,8 +629,8 @@
    },
    {
     "suffix": "house",
-    "count": 1022,
-    "pct": 1.3,
+    "count": 1024,
+    "pct": 1.2,
     "examples": [
      "Bencho House",
      "Orchid House",
@@ -639,7 +640,7 @@
    },
    {
     "suffix": "light",
-    "count": 596,
+    "count": 597,
     "pct": 0.7,
     "examples": [
      "Light",
@@ -650,7 +651,7 @@
    },
    {
     "suffix": "view",
-    "count": 398,
+    "count": 399,
     "pct": 0.5,
     "examples": [
      "Beach View",
@@ -661,7 +662,7 @@
    },
    {
     "suffix": "side",
-    "count": 268,
+    "count": 270,
     "pct": 0.3,
     "examples": [
      "Sunside",
@@ -686,8 +687,8 @@
    {
     "island": "Malé",
     "atoll": "MLE",
-    "count": 7126,
-    "unique": 7087
+    "count": 7658,
+    "unique": 7619
    },
    {
     "island": "Fuvahmulah",
@@ -704,14 +705,14 @@
    {
     "island": "Kulhudhuffushi",
     "atoll": "Haa Dhaalu",
-    "count": 2056,
-    "unique": 2036
+    "count": 2055,
+    "unique": 2035
    },
    {
     "island": "Thinadhoo",
     "atoll": "Gaafu Dhaalu",
-    "count": 1770,
-    "unique": 1741
+    "count": 1768,
+    "unique": 1740
    },
    {
     "island": "Naifaru",
@@ -722,20 +723,20 @@
    {
     "island": "Feydhoo",
     "atoll": "Seenu",
-    "count": 1205,
-    "unique": 1188
+    "count": 1204,
+    "unique": 1187
    },
    {
     "island": "Meedhoo",
     "atoll": "Dhaalu",
-    "count": 997,
-    "unique": 950
+    "count": 983,
+    "unique": 946
    },
    {
     "island": "Hoarafushi",
     "atoll": "Haa Alifu",
-    "count": 957,
-    "unique": 947
+    "count": 956,
+    "unique": 946
    },
    {
     "island": "Vilin'gili",
@@ -746,8 +747,8 @@
    {
     "island": "Maamigili",
     "atoll": "Alifu Dhaalu",
-    "count": 907,
-    "unique": 866
+    "count": 901,
+    "unique": 862
    },
    {
     "island": "Maradhoo",
@@ -776,8 +777,8 @@
    {
     "island": "Fonadhoo",
     "atoll": "Laamu",
-    "count": 861,
-    "unique": 844
+    "count": 860,
+    "unique": 843
    },
    {
     "island": "Dhidhdhoo",
@@ -788,14 +789,14 @@
    {
     "island": "Hinnavaru",
     "atoll": "Lhaviyani",
-    "count": 818,
-    "unique": 808
+    "count": 811,
+    "unique": 801
    },
    {
     "island": "Milandhoo",
     "atoll": "Shaviyani",
-    "count": 791,
-    "unique": 764
+    "count": 790,
+    "unique": 763
    },
    {
     "island": "Thulhaadhoo",
@@ -806,8 +807,8 @@
    {
     "island": "Nolhivaran",
     "atoll": "Haa Dhaalu",
-    "count": 708,
-    "unique": 694
+    "count": 707,
+    "unique": 693
    },
    {
     "island": "Velidhoo",
@@ -824,20 +825,20 @@
    {
     "island": "Alifushi",
     "atoll": "Raa",
-    "count": 688,
-    "unique": 683
+    "count": 687,
+    "unique": 682
    },
    {
     "island": "Funadhoo",
     "atoll": "Shaviyani",
-    "count": 688,
-    "unique": 678
+    "count": 683,
+    "unique": 677
    }
   ],
   "islandsCovered": 195,
   "spread": {
-   "oneIsland": 27918,
-   "multiIsland": 7712,
+   "oneIsland": 28353,
+   "multiIsland": 7743,
    "mostWidespread": [
     {
      "name": "asseyri",

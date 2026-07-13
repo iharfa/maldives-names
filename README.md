@@ -15,6 +15,7 @@ and per-atoll breakdowns.
 | Data | Source | License / terms |
 |---|---|---|
 | National address register (~92k address points with house names) | [Maldives Bureau of Statistics GIS maps](https://statisticsmaldives.gov.mv/gismaps/) (statsmap Address layer, published as qgis2web GeoJSON) | © Maldives Bureau of Statistics |
+| Malé City building labels (~5.7k additional names for Malé, Hulhumalé, Villingili) | [MBS Malé City census maps](https://statisticsmaldives.gov.mv/maale-city-map/) (vector PDFs; labels extracted with `scripts/extract_pdf_labels.py`, requires Python + pdfplumber) | © Maldives Bureau of Statistics |
 | House names, road names (supplementary) | [OpenStreetMap](https://www.openstreetmap.org) via the Overpass API | [ODbL](https://www.openstreetmap.org/copyright) — © OpenStreetMap contributors |
 | Roads with Dhivehi names (Malé region) | MBS statsmap Road layer | © Maldives Bureau of Statistics |
 | Island registry (all ~1,560 islands, inhabited flag, atolls, Dhivehi names) | Maldives Land and Survey Authority via [onemap.mv](https://onemap.mv) (public ArcGIS FeatureServer) | © Maldives Land and Survey Authority |
@@ -46,10 +47,15 @@ public/                  # static dashboard (deployed to Vercel)
 ```bash
 npm run pipeline   # collect + build-data + analyze
 node scripts/copy-data.mjs
-# then open public/index.html via any static server
+# then open public/index.html via any static server (node scripts/serve.mjs)
 ```
 
 Requires Node 18+. No npm dependencies.
+
+Optional: to refresh the Malé City PDF building labels, run
+`python scripts/extract_pdf_labels.py` (needs `pip install pdfplumber`) after
+downloading the PDFs — its output `data/raw/mbs_pdf_labels.json` is committed,
+so the Node pipeline works without Python.
 
 ## Methodology notes
 

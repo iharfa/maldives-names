@@ -113,6 +113,7 @@ const housesSection = {
   allNamedBuildings: houses.length,
   bySource: {
     mbs: houses.filter((h) => h.src === "mbs").length,
+    mbsPdf: houses.filter((h) => h.src === "mbs-pdf").length,
     osmOnly: houses.filter((h) => h.src === "osm").length,
   },
   suffixes: suffixStats(realHouses.map((h) => h.name), ["ge", "villa", "maage", "manzil", "aage", "house", "hiya", "light", "view", "side"]),

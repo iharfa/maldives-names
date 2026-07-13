@@ -197,7 +197,7 @@
         fetch("data/islands.json").then((r) => r.json()),
       ]);
       const KIND = { h: "house", r: "resort unit", c: "unit code", o: "building" };
-      const SRC = { mbs: "national register", osm: "OpenStreetMap" };
+      const SRC = { mbs: "national register", "mbs-pdf": "census map (Malé City)", osm: "OpenStreetMap" };
       const houses = housesMin.rows.map(([name, ii, kind, src]) => ({
         name,
         island: housesMin.islands[ii][0],
@@ -280,7 +280,9 @@
         noun: "house names",
         extra: `<p class="note" style="color:var(--muted);font-size:12.5px">Sources: ${fmt(
           A.houses.bySource?.mbs ?? 0
-        )} addresses from the Maldives Bureau of Statistics national address register, plus ${fmt(
+        )} addresses from the Maldives Bureau of Statistics national address register, ${fmt(
+          A.houses.bySource?.mbsPdf ?? 0
+        )} building labels from the MBS Malé City census map PDFs, plus ${fmt(
           A.houses.bySource?.osmOnly ?? 0
         )} OpenStreetMap-only records. Buildings classified as shops, mosques, schools, offices, resort units or unit codes are excluded from this analysis (${fmt(
           A.houses.allNamedBuildings - A.houses.records
